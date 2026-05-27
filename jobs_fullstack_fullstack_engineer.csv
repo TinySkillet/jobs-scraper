@@ -1,4 +1,418 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"in-77c5815ad285de03","indeed","https://www.indeed.com/viewjob?jk=77c5815ad285de03","https://brightvisiontechnologies.applytojob.com/apply/Z5yevon1wp/NET-Full-Stack-Developer?source=INDE&~",".NET Full Stack Developer","BV Teck","Remote, US","2026-05-27","fulltime","direct_data","yearly",100000.0,150000.0,"USD",True,"","","","harry@bvteck.com","**Bright Vision Technologies is a forward\\-thinking software development company dedicated to building innovative solutions that help businesses automate and optimize their operations. We leverage cutting\\-edge technologies to create scalable, secure, and user\\-friendly applications.**
+
+**As we continue to grow, we’re looking for a skilled .NET Full Stack Developer to join our dynamic team and contribute to our mission of transforming business processes through technology.**
+
+**This is a fantastic opportunity to join an established and well\\-respected organization offering tremendous career growth potential.**
+
+**.****NET Full Stack Developer**
+============================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+
+**Job Title:** .NET Full Stack Developer  
+
+**Location:** 100% Remote (Continental United States)  
+
+**Position Type:** In\\-house Bright Vision Technologies SOW engagement (no third\\-party client or vendor)  
+
+**Experience:** 5\\+ years  
+
+**Salary:** 100k \\- 150k  
+
+**Sponsorship:** No new H1B sponsorship available. H1B transfers welcomed for qualified candidates.  
+
+**Employment Type:** Full\\-time, direct W2 with Bright Vision Technologies (no C2C, no 1099, no third\\-party)  
+
+**Engagement:** Long\\-term, multi\\-year, aligned to the Bright Vision SOW delivery roadmap  
+
+**Compensation:** Competitive base salary commensurate with experience, plus benefits.  
+
+**Employment Terms \\& Visa Policy**  
+
+**This is a 100% remote, full\\-time, direct W2 position with Bright Vision Technologies.**  
+
+**This role is part of Bright Vision Technologies’ in\\-house Statement of Work (SOW) engagement.** The client, end customer, and employer for this position is Bright Vision Technologies — there is no third\\-party client, vendor, or implementation partner involved.  
+
+We do not engage in C2C, 1099, or third\\-party arrangements for this role.  
+
+**BUT STRICTLY NO C2C/1099/3RD PARTY COMPANIES. ALL OUR ROLES ARE W2 AND NO 3RD PARTY BROKERING PLEASE.**  
+
+Candidates must be willing to work directly as a full\\-time W2 employee of Bright Vision Technologies and contribute to our in\\-house SOW deliverables.  
+
+No new H1B sponsorship is available for this role.  
+
+**However, candidates who are currently on a valid H1B visa and require a transfer are welcome to apply. We will support H1B transfers for qualified candidates.**  
+
+For every role, a technical coding assessment is mandatory. Please apply only if you are confident in your technical abilities and hands\\-on experience.  
+
+**Job Summary**  
+
+We are seeking an experienced .NET Full Stack Developer to design, build, and maintain enterprise\\-grade web applications and distributed systems built on Microsoft technology stacks. This role spans the full engineering lifecycle — requirements analysis, architectural design, hands\\-on implementation, code review, deployment, and post\\-release support — with particular emphasis on building scalable APIs, responsive front\\-end applications, and cloud\\-integrated services. The ideal candidate will combine strong backend expertise in C\\# and .NET Core with hands\\-on experience developing modern front\\-end applications using JavaScript frameworks, and will be comfortable deploying solutions into Azure or AWS environments while maintaining high standards of code quality, security, observability, and operational reliability.  
+
+**Key Responsibilities*** Provide comprehensive end\\-to\\-end design, development, and advanced technical troubleshooting for enterprise\\-level web applications, from initial discovery through long\\-term operational ownership.
+* Develop secure, high\\-performance backend services using .NET Core and ASP.NET Web API, applying strong object\\-oriented design, clean architecture principles, and proven enterprise patterns.
+* Design and implement scalable architecture patterns — including microservices, service\\-oriented designs, and event\\-driven workflows — that support the demands of growing, distributed user bases.
+* Build modern, responsive front\\-end applications using Angular, React, or similar frameworks, ensuring excellent user experience, accessibility, and performance across browsers and devices.
+* Develop and optimize relational database schemas, stored procedures, indexes, and complex queries in SQL Server, with attention to performance, locking behavior, and long\\-term maintainability.
+* Produce thorough architecture and technical design documentation, ensuring alignment with performance, security, compliance, and operational standards of the enterprise.
+* Participate in system design discussions and ensure that development consistently aligns with enterprise architecture constraints, technology road\\-maps, and platform standards.
+* Implement robust authentication and authorization mechanisms using OAuth2, OpenID Connect, JWT, and modern identity management services such as Azure AD or Okta.
+* Contribute to CI/CD pipeline integration, automated builds, infrastructure\\-as\\-code practices, and reliable deployment processes across development, staging, and production environments.
+* Perform thorough root\\-cause analysis and methodically troubleshoot production issues, working to restore service quickly while ensuring long\\-term operational stability.
+* Identify technical debt, performance bottlenecks, and architectural gaps, and proactively propose and implement well\\-scoped improvements with measurable benefits.
+* Collaborate fully in Agile/Scrum environments — including planning, daily standups, demos, and retrospectives — to deliver incremental, high\\-quality releases on a predictable cadence.
+* Maintain comprehensive documentation of systems, APIs, integration workflows, and operational runbooks so that the team can scale and onboard new engineers efficiently.
+
+**Required Qualifications*** Bachelor’s degree in Computer Science, Engineering, or a closely related technical discipline.
+* Five or more years of professional software development experience building production\\-grade enterprise applications.
+* Strong understanding of object\\-oriented programming principles, data structures, design patterns, and end\\-to\\-end system design.
+* Advanced proficiency in C\\#, .NET Core, and ASP.NET Web API, including familiarity with dependency injection, async/await patterns, and middleware design.
+* Hands\\-on experience developing front\\-end applications using Angular, React, or similar component\\-driven frameworks.
+* Strong SQL skills with deep, hands\\-on experience working with SQL Server, including stored procedures, query plans, and performance tuning.
+* Solid experience with CI/CD tooling and Git\\-based version control systems, including branching strategies and release workflows.
+* Hands\\-on experience deploying applications to Azure or AWS cloud environments, including managed services and identity integration.
+* Strong debugging, troubleshooting, and performance optimization skills, with the ability to investigate complex production issues calmly and effectively.
+* Experience working in large enterprise\\-scale environments where reliability, security, and audit\\-ability are first\\-class concerns.
+
+**Preferred Qualifications*** Practical experience designing and operating microservices architectures in production.
+* Familiarity with Docker, Kubernetes, and container\\-based deployment patterns.
+* Exposure to distributed system design principles, including eventual consistency, idempotency, and circuit breakers.
+* Experience implementing automated testing frameworks across unit, integration, and end\\-to\\-end levels.
+* Working knowledge of Azure DevOps or similar DevOps platforms for pipeline orchestration and release management.
+
+**How to Apply**  
+
+Would you like to know more about this opportunity?  
+
+For immediate consideration, please send your resume to harry@bvteck.com or contact us at (908\\) 676\\-4399\\. Learn more about Bright Vision Technologies at www.bvteck.com.  
+
+We recognize that our people are our strength, and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company.  
+
+We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. We also make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as mental health or physical disability needs.  
+
+Bright Vision Technologies is an Equal Opportunity Employer, including Disability/Veterans.  
+
+Position offered by “No Fee Agency.”  
+
+Equal Employment Opportunity (EEO) Statement
+
+
+Bright Vision Technologies (BV Teck) is committed to equal employment opportunity (EEO) for all employees and applicants without regard to race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, veteran status, or any other protected status as defined by applicable federal, state, or local laws. This commitment extends to all aspects of employment, including recruitment, hiring, training, compensation, promotion, transfer, leaves of absence, termination, layoffs, and recall.
+
+
+BV Teck expressly prohibits any form of workplace harassment or discrimination. Any improper interference with employees' ability to perform their job duties may result in disciplinary action up to and including termination of employment.
+
+
+
+
+Z5yevon1wp","","https://www.indeed.com/cmp/Bv-Teck","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/070131fc20ab84d431f3bb52c20a18d2","http://WWW.BVTECK.COM","#991 Route 22 West, Suite 200,
+Bridgewater, New Jersey - 08807","51 to 200","$25M to $100M (USD)","Bright Vision Technologies is a woman-owned minority organization founded on July 2010 in New Jersey, USA. Our aim is to provide quality staffing and IT consulting services to our partners.","","","","","",""
+"in-17fb531eeba301f7","indeed","https://www.indeed.com/viewjob?jk=17fb531eeba301f7","https://brightvisiontechnologies.applytojob.com/apply/WBSxc3pIVF/NET-Full-Stack-Developer?source=INDE&~",".NET Full Stack Developer","BV Teck","Remote, US","2026-05-27","fulltime","direct_data","yearly",100000.0,150000.0,"USD",True,"","","","harry@bvteck.com","**Bright Vision Technologies is a forward\\-thinking software development company dedicated to building innovative solutions that help businesses automate and optimize their operations. We leverage cutting\\-edge technologies to create scalable, secure, and user\\-friendly applications.**
+
+**As we continue to grow, we’re looking for a skilled .NET Full Stack Developer to join our dynamic team and contribute to our mission of transforming business processes through technology.**
+
+**This is a fantastic opportunity to join an established and well\\-respected organization offering tremendous career growth potential.**
+
+**.****NET Full Stack Developer**
+============================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+
+**Job Title:** .NET Full Stack Developer  
+
+**Location:** 100% Remote (Continental United States)  
+
+**Position Type:** In\\-house Bright Vision Technologies SOW engagement (no third\\-party client or vendor)  
+
+**Experience:** 5\\+ years  
+
+**Salary:** 100k \\- 150k  
+
+**Sponsorship:** No new H1B sponsorship available. H1B transfers welcomed for qualified candidates.  
+
+**Employment Type:** Full\\-time, direct W2 with Bright Vision Technologies (no C2C, no 1099, no third\\-party)  
+
+**Engagement:** Long\\-term, multi\\-year, aligned to the Bright Vision SOW delivery roadmap  
+
+**Compensation:** Competitive base salary commensurate with experience, plus benefits.  
+
+  
+
+**Employment Terms \\& Visa Policy**  
+
+  
+
+**This is a 100% remote, full\\-time, direct W2 position with Bright Vision Technologies.**  
+
+**This role is part of Bright Vision Technologies’ in\\-house Statement of Work (SOW) engagement.** The client, end customer, and employer for this position is Bright Vision Technologies — there is no third\\-party client, vendor, or implementation partner involved.  
+
+We do not engage in C2C, 1099, or third\\-party arrangements for this role.  
+
+  
+
+**BUT STRICTLY NO C2C/1099/3RD PARTY COMPANIES. ALL OUR ROLES ARE W2 AND NO 3RD PARTY BROKERING PLEASE.**  
+
+Candidates must be willing to work directly as a full\\-time W2 employee of Bright Vision Technologies and contribute to our in\\-house SOW deliverables.  
+
+No new H1B sponsorship is available for this role.  
+
+  
+
+**However, candidates who are currently on a valid H1B visa and require a transfer are welcome to apply. We will support H1B transfers for qualified candidates.**  
+
+For every role, a technical coding assessment is mandatory. Please apply only if you are confident in your technical abilities and hands\\-on experience.  
+
+  
+
+**Job Summary**  
+
+We are seeking an experienced .NET Full Stack Developer to design, build, and maintain enterprise\\-grade web applications and distributed systems built on Microsoft technology stacks. This role spans the full engineering lifecycle — requirements analysis, architectural design, hands\\-on implementation, code review, deployment, and post\\-release support — with particular emphasis on building scalable APIs, responsive front\\-end applications, and cloud\\-integrated services. The ideal candidate will combine strong backend expertise in C\\# and .NET Core with hands\\-on experience developing modern front\\-end applications using JavaScript frameworks, and will be comfortable deploying solutions into Azure or AWS environments while maintaining high standards of code quality, security, observability, and operational reliability.  
+
+  
+
+**Key Responsibilities*** Provide comprehensive end\\-to\\-end design, development, and advanced technical troubleshooting for enterprise\\-level web applications, from initial discovery through long\\-term operational ownership.
+* Develop secure, high\\-performance backend services using .NET Core and ASP.NET Web API, applying strong object\\-oriented design, clean architecture principles, and proven enterprise patterns.
+* Design and implement scalable architecture patterns — including microservices, service\\-oriented designs, and event\\-driven workflows — that support the demands of growing, distributed user bases.
+* Build modern, responsive front\\-end applications using Angular, React, or similar frameworks, ensuring excellent user experience, accessibility, and performance across browsers and devices.
+* Develop and optimize relational database schemas, stored procedures, indexes, and complex queries in SQL Server, with attention to performance, locking behavior, and long\\-term maintainability.
+* Produce thorough architecture and technical design documentation, ensuring alignment with performance, security, compliance, and operational standards of the enterprise.
+* Participate in system design discussions and ensure that development consistently aligns with enterprise architecture constraints, technology road\\-maps, and platform standards.
+* Implement robust authentication and authorization mechanisms using OAuth2, OpenID Connect, JWT, and modern identity management services such as Azure AD or Okta.
+* Contribute to CI/CD pipeline integration, automated builds, infrastructure\\-as\\-code practices, and reliable deployment processes across development, staging, and production environments.
+* Perform thorough root\\-cause analysis and methodically troubleshoot production issues, working to restore service quickly while ensuring long\\-term operational stability.
+* Identify technical debt, performance bottlenecks, and architectural gaps, and proactively propose and implement well\\-scoped improvements with measurable benefits.
+* Collaborate fully in Agile/Scrum environments — including planning, daily standups, demos, and retrospectives — to deliver incremental, high\\-quality releases on a predictable cadence.
+* Maintain comprehensive documentation of systems, APIs, integration workflows, and operational runbooks so that the team can scale and onboard new engineers efficiently.
+
+  
+
+**Required Qualifications*** Bachelor’s degree in Computer Science, Engineering, or a closely related technical discipline.
+* Five or more years of professional software development experience building production\\-grade enterprise applications.
+* Strong understanding of object\\-oriented programming principles, data structures, design patterns, and end\\-to\\-end system design.
+* Advanced proficiency in C\\#, .NET Core, and ASP.NET Web API, including familiarity with dependency injection, async/await patterns, and middleware design.
+* Hands\\-on experience developing front\\-end applications using Angular, React, or similar component\\-driven frameworks.
+* Strong SQL skills with deep, hands\\-on experience working with SQL Server, including stored procedures, query plans, and performance tuning.
+* Solid experience with CI/CD tooling and Git\\-based version control systems, including branching strategies and release workflows.
+* Hands\\-on experience deploying applications to Azure or AWS cloud environments, including managed services and identity integration.
+* Strong debugging, troubleshooting, and performance optimization skills, with the ability to investigate complex production issues calmly and effectively.
+* Experience working in large enterprise\\-scale environments where reliability, security, and audit\\-ability are first\\-class concerns.
+
+**Preferred Qualifications*** Practical experience designing and operating microservices architectures in production.
+* Familiarity with Docker, Kubernetes, and container\\-based deployment patterns.
+* Exposure to distributed system design principles, including eventual consistency, idempotency, and circuit breakers.
+* Experience implementing automated testing frameworks across unit, integration, and end\\-to\\-end levels.
+* Working knowledge of Azure DevOps or similar DevOps platforms for pipeline orchestration and release management.
+
+  
+
+**How to Apply**  
+
+  
+
+Would you like to know more about this opportunity?  
+
+For immediate consideration, please send your resume to harry@bvteck.com or contact us at (908\\) 676\\-4399\\. Learn more about Bright Vision Technologies at www.bvteck.com.  
+
+We recognize that our people are our strength, and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company.  
+
+We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. We also make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as mental health or physical disability needs.  
+
+Bright Vision Technologies is an Equal Opportunity Employer, including Disability/Veterans.  
+
+Position offered by “No Fee Agency.”  
+
+Equal Employment Opportunity (EEO) Statement
+
+
+Bright Vision Technologies (BV Teck) is committed to equal employment opportunity (EEO) for all employees and applicants without regard to race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, veteran status, or any other protected status as defined by applicable federal, state, or local laws. This commitment extends to all aspects of employment, including recruitment, hiring, training, compensation, promotion, transfer, leaves of absence, termination, layoffs, and recall.
+
+
+BV Teck expressly prohibits any form of workplace harassment or discrimination. Any improper interference with employees' ability to perform their job duties may result in disciplinary action up to and including termination of employment.
+
+
+
+
+WBSxc3pIVF","","https://www.indeed.com/cmp/Bv-Teck","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/070131fc20ab84d431f3bb52c20a18d2","http://WWW.BVTECK.COM","#991 Route 22 West, Suite 200,
+Bridgewater, New Jersey - 08807","51 to 200","$25M to $100M (USD)","Bright Vision Technologies is a woman-owned minority organization founded on July 2010 in New Jersey, USA. Our aim is to provide quality staffing and IT consulting services to our partners.","","","","","",""
+"in-cd99e8fcc7f43da8","indeed","https://www.indeed.com/viewjob?jk=cd99e8fcc7f43da8","https://job-boards.greenhouse.io/shopltk/jobs/7748641003","Sr Software Engineer, Fullstack","LTK","US","2026-05-27","","","","","","",True,"","","","","LTK’s mission is to empower the world’s premium lifestyle Creators to achieve maximum economic success. We have a huge opportunity ahead of us and we’re looking for team members who want to create, innovate and disrupt an industry.
+
+
+
+We empower our team members to drive innovation, create value, and continue to spearhead the creation of this industry — a game changer when it comes to career growth.
+
+**Title:** Senior Software Engineer, Fullstack
+
+
+**Location:** Remote from the U.S.
+
+
+**About the role**
+
+
+
+Join the LTK Family! We are searching for a senior software engineer to join the Creator organization. This team is responsible for the user experiences and systems used to onboard creators and drive their growth across LTK, one of the largest creator\\-guided shopping and brand marketing platforms in the industry.
+
+
+
+The ideal Senior Software Engineer for this space will be organized, productive, and comfortable working across the full stack. You will have strong experience in building scalable, production\\-quality web applications that anticipate significant growth across multiple dimensions. You’ll be inventive and have a pragmatic and iterative approach to delivering high quality software. You’ll ruthlessly prioritize accomplishing the highest impact deliverables first, and provide valuable guidance to the engineering manager on the direction of the team’s web architecture and systems. You will proactively establish lines of communication across the teams and business units, and draw on them to make the team successful.
+
+
+**How you will make an impact**
+
+
+* Coming up with feasible and practical solutions to tough problems.
+* Design, build, and maintain high\\-quality fullstack systems and experiences.
+* Take end\\-to\\-end ownership of features across the stack: from early technical design and prototyping through implementation, testing, rollout, and ongoing iteration.
+* Collaborate with product, design, and other engineers to deliver intuitive, performant, and accessible fullstack experiences that delight creators and brands.
+* Optimize fullstack applications and services for performance, scalability, and reliability.
+* Champion best practices in architecture, usability, security, and cross\\-platform compatibility across the full stack.
+* Use AI tools to expedite daily workflows (e.g., code generation, refactoring, test creation, documentation) and to improve both speed and quality of web development.
+* Leverage AI\\-assisted development practices to prototype, iterate on, and maintain web features efficiently, while holding a high bar for safety and code quality.
+* Write very high\\-quality, well\\-tested code that is robust and easy to maintain.
+* Take ownership of projects and drive them to completion.
+* Work and succeed in a fast\\-paced and agile development environment.
+* Identify and drive improvements to our fullstack architecture, tooling, and development processes.
+* Conduct constructive peer design/code reviews and provide clear, actionable feedback.
+* Work with distributed teams across different time zones.
+* Serve as a technical subject matter expert for fullstack development who mentors fellow engineers, demonstrates technical experience, and leads teams in solving challenging problems.
+
+
+**What you will bring to LTK**
+
+
+* 5\\+ years of software development experience, with significant time spent building and maintaining production\\-scale fullstack applications.
+* Deep experience with modern fullstack development, including both front\\-end and back\\-end technologies.
+* Demonstrated proficiency in **React.js** (or another comparable framework), including building complex, component\\-based single\\-page applications
+* Strong understanding of front\\-end architecture and patterns (component design, state management, routing, modularization).
+* Experience with modern web tooling and ecosystems (e.g., Webpack/Vite, npm/yarn, linting, formatting, testing frameworks such as Jest, React Testing Library, Cypress, or similar).
+* History of designing and building highly scalable, resilient web experiences that serve a growing user base.
+* Experience integrating with backend services and APIs (REST/JSON, HTTP; GraphQL) and working closely with backend teams to define interfaces and contracts.
+* Strong focus on performance, accessibility, security, and usability in web applications.
+* Demonstrated experience using AI tools as part of the software development lifecycle (coding, debugging, testing, documentation) with concrete examples of improved productivity or quality.
+* Ability to critically evaluate AI\\-generated code, refine it, and integrate it safely and effectively into production systems while maintaining team standards and best practices.
+* Experience designing and building backend services or APIs to support web applications in a modern server side language (Go, Java
+* Experience with AWS systems such as ECS, Lambda, and RDS (among others).
+* Experience working in a containerized environment (preferably Docker).
+* Experience with databases such as MySQL, DynamoDB
+* Experience with observability tools like Datadog
+* Comfortable shipping code multiple times per day.
+* Strong technical leadership and mentoring skills.
+* Ability to model and conceptualize integrations across complex systems and how services interact across the full stack.
+* Excellent verbal and written communication skills to both technical and non\\-technical audiences.
+### **What we offer**
+
+
+* The opportunity to be part of the leading global company in creator commerce
+* A remote\\-first, productivity\\-first environment
+* Competitive compensation and benefits package to meet the needs of you and your family
+* 401(k) with LTK company matching
+* Medical Insurance, Vision Insurance, Dental Insurance
+* Paid Maternity Leave and Paid Paternity Leave
+* Summer Fridays and Flexible PTO
+
+### **About LTK**
+
+
+
+Founded in 2011, LTK is the global technology platform purpose\\-built to empower lifestyle creators to monetize their content. The full\\-service platform connects brands, creators, and shoppers with a world\\-class shopping app and trusted tools and technology that make content instantly shoppable. Today, premium lifestyle creators in 160\\+ countries drive more than $5 billion\\+ in annual retail sales through their LTK Shop profiles. More than 40 million consumers turn to LTK Shops in the LTK shopping platform each month to find inspiration and instantly shop the styles recommended by their favorite creators. More than 8,000 retailers and 1M brands partner with LTK to gain access to its global creator network for content that converts against performance\\-driven, cross\\-channel KPIs. LTK is headquartered in Dallas, TX, and currently operates on five continents.
+
+
+### **Our mission**
+
+
+
+To empower the world’s premium lifestyle Creators to achieve maximum economic success.
+
+
+### **Our values**
+
+
+* Here to win
+* Commit to the journey
+* Work well
+
+### **Commitment to diversity**
+
+
+
+LTK believes diversity, equity, and inclusion are fundamental obligations that strengthen our team. We employ a diverse, multi\\-disciplinary team to build a meaningful company and culture.
+
+
+
+*For US\\-Based Roles: We are not offering new sponsorships opportunities at this time for persons requiring employment visas, such as an H\\-1B; authorization to work in the U.S. is a precondition of employment.*
+
+
+*Any unsolicited resumes/candidate profiles submitted through our website or to personal email accounts of employees of LTK are considered the property of LTK and are not subject to payment of agency fees*.
+
+
+*LTK is an Equal Opportunity Employer.* \\#LI\\-Remote","","https://www.indeed.com/cmp/Ltk-3","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/77f3034f723a5c19179d20caa41c080f","https://company.shopltk.com","Dallas, Texas","201 to 500","$1M to $5M (USD)","A Fast Company ‘Most Innovative Companies’ award-winner, we’re a thriving tech company that still has a start-up vibe.","","","","","",""
+"in-bab88d8dd775f0fb","indeed","https://www.indeed.com/viewjob?jk=bab88d8dd775f0fb","https://uhg.taleo.net/careersection/10000/jobdetail.ftl?job=2352634&lang=en","Full Stack Software Developer","Optum","Fort Worth, TX, US","2026-05-27","fulltime","direct_data","yearly",72800.0,130000.0,"USD",True,"","","","","Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by diversity and inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health equity on a global scale. Join us to start **Caring. Connecting. Growing together.**
+
+
+You will enjoy the flexibility to telecommute\\* from anywhere within the U.S. as you take on some tough challenges.
+
+**Primary Responsibilities:**
+
+* Design, develop, and maintain full\\-stack applications using ReactJS and Java\\-based microservices
+* Architect and implement solutions leveraging Azure cloud services and Kubernetes (preferably Azure Kubernetes Service \\- AKS)
+* Build and optimize CI/CD pipelines using GitHub Actions
+* Develop and manage containerized applications with Docker
+* Ensure robust automation testing for UI and APIs
+* Collaborate with cross\\-functional teams to deliver high\\-quality software in an agile environment
+* Monitor and troubleshoot applications using observability tools such as Azure Monitoring, App Insights, Splunk, and Dynatrace
+* Maintain code quality and version control using GitHub
+* Provide technical guidance and mentorship to team members
+* Drive problem\\-solving and resolve complex technical issues efficiently
+* Leverage enterprise\\-approved AI tools to streamline workflows, automate tasks, and drive continuous improvement
+
+
+You'll be rewarded and recognized for your performance in an environment that will challenge you and give you clear directions on what it takes to succeed in your role as well as provide development for other roles you may be interested in.
+
+**Required Qualifications:**
+
+* Bachelor's degree in CS or IT related field
+* 3\\+ years of proven experience as a Full Stack Engineer with hands on experience in ReactJS (or equivalent frameworks), Java, C\\#, or Python microservices
+* 3\\+ years of experience and solid understanding in CI/CD pipelines and tools, especially GitHub Actions
+* 3\\+ years of hands\\-on experience or strong background in automation testing for UI and APIs
+* 3\\+ years of proficient experience in GitHub for version control and team collaboration
+
+**Preferred Qualifications:**
+
+* 3\\+ years of deep expertise in Azure cloud services and Kubernetes, preferably with Azure Kubernetes Service (AKS)
+* All Telecommuters will be required to adhere to UnitedHealth Group's Telecommuter Policy.
+
+  
+
+
+
+Pay is based on several factors including but not limited to local labor markets, education, work experience, certifications, etc. In addition to your salary, we offer benefits such as, a comprehensive benefits package, incentive and recognition programs, equity stock purchase and 401k contribution (all benefits are subject to eligibility requirements). No matter where or when you begin a career with us, you'll find a far\\-reaching choice of benefits and incentives. The salary for this role will range from $72,800 to $130,000 annually based on full\\-time employment. We comply with all minimum wage laws as applicable.
+
+  
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+  
+
+
+
+***Application Deadline:*** *This will be posted for a minimum of 2 business days or until a sufficient candidate pool has been collected. Job posting may come down early due to volume of applicants.*
+
+  
+
+
+
+*At UnitedHealth Group, our mission is to help people live healthier lives and make the health system work better for everyone. We believe everyone\\-of every race, gender, sexuality, age, location, and income\\-deserves the opportunity to live their healthiest life. Today, however, there are still far too many barriers to good health which are disproportionately experienced by people of color, historically marginalized groups, and those with lower incomes. We are committed to mitigating our impact on the environment and enabling and delivering equitable care that addresses health disparities and improves health outcomes \\- an enterprise priority reflected in our mission.*
+
+  
+
+
+
+*UnitedHealth Group is an Equal Employment Opportunity employer under applicable law and qualified applicants will receive consideration for employment without regard to race, national origin, religion, age, color, sex, sexual orientation, gender identity, disability, or protected veteran status, or any other characteristic protected by local, state, or federal laws, rules, or regulations.*
+
+ *UnitedHealth Group is a drug\\-free workplace. Candidates are required to pass a drug test before beginning employment.*
+
+  
+
+
+
+\\#RPO \\#GREEN","","https://www.indeed.com/cmp/Optum","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/fda00a1dbb2aaebea6d386695d0294c2","https://www.optum.com","Eden Prairie, MN","10,000+","more than $10B (USD)","","","","","","",""
 "in-2d01313681e05e05","indeed","https://www.indeed.com/viewjob?jk=2d01313681e05e05","https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Columbia-MO/Full-Stack-Developer_R6006","Full Stack Developer","Veterans United Home Loans","Columbia, MO, US","2026-05-27","fulltime","","","","","",False,"","","","","Whether you come from a background in full stack development, digital marketing technology, or a related field, you can be successful in this role. We don’t require a particular degree or experience, but we’re looking for translatable skills and relevant expertise. Specifically, we’ll be looking for the following qualifications:
 
 * 3\\+ years of experience in web development or similar software development roles
@@ -411,6 +825,320 @@ At Fidelity, we are passionate about making our financial expertise broadly acce
 
 Information Technology
 Please be advised that Fidelity’s business is governed by the provisions of the Securities Exchange Act of 1934, the Investment Advisers Act of 1940, the Investment Company Act of 1940, ERISA, numerous state laws governing securities, investment and retirement\\-related financial activities and the rules and regulations of numerous self\\-regulatory organizations, including FINRA, among others. Those laws and regulations may restrict Fidelity from hiring and/or associating with individuals with certain Criminal Histories.","","https://www.indeed.com/cmp/Fidelity-Investments","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/e787411ef64e3f2bc4baa3bcf9c771da","http://www.fidelitycareers.com","Boston, MA","10,000+","more than $10B (USD)","At Fidelity Investments, you’ll find endless opportunities to build a meaningful career that positively impacts peoples’ lives, including yours.","","","","","",""
+"in-db5b9f69e6a219b3","indeed","https://www.indeed.com/viewjob?jk=db5b9f69e6a219b3","https://theapplicantmanager.com/jobs?pos=sh5229&src=Indeed","Full-stack developer","Shield Consulting Solutions","Annapolis Junction, MD, US","2026-05-27","fulltime","","","","","",False,"","","","","\\*\\*Active TS/SCI w/Polygraph REQUIRED\\*\\* Please do not apply if you do not currently possess this level of clearance.
+\\-  
+
+  
+
+Telework: Up to 16 hours per week may be available for this position based on mission needs/available tasking at the discretion of leadership, after the individual has become fully acclimated to the duties and responsibilities of the position and has completed the necessary telework training.  
+
+  
+
+Basic Requirements:
+* 14 years of experience as a software engineer
+* Bachelor’s degree in a technical discipline
+	+ 4 additional years of experience as a software engineer may be substituted for a degree
+
+  
+
+Job Description:
+* Full\\-stack developer with knowledge of AWS architecture and Terraform.
+
+
+\\-  
+
+Excellent benefits package including 25 days PTO, 11 paid holidays, 100% employer\\-paid healthcare for employees and dependents – available day 1, 8% 401(k) employer match – immediate vesting.
+  
+
+  
+
+Disclaimer: The salary range provided is an estimate based on current market conditions and may be adjusted based on factors such as experience, skills, and qualifications. The final salary offer will be determined after a thorough review of the candidate's background and alignment with the role. Please note that this range is subject to change and should be considered as a guideline rather than a definitive figure.  
+
+  
+
+Shield Consulting Solutions is an equal opportunity/affirmative action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law.","Aerospace And Defense","https://www.indeed.com/cmp/Shield-Consulting-Solutions","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/bddcf1ff8150da9d2b5df4942097df93","https://www.shieldconsulting.com/","9841 Broken Land Pkwy. Suite 214 Columbia, MD 21046","51 to 200","","Veteran Owned Small Business (VOSB) supporting Mission critical IT programs in the Intelligence Community","","","","","",""
+"in-69e4a26a695f86a0","indeed","https://www.indeed.com/viewjob?jk=69e4a26a695f86a0","https://recruiting2.ultipro.com/BRO1018BRACA/JobBoard/a06992cf-10e7-4e24-8932-26d607a3049e/OpportunityDetail?opportunityId=80743f17-d1d9-49bc-a070-bf482eb06925&postingId=fe9d2e77-36a2-4994-b5e3-70c7b99db49d","Software Development Analyst","Brown and Caldwell","Dallas, TX, US","2026-05-27","","direct_data","yearly",117000.0,159000.0,"USD",True,"","","","","The BP3, Software Development role solves moderately complex problems involving application development, various systems and reporting that may lack well\\-defined solutions. This role supports strategic project initiatives and functions under limited supervision while exercising judgment and problem\\-solving capabilities.
+
+
+**Responsibilities**
+
+
+* Facilitate knowledge sharing by mentoring junior team members and contributing to team documentation.
+* Collaborate with developers and end\\-users to troubleshoot and resolve moderately complex issues.
+* Implement programming policies and procedures and contribute to quality assurance efforts for business intelligence projects.
+* Implement best practices for assigned systems and their integration points and assist in maintaining lifecycle ownership.
+* Maintain system documentation for routine tasks and communicate task status to team members.
+* Lead the troubleshooting and resolution of moderately complex application system issues.
+* Contribute to the design of solutions that consider business processes across multiple systems, under the guidance of senior architects.
+* Perform thorough testing of business use cases to ensure data accuracy for moderately complex data storage changes.
+* Implement back\\-up and recovery processes for moderately complex systems and assist with database maintenance and security.
+* Implement AI solutions responsibly, ensuring adherence to ethical standards and best practices.
+* Continuously learn and utilize new technologies and programming languages as needed.
+* Participating in the complete software development process, including testing, deployment, and maintenance.
+* Staying knowledgeable about emerging trends and best practices in software development.
+* Adhering to established change management processes.
+* Being responsible with access to confidential financial, employee and other company data. Understanding and complying with data use, information security, and any other related company policies.
+* Flexibility to adapt and execute various additional assignments based on evolving needs.
+
+
+**Mentorship**
+
+
+* May provide mentorship, guidance, support, and knowledge\\-sharing to help less experienced team members develop their skills and grow within their roles.
+
+
+**Skills and Competencies**
+
+
+* Full Stack Developers
+* Advanced proficiency in Microsoft technologies (C\\#, .NET, SQL Server, Power Platform)
+* Solid experience with front\\-end and back\\-end development
+* Proficient with GitHub for version control
+* Strong understanding and implementation of Agile development processes
+* Advanced experience with CI/CD pipelines
+* Ability to write, manage, and prioritize user stories
+* Strong problem\\-solving and analytical skills
+* Excellent communication and collaboration skills
+* SQL/Data Developers
+* Advanced proficiency in SQL and database design
+* Solid experience in data integration and ETL processes
+* Proficient with Microsoft SQL Server and Power BI
+* Proficient in Python for data manipulation
+* Proficient with GitHub for version control
+* Strong understanding and implementation of Agile development processes
+* Advanced experience with CI/CD pipelines
+* Ability to create and prioritize user stories and test scripts
+* Microsoft Power Platform Developers
+* Advanced proficiency in Microsoft Power Platform (Power Apps, Power Automate, Power BI)
+* Solid experience with C\\# and .NET
+* Experience in system integrations
+* Proficient with GitHub for version control
+* Strong understanding and implementation of Agile development processes
+* Advanced experience with CI/CD pipelines
+* Ability to write, manage, and prioritize user stories
+* Strong problem\\-solving and analytical skills
+* Quality Assurance (Manual and Automated)
+* Advanced proficiency in manual and automated testing methodologies
+* Solid experience with test automation tools (e.g., Selenium, Postman)
+* Proficient with GitHub for version control
+* Strong understanding and implementation of Agile development processes
+* Advanced experience with CI/CD pipelines
+* Ability to create and prioritize test plans and test cases
+* Strong analytical and problem\\-solving skills
+* Excellent communication and collaboration skills
+
+
+**Experience**
+
+
+* Typically, a minimum of 5 years of relevant experience in software development
+* Proven experience in application development and system integrations.
+
+
+**Education**
+
+
+* A degree in Business, Computer Science, Information Technology, or any related field or equivalent experience is required.
+* Additional certifications or specialized training may be required.
+
+  
+
+
+**Salary Range:**The anticipated starting pay range for this position is based on the employee’s primary work location and may be more or less depending upon skills, experience, and education. These ranges may be modified in the future.
+
+
+**Location A:** $117,000 \\- $159,000
+
+
+**Location B:** $128,000 \\- $179,000
+
+
+
+You can view which BC location applies to you here. (http://bit.ly/3uQe7gi) If you have any questions, please speak with your Recruiter.
+
+
+
+Benefits and Other Compensation: We provide a comprehensive benefits package that promotes employee health, performance, and success which includes medical, dental, vision, short and long\\-term disability, life insurance, an employee assistance program, paid time off and parental leave, paid holidays, 401(k) retirement savings plan with employer match, performance\\-based bonus eligibility, employee referral bonuses, tuition reimbursement, pet insurance and long\\-term care insurance. Click here (https://brownandcaldwell.com/careers/benefits/) to see our full list of benefits.
+
+
+**About Brown and Caldwell**
+
+
+
+Headquartered in Walnut Creek, California, Brown and Caldwell is a full\\-service environmental engineering and construction firm with 50 offices and 2,100 professionals across North America and the Pacific. For 75 years, we have created leading\\-edge environmental solutions for municipalities, private industry, and government agencies. We strive to be the company of choice—to our clients, who benefit from our passion for delivering exceptional quality, and to our employees, present and future, who share our commitment to client service, collaboration, and innovation. Join us, and you will find a home where you can do your best work, reach new levels of expertise, and enjoy exceptional development opportunities. For more information, visit www.brownandcaldwell.com (http://www.brownandcaldwell.com/)
+
+
+
+This position is subject to a pre\\-employment background check and a pre\\-employment drug test.
+
+
+
+Notice to Third Party Agencies: Brown and Caldwell does not accept unsolicited resumes from recruiters or employment agencies. In the event a recruiter or agency submits a resume or candidate without a previously signed agreement and approved engagement request with Brown and Caldwell, Brown and Caldwell reserves the right to pursue and hire those candidate(s) without any financial obligation to the recruiter or agency.
+
+
+
+Brown and Caldwell is proud to be an EEO/AAP Employer. Brown and Caldwell encourages protected veterans, individuals with disabilities, and applicants from all backgrounds to apply. Brown and Caldwell ensures nondiscrimination in all programs and activities in accordance with Title VI of the Civil Rights Act of 1964\\.
+
+  
+
+
+
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities  
+
+This employer is required to notify all applicants of their rights pursuant to federal employment laws. For further information, please review the Know Your Rights (https://www.eeoc.gov/poster) notice from the Department of Labor.","Consulting And Business Services","https://www.indeed.com/cmp/Brown-and-Caldwell","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d2c728ee41c056928d5f9b67b42a3b57","http://www.brownandcaldwell.com/","201 North Civic Drive, Suite 300
+Walnut Creek CA 94596","1,001 to 5,000","$500M to $1B (USD)","Brown and Caldwell is the largest engineering firm of its kind—solely focused on the U.S. environmental sector.","","","","","",""
+"in-d9a66e52ac0ae1b3","indeed","https://www.indeed.com/viewjob?jk=d9a66e52ac0ae1b3","https://grnh.se/srdulr1m6us","Data Engineer","BRUNT Workwear","Boston, MA, US","2026-05-27","fulltime","direct_data","yearly",120000.0,140000.0,"USD",False,"","","","","We're leading the way in redefining the workwear category. Our mission is to engineer better boots and apparel for our country's tradesmen and women by working directly with real workers to learn what they actually need to execute their jobs.
+
+
+
+The BRUNT team is not only devoted to improving on the old workwear standards, but we're also creating a community that tradesmen and women can call their own. From our weekly hangouts at the BRUNT Garage, to hosting events across the country, we're all about getting boots on the ground and building something real with the BRUNT crew.
+
+**WHAT YOU'LL DO:**
+
+
+
+BRUNT is at a pivotal inflection point, transitioning our fast\\-scaling data environment from a functional BigQuery warehouse into a governed, AI\\-ready data platform. We are seeking a hands\\-on Data Engineer to serve as our principal engineering resource, bringing the discipline, documentation rigor, and modern tooling needed to harden and scale our data infrastructure for our next phase of growth.  
+
+  
+
+Reporting to the SVP of Technology within the DevOps team, you will partner closely with two data analysts and our full\\-stack developers. You will take ownership of the data environment, modernize our existing transformation logic while building the semantic layers and RAG\\-compatible data stores that will power BRUNT's next generation of intelligent, AI\\-driven applications.
+
+
+**HOW YOU'LL DO IT:**
+
+
+**PLATFORM STABILIZATION \\& MODERNIZATION**
+
+
+* Logic Migration: Lead the knowledge transfer and stabilization of existing BigQuery stored procedures, with a strategic vision to migrate them to dbt over time.
+* Infrastructure as Code: Utilize tools like Terraform to support reproducible, version\\-controlled environment provisioning across GCP projects.
+* Version Control: Establish strict Git history and peer visibility practices so no critical data logic exists without documented context.
+
+
+**PIPELINE ENGINEERING \\& OPTIMIZATION**
+
+
+* ELT/ETL Pipelines: Build, maintain, and optimize robust data flows from critical source systems into Google BigQuery.
+* Fivetran Administration: Own the health and optimization of 40\\+ source datasets, managing sync schedules and expanding coverage as new systems onboard.
+* Design and implement scalable ingestion solutions for non\\-Fivetran data sources, including structured replacements for file\\-based ingestion methods.
+* Performance Tuning: Implement table partitioning, clustering, and incremental load strategies across high\\-volume tables to optimize query performance and reduce compute costs.
+
+
+**QUALITY, GOVERNANCE \\& SECURITY**
+
+
+* Testing Frameworks: Implement validation checks, schema contracts, and anomaly detection to guarantee the accuracy of data reaching our gold tier.
+* Data Security: Lead the PII field inventory and column\\-level security access controls to ensure strict CCPA compliance.
+* Data Governance: Maintain a centralized data dictionary and field\\-level definitions that serve both technical and non\\-technical audiences.
+
+
+**AI ENABLEMENT \\& COLLABORATION**
+
+
+* Semantic Layer: Partner with Full Stack Developers to build a semantic layer over BigQuery, enabling governed, AI\\-queryable access to data domains.
+* RAG Architecture: Build and optimize data stores for Retrieval Augmented Generation (RAG) to power BRUNT's next generation of intelligent applications.
+* Cross\\-Functional Support: Partner with data analysts to ensure gold\\-tier datasets are performant and well\\-structured for Looker Studio dashboards, managing your workflow via Jira within an Agile sprint cadence.
+* Serve as the technical data engineering point of contact within the DevOps team, translating business\\-driven data requirements into engineering specifications and delivery plans.
+
+  
+
+
+**WHAT YOU NEED TO SUCCEED:**
+
+
+* Experience: 4–7 years of data engineering experience with demonstrated ownership of production data pipelines, cloud warehouses, and ELT/ETL architectures.
+* The BigQuery Core: Strong hands\\-on proficiency with Google BigQuery, including schema design, query optimization, partitioning, clustering, and GCP cost management.
+* Data Ingestion \\& Coding: Advanced SQL skills (ability to audit and refactor complex legacy stored procedures) paired with proficiency in Python for API\\-based ingestion and automation.
+* Tooling Stack: Deep experience administering managed ingestion platforms like Fivetran and a strong working knowledge of dbt for transformation layer testing and documentation.
+* AI Architecture (Preferred): Familiarity with Retrieval Augmented Generation (RAG) data structures and experience building semantic layers for LLM or AI agent consumption.
+* Governance \\& Security: Working knowledge of cloud data governance, including PII handling, column\\-level security, and access control implementation.
+* Infrastructure \\& BI: Familiarity with Terraform for infrastructure\\-as\\-code and Looker Studio (or similar BI tools) to ensure gold\\-tier data yields performant reporting.
+* The ""Builder"" Mindset: A proven track record of operating as a senior individual contributor in lean environments, with a knack for inheriting, auditing, and modernizing legacy data systems.
+* Team Cadence: Experience working within Agile/Scrum sprint frameworks using Jira, alongside strong technical writing skills for mapping data lineage and runbooks.
+* Logistics: Must be 18\\+ with full\\-time availability (including occasional off\\-hours support for critical pipeline incidents) and the ability to reliably commute to the office 4x per week
+
+
+No matter what experience you have within our industry we encourage you to apply. At BRUNT, we believe that a strong crew is assembled with people from different backgrounds.
+
+
+
+We look for individuals who thrive on challenges, will be passionate about our brand, and believe that teamwork is necessary for success. Show us how your experiences have shaped you and how you can contribute to BRUNT. We can't wait to hear from you!","","https://www.indeed.com/cmp/Brunt-Workwear","","","","","","","","","","","",""
+"in-ed9ff440388b3f76","indeed","https://www.indeed.com/viewjob?jk=ed9ff440388b3f76","https://grnh.se/srdulr1m6us","Data Engineer","BRUNT Workwear","North Reading, MA, US","2026-05-27","fulltime","direct_data","yearly",120000.0,140000.0,"USD",False,"","","","","We're leading the way in redefining the workwear category. Our mission is to engineer better boots and apparel for our country's tradesmen and women by working directly with real workers to learn what they actually need to execute their jobs.
+
+
+
+The BRUNT team is not only devoted to improving on the old workwear standards, but we're also creating a community that tradesmen and women can call their own. From our weekly hangouts at the BRUNT Garage, to hosting events across the country, we're all about getting boots on the ground and building something real with the BRUNT crew.
+
+**WHAT YOU'LL DO:**
+
+
+
+BRUNT is at a pivotal inflection point, transitioning our fast\\-scaling data environment from a functional BigQuery warehouse into a governed, AI\\-ready data platform. We are seeking a hands\\-on Data Engineer to serve as our principal engineering resource, bringing the discipline, documentation rigor, and modern tooling needed to harden and scale our data infrastructure for our next phase of growth.  
+
+  
+
+Reporting to the SVP of Technology within the DevOps team, you will partner closely with two data analysts and our full\\-stack developers. You will take ownership of the data environment, modernize our existing transformation logic while building the semantic layers and RAG\\-compatible data stores that will power BRUNT's next generation of intelligent, AI\\-driven applications.
+
+
+**HOW YOU'LL DO IT:**
+
+
+**PLATFORM STABILIZATION \\& MODERNIZATION**
+
+
+* Logic Migration: Lead the knowledge transfer and stabilization of existing BigQuery stored procedures, with a strategic vision to migrate them to dbt over time.
+* Infrastructure as Code: Utilize tools like Terraform to support reproducible, version\\-controlled environment provisioning across GCP projects.
+* Version Control: Establish strict Git history and peer visibility practices so no critical data logic exists without documented context.
+
+
+**PIPELINE ENGINEERING \\& OPTIMIZATION**
+
+
+* ELT/ETL Pipelines: Build, maintain, and optimize robust data flows from critical source systems into Google BigQuery.
+* Fivetran Administration: Own the health and optimization of 40\\+ source datasets, managing sync schedules and expanding coverage as new systems onboard.
+* Design and implement scalable ingestion solutions for non\\-Fivetran data sources, including structured replacements for file\\-based ingestion methods.
+* Performance Tuning: Implement table partitioning, clustering, and incremental load strategies across high\\-volume tables to optimize query performance and reduce compute costs.
+
+
+**QUALITY, GOVERNANCE \\& SECURITY**
+
+
+* Testing Frameworks: Implement validation checks, schema contracts, and anomaly detection to guarantee the accuracy of data reaching our gold tier.
+* Data Security: Lead the PII field inventory and column\\-level security access controls to ensure strict CCPA compliance.
+* Data Governance: Maintain a centralized data dictionary and field\\-level definitions that serve both technical and non\\-technical audiences.
+
+
+**AI ENABLEMENT \\& COLLABORATION**
+
+
+* Semantic Layer: Partner with Full Stack Developers to build a semantic layer over BigQuery, enabling governed, AI\\-queryable access to data domains.
+* RAG Architecture: Build and optimize data stores for Retrieval Augmented Generation (RAG) to power BRUNT's next generation of intelligent applications.
+* Cross\\-Functional Support: Partner with data analysts to ensure gold\\-tier datasets are performant and well\\-structured for Looker Studio dashboards, managing your workflow via Jira within an Agile sprint cadence.
+* Serve as the technical data engineering point of contact within the DevOps team, translating business\\-driven data requirements into engineering specifications and delivery plans.
+
+  
+
+
+**WHAT YOU NEED TO SUCCEED:**
+
+
+* Experience: 4–7 years of data engineering experience with demonstrated ownership of production data pipelines, cloud warehouses, and ELT/ETL architectures.
+* The BigQuery Core: Strong hands\\-on proficiency with Google BigQuery, including schema design, query optimization, partitioning, clustering, and GCP cost management.
+* Data Ingestion \\& Coding: Advanced SQL skills (ability to audit and refactor complex legacy stored procedures) paired with proficiency in Python for API\\-based ingestion and automation.
+* Tooling Stack: Deep experience administering managed ingestion platforms like Fivetran and a strong working knowledge of dbt for transformation layer testing and documentation.
+* AI Architecture (Preferred): Familiarity with Retrieval Augmented Generation (RAG) data structures and experience building semantic layers for LLM or AI agent consumption.
+* Governance \\& Security: Working knowledge of cloud data governance, including PII handling, column\\-level security, and access control implementation.
+* Infrastructure \\& BI: Familiarity with Terraform for infrastructure\\-as\\-code and Looker Studio (or similar BI tools) to ensure gold\\-tier data yields performant reporting.
+* The ""Builder"" Mindset: A proven track record of operating as a senior individual contributor in lean environments, with a knack for inheriting, auditing, and modernizing legacy data systems.
+* Team Cadence: Experience working within Agile/Scrum sprint frameworks using Jira, alongside strong technical writing skills for mapping data lineage and runbooks.
+* Logistics: Must be 18\\+ with full\\-time availability (including occasional off\\-hours support for critical pipeline incidents) and the ability to reliably commute to the office 4x per week
+
+
+No matter what experience you have within our industry we encourage you to apply. At BRUNT, we believe that a strong crew is assembled with people from different backgrounds.
+
+
+
+We look for individuals who thrive on challenges, will be passionate about our brand, and believe that teamwork is necessary for success. Show us how your experiences have shaped you and how you can contribute to BRUNT. We can't wait to hear from you!","","https://www.indeed.com/cmp/Brunt-Workwear","","","","","","","","","","","",""
 "in-bdb2cdffd0050e6c","indeed","https://www.indeed.com/viewjob?jk=bdb2cdffd0050e6c","https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Arizona/Software-Developer_R0017488-1","Software Developer","CLEAResult","Phoenix, AZ, US","2026-05-27","fulltime","direct_data","yearly",72600.0,109000.0,"USD",False,"","","","","At CLEAResult, we lead the transition to a sustainable, equitable, and carbon\\-neutral energy\\-efficient future for our communities and our planet. We do that by creating a people\\-first culture built on trust, accountability, and transparency; where every employee – regardless of position, role, or identity is treated with respect and given an equal chance to thrive.  
 
   
@@ -548,6 +1276,212 @@ You'll own meaningful end\\-to\\-end slices of a secure, cloud\\-hosted web plat
 Pay: $115,846\\.23 \\- $139,513\\.75 per year
 
 Work Location: Remote","","https://www.indeed.com/cmp/The-Simple-Vue,-Llc.","","","","","","","","","","","",""
+"in-81ff13fcbdc21173","indeed","https://www.indeed.com/viewjob?jk=81ff13fcbdc21173","https://apply.workable.com/j/CFCEF7A969","Instuctor , Cloud Computing & Devops(CCDO)","Fullstack Academy","US","2026-05-27","parttime","direct_data","hourly",55.0,60.0,"USD",True,"","","","","About Us
+Simplilearn is the world’s \\#1 online Bootcamp provider, enabling learners around the globe with rigorous and highly specialized training offered in partnership with world\\-renowned universities and leading corporations. We focus on emerging technologies and skills, such as data science, cloud computing, programming, and more — that are transforming the global economy. Our training is hands\\-on and immersive, including live virtual classes, integrated labs and projects, 24x7 support, and a collaborative learning environment. Over two million professionals and 2000 corporate training organizations across 150 countries have harnessed our award\\-winning programs to achieve their career and business goals.
+
+
+Simplilearn has collaborated with Fullstack Academy to leverage its widespread footprint in the US region and partnerships with Top US universities to grow internationally.
+
+
+Position Overview
+The Part\\-Time Instructor for Cloud Computing \\& DevOps plays a key role in delivering engaging and impactful learning experiences to adult learners enrolled in our online programs.  
+
+Instructors facilitate curriculum content, support student learning, and connect cloud and DevOps concepts to real\\-world infrastructure, automation, and deployment practices. This role involves teaching live online sessions, mentoring learners, providing feedback, and contributing to a collaborative instructional environment.  
+
+Classes are delivered 100% online in a synchronous format.
+
+
+
+
+Key Responsibilities
+Deliver live online training sessions covering Cloud Computing, DevOps, and Site Reliability Engineering (SRE) concepts.
+
+
+Cover core topics including:
+
+
+Cloud Computing Platforms* Cloud infrastructure fundamentals
+* Deployment and management of cloud resources
+* Hands\\-on use of:
+* + Amazon Web Services (AWS)
+	+ Microsoft Azure
+	+ Google Cloud Platform (GCP)
+
+DevOps Concepts \\& Practices* Continuous Integration and Continuous Delivery (CI/CD)
+* Automation and deployment workflows
+* Infrastructure monitoring and observability
+* Containerization and orchestration concepts
+* DevOps lifecycle and collaboration practices
+
+DevOps Tools \\& Technologies* Jenkins
+* Git and GitHub workflows
+* Docker containerization
+* Kubernetes orchestration
+* Terraform for Infrastructure as Code (IaC)
+* Ansible for configuration management
+* Monitoring tools such as Prometheus and Grafana
+
+Infrastructure \\& Architecture* Infrastructure as Code (IaC) concepts and implementation
+* Microservices architecture fundamentals
+* Serverless computing concepts and cloud\\-native design
+* Deployment automation and scalability best practices
+
+Security \\& Compliance* Security best practices in cloud environments
+* Identity and access management concepts
+* Compliance and governance fundamentals
+* Monitoring, logging, and incident management
+
+Provide hands\\-on demonstrations, labs, and guided project support.
+
+
+Facilitate practical exercises, assignments, and real\\-world deployment scenarios.
+
+
+Mentor learners and resolve technical or conceptual queries.
+
+
+Conduct assessments, evaluations, and feedback sessions.
+
+
+Maintain session quality metrics and learner engagement standards.
+
+
+Collaborate with internal teams on curriculum updates and technical content refinement.
+
+
+Required Qualifications* Bachelor’s degree in Computer Science, Information Technology, Engineering, or related field
+* 7\\+ years of professional experience in Cloud Computing, DevOps, or Site Reliability Engineering (SRE) roles
+* Hands\\-on expertise with one or more major cloud platforms:
+* + Amazon Web Services (AWS)
+	+ Microsoft Azure
+	+ Google Cloud (GCP)
+* Strong understanding of DevOps concepts including:
+* + Continuous Integration (CI)
+	+ Continuous Delivery/Deployment (CD)
+	+ Automation
+	+ Monitoring and observability
+	+ Container orchestration
+* Practical experience with DevOps tools such as:
+* + Jenkins
+	+ Git/GitHub
+	+ Docker
+	+ Kubernetes
+	+ Terraform
+	+ Ansible
+	+ Prometheus/Grafana
+* Working knowledge of:
+* + Infrastructure as Code (IaC)
+	+ Microservices architecture
+	+ Serverless computing
+* Familiarity with security and compliance best practices in cloud environments
+* Prior experience delivering online or classroom training preferred
+* Excellent communication, facilitation, and presentation skills
+
+Preferred Qualifications* Certifications such as:
+* + AWS Certified Solutions Architect
+	+ Microsoft Certified: Azure Administrator/DevOps Engineer
+	+ Google Professional Cloud Architect
+	+ Equivalent cloud or DevOps certifications
+* Experience working in enterprise cloud migration or DevOps transformation initiatives
+* Familiarity with Agile and DevSecOps practices
+* Exposure to CI/CD pipeline optimization and automation frameworks
+* Experience mentoring engineers or technical learners
+
+Key Competencies* Strong instructional and facilitation skills
+* Ability to simplify complex cloud and DevOps concepts clearly
+* Structured and professional virtual delivery approach
+* Strong analytical and troubleshooting mindset
+* Hands\\-on mentoring and learner support capability
+* Adaptability to evolving cloud technologies and automation practices
+
+Student Support \\& Mentorship
+Provide individualized student support during live sessions and scheduled office hours.
+
+
+Maintain regular communication with students regarding progress, expectations, and milestones.
+
+
+Respond to student and staff communications in a timely and professional manner.
+
+
+Provide clear, constructive, and timely feedback on assignments, assessments, and lab activities.
+
+
+
+
+Performance Monitoring
+Evaluate student progress based on course deliverables and established grading rubrics.
+
+
+Maintain accurate documentation of student performance and engagement.
+
+
+Identify and escalate academic or learner performance concerns to the Lead Instructor or appropriate staff.
+
+
+Support learner improvement plans and certification readiness initiatives when necessary.
+
+
+
+
+Collaboration \\& Professional Conduct
+Adhere to institutional policies and instructional team standards.
+
+
+Foster an inclusive, respectful, and professional learning environment.
+
+
+Serve as a role model and mentor for learners pursuing Cloud and DevOps careers.
+
+
+Collaborate with instructional staff and program teams to improve the learner experience and program outcomes.
+
+
+Represent the organization professionally when interacting with students, staff, and external stakeholders.
+
+
+
+
+Work Schedule
+Part\\-Time instructors typically work 10–15 hours per week depending on cohort schedules.
+
+
+The total weekly part\\-time commitment is expected to be 8–12 hours.
+
+
+Weekday \\- 06:30 PM CST \\- 09:30 PM CST (Monday, Wednesday and Thursday)
+
+
+Weekend \\- 09:00 AM CST \\- 12:00 PM CST (Saturday and Sunday)
+
+
+Flexibility for evening availability is required.
+
+
+
+
+Compensation
+The anticipated pay range for this position is $55 – $60 per hour, depending on qualifications and experience.
+
+
+This position is classified as Part\\-Time, Non\\-Exempt, and employees will be compensated for all hours worked in accordance with applicable federal and state wage and hour laws.
+
+
+
+
+Equal Employment Opportunity
+We are committed to creating an inclusive environment for all employees and applicants. Employment decisions are made without regard to race, color, religion, sex, gender identity, sexual orientation, national origin, age, disability, veteran status, or any other protected characteristic under applicable law.
+
+
+
+
+Work Authorization
+Applicants must be legally authorized to work in the United States at the time of application and throughout employment.
+
+
+
+
+\\#LI\\-REMOT","","https://www.indeed.com/cmp/Fullstack-Academy","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8c4675cd0cd97b69722a8a03f86745e9","https://www.fullstackacademy.com","New York, NY","51 to 200","$5M to $25M (USD)","Fullstack Academy is an immersive web development bootcamp with campuses in New York City, Chicago, and online.","","","","","",""
 "in-06fb1fa1ff50fb62","indeed","https://www.indeed.com/viewjob?jk=06fb1fa1ff50fb62","https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Lead-Java-Engineer--Full-Stack-Development_R-0011336","Lead Java Engineer, Full Stack Development","Raymond James","Saint Petersburg, FL, US","2026-05-27","fulltime","","","","","",False,"","","","","**Job Description Summary**
 
 Highly specialized expert developing software applications, in entirety or in part, that have a big impact on business for a large organization.
@@ -1301,6 +2235,177 @@ If you have a Medical Portable Electronic Device (MedPED), such as a pacemaker, 
 
 
 If you have a MedPED and you are selected for an on\\-site interview at Sandia National Laboratories, there may be additional steps necessary to ensure compliance with NNSA security requirements prior to the interview date.","","https://www.indeed.com/cmp/Sandia-National-Laboratories","","http://www.sandia.gov","Albuquerque, NM","10,000+","$1B to $5B (USD)","Sandia National Laboratories is the nation’s premier science and engineering lab for national security and technology innovation. World-changing technologies. Life-changing careers.","","","","","",""
+"in-d46f293bcfec6d28","indeed","https://www.indeed.com/viewjob?jk=d46f293bcfec6d28","https://ibegin.tcsapps.com/candidate/jobs/shared-job/NDE0MTc2Sg==",".NET Azure Full Stack Developer","Tata Consultancy Services (TCS)","Bellevue, WA, US","2026-05-26","","direct_data","yearly",64000.0,98000.0,"USD",False,"","","","","Must Have Technical/Functional Skills:
+Digital : Microsoft Azure; Digital : Microsoft Power BI; Program Manager; SWE; Digital : Python; C\\#.net
+Full stack developer experience (.net, python)
+Analyze data from sources like COSMOS and Kusto to support reporting and dashboards
+Provide regular status updates and reports to stakeholders
+Manage communication with internal teams and external auditors/stakeholders
+Track and manage tasks, bugs, and requests using Azure DevOps (ADO)
+Work with development teams to resolve tooling issues and drive improvements
+Azure Dev Ops knowledge  
+
+  
+
+TCS Employee Benefits Summary:
+Discretionary Annual Incentive.
+Comprehensive Medical Coverage: Medical \\& Health, Dental \\& Vision, Disability Planning \\& Insurance, Pet Insurance Plans.
+Family Support: Maternal \\& Parental Leaves.
+Insurance Options: Auto \\& Home Insurance, Identity Theft Protection.
+Convenience \\& Professional Growth: Commuter Benefits \\& Certification \\& Training Reimbursement.
+Time Off: Vacation, Time Off, Sick Leave \\& Holidays.
+Legal \\& Financial Assistance: Legal Assistance, 401K Plan, Performance Bonus, College Fund, Student Loan Refinancing.
+Salary Range: $64,000 \\- $98000 a year
+\\#LI\\-NS4
+**Location**
+Bellevue, WA
+**Job Function**
+TECHNOLOGY
+**Role**
+Engineer
+**Job Id**
+414176
+**Desired Skills**
+.NET \\| C Programming \\| Python
+**Salary Range**
+$64,000\\-$98,000 a year","Consulting And Business Services","https://www.indeed.com/cmp/Tata-Consultancy-Services-(tcs)","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/bfd57a052c0dfad03779c68c62499ce4","https://www.tcs.com/fr-fr","Tour Initiale - 1 Terasse Bellini, 92800 Puteaux","10,000+","more than $10B (USD)","Tata Consultancy Services is an IT services, consulting and business solutions organization that delivers real results to global business.","","","","","",""
+"in-b095c6c966a49d42","indeed","https://www.indeed.com/viewjob?jk=b095c6c966a49d42","https://ibegin.tcsapps.com/candidate/jobs/shared-job/NDE0MTQ2Sg==","Senior SAP S/4HANA ABAP & Fiori Full Stack Developer","Tata Consultancy Services (TCS)","Loveland, CO, US","2026-05-26","","direct_data","yearly",100000.0,120000.0,"USD",False,"","","","","Must Have Technical/Functional Skills
+ Core Technical Skills
+* ABAP on S/4HANA
+* CDS Views \\& Annotations
+* RAP (ABAP RESTful Programming Model)
+* SAP Fiori/UI5 \\& Fiori Elements
+* OData V4
+* HANA optimized development
+* S/4HANA extensibility concepts (In App, Side by Side)
+* Transport \\& release management in S/4 landscapes
+
+\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+Functional Exposure (Preferred)
+* Hands on technical work experience in at least one S/4HANA business area:
+
+o SD / Order to Cash (O2C)
+o MM / Procure to Pay (P2P)
+o FI / CO
+* Strong understanding of end to end business processes in S/4HANA
+
+  
+
+  
+
+Roles \\& Responsibilities
+S/4HANA ABAP \\& Backend Development
+* Design and implement S/4HANA native ABAP solutions, adhering to clean core and extensibility guidelines
+* Develop using Modern ABAP:
+
+o Object\\-Oriented ABAP
+o Inline declarations, expressions
+o ABAP SQL optimized for HANA
+* Build advanced CDS Views:
+
+o Basic, Composite, Consumption views
+o Analytical CDS with annotations
+o CDS access control (DCL)
+* Implement ABAP RESTful Application Programming Model (RAP):
+
+o Managed and unmanaged scenarios
+o Behavior definitions and implementations
+o Draft handling and OData V4 exposure
+* Leverage code pushdown techniques to optimize performance on SAP HANA
+* Eliminate obsolete ECC patterns and ensure S/4HANA compatibility across all custom objects
+
+\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+SAP Fiori \\& UI Development (S/4HANA Focused)
+* Design and develop SAP Fiori applications for S/4HANA using:
+
+o SAPUI5 / OpenUI5
+o Fiori Elements (List Report, Object Page, Analytical List)
+* Extend and adapt standard S/4HANA Fiori apps using key user and developer extensibility
+* Implement role based, responsive UX compliant with SAP Fiori design guidelines
+* Consume OData V4 services exposed via RAP/CDS
+* Collaborate with UX and business teams to ensure intui tive user experiences
+
+\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+Integration \\& Extensibility
+* Expose and consume whitelisted APIs and OData services per S/4HANA extensibility framework
+* Implement in app and side by side extensions aligned with clean core strategy
+* Integrate S/4HANA with SAP BTP services when required (Workflow, Integration Suite, CAP\\-based extensions)
+
+\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+S/4HANA Transformation \\& Optimization
+* Participate in:
+
+o S/4HANA greenfield implementations
+o System conversions and brownfield transformations
+* Refactor legacy custom code using:
+
+o Simplification Item Catalog
+o Custom Code Migration tools
+* Ensure developments are upgrade safe, cloud ready, and future proof
+* Support continuous optimization and performance tuning on HANA
+
+\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+Technical Leadership \\& Delivery
+* Act as Senior Developer / Technical Lead for S/4HANA delivery streams
+* Own:
+
+o Technical design
+o Code quality
+o Performance and compliance
+* Perform code reviews and mentor team members on S/4HANA best practices
+* Collaborate with:
+
+o Functional consultants
+o Architects
+o Basis and Security teams
+* Provide advanced support for incidents, defects, and production issues
+
+  
+
+  
+
+Generic Managerial Skills, If any
+* A Senior SAP S/4HANA ABAP \\& Fiori Full Stack Developer with 10\\+ years of SAP development experience and strong specialization in S/4HANA native development. This role focuses exclusively on S/4HANA architecture, following clean core strategy, leveraging ABAP on HANA, CDS, RAP, and SAP Fiori/UI5, and delivering high performance, scalable, and upgrade safe solutions.
+* Must act as a technical anchor for S/4HANA development initiatives, guiding modernization, quality, and best practices across the landscape.
+
+  
+
+
+  
+
+Base Salary Range : $100,000 to $120,000 Per Annum  
+
+  
+
+TCS Employee Benefits Summary:
+Discretionary Annual Incentive.
+Comprehensive Medical Coverage: Medical \\& Health, Dental \\& Vision, Disability Planning \\& Insurance, Pet Insurance Plans.
+Family Support: Maternal \\& Parental Leaves.
+Insurance Options: Auto \\& Home Insurance, Identity Theft Protection.
+Convenience \\& Professional Growth: Commuter Benefits \\& Certification \\& Training Reimbursement.
+T ime Off: Vacation, Time Off, Sick Leave \\& Holidays.
+Legal \\& Financial Assistance: Legal Assistance, 401K Plan, Performance Bonus, College Fund, Student Loan Refinancing.  
+
+  
+
+\\#LI\\-SV2
+\\#LI\\-KUMARAN
+**Location**
+Loveland, CO
+**Job Function**
+TECHNOLOGY
+**Role**
+Consultant
+**Job Id**
+414146
+**Desired Skills**
+SAP ABAP
+**Salary Range**
+$100,000\\-$120,000 a year
+Desired Candidate Profile
+
+
+**Qualifications** : BACHELOR OF COMPUTER SCIENCE","Consulting And Business Services","https://www.indeed.com/cmp/Tata-Consultancy-Services-(tcs)","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/bfd57a052c0dfad03779c68c62499ce4","https://www.tcs.com/fr-fr","Tour Initiale - 1 Terasse Bellini, 92800 Puteaux","10,000+","more than $10B (USD)","Tata Consultancy Services is an IT services, consulting and business solutions organization that delivers real results to global business.","","","","","",""
 "in-78902f746ba9d9e9","indeed","https://www.indeed.com/viewjob?jk=78902f746ba9d9e9","https://ibegin.tcsapps.com/candidate/jobs/shared-job/NDE0MTU0Sg==","Senior Full Stack Engineer","Tata Consultancy Services (TCS)","Mason, OH, US","2026-05-26","","direct_data","yearly",105000.0,145000.0,"USD",False,"","","","","Must Have Technical/Functional Skills
 We are looking for a highly skilled Senior Full Stack Developer to design and develop production\\-grade dashboard applications. This role involves end\\-to\\-end ownership, from solution architecture through development and deployment, leveraging Python, AngularJS/Angular, REST APIs, and scalable system design.  
 
@@ -1363,6 +2468,73 @@ Desired Candidate Profile
 
 
 **Qualifications** : BACHELOR OF COMPUTER SCIENCE","Consulting And Business Services","https://www.indeed.com/cmp/Tata-Consultancy-Services-(tcs)","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/bfd57a052c0dfad03779c68c62499ce4","https://www.tcs.com/fr-fr","Tour Initiale - 1 Terasse Bellini, 92800 Puteaux","10,000+","more than $10B (USD)","Tata Consultancy Services is an IT services, consulting and business solutions organization that delivers real results to global business.","","","","","",""
+"in-2a9570267ed82077","indeed","https://www.indeed.com/viewjob?jk=2a9570267ed82077","https://ibegin.tcsapps.com/candidate/jobs/shared-job/NDE0MjYwSg==","DevOps & Site Reliability Lead-Retail Devops","Tata Consultancy Services (TCS)","Deerfield, IL, US","2026-05-26","","direct_data","yearly",120000.0,160000.0,"USD",False,"","","","","**Must Have Technical/Functional Skills**
+**Technology and Programming (Expert Level)**
+* Strong proficiency in Java full stack developer
+* Object\\-Oriented programming principles and concepts
+* Hands\\-on experience with Spring Framework (Spring Boot, Spring MVC, Spring Security)
+* Knowledge if RESTful API development
+* Experience with database like Oracle, DB2, MySQL
+* Proficiency in Payment Switch BASE24 EPS, C\\+\\+, AS400 and Python is also added advantage
+**Domain, Cloud \\& Platform Engineering**
+* Must have domain experience on Retail Point of Sale/Payment Systems/Merchandising/Inventory/Logistics area
+* Expertise in Microsoft Azure, including:
++ Compute (VMs, App Services, Azure Container Apps)
++ Containers \\& Orchestration (AKS, Docker)
++ Networking (VNETs, Private Endpoints, Application Gateway, Load Balancers)
++ Storage, Azure Key Vault, Azure Monitor, Log Analytics
+
+* Proven experience designing enterprise‑grade, highly available cloud platforms
+**DevOps \\& Engineering Excellence**
+* Advanced experience with Azure DevOps and CI/CD pipeline architecture
+* Strong scripting skills (PowerShell, Bash)
+* GitOps concepts, branching strategies, release orchestration
+**Site Reliability Engineering (Leadership Level)**
+* Ownership of platform reliability, resiliency, and performance
+* Definition and governance of:
++ SLIs, SLOs, SLAs
++ Error budgets and reliability metrics
+
+* Advanced observability strategy, designing and implementation:
+* Metrics, logs, traces, alerts, dashboards using Dynatrace
+* Incident response leadership, RCA facilitation, and long‑term remediation planning
+* Experience operating 99\\.9%–99\\.99% availability systems
+**Security, Compliance \\& Cost**
+* Secure cloud design using Key Vault, managed identities, RBAC
+* Cost optimization (FinOps mindset) across cloud infrastructure
+**Roles \\& Responsibilities**
+* Act as Lead SRE for client's Retail platforms, owning reliability and stability outcomes
+* Define and enforce SRE standards, best practices, and operating models
+* Architect and govern highly available, scalable cloud platforms
+* Lead the design and implementation of CI/CD and IaC strategies
+* Establish proactive monitoring, alerting, and incident prevention mechanisms
+* Own major incident leadership, RCA execution, and corrective action tracking
+* Partner with application, security, and architecture teams to build reliability by design
+* Drive automation to reduce toil and improve operational efficiency
+* Mentor and coach SRE and DevOps engineers across teams
+* Influence roadmap decisions with a reliability, scalability, and cost lens
+**TCS Employee Benefits Summary:**
+* Discretionary Annual Incentive.
+* Comprehensive Medical Cover age: Medical \\& Health, Dental \\& Vision, Disability Planning \\& Insurance, Pet Insurance Plans.
+* Family Support: Maternal \\& Parental Leaves.
+* Insurance Options: Auto \\& Home Insurance, Identity Theft Protection.
+* Convenience \\& Professional Growth: Commuter Benefits \\& Certification \\& Training Reimbursement.
+* Time Off: Vacation, Time Off, Sick Leave \\& Holidays.
+* Legal \\& Financial Assistance: Legal Assistance, 401K Plan, Performance Bonus, College Fund, Student Loan Refinancing.
+**\\#LI\\-RJ2**
+**Salary Range\\-$120000\\-$160,000 a year**
+**Location**
+Deerfield, IL
+**Job Function**
+TECHNOLOGY
+**Role**
+Lead
+**Job Id**
+414260
+**Desired Skills**
+Azure \\| DevOps
+**Salary Range**
+$120,000\\-$160,000 a year","Consulting And Business Services","https://www.indeed.com/cmp/Tata-Consultancy-Services-(tcs)","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/bfd57a052c0dfad03779c68c62499ce4","https://www.tcs.com/fr-fr","Tour Initiale - 1 Terasse Bellini, 92800 Puteaux","10,000+","more than $10B (USD)","Tata Consultancy Services is an IT services, consulting and business solutions organization that delivers real results to global business.","","","","","",""
 "in-17164183c0b4b2a6","indeed","https://www.indeed.com/viewjob?jk=17164183c0b4b2a6","https://jobs.smartrecruiters.com/HireVue/744000128547235-lead-software-engineer-fully-remote-us","Lead Software Engineer | Fully Remote US","HireVue, Inc.","Sandy, UT, US","2026-05-26","fulltime","","","","","",True,"","","","","**Company Description**
 -----------------------
 
@@ -1706,6 +2878,38 @@ Read our blog: Five Reasons to Join Cerebras in 2026\\.
 
 *This website or its third\\-party tools process personal data. For more details, click* *here* *to review our CCPA disclosure notice.*","","https://www.indeed.com/cmp/Cerebras-Systems","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/9b8cd154d47926735c103f605ca141b1","https://www.cerebras.net","1237 E. Arques Avenue
 Sunnyvale, CA 94085","201 to 500","","Cerebras is on a mission to change the compute landscape by accelerating artificial intelligence.","","","","","",""
+"in-82db44417fb242df","indeed","https://www.indeed.com/viewjob?jk=82db44417fb242df","https://jobs.ashbyhq.com/midpage/bbfa2f36-fcb8-4779-9ca6-54f0a0181091?utm_source=ezEgWGQOrw","Senior Software Engineer","","New York, NY, US","2026-05-26","fulltime","","hourly","","","USD",False,"","","","","We're hiring a senior software engineer to help build the largest case law dataset. Our data coverage includes US laws and court decisions and powers our lawyer\\-facing AI platform and B2B data services.
+
+**Responsibilities include:**
+
+* Building pipelines that augment documents with metadata, e.g., which decisions overrule another decision, which decisions are an appeal/remand/consolidation of another decision, etc. Our competitors still label these by humans making $300\\+/hr.
+* Building systems to ensure the reliability and accuracy of hundreds of web scrapers.
+* Optimizing and evaluating our core utils, which do things like extracting and resolving citations, determining which courts are able to overrule which other courts, etc.
+* Exposing core services on our data via APIs, MCPs, websockets.
+* Benchmarking and evaluation of core tasks (human and synthetic).
+
+
+We believe in skipping what can be skipped and appreciate simple solutions to complex problems.
+
+
+Good candidates for this role should be (1\\) technical generalists, definitely across the backend (bonus for fullstack), and (2\\) comfortable working with data pipelines, including basic to intermediate infra/devops.
+
+
+Interest/experience with stats/ML/AI is a bonus, but not critical. You should be cautiously AI\\-pilled.
+
+
+Tech stack isn't critical, Python and SQL are core. Definitely be able to stand up your own projects on your preferred infra end\\-to\\-end.
+
+
+Role is in\\-person at our office in SoHo, NYC. Competitive cash/benefits/salary.
+
+**Skills:** Python, PostgreSQL, ElasticSearch, Playwright, GCP, Pinecone, Prefect, NeonDB.
+
+
+Visa sponsorship available; relocation not available.
+
+
+Compensation Range: $170K \\- $240K","","","","","","","","","","","","","",""
 "in-aea2e7e42ca981c2","indeed","https://www.indeed.com/viewjob?jk=aea2e7e42ca981c2","https://jobs.ashbyhq.com/metriport/85bd7ce4-6ac5-43d9-aa9a-0f07dcd94f0b?utm_source=vg3xPrw8YZ","Sr. Software Engineer","","San Francisco, CA, US","2026-05-26","fulltime","direct_data","yearly",160000.0,220000.0,"USD",True,"","","","","**Senior Software Engineer**
 ============================
 
@@ -1797,6 +3001,143 @@ Metriport provides equal employment opportunities (EEO) to all employees and app
 
 
 Compensation Range: $160K \\- $220K","","","","","","","","","","","","","",""
+"in-d22e66937a9f7f0f","indeed","https://www.indeed.com/viewjob?jk=d22e66937a9f7f0f","https://jobs.lever.co/agile-defense/7b43c9ce-0101-4f9b-8f2f-8a92c4f33869?lever-source=Indeed","Data Scientist","Agile Defense","Washington, DC, US","2026-05-26","","direct_data","yearly",130000.0,155000.0,"USD",False,"","","","","**About Agile Defense**
+
+At Agile Defense we know that action defines the outcome and new challenges require new solutions. That’s why we always look to the future and embrace change with an unmovable spirit and the courage to build for what comes next.
+
+Our vision is to bring adaptive innovation to support our nation's most important missions through the seamless integration of advanced technologies, elite minds, and unparalleled agility—leveraging a foundation of speed, flexibility, and ingenuity to strengthen and protect our nation’s vital interests.  
+
+**Requisition \\#:** 1627
+**Job Title:** Data Scientist
+**Location:** Washington, D.C.
+**Clearance Level:** Top Secret / SCI, Must Have Clearance to Start  
+
+
+
+### **Job Description**
+
+
+Agile Defense is seeking a Data Scientist / Engineer to support the design, development, and operational deployment of scalable, AI\\-enabled data solutions within the Department of Defense’s CDAO ADA IR program. This role is part of a multidisciplinary team integrating advanced analytics, machine learning, and engineering practices into mission\\-critical environments at Combatant Commands.
+  
+
+You will help shape and deploy data pipelines, pre\\-processing workflows, feature engineering strategies, and machine learning services within secure, containerized environments. The ideal candidate brings a hybrid of statistical modeling fluency and hands\\-on software engineering expertise. You will collaborate closely with product managers, full\\-stack developers, platform engineers, and mission stakeholders to transform raw data into meaningful insights and decision\\-support tools.
+  
+
+This role requires strong technical communication skills, a collaborative mindset, and experience working in agile environments that value reproducibility, testing, and continuous delivery. Familiarity with cloud\\-based data platforms such as Databricks, Palantir, or AWS\\-native data services is highly preferred.### **Education and Background**
+
+* A bachelor's degree plus 3 years of recent specialized experience, OR, an associate's degree plus 7 years of recent specialized experience, OR, a major certification plus 7 years of recent specialized experience, OR, 11 years of recent specialized experience
+
+### **Years of Experience**
+
+
+Depends on educational background and years of work experience.### **Required Skills**
+
+* 4\\+ years of experience in applied data science, machine learning engineering, or data pipeline development.
+* Proficient in Python, SQL, and distributed data frameworks (e.g., Spark, Databricks, PySpark).
+* Experience developing ML models from training to deployment using industry\\-standard tools and libraries (e.g., scikit\\-learn, TensorFlow, XGBoost, MLflow).
+
+### **Preferred Skills**
+
+* Familiarity with MLOps, API development, and secure cloud\\-based environments (e.g., AWS, Azure, Palantir Foundry).
+* Strong understanding of data validation, model testing, and performance evaluation techniques.
+* Experience with data visualization and storytelling using tools such as Tableau, Plotly, or Matplotlib.
+* Excellent technical communication skills, with the ability to explain complex concepts to non\\-technical audiences.
+
+### **Working Conditions**
+
+* Onsite in a SCIF in the Pentagon.
+
+In addition, Agile Defense invests in its employees beyond just compensation. Agile’s benefits offerings include, dependent upon position, Health Insurance, Life Insurance, Paid Time Off, Holiday Pay, short\\-term and long\\-term Disability, Retirement and Learning and Development opportunities as well as other optional benefit elections.**Our Core Values**
+
+Employees of Agile Defense are our number one priority, and the importance we place on our culture here is fundamental. Our culture is alive and evolving, but it always stays true to its roots. Here, you are valued as a family member, and we believe that we can accomplish great things together. Agile Defense has been highly successful in the past few years due to our employees and the culture we create together.
+
+What makes us Agile? We call it the 6Hs, the values that define our culture and guide everything we do. Together, these values infuse vibrancy, integrity, and a tireless work ethic into advancing the most important national security and critical civilian missions. It's how we show up every day. It's who we are.
+
+* **Happy** \\- Be Infectious. Happiness multiplies and creates a positive and connected environment where motivation and satisfaction have an outsized effect on everything we do.
+* **Helpful** \\- Be Supportive. Being helpful is the foundation of teamwork, resulting in a supportive atmosphere where collaboration flourishes, and collective success is celebrated.
+* **Honest** \\- Be Trustworthy. Honesty serves as our compass, ensuring transparent communication and ethical conduct, essential to who we are and the complex domains we support.
+* **Humble** \\- Be Grounded. Success is not achieved alone, humility ensures a culture of mutual respect, encouraging open communication, and a willingness to learn from one another and take on any task.
+* **Hungry** \\- Be Eager. Our hunger for excellence drives an insatiable appetite for innovation and continuous improvement, propelling us forward in the face of new and unprecedented challenges.
+* **Hustle** \\- Be Driven. Hustle is reflected in our relentless work ethic, where we are each committed to going above and beyond to advance the mission and achieve success.
+
+
+**Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities**
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.","","https://www.indeed.com/cmp/Agile-Defense-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/bbe2ee04fc4865a3286c344f5e97ba54","https://agiledefense.com/","1430 Spring Hill Rd # 200, McLean, VA 22102","1,001 to 5,000","","Agile Defense supports critical national security and civilian missions through advanced cybersecurity, engineering, cloud, and data solutions.","","","","","",""
+"in-a12ec1f2c232bd8e","indeed","https://www.indeed.com/viewjob?jk=a12ec1f2c232bd8e","https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8d256fa4-be53-4c3d-8e4e-f23a21b69252&ccId=9201156622448_3&jobId=578842&jwId=9201156622448_1&source=IN&lang=en_US","Senior Full Stack Developer","Paradigm, Inc","Virginia Beach, VA, US","2026-05-26","fulltime","direct_data","yearly",130000.0,150000.0,"USD",True,"","","","","Hybrid work position
+
+
+\\*\\*\\*Visa sponsorship not available now OR in the future
+
+
+\\*\\*\\*Local candidates only or ability to relocate prior to start of employment
+
+*Our growing company is currently seeking an experienced Full Stack Developer to join our IT Department. In this role, the Full Stack Developer will be responsible for developing and designing front end and back end architecture, ensuring the responsiveness of applications and working on web design features. Must be fluent in creating websites to deploy that thrive on strong architecture, while supplementing with data\\-driven applications that optimize site functionality throughout the lifecycle of each project. The Full Stack Developer will need to know how to effectively create website foundations using back\\-end applications and database structures.*
+
+ **Description**
+
+
+A national software \\& manufacturing company located in the Virginia Beach area is seeking dependable individuals eager to build a career in a fast paced and friendly team\\-oriented environment. Exceptional attention to detail, organizational and time management skills are a must.
+
+ **Duties**
+
+* Primary function of Developing and designing RESTful services and APIs.
+* Concepting, creating and building code from business requirements and designer wireframes, creating effective code.
+* Working through the website development lifecycle to launch.
+* Designing user\\-based interactions through effective front\\-end architecture framework.
+* Coding for various platforms to ensure functionality across multiple channels.
+* Working with the team to develop best practices.
+* Determining application responsiveness for users.
+* Ensuring company mandate is effectively addressed in technical and developmental aspects.
+* Troubleshooting issues and problem solving as necessary.
+* Keeping current with industry trends and developments that can be applied to company needs.
+
+ **Education, Experience, Qualifications and Skills**
+
+* 8\\+ years’ experience in web development and programming for the following technologies
+	+ .NET (Framework, Core 5\\-8\\)
+	+ .NET Web API 2\\.0
+	+ ASP .NET MVC5\\+
+	+ Entity Framework
+	+ MS SQL 2017 and higher
+	+ DevOps (CI/CD)
+* Experience with Digital Signing Services a plus
+* Experience with third\\-party controls (Telerik, Debenu/Foxit) a plus
+* Knowledge of Service\\-Oriented Architecture/Microservices a plus
+* Excellent problem\\-solving skills and attention to detail.
+* Ability to clearly communicate technical concepts to both technical and non\\-technical audiences.
+* Ability to quickly learn and appropriately utilize internal applications and knowledge bases as needed for timely completion of daily tasks.
+* Ability to read, process and follow written directions and procedures.
+* Ability to maintain routine and predictability in dynamic and open\\-office environment.
+* Ability to work in concert with a team or independently, with or without direct supervision/guidance as needed.
+* Ability to self\\-manage and multi\\-task while making fact\\-based or historically\\-valid and justifiable decisions.
+* Ability to consistently comply with established procedures, rules, and regulations.
+* Reliable transportation for timely work attendance.
+* Physically able to bend/kneel/walk/stand, in tandem with cart, stepstools or rolling ladders, to access supplies and various works in progress or other materials as needed in storage rooms or production areas.
+* Good vision, with or without corrective lenses, in order to sustain adequate visual focus over a period of time.
+
+ **Compensation and Benefits**
+
+* Full\\-Time, Monday through Friday, 8:30 am to 5:00 pm with mandatory weekday or weekend as needed
+* First 60 days work onsite, then 3 days in the office 2 days remote possible
+* Competitive wage with opportunities for advancement
+* Medical, dental and vision insurance based upon length of service qualifications
+* Retirement plan available based upon length of service qualifications
+* Paid sick\\- and annual\\-leave possible based upon length of service qualifications
+* Paid holidays
+
+ **Additional Information and Signature**
+
+
+For over 32 years, Paradigm, Inc. has proven to be a unique, successful and dynamic company with a reputation of being the best in our industry. A positive attitude, proven work ethic and a desire to learn and surpass expectations are what you will find in our current employees. We seek hard workers with dependable transportation who possess the same ambition, attitude, integrities, desire and required skills to join our team.
+
+  
+
+Simply stated, we want you to be successful: we therefore make every effort to quantify a candidate’s suitability before an offer of employment is extended. Hence, interviewing at Paradigm is a multi\\-stage process. Included in our evaluations are at least two site visits, question and answer panels, skill, and personality assessments.
+
+  
+
+Prior to start of employment, successful candidates must pass a drug or illegal substance screening and are subject to a national criminal background check. Your cooperation and full disclosure during these evaluations are strongly recommended. The discovery at any time of withheld information material to past employment, legal status, or criminal conviction will render a candidate ineligible for employment or may cause an active employee to be subject to discipline, up to and including, employment termination.","","https://www.indeed.com/cmp/Paradigm,-Inc-1","","","","","","","","","","","",""
 "in-132ec3a8e9018054","indeed","https://www.indeed.com/viewjob?jk=132ec3a8e9018054","https://job-boards.greenhouse.io/cerebrassystems/jobs/7749004003","Software Architect – Manufacturing Test","Cerebras Systems","Sunnyvale, CA, US","2026-05-26","","direct_data","yearly",204000.0,245000.0,"USD",False,"","","","","Cerebras Systems builds the world's largest AI chip, 56 times larger than GPUs. Our novel wafer\\-scale architecture provides the AI compute power of dozens of GPUs on a single chip, with the programming simplicity of a single device. This approach allows Cerebras to deliver industry\\-leading training and inference speeds and empowers machine learning users to effortlessly run large\\-scale ML applications, without the hassle of managing hundreds of GPUs or TPUs.
 
 
@@ -2368,6 +3709,257 @@ For more than 25 years, Windsor Solutions has built software that environmental 
 **Equal Opportunity Statement**  
 
 Windsor Solutions is an Equal Opportunity Employer","","https://www.indeed.com/cmp/Windsor-Solutions,-Inc.-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/fc13536245c27fdb175fa5a29fbcc011","https://windsorsolutions.com/","11481 SW Hall Blvd #201, Tigard, OR 97223 ","51 to 200","$5M to $25M (USD)","We are an established, small software solutions company headquartered in Portland, OR and we carry a passion for safeguarding and improving our environment supporting environmental agencies.","","","","","",""
+"in-a2c6b373b8d552ea","indeed","https://www.indeed.com/viewjob?jk=a2c6b373b8d552ea","https://capitolservices.hrmdirect.com/employment/view.php?req=3723341&jbsrc=1014&location=3392ac37-9cfc-d459-7e05-65a584d7e9bc","AI Engineer","Capitol Services","Austin, TX, US","2026-05-26","fulltime","direct_data","yearly",92000.0,155000.0,"USD",True,"","","","","Capitol Services is currently seeking an **AI Engineer** to join our growing team! **You must be eligible to work in the U.S. without sponsorship and reside in Austin, TX. C2C will not be considered for this position.**
+
+
+Capitol Services was founded in 1978 and has become a leading provider of services to legal and financial professionals nationwide. Our mission is to provide friendly, high\\-value, and superior service to our clients amid a collaborative atmosphere that encourages a balanced work\\-life experience for our employees.
+
+
+Named one of the ""Best Places to Work"" by the Austin American\\-Statesman, we know that it takes the right mix of passion, dedication, and fun to make a well\\-rounded workplace. Joining the Capitol Services team means working with a best\\-in\\-class, passionate team of professionals that truly cares about the work we do and the people we do it for. If that sounds like an environment you'd like to be a part of, we'd love to talk to you! Capitol Services is an equal opportunity employer.
+
+
+**About the role:** You will be working in our **Austin, TX** location responsible for designing, developing, testing, tuning, enhancing, maintaining, and documenting AI\\-powered software solutions that complies with project plans and industry standards.
+
+
+This role is a **permanent position** that involves working full\\-time and follows a hybrid schedule, Monday through Friday.
+
+
+**What you will do:**
+
+
+* Design, develop, and implement AI systems using Python code
+* Build RAG pipelines, Agentic AI workflows, and LLM integrations
+* Write clean, modular, and scalable code, and design systems that are scalable, maintainable, and production ready
+* Own the end\\-to\\-end architecture of AI solutions
+* Develop and maintain prompt orchestration layers, memory systems, and multi\\-step reasoning workflows
+* Build or customize orchestration frameworks
+* Build APIs and services using FastAPI or similar frameworks
+* Improve model outputs using prompt engineering
+* Drive adoption of AI solutions across teams and identify opportunities where AI can deliver business value
+* Lead AI end\\-to\\-end projects, including but not limited to, distributing work, performing code review and ensuring engineering quality, and providing technical mentorship on AI/LLM systems to Software Engineer team members
+* Stay up to date with emerging AI technologies
+* Ensure compliance with project plans and industry standards
+* Communicate with coworkers and others in a timely, effective, and professional manner
+
+**Who you are:**
+
+
+* **Requirements:** You are eligible to work in the U.S. without sponsorship and reside in Austin, TX**. C2C will not be considered.**
+* **Experience:** You have a Bachelor’s degree in Information Technology, Engineering, Computer Science, or related field or equivalent experience. You have 5\\+ years of software engineering experience, with at least 2 years of experience building end\\-to\\-end AI products.
+* **Technical skills:** Python, LLMs (e.g., Claude, GPT), Retrieval\\-Augmented Generation (RAG), MCP, Agentic AI systems, Generative AI, and AI Agent orchestration.
+* **Preferred:** You have experience as a Full\\-Stack Engineer building scalable backend applications using C\\# and .NET (Standard and Core). You have experience developing APIs and designing data access layers and working with relational databases such as SQL Server.
+* **Excellent organizational and time management skills:** You have the ability to multi\\-task and prioritize projects / assignments. You have excellent attention to detail and exhibit a reasonable sense of urgency.
+* **Excellent communication skills:** You have excellent verbal and written communication skills. You communicate in both a professional and friendly manner with coworkers and stakeholders.
+* **Adaptable:** You are eager to use new tools and learn new processes and technologies. You can adapt to changing priorities while working in a fast\\-paced and high\\-stress environment. You have excellent problem\\-solving skills to address any challenges that may arise.
+* **Coachable:** You have the ability to retain and implement instruction and training. You are open to learn and navigate our current processes and systems. You are not afraid to ask questions.
+* **Positive attitude:** You demonstrate a positive customer service attitude. You are courteous and polite, especially when navigating through difficult conversations, problems, or complaints that may arise.
+* **Exceptional team player:** You are able to work in both a team and independent setting. You tend to foster support and dependability towards your peers while also getting your individual tasks done within specific time constraints.
+* **Reliable:** You are able to work during our regular business hours in our Austin location. You are a punctual individual and able to follow an assigned work schedule. You are able to maintain client confidentiality at all times.
+* **Office environment:** You are able to remain in a stationary position 75% of the time. You are able to work a hybrid schedule; this position is **not** eligible for 100% remote work.
+
+
+**What we offer you:**
+
+
+* $92,000 to $155,000 annual salary
+* Discretionary bonus awarded annually, depending on company and individual\\-level performance, typically 4 weeks of pay
+* 3 medical plans to choose from including a 100% employer\\-paid option for the employee
+* 100% employer\\-paid dental and vision benefits for the employee
+* 401(k) with scheduled employer contribution
+* Employer\\-paid employee assistance program, as well as life and long\\-term disability insurance
+* 4 weeks of paid time off annually, which begins accruing upon hire, and 10 paid holidays
+* Encouraged work\\-life balance including a hybrid working model with WFH equipment provided following successful training
+* Access to building fitness center
+* Office team events and learning development opportunities
+
+
+**Please apply with both your** **resume and cover letter** **if you think you would make a great addition to our team!**
+
+
+Want to get to know us better? Check out our website, X, and Facebook!
+
+
+**Applicants have rights under Federal Employment Laws. Please review your rights below:**
+
+
+***Equal Employment Opportunity (EEO)***
+
+
+***Employee Polygraph Protection Act (EPPA)***
+
+
+***Family and Medical Leave Act (FMLA)***
+
+
+*Please review our* *Privacy Policy* *for information on our practices regarding your personal information. Capitol Services participates in* *E\\-Verify**.*","","https://www.indeed.com/cmp/Capitol-Services","","https://www.csi-dc.com","Falls Church, VA","11 to 50","$1M to $5M (USD)","","","","","","",""
+"in-9728099258cfb381","indeed","https://www.indeed.com/viewjob?jk=9728099258cfb381","https://grnh.se/y7auruv23us","Sr Software Engineer, Fullstack","LTK","Remote, US","2026-05-26","","","","","","",True,"","","","","LTK's mission is to empower the world's premium lifestyle Creators to achieve maximum economic success. We have a huge opportunity ahead of us and we're looking for team members who want to create, innovate and disrupt an industry.
+
+
+
+We empower our team members to drive innovation, create value, and continue to spearhead the creation of this industry — a game changer when it comes to career growth.
+
+**Title:** Senior Software Engineer, Fullstack
+
+
+**Location:** Remote from the U.S.
+
+
+**About the role**
+
+
+
+Join the LTK Family! We are searching for a senior software engineer to join the Creator organization. This team is responsible for the user experiences and systems used to onboard creators and drive their growth across LTK, one of the largest creator\\-guided shopping and brand marketing platforms in the industry.
+
+
+
+The ideal Senior Software Engineer for this space will be organized, productive, and comfortable working across the full stack. You will have strong experience in building scalable, production\\-quality web applications that anticipate significant growth across multiple dimensions. You'll be inventive and have a pragmatic and iterative approach to delivering high quality software. You'll ruthlessly prioritize accomplishing the highest impact deliverables first, and provide valuable guidance to the engineering manager on the direction of the team's web architecture and systems. You will proactively establish lines of communication across the teams and business units, and draw on them to make the team successful.
+
+
+**How you will make an impact**
+
+
+* Coming up with feasible and practical solutions to tough problems.
+* Design, build, and maintain high\\-quality fullstack systems and experiences.
+* Take end\\-to\\-end ownership of features across the stack: from early technical design and prototyping through implementation, testing, rollout, and ongoing iteration.
+* Collaborate with product, design, and other engineers to deliver intuitive, performant, and accessible fullstack experiences that delight creators and brands.
+* Optimize fullstack applications and services for performance, scalability, and reliability.
+* Champion best practices in architecture, usability, security, and cross\\-platform compatibility across the full stack.
+* Use AI tools to expedite daily workflows (e.g., code generation, refactoring, test creation, documentation) and to improve both speed and quality of web development.
+* Leverage AI\\-assisted development practices to prototype, iterate on, and maintain web features efficiently, while holding a high bar for safety and code quality.
+* Write very high\\-quality, well\\-tested code that is robust and easy to maintain.
+* Take ownership of projects and drive them to completion.
+* Work and succeed in a fast\\-paced and agile development environment.
+* Identify and drive improvements to our fullstack architecture, tooling, and development processes.
+* Conduct constructive peer design/code reviews and provide clear, actionable feedback.
+* Work with distributed teams across different time zones.
+* Serve as a technical subject matter expert for fullstack development who mentors fellow engineers, demonstrates technical experience, and leads teams in solving challenging problems.
+
+
+**What you will bring to LTK**
+
+
+* 5\\+ years of software development experience, with significant time spent building and maintaining production\\-scale fullstack applications.
+* Deep experience with modern fullstack development, including both front\\-end and back\\-end technologies.
+* Demonstrated proficiency in **React.js** (or another comparable framework), including building complex, component\\-based single\\-page applications
+* Strong understanding of front\\-end architecture and patterns (component design, state management, routing, modularization).
+* Experience with modern web tooling and ecosystems (e.g., Webpack/Vite, npm/yarn, linting, formatting, testing frameworks such as Jest, React Testing Library, Cypress, or similar).
+* History of designing and building highly scalable, resilient web experiences that serve a growing user base.
+* Experience integrating with backend services and APIs (REST/JSON, HTTP; GraphQL) and working closely with backend teams to define interfaces and contracts.
+* Strong focus on performance, accessibility, security, and usability in web applications.
+* Demonstrated experience using AI tools as part of the software development lifecycle (coding, debugging, testing, documentation) with concrete examples of improved productivity or quality.
+* Ability to critically evaluate AI\\-generated code, refine it, and integrate it safely and effectively into production systems while maintaining team standards and best practices.
+* Experience designing and building backend services or APIs to support web applications in a modern server side language (Go, Java
+* Experience with AWS systems such as ECS, Lambda, and RDS (among others).
+* Experience working in a containerized environment (preferably Docker).
+* Experience with databases such as MySQL, DynamoDB
+* Experience with observability tools like Datadog
+* Comfortable shipping code multiple times per day.
+* Strong technical leadership and mentoring skills.
+* Ability to model and conceptualize integrations across complex systems and how services interact across the full stack.
+* Excellent verbal and written communication skills to both technical and non\\-technical audiences.
+
+### **What we offer**
+
+
+* The opportunity to be part of the leading global company in creator commerce
+* A remote\\-first, productivity\\-first environment
+* Competitive compensation and benefits package to meet the needs of you and your family
+* 401(k) with LTK company matching
+* Medical Insurance, Vision Insurance, Dental Insurance
+* Paid Maternity Leave and Paid Paternity Leave
+* Summer Fridays and Flexible PTO
+
+### **About LTK**
+
+
+
+Founded in 2011, LTK is the global technology platform purpose\\-built to empower lifestyle creators to monetize their content. The full\\-service platform connects brands, creators, and shoppers with a world\\-class shopping app and trusted tools and technology that make content instantly shoppable. Today, premium lifestyle creators in 160\\+ countries drive more than $5 billion\\+ in annual retail sales through their LTK Shop profiles. More than 40 million consumers turn to LTK Shops in the LTK shopping platform each month to find inspiration and instantly shop the styles recommended by their favorite creators. More than 8,000 retailers and 1M brands partner with LTK to gain access to its global creator network for content that converts against performance\\-driven, cross\\-channel KPIs. LTK is headquartered in Dallas, TX, and currently operates on five continents.
+
+
+### **Our mission**
+
+
+
+To empower the world's premium lifestyle Creators to achieve maximum economic success.
+
+
+### **Our values**
+
+
+* Here to win
+* Commit to the journey
+* Work well
+
+### **Commitment to diversity**
+
+
+
+LTK believes diversity, equity, and inclusion are fundamental obligations that strengthen our team. We employ a diverse, multi\\-disciplinary team to build a meaningful company and culture.
+
+
+
+*For US\\-Based Roles: We are not offering new sponsorships opportunities at this time for persons requiring employment visas, such as an H\\-1B; authorization to work in the U.S. is a precondition of employment.*
+
+
+*Any unsolicited resumes/candidate profiles submitted through our website or to personal email accounts of employees of LTK are considered the property of LTK and are not subject to payment of agency fees*.
+
+
+*LTK is an Equal Opportunity Employer.* \\#LI\\-Remote","","https://www.indeed.com/cmp/Ltk-3","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/77f3034f723a5c19179d20caa41c080f","https://company.shopltk.com","Dallas, Texas","201 to 500","$1M to $5M (USD)","A Fast Company ‘Most Innovative Companies’ award-winner, we’re a thriving tech company that still has a start-up vibe.","","","","","",""
+"in-8eab594acdb8b152","indeed","https://www.indeed.com/viewjob?jk=8eab594acdb8b152","https://jobs.ashbyhq.com/rula/a523f461-908f-4527-8611-a72e5544df09?utm_source=NXokZROjzZ","Sr. Software Engineer - Partnerships New Verticals (Remote)","Rula","Los Angeles, CA, US","2026-05-26","fulltime","","","","","",True,"","","","","We believe that mental health is just as important as physical health. We recognize that mental health issues can be complex and multifaceted, and we are dedicated to treating the whole person, not just the symptoms.
+
+
+We aim to create a world where mental health is no longer stigmatized or marginalized, but rather is embraced as an integral part of one's overall well\\-being.
+
+
+We believe that by providing quality care that is both evidence\\-based and compassionate, we can empower individuals to take charge of their mental health and achieve their full potential. We are passionate about making a positive impact on the lives of those struggling with mental health issues and we strive to be a force for positive change in the field of mental healthcare.
+
+
+Rula is a remote\\-first company. We currently hire in most U.S. states, with the exception of Hawaii.
+
+**About the Role**
+
+
+As a Fullstack Senior Software Engineer at Rula, you’ll spend your days designing and scaling robust systems within an autonomous, cross\\-functional team that values high ownership, rapid iteration, and technical excellence. Joining the Partnerships orgs, whose mission is to drive patient starts through strategic collaborations with payers, providers, health systems, PCPs, employers, brokers, and other partners, you’ll report to an Engineering Manager and build software that expands our addressable population, enables seamless access to care, closes the loop with partners’ care teams, and positions Rula as a differentiated strategic partner.
+
+
+The Partnerships New Verticals team focuses on emerging growth areas such as Government, Employers, and PCPs. This includes supporting government\\-sponsored plans like Medicare FFS, enabling employers to provide mental health care access to their employees, and helping PCPs connect patients to high\\-quality mental health care. This is a unique opportunity to lead critical technical initiatives that have a profound human impact in our emerging growth areas.
+
+**Required Qualifications**
+
+* 5\\+ years of professional software development experience, with a proven track record of building and scaling web applications in a production environment.
+* Proven experience leading high\\-priority technical projects from conception to delivery, including the ability to navigate trade\\-offs and align stakeholders.
+* A passion for fostering a high\\-performing engineering culture through code reviews, technical documentation, and mentoring peers.
+* Deep expertise in modern full\\-stack technologies—ideally TypeScript, React, and Node.js—along with a strong grasp of functional and object\\-oriented programming.
+* Proficiency in leveraging AI\\-assisted development tools (e.g., Claude Code, Cursor, or GitHub Copilot) to accelerate delivery velocity, automate boilerplate, and enhance code quality.
+* Demonstrated ability to design and implement complex, distributed systems that are scalable, maintainable, and secure.
+
+**Preferred Qualifications**
+
+*While having the preferred qualifications enhances your candidacy, having all of them is not mandatory. We encourage all interested applicants to apply, even those who may not meet every preferred requirement.*
+
+* Hands\\-on experience developing or integrating LLM\\-based features or agentic workflows into production applications.
+* Strong familiarity with cloud\\-native infrastructure (AWS/GCP), containerization (Docker/Kubernetes), and CI/CD pipeline optimization.
+* Previous experience thriving in a fast\\-paced, high\\-growth startup environment where you’ve helped scale an engineering organization.
+* Advanced knowledge of database design and performance tuning for both relational (PostgreSQL) and non\\-relational data stores.
+
+**We're serious about your well\\-being! As part of our team, full\\-time employees receive:**
+
+* **100% remote work environment:** Working hours to support a healthy work\\-life balance, ensuring you can meet both professional and personal commitments (must be based in United States, currently not hiring in Hawaii)
+* **Attractive pay and benefits**: Full transparency of pay ranges regardless of where you live in the United States
+* **Comprehensive health benefits**: Medical, dental, vision, life, disability, and FSA/HSA
+* **401(k) plan access**: Start saving for your future
+* **Generous time\\-off policies**: Including 2 company\\-wide shutdown weeks each year for self\\-care (for most employees)
+* **Paid parental leave**: Available for all parents, including birthing, non\\-birthing, adopting, and fostering
+* **Employee Assistance Program (EAP)**: Support for your mental and physical health
+* **New hire home office stipend**: Set up your workspace for success
+* **Quarterly department stipend**: Fun team\\-building activities or in\\-person gatherings
+* **Wellness events and lunch \\& learns**: Explore a variety of engaging topics
+* **Community and employee resource groups**: Participate in groups that celebrate employee identity and lived experiences, fostering a sense of community and belonging for all
+
+**Our team**
+
+
+We believe that diversity, equity, and inclusion are fundamental to our mission of making mental healthcare work for everyone. We are dedicated to having a culture of inclusion that will support our employees in feeling safe, seen, heard, and valued.","","https://www.indeed.com/cmp/Rula-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8724260c156e80abe7b197f67d3f6f6c","https://www.rula.com","Los Angeles, CA","1,001 to 5,000","Decline to state","Rula Health fills caseloads and handles paperwork so therapists can focus on what they love: providing care to those in need. With guaranteed biweekly pay, it's no wonder thousands trust Rula.","","","","","",""
 "in-ec2092e62f4a7d0c","indeed","https://www.indeed.com/viewjob?jk=ec2092e62f4a7d0c","https://recruiting.adp.com/srccsh/public/RTI.home?r=5001200645806&c=2201039&d=ExternalCareerSite&rb=INDEED&idUnique=5001200645806","Full Stack Developer","Everforth ECS","Springfield, VA, US","2026-05-26","","","","","","",False,"","","","","Everforth ECS is seeking a ***Full Stack Developer (ETL, Java, Python, Bash Shell)*** to work onsite at our ***Springfield, VA*** customer site.
 
 

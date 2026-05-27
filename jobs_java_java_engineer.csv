@@ -1,4 +1,98 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"in-02dcd660fca54d24","indeed","https://www.indeed.com/viewjob?jk=02dcd660fca54d24","https://tventures.net/wp-content/plugins/bullhorn-oscp/#/jobs/14450","Developer-Java/J2EE Specialist","Technology Ventures","McLean, VA, US","2026-05-27","contract","","","","","",False,"","","","","McLean, VA
+Contract
+
+
+May 27, 2026
+
+
+Developer\\-Java/J2EE Specialist \\-
+
+
+Senior Java Developer  
+
+Required Experience \\& Education  
+
+* 7 –10 years of professional software development experience.
+* Bachelor’s degree in Computer Science or a related field (or equivalent experience).
+
+
+Core Technical Skills (Java \\& Backend)  
+
+* Strong professional experience with Java (backend development).
+* Experience building RESTful APIs and working with common Java frameworks (e.g.,
+
+
+Spring / Spring Boot or similar).  
+
+Outstanding Java expertise (Java 8\\+) including I/O, multithreading/concurrency,  
+
+collections, generics, and lambda expressions.  
+
+* Strong experience building and consuming RESTful API web services.
+* Strong knowledge of Spring Framework and Dependency Injection
+* Proficiency with build/test tools: Maven/Gradle, JUnit/Mockito, FitNesse.
+* Proven ability to perform R\\&D using AI, including evaluating AI\\-assisted approaches,
+
+
+rapidly prototyping solutions, and validating outcomes (e.g., prompt engineering,  
+
+model/tool evaluation, and integrating AI capabilities into workflows or applications).  
+
+* Excellent problem\\-solving, analytical, and technical skills.
+* Strong oral and written communication skills, with the ability to clearly explain
+
+
+technical concepts to both technical and non\\-technical stakeholders.  
+
+  
+
+Database \\& Data Skills  
+
+* Outstanding database skills with strong understanding of RDBMS (e.g., MS SQL)
+
+
+and data modeling.  
+
+  
+
+* Ability to write advanced SQL queries for reporting, troubleshooting, and data analysis.
+* Experience working with structured and semi\\-structured data formats: XML and JSON.
+
+
+DevOps / SDLC / Tooling  
+
+* Understanding of Docker containers in the development process.
+* Understanding of application lifecycle management.
+* Ability to use CI/CD pipelines and related tools (e.g., JIRA, Jenkins) to build and deploy
+
+
+applications.  
+
+* Experience with Git and collaborative development workflows.
+
+
+Preferred / Nice\\-to\\-Have (Java Upgrade, Python \\& AI)  
+
+* Direct experience upgrading or migrating applications to Java 21 (or recent LTS
+
+
+versions), including:  
+
+* Dependency and build updates (e.g., Maven/Gradle)
+* Compatibility testing and resolving breaking changes.
+* Performance and runtime improvements where applicable
+* Python proficiency (preferred), particularly for AI/ML development and automation.
+
+
+  
+
+Soft Skills  
+
+* Flexible and versatile; able to adapt quickly to new environments and work across
+
+
+projects.","Human Resources And Staffing","https://www.indeed.com/cmp/Technology-Ventures","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/c80311a0a108dbd755f395ae08c0025f","http://www.tventures.net","McLean, VA","51 to 200","$25M to $100M (USD)","","","","","","",""
 "in-772a7ad560473fcb","indeed","https://www.indeed.com/viewjob?jk=772a7ad560473fcb","http://www.indeed.com/job/senior-software-developer-772a7ad560473fcb","Senior Software Developer","Apptium Technologies","Reston, VA, US","2026-05-27","fulltime","direct_data","yearly",140000.0,160000.0,"USD",False,"","","","","**\\*This is an ON\\-SITE position at our Reston, VA office**
 
 APPTIUM Technologies is looking to hire a Senior Java Developer to become an integral part of the team! You will be part of a talented software team, managing Java/Java EE application development while providing expertise in the full software development lifecycle, from concept and design to testing. You will deploy and maintain functional, secure and high\\-quality applications.
@@ -856,213 +950,6 @@ About Our Work
 
 We are GDIT. A global technology and professional services company that delivers technology and mission services to every major agency across the U.S. government, defense and intelligence community. Our 26,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation. We operate across over 50 countries worldwide, offering leading capabilities in digital modernization, AI/ML, cloud, cyber and application development. Together with our customers, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.
 Join our Talent Community to stay up to date on our career opportunities and events at gdit.com/tc.*Equal Opportunity Employer / Individuals with Disabilities / Protected Veterans*","","https://www.indeed.com/cmp/General-Dynamics-Information-Technology","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8fb756e998ab49977b1e207da51feba2","http://www.gdit.com","Falls Church, VA","10,000+","more than $10B (USD)","We are GDIT. The people supporting some of the most complex government, defense, and intelligence projects across the country.","","","","","",""
-"in-0e2ec5e6fa6270ca","indeed","https://www.indeed.com/viewjob?jk=0e2ec5e6fa6270ca","https://career.luxoft.com/jobs/senior-java-developer-fixed-income-cash-21800","Senior Java Developer Fixed Income Cash","Luxoft","New York, NY, US","2026-05-26","","direct_data","yearly",130000.0,190000.0,"USD",True,"","","","","##### **Project description**
-
-EST hours  
-
-This is a unique opportunity to get in on the ground floor of a greenfield development project to design and develop a low\\-latency, electronic trading platform for interest rate swaps, US treasuries and futures. In this role, you will interact directly with trading, quantitative, compliance and risk, and IT functions to deliver new trading capabilities and services leveraging modern technologies and data \\& software architectures.  
-
-For Hybrid Remote work salaries from 130000\\-190000 USD per year dependent on knowledge and skill  
-
-For other locations as dependent on location and market standards
-
-
-##### **Responsibilities**
-
-
-Hands on Senior Java Developer with enterprise development experience
-
-
-Work with multiple business teams
-
-
-Provide work estimates as needed
-
-
-Develop system architectures, designs and concepts
-
-
-Maintain and improve code quality using static \\& dynamic code analyses, security vulnerability scans, code coverage and CI/CD pipeline gating
-
-
-Provide technical guidance and be a technical mentor to the development team
-
-
-Design, build and configure applications to meet business process and application requirements
-
-
-Participate in all phases of software delivery lifecycle from analysis through support.
-
-
-##### **Skills**
-
-
-Must have
-
-
-Required
-
-
-10\\+ years of core Java server, back\\-end, development experience
-
-
-Experienced Java Developer (JDK 11 or 17\\)
-
-
-Enterprise services (including observability, configuration management and cloud deployment)
-
-
-Spring (including Spring Boot and Spring Boot Actuator)
-
-
-Message Drive Application development (Kafka, Active MQ or similar)
-
-
-MS SQL Server and/or Sybase experience
-
-
-Preferred
-
-
-Spring (including Spring Boot and Spring Boot Actuator)
-
-
-Apache Camel (Version 3\\)
-
-
-REST API (including Enterprise Authentication and Authentication)
-
-
-Enterprise services (including monitoring, state management)
-
-
-JMS (Active MQ or similar)
-
-
-MS SQL Server and/or Sybase experience
-
-
-Working knowledge of Agile, CI/CD tools (Jenkins, Git, SonarQube)
-
-
-Excellent communication and stakeholder management.
-
-
-Strong problem\\-solving and analytical skills.
-
-
-Ability to handle multiple priorities in a fast\\-paced environment.
-
-
-Proactive, self\\-motivated, and team oriented.
-
-
-Bachelor degree in Mathematics, Engineering or Computer Science.
-
-
-Nice to have
-
-
-* 
-Experience with Capital Markets, understanding how Derivatives instruments are priced and valued, RFQ workflow
-
-
-##### **Other**
-
-
-Languages
-
-
-English: C1 Advanced
-
-
-Seniority
-
-
-Senior
-
-
-  
-New York City, United States of America
-
-
-Req. VR\\-120235
-
-
-Java
-
-
-BCM Industry
-
-
-26/05/2026
-
-
-Req. VR\\-120235","","https://www.indeed.com/cmp/Luxoft","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/aa682d67782d68b9b76c5316f9b70e4d","https://www.luxoft.com/","Zug","10,000+","Decline to state","Luxoft helps businesses innovate, adapt and compete in a constantly changing technology landscape.","","","","","",""
-"in-9d37ae5f64071b8e","indeed","https://www.indeed.com/viewjob?jk=9d37ae5f64071b8e","https://app.jobvite.com/CompanyJobs/Job.aspx?j=o45bAfwE&s=Indeed","Senior Developer","ActioNet","Remote, US","2026-05-26","fulltime","","","","","",True,"","","","","**IgniteAction** is seeking an experienced **Senior Level Developer** to design and build scalable, high\\-quality software and data solutions. The ideal candidate has experience with modern frontend frameworks (React, Vue.js, or Angular), backend development in Java, JavaScript, Python, or Go, SQL\\-based data stores, and strong experience with ETL processes, data pipelines, and AWS CloudFormation. This role requires a strong focus on clean code, API design, performance optimization, and collaborative code reviews.
-**The Core Tech Stack*** **Frontend:** React, Vue.js, or Angular
-* **Backend:** Java, JavaScript, Python, Go
-* **Data:** PostgreSQL or SQL, ETL processes, Data Pipelines
-* **Cloud:** AWS (CloudFormation)
-
-**Key Responsibilities**
-
-* **Feature Architecture**: Designing small\\-to\\-medium systems, including scalable data pipelines and ETL workflows
-* **Code** Quality: Writing clean, testable code, conduct peer code reviews to help keep the codebase sane.
-* **API:** Foundational understanding of RESTful or GraphQL APIs that are intuitive for other team members to use.
-* **Performance:** Identifying and fixing bottlenecks, from slow SQL queries to bloated frontend bundles and inefficient data pipelines
-* **Data Engineering:** Build, maintain, and optimize ETL processes and end\\-to\\-end data pipelines
-* **Cloud Infrastructure**: Develop and manage infrastructure as code using AWS CloudFormation
-**Skill Area****What’s Expected** **System Design**
- Understanding database normalization, load balancing, basic microservices, and data pipeline architecture  
-
-**DevOps**
- Ability to debug a failing CI/CD pipeline, manage environment variables safely, and support AWS environments  
-
-**Testing**
-Writing unit tests and End\\-to\\-End tests as standard practice. **Soft Skills**
-Explaining technical trade\\-offs to product managers and mentoring junior developers.  
-
-
-**Requirements:*** Bachelor’s degree
-* 8 years of experience relative experience
-
-**Work Authorization:**
-Must be a U.S. Citizen and able to obtain or maintain Public Trust (High) clearance.
-
-ActioNet is a CMMI\\-DEV Level 4, CMMI\\-SVC Level 4, ISO 20000, ISO 27001, ISO 9001, HDI\\-certified, woman\\-owned IT Solutions Provider with strong qualifications and expertise in Agile Software Engineering, Cloud Solutions, Cyber Security and IT Managed Services. With 26\\+ years of stellar past performance, ActioNet is the premier Trusted Innogrator!
-**Core Capabilities:*** Advanced and Managed IT Services
-* Agile Software Development
-* DevSecOps
-* Cybersecurity
-* Health IT
-* C4ISR \\& SIGINT
-* Data Center Engineering \\& Operations
-* Engineering \\& Installation
-
-**Why ActioNet?**
-
-At ActioNet, our Passion for Quality is at the heart of everything we do:* **Commitment to Employees**: We are committed to making ActioNet a great place to work and continue to invest in our ActioNeters.
-* **Commitment to Customers**: We are committed to our customers by driving and sustaining Service Delivery Excellence.
-* **Commitment to Community**: We are committed to giving back to our community, helping others, and making the world a better place for our next generation.
-
-**ActioNet is proud to be named a Top Workplace** for the thirteen year in a row (2014 \\- 2026\\). We have a 98% customer retention rate. We are passionate about the inspirational missions of our customers, and we entrust our employees and teams to deliver exceptional performance to enable the safety, security, health, and well\\-being of our nation.**What's in It For You?**
-As an ActioNeter, you get to be part of an exceptional team and a corporate culture that nurtures mutual success for our customers, employees, and communities. We give you the tools to be successful; all you need to do is bring your best ideas, your energy, and a desire to develop your skills, experience, and career. Are you ready to make a difference?
-ActioNet is an equal\\-opportunity employer and values inclusion at our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.**Full\\-Time Employees are eligible to participate in our ActioNet’s Benefits Program:*** Medical Insurance
-* Vision Insurance
-* Dental Insurance
-* Life and AD\\&D Insurance
-* 401(k) Savings Plan
-* Education and Professional Training
-* Flexible Spending Accounts (FSA)
-* Employee Referral and Merit Recognition Programs
-* Employee Assistance and Identity Theft Protection
-* Paid Holidays: 11 per year
-* Paid Time Off (PTO)
-* Disability Insurance
-
-*ActioNet is an equal opportunity employer and value inclusion at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.*
-***\\*\\*\\*\\*\\*\\*\\*\\*Direct Applicants, only. No Agencies, No third\\-party recruiters, please\\*\\*\\*\\*\\*\\*\\*\\****","","https://www.indeed.com/cmp/Actionet","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/cbdc923ad7f2dab1418b4f2ec0092d39","https://www.actionet.com","Vienna, VA","1,001 to 5,000","$100M to $500M (USD)","ActioNet is a CMMI-DEV/SVC Level 4, ISO 20000/27001/9001, HDI Certified, Woman-Owned IT Services Firm with strong qualifications and expertise in Cloud, Cybersecurity and Agile Software Engineering.","","","","","",""
 "in-cefe4cb2bb1fd6b2","indeed","https://www.indeed.com/viewjob?jk=cefe4cb2bb1fd6b2","https://www.lockheedmartinjobs.com/job/king-of-prussia/software-engineer-sr-level-3-top-secret/694/95594170416","Software Engineer Sr - Level 3 (Top Secret)","Lockheed Martin","King of Prussia, PA, US","2026-05-25","fulltime","","","","","",True,"","","","","**JOB ID:** 729622BR
 
 
