@@ -1,0 +1,1578 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"in-772a7ad560473fcb","indeed","https://www.indeed.com/viewjob?jk=772a7ad560473fcb","http://www.indeed.com/job/senior-software-developer-772a7ad560473fcb","Senior Software Developer","Apptium Technologies","Reston, VA, US","2026-05-27","fulltime","direct_data","yearly",140000.0,160000.0,"USD",False,"","","","","**\\*This is an ON\\-SITE position at our Reston, VA office**
+
+APPTIUM Technologies is looking to hire a Senior Java Developer to become an integral part of the team! You will be part of a talented software team, managing Java/Java EE application development while providing expertise in the full software development lifecycle, from concept and design to testing. You will deploy and maintain functional, secure and high\\-quality applications.
+
+**Responsibilities:**
+
+* Design, develop, and debug web\\-based software solutions, with a focus on Java, API's/ back\\-end services and relational database technologies.
+* Analyze, review, and rewrite programs to increase operating efficiency or to adapt to new program requirements.
+* Effectively communicate and resolve issues with cross functional groups to escalate issues or changes in scope.
+* Communicate clearly and concisely with clients, customers and management.
+
+**Candidate Requirements:** 
+
+* Experience working as a Lead Developer and as a hands\\-on developer.
+* Excellent debugging and troubleshooting skills.
+* Experience in the telecom or cable industry.
+* Proven ability to perform well in a deadline\\-sensitive environment.
+* Agile/Scrum development methodology desirable.
+* Demonstrated success in high volume, low latency business critical system
+* Ability to work both independently and collaboratively are key.
+* Candidates should be self\\-motivated and ready to hit the ground running.
+* Strong written and oral communication skills and the ability to present to large and small groups.
+* Experience in solving difficult technology problems and performing code performance analysis.
+
+**Required Skills:** 
+
+* Bachelor’s Degree.
+* 7\\+ years' development experience with Java technologies: latest Java, Spring Boot, Spring cloud, Spring security, ORM, JDBC.
+* Good knowledge on the other programming languages: Go, NodeJS, Python.
+* Experience in development and deployment of Web Services (REST and SOAP), micro\\-services, API gateways, docker services.
+* Strong SQL skills with Relational, NoSQL and Bigdata database systems (ORACLE, MYSQL, POSTGRES, BigQuery, MongoDB, Cassandra, Neo4j, etc).
+* Experience in logger framework: ELK, Splunk, Prometheus, etc.
+* Experience with front end HTML5, CSS, TS/JS framework including Angular, React framework a plus.
+* Experience in code quality and code security tools: SonarQube, Snyk or equivalent tools.
+* Strong hands\\-on experience with caching and queuing systems: Redis, MQ, RabbitMQ, Apache Kafka or any equivalent pub/sub systems.
+* Good experience in working with cloud infrastructure and cloud solutions/services: AWS, GCP, Azure, Docker, Kubernetes, Lambda functions.
+* Good experience in Identity management and SSO systems: Office365, PingIdentity, SAML, OIDC and any OAuth systems.
+* Strong experience in source control systems and CI/CD tools: Github, Bitbucket, Gitlab, Jenkins, etc.
+* Good knowledge in using generative AI and AI pair\\-programming for SDLC processes.
+* Deep understanding and hands\\-on experience in MCP, LLM, NLP and other related AI components.
+* Good knowledge and experience in AI/ML development \\& solution design, machine learning frameworks (TensorFlow, PyTorch, LangChain, etc) and cloud AI services (AWS SageMaker, Azure ML, Google AI) and AI security frameworks.
+* Familiar with task management and documentation tools: JIRA, Azure DevOps, Confluence, Sharepoint, etc.
+
+**WHAT’S IN IT FOR YOU?**
+
+* Competitive Salary and Compensation
+* Annual Bonus Based on Personal Performance
+* Medical, Dental, and Vision Insurance
+* 401(k) with Company Match
+* Employer\\-Paid Life Insurance and AD\\&D
+* 100% Employer\\-Paid Short\\-Term and Long\\-Term Disability Coverage
+* Paid Time Away (FTA Leave Policy)
+* Paid Holidays
+* Fun Fit Fridays Promoting Employee Health and Wellness
+* Collaborative Work Environment
+* Employee Referral Program
+
+*We are an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law. Apptium participates in the E\\-Verify program.*
+
+Pay: $140,000\\.00 \\- $160,000\\.00 per year
+
+Benefits:
+
+* 401(k) matching
+* AD\\&D insurance
+* Dental insurance
+* Health insurance
+* Life insurance
+* On\\-site gym
+* Paid holidays
+* Paid time off
+* Referral program
+* Vision insurance
+
+Work Location: In person","Internet And Software","https://www.indeed.com/cmp/Apptium-Technologies-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d8a6972a7112eeaac9a0d2b970a44b9d","http://www.apptium.com","12950 WorldGate Drive, Suite #710
+Herndon, VA, 20170","201 to 500","","Our mission is to deliver technology solutions that have a significant impact to improving customer experience.","","","","","",""
+"in-fd6afa57a5dd6351","indeed","https://www.indeed.com/viewjob?jk=fd6afa57a5dd6351","https://kemper.wd5.myworkdayjobs.com/Kemper_Careers/job/Jacksonville-Florida/Full-Stack-Developer-Java-Guidewire_R-26-0035772","Full Stack Developer-Java/Guidewire","Kemper","Birmingham, AL, US","2026-05-27","fulltime","","","","","",False,"","","","","Location(s)
+
+
+Alpharetta, Georgia, Birmingham, Alabama, Jacksonville, Florida**Details**
+
+*Kemper is one of the nation’s leading specialized insurers. Our success is a direct reflection of the talented and diverse people who make a positive difference in the lives of our customers every day. We believe a high\\-performing culture, valuable opportunities for personal development and professional challenge, and a healthy work\\-life balance can be highly motivating and productive. Kemper’s products and services are making a real difference to our customers, who have unique and evolving needs. By joining our team, you are helping to provide an experience to our stakeholders that delivers on our promises.*
+
+  
+
+We are seeking an experienced Full Stack Developer focused on Java/Guidewire Claimcenter. Be a deep technical expert in the property \\& casualty insurance claim domain. In this role, you will design and code scalable solutions, influence architecture, and provide guidance through technical excellence. You will work on Guidewire ClaimCenter and its surrounding middleware (Java/SpringBoot, AWS SQS/SNS, AWS Lambdas, AWS PostgreSQL, etc).
+
+**Position Responsibilities:**
+
+* Design robust, high\\-performance solutions across systems and services
+* Serve as a key technical contributor on critical projects or initiatives within the property \\& casualty insurance claim domain
+* Act as a resource for others by sharing deep technical knowledge and context \\- without formal leadership or management duties
+* Evaluate and advocate for improvements in system architecture, technical standards, and development processes
+* Collaborate with stakeholders across engineering and product to align technical implementation with business needs
+* Create proof of concepts to demonstrate capabilities
+* Enforce standard coding and security best practices
+* Work within SAFe (Scaled Agile Framework)
+
+**Position Qualifications:**
+
+* Bachelor’s degree in computer science, computer engineering, or a related field; advanced degree preferred
+* 8 or more years of full stack Java developer experience
+* Expert\\-level understanding of the full SDLC
+* Ability to identify bottlenecks or inefficiencies in the software development lifecycle and propose improvements
+* Deep familiarity with wide range of software design patterns and architectural principles, applying them to design scalable and maintainable systems
+* Guidewire ClaimCenter experience is strongly desired
+* Knowledge of auto insurance; commercial \\& personal auto lines preferred
+* Expertise with most of the following: Languages such as Java, Gosu, Kotlin, HTML/CSS, JavaScript, TypeScript
+* Standard design patterns
+* Spring Boot and container orchestration (EKS/ECS)
+* CI/CD, Containerization and Orchestration
+* Unit testing and integration testing
+* Version control systems (e.g. Git)
+* RESTful APIs and microservices
+* AI Prompt/Agentic Engineering
+* Monitoring and logging via tools like AppDynamics and Splunk
+* SQL and secure coding practices
+* Cloud\\-native architecture and AWS services
+* Frameworks such as Angular, React, Vue
+* This position works at the Kemper office
+
+ *Kemper is proud to be an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran, disability status or any other status protected by the laws or regulations in the locations where we operate.*
+
+*We are committed to supporting diversity and equality across our organization and we work diligently to maintain a workplace free from discrimination.*
+
+*Kemper is focused on expanding our Diversity, Equity and Inclusion efforts to align with our vision, mission, and guiding principles. Kemper does not accept unsolicited resumes through or from search firms or staffing agencies. All unsolicited resumes will be considered the property of Kemper and Kemper will not be obligated to pay a placement fee.*
+
+ *Kemper will never request personal information, such as your social security number or banking information, via text or email. Additionally, Kemper does not use external messaging applications like WireApp or Skype to communicate with candidates. If you receive such a message, delete it.*
+
+*\\#LI\\-AK*","","https://www.indeed.com/cmp/Kemper-9","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/4846cf23789b3bb30f462572b8b3067d","http://www.kemper.com","Chicago, IL","5,001 to 10,000","$1B to $5B (USD)","","","","","","",""
+"in-65f6e5e46fefc403","indeed","https://www.indeed.com/viewjob?jk=65f6e5e46fefc403","https://kemper.wd5.myworkdayjobs.com/Kemper_Careers/job/Jacksonville-Florida/Full-Stack-Developer-Java-Guidewire_R-26-0035772","Full Stack Developer-Java/Guidewire","Kemper","Jacksonville, FL, US","2026-05-27","fulltime","","","","","",False,"","","","","Location(s)
+
+
+Alpharetta, Georgia, Birmingham, Alabama, Jacksonville, Florida**Details**
+
+*Kemper is one of the nation’s leading specialized insurers. Our success is a direct reflection of the talented and diverse people who make a positive difference in the lives of our customers every day. We believe a high\\-performing culture, valuable opportunities for personal development and professional challenge, and a healthy work\\-life balance can be highly motivating and productive. Kemper’s products and services are making a real difference to our customers, who have unique and evolving needs. By joining our team, you are helping to provide an experience to our stakeholders that delivers on our promises.*
+
+  
+
+We are seeking an experienced Full Stack Developer focused on Java/Guidewire Claimcenter. Be a deep technical expert in the property \\& casualty insurance claim domain. In this role, you will design and code scalable solutions, influence architecture, and provide guidance through technical excellence. You will work on Guidewire ClaimCenter and its surrounding middleware (Java/SpringBoot, AWS SQS/SNS, AWS Lambdas, AWS PostgreSQL, etc).
+
+**Position Responsibilities:**
+
+* Design robust, high\\-performance solutions across systems and services
+* Serve as a key technical contributor on critical projects or initiatives within the property \\& casualty insurance claim domain
+* Act as a resource for others by sharing deep technical knowledge and context \\- without formal leadership or management duties
+* Evaluate and advocate for improvements in system architecture, technical standards, and development processes
+* Collaborate with stakeholders across engineering and product to align technical implementation with business needs
+* Create proof of concepts to demonstrate capabilities
+* Enforce standard coding and security best practices
+* Work within SAFe (Scaled Agile Framework)
+
+**Position Qualifications:**
+
+* Bachelor’s degree in computer science, computer engineering, or a related field; advanced degree preferred
+* 8 or more years of full stack Java developer experience
+* Expert\\-level understanding of the full SDLC
+* Ability to identify bottlenecks or inefficiencies in the software development lifecycle and propose improvements
+* Deep familiarity with wide range of software design patterns and architectural principles, applying them to design scalable and maintainable systems
+* Guidewire ClaimCenter experience is strongly desired
+* Knowledge of auto insurance; commercial \\& personal auto lines preferred
+* Expertise with most of the following: Languages such as Java, Gosu, Kotlin, HTML/CSS, JavaScript, TypeScript
+* Standard design patterns
+* Spring Boot and container orchestration (EKS/ECS)
+* CI/CD, Containerization and Orchestration
+* Unit testing and integration testing
+* Version control systems (e.g. Git)
+* RESTful APIs and microservices
+* AI Prompt/Agentic Engineering
+* Monitoring and logging via tools like AppDynamics and Splunk
+* SQL and secure coding practices
+* Cloud\\-native architecture and AWS services
+* Frameworks such as Angular, React, Vue
+* This position works at the Kemper office
+
+ *Kemper is proud to be an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran, disability status or any other status protected by the laws or regulations in the locations where we operate.*
+
+*We are committed to supporting diversity and equality across our organization and we work diligently to maintain a workplace free from discrimination.*
+
+*Kemper is focused on expanding our Diversity, Equity and Inclusion efforts to align with our vision, mission, and guiding principles. Kemper does not accept unsolicited resumes through or from search firms or staffing agencies. All unsolicited resumes will be considered the property of Kemper and Kemper will not be obligated to pay a placement fee.*
+
+ *Kemper will never request personal information, such as your social security number or banking information, via text or email. Additionally, Kemper does not use external messaging applications like WireApp or Skype to communicate with candidates. If you receive such a message, delete it.*
+
+*\\#LI\\-AK*","","https://www.indeed.com/cmp/Kemper-9","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/4846cf23789b3bb30f462572b8b3067d","http://www.kemper.com","Chicago, IL","5,001 to 10,000","$1B to $5B (USD)","","","","","","",""
+"in-3b157576f40d8ca5","indeed","https://www.indeed.com/viewjob?jk=3b157576f40d8ca5","https://kemper.wd5.myworkdayjobs.com/Kemper_Careers/job/Jacksonville-Florida/Full-Stack-Developer-Java-Guidewire_R-26-0035772","Full Stack Developer-Java/Guidewire","Kemper","Alpharetta, GA, US","2026-05-27","fulltime","","","","","",False,"","","","","Location(s)
+
+
+Alpharetta, Georgia, Birmingham, Alabama, Jacksonville, Florida**Details**
+
+*Kemper is one of the nation’s leading specialized insurers. Our success is a direct reflection of the talented and diverse people who make a positive difference in the lives of our customers every day. We believe a high\\-performing culture, valuable opportunities for personal development and professional challenge, and a healthy work\\-life balance can be highly motivating and productive. Kemper’s products and services are making a real difference to our customers, who have unique and evolving needs. By joining our team, you are helping to provide an experience to our stakeholders that delivers on our promises.*
+
+  
+
+We are seeking an experienced Full Stack Developer focused on Java/Guidewire Claimcenter. Be a deep technical expert in the property \\& casualty insurance claim domain. In this role, you will design and code scalable solutions, influence architecture, and provide guidance through technical excellence. You will work on Guidewire ClaimCenter and its surrounding middleware (Java/SpringBoot, AWS SQS/SNS, AWS Lambdas, AWS PostgreSQL, etc).
+
+**Position Responsibilities:**
+
+* Design robust, high\\-performance solutions across systems and services
+* Serve as a key technical contributor on critical projects or initiatives within the property \\& casualty insurance claim domain
+* Act as a resource for others by sharing deep technical knowledge and context \\- without formal leadership or management duties
+* Evaluate and advocate for improvements in system architecture, technical standards, and development processes
+* Collaborate with stakeholders across engineering and product to align technical implementation with business needs
+* Create proof of concepts to demonstrate capabilities
+* Enforce standard coding and security best practices
+* Work within SAFe (Scaled Agile Framework)
+
+**Position Qualifications:**
+
+* Bachelor’s degree in computer science, computer engineering, or a related field; advanced degree preferred
+* 8 or more years of full stack Java developer experience
+* Expert\\-level understanding of the full SDLC
+* Ability to identify bottlenecks or inefficiencies in the software development lifecycle and propose improvements
+* Deep familiarity with wide range of software design patterns and architectural principles, applying them to design scalable and maintainable systems
+* Guidewire ClaimCenter experience is strongly desired
+* Knowledge of auto insurance; commercial \\& personal auto lines preferred
+* Expertise with most of the following: Languages such as Java, Gosu, Kotlin, HTML/CSS, JavaScript, TypeScript
+* Standard design patterns
+* Spring Boot and container orchestration (EKS/ECS)
+* CI/CD, Containerization and Orchestration
+* Unit testing and integration testing
+* Version control systems (e.g. Git)
+* RESTful APIs and microservices
+* AI Prompt/Agentic Engineering
+* Monitoring and logging via tools like AppDynamics and Splunk
+* SQL and secure coding practices
+* Cloud\\-native architecture and AWS services
+* Frameworks such as Angular, React, Vue
+* This position works at the Kemper office
+
+ *Kemper is proud to be an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran, disability status or any other status protected by the laws or regulations in the locations where we operate.*
+
+*We are committed to supporting diversity and equality across our organization and we work diligently to maintain a workplace free from discrimination.*
+
+*Kemper is focused on expanding our Diversity, Equity and Inclusion efforts to align with our vision, mission, and guiding principles. Kemper does not accept unsolicited resumes through or from search firms or staffing agencies. All unsolicited resumes will be considered the property of Kemper and Kemper will not be obligated to pay a placement fee.*
+
+ *Kemper will never request personal information, such as your social security number or banking information, via text or email. Additionally, Kemper does not use external messaging applications like WireApp or Skype to communicate with candidates. If you receive such a message, delete it.*
+
+*\\#LI\\-AK*","","https://www.indeed.com/cmp/Kemper-9","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/4846cf23789b3bb30f462572b8b3067d","http://www.kemper.com","Chicago, IL","5,001 to 10,000","$1B to $5B (USD)","","","","","","",""
+"in-06fb1fa1ff50fb62","indeed","https://www.indeed.com/viewjob?jk=06fb1fa1ff50fb62","https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Lead-Java-Engineer--Full-Stack-Development_R-0011336","Lead Java Engineer, Full Stack Development","Raymond James","Saint Petersburg, FL, US","2026-05-27","fulltime","","","","","",False,"","","","","**Job Description Summary**
+
+Highly specialized expert developing software applications, in entirety or in part, that have a big impact on business for a large organization.
+**Job Description**
+
+***This position will follow our hybrid work model, we expect the selected candidate to be in the office 2\\-3 days a week at the St. Petersburg, FL Corporate Office location.***
+
+**Summary:**
+
+We are seeking a highly skilled and self\\-sufficient Lead Full Stack Developer with deep expertise in Java and strong leadership\\-level experience in Angular development. This role is central to the ongoing development and enhancement of the Annuities and Insurance applications. The ideal candidate will serve as the primary developer responsible for designing and implementing new features independently, enhancing existing functionality, and supporting components within the Java ecosystem.  
+
+  
+
+
+
+This position requires a proactive, independent learner who can take ownership of complex technical challenges and deliver high\\-quality solutions with minimal oversight. The candidate will work across the full software development lifecycle and collaborate with cross\\-functional teams to ensure timely and efficient delivery of enterprise\\-grade solutions.
+
+
+**Responsibilities:**
+
+* Serve as the lead developer for the Annuities and Insurance Applications, driving feature enhancements and new development initiatives.
+* Design, develop, and implement scalable and maintainable full stack solutions using Java (Spring, Spring Boot) and Angular.
+* Work independently to analyze complex system requirements and translate them into robust technical solutions.
+* Support and enhance existing document management functionality within the Java space.
+* Collaborate with business analysts, architects, and other developers to ensure alignment with business goals and technical standards.
+* Provide technical leadership and mentorship to junior developers and team members.
+* Participate in code reviews, system testing, and validation procedures.
+* Ensure adherence to best practices in software engineering, including CI/CD, modular design, and secure coding standards.
+* Stay current with emerging technologies and recommend improvements to enhance system performance and maintainability.
+* Participate in production support rotations and respond to escalated issues as needed.
+
+**Skills:**
+
+* 10\\+ years of hands\\-on experience with Java (Java 8\\+), Spring, Spring Boot, REST, SOAP, and Microservices.
+* 5\\+ years of experience leading Angular development efforts in a full stack capacity.
+* Strong understanding of software engineering principles, object\\-oriented design, and design patterns.
+* Experience with SQL and NoSQL databases, integration frameworks, and distributed caching strategies.
+* Familiarity with CI/CD pipelines and DevOps practices.
+* Exposure to streaming technologies such as Kafka is a plus.
+* Experience in financial services or enterprise\\-scale applications is preferred.
+* Excellent communication, analytical, and problem\\-solving skills.
+
+**Preferred Attributes:**
+
+* Self\\-starter with a passion for learning and solving complex problems.
+* Ability to work independently and manage multiple priorities in a fast\\-paced environment.
+* Strong leadership and mentoring capabilities.
+
+**Education**
+
+Bachelor’s: Computer and Information Science (Required), High School (HS) (Required)
+**Work Experience**
+
+General Experience \\- 6 to 10 years
+**Certifications**
+
+**Travel**
+
+**Workstyle**
+
+Hybrid
+The total compensation for this position includes base salary or wages, and may include components such as additional compensation (cash or equity), discretionary bonuses, or commissions. This position is eligible for a benefits package that may include medical, dental, and vision; life insurance; critical illness insurance and accident insurance; disability benefits; retirement savings; paid time off (including vacation, holidays, and sick leave); and parental leave. Eligibility for benefits and specific offerings may vary based on position and employment status. To view more details of the benefits offered, visit Myrjbenefits.com.  
+
+
+
+At Raymond James our associates use five guiding behaviors (Develop, Collaborate, Decide, Deliver, Improve) to deliver on the firm's core values of client\\-first, integrity, independence and a conservative, long\\-term view.
+  
+
+  
+
+We expect our associates at all levels to:
+  
+
+* Grow professionally and inspire others to do the same
+* Work with and through others to achieve desired outcomes
+* Make prompt, pragmatic choices and act with the client in mind
+* Take ownership and hold themselves and others accountable for delivering results that matter
+* Contribute to the continuous evolution of the firm
+At Raymond James – as part of our people\\-first culture, we honor, value, and respect the uniqueness, experiences, and backgrounds of all of our Associates. When associates bring their best authentic selves, our organization, clients, and communities thrive. The Company is an equal opportunity employer and makes all employment decisions on the basis of merit and business needs.","Banks And Financial Services","https://www.indeed.com/cmp/Raymond-James","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d7928fd068e6c5c5c6a6473f9b832afb","http://www.raymondjames.com","880 Carillon Parkway
+St. Petersburg, FL 33716","10,000+","$5B to $10B (USD)","Our vision is to be a financial services firm as unique as the people we serve, transforming lives, businesses and communities through the power of personal relationships and professional advice.","","","","","",""
+"in-35e42ac6b56f9736","indeed","https://www.indeed.com/viewjob?jk=35e42ac6b56f9736","https://technology-consultants-inc.careerplug.com/j/02zvqrn","Java Developer Jr","Technology Consultants, Inc.","Ashburn, VA, US","2026-05-27","fulltime","direct_data","yearly",80000.0,110000.0,"USD",False,"","","","","**Benefits:**
+* 401(k)
+* Competitive salary
+* Dental insurance
+* Health insurance
+* Paid time off
+* Vision insurance
+Technology Consultants Inc. *is hiring a Java Application Developer to support a dynamic government customer with a wide variety of development tasks. You will be responsible for collaborating with team members and stakeholders to design, develop, and implement application development solutions that meet our client’s needs. The ideal candidate will be able to work independently and in coordination with other team members and other intersecting teams, and enjoy learning new technologies and business areas.*
+
+***Responsibilities:**** *Design, develop, test, and maintain a suite of Java applications*
+* *Be an active member of an Agile development team, responsible for participating in all Agile ceremonies, updating Jira tasks daily and contributing to continual improvement strategies*
+* *Troubleshoot complex issues in production and non\\-production systems*
+* *Learn new technical skills to meet the needs of the project and our customers*
+
+
+***Required Education, Skills and Experience:***
+* *Bachelor’s degree plus at least 2 years of work experience or an equivalent combination of education and experience. The work experience should include supporting Java applications and associated frameworks such as Spring and Spring Boot.*
+* *Experience working in an Agile team development environment using Jira or a similar tool*
+* *Experience developing against relational databases (e.g., Oracle, PostgreSQL)*
+* *Experience writing automated unit tests in a tool like JUnit*
+* *Good communication skills, both written and verbal*
+* *Ability to collaborate with team members to ensure client needs and expectations are met or exceeded*
+* *Demonstrates a passion for solving complex software challenges, and enjoys working alongside fellow team members to make that happen*
+
+
+***Preferred Skills and Experience:***
+* *Experience working in an automated development environment, using CI/CD tools such as Git, Bamboo, Jenkins, SonarQube*
+* *Experience developing in and deploying to a Cloud environment (such as Amazon Web Services)*
+* *Experience with Docker, Kubernetes*
+* *Development experience using JavaScript and/or JavaScript frameworks like Angular*
+* *Experience with Spring and Spring Boot*
+* *Experience with Hibernate or MyBatis*
+* *Experience with JMS (e.g., IBM MQ, ActiveMQ)*
+* *Experience with Linux*
+
+
+***Clearance:*** *Ability to obtain the required government security clearance (CBP Final).*","","https://www.indeed.com/cmp/Technology-Consultants,-Inc.","","http://www.pro-star.com","City of Industry","11 to 50","$5M to $25M (USD)","","","","","","",""
+"in-23c1edab3bb68810","indeed","https://www.indeed.com/viewjob?jk=23c1edab3bb68810","https://jobs.birlasoft.com/job/Sr-Technical-Lead-App-Engg-Services-US/56357444/","Sr Technical Lead-App Engg Services","Birlasoft","NJ, US","2026-05-26","","","","","","",False,"","","","","Country/Region: US
+Requisition ID: 36297
+Work Model: Hybrid
+Position Type: Permanent
+Salary Range:
+Location: US \\- NJ \\- BIRLASOFT OFFICE
+**Title:** **Sr Technical Lead\\-App Engg Services**
+===================================================
+
+Description:
+**Senior Windchill Developer**
+------------------------------
+
+
+**Senior Windchill Developer**
+
+
+**US Citizenship Required**
+
+
+
+Birlasoft is currently seeking a strong Java developer who enjoys interacting with both customers and peers to join our Extended Product LifeCycle Management (EPLM) Team. The developer will be involved in all phases of projects, from analysis of client’s needs to implementation, customization, and reporting on a variety of solutions. The developer will be dealing with large, high profile clients in the medical, automotive, defense, and manufacturing industries and will be required to configure and customize solutions to the client’s complex needs. The ideal candidate will have strong communication skills and a willingness to provide support along with strong technical knowledge.
+
+
+
+The expectation is this person would have 5\\+ years of experience with Windchill development.
+
+
+**RESPONSIBILITIES INCLUDE:**
+
+* Developing and maintaining software using Java and enterprise system APIs
+* Actively participating in all stages of the implementation project from development through testing
+* Developing relationships with the clients and supporting them during the project lifecycle
+* Meeting with and utilizing teammates’ expertise to maximize project efficiency
+* Documenting methods and lessons learned
+
+
+**EXPERIENCE AND REQUIRED SKILLS:**
+
+* Prior experience with Aerospace and Defense industry a major plus
+* Experience with various forms of Windchill Report Capability (Jasper, QML, etc.)
+* Experience with heavily customized Windchill systems
+* Windchill Upgrade experience
+* Some travel required
+* Bachelor's degree, preferably in Computer Science and equivalent experience in the development industry
+* Experience with Java programming, specifically with Windchill API
+* Experience with ERP integrations preferred
+* Web\\-based development experience (JSP, Javascript, MVC, Spring) preferred
+* In Depth knowledge of object\\-oriented methodologies and API development preferred
+* Database experience (Oracle, SQL Server) is a plus
+**Area(s) of responsibility**
+-----------------------------","","https://www.indeed.com/cmp/Birlasoft","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/4c14ead57fc86fce74e0409ce1d62ee6","https://www.birlasoft.com","Pune, IN","1,001 to 5,000","more than $10B (USD)","","","","","","",""
+"in-15b3d73367151f5c","indeed","https://www.indeed.com/viewjob?jk=15b3d73367151f5c","https://jobs.birlasoft.com/job/Sr-Engineer-Application-Engg-Services-US/56357144/","Sr Engineer-Application Engg Services","Birlasoft","NJ, US","2026-05-26","","","","","","",False,"","","","","Country/Region: US
+Requisition ID: 36295
+Work Model: Hybrid
+Position Type: Permanent
+Salary Range:
+Location: US \\- NJ \\- BIRLASOFT OFFICE
+**Title:** **Sr Engineer\\-Application Engg Services**
+=====================================================
+
+Description:
+**Associate Java Developer**
+----------------------------
+
+
+**Associate Java Developer**
+
+
+
+Must be U.S. Citizen
+
+
+
+Birlasoft is currently seeking a strong Java developer who enjoys interacting with both customers and peers to join our Extended Product LifeCycle Management (EPLM) Team. The Java developer will be involved in all phases of projects, from analysis of client’s needs to implementation, customization, and reporting on a variety of solutions. The developer will be dealing with large, high profile clients in the automotive, defense, and manufacturing industries and will be required to configure and customize solutions to the client’s complex needs. The ideal candidate will have strong communication skills and a willingness to provide support along with strong technical knowledge.
+
+
+
+Recent and upcoming college graduates are encouraged to apply. PLM specific training is provided.
+
+
+**RESPONSIBILITIES INCLUDE:**
+
+* Developing and maintaining software using Java and enterprise system APIs
+
+
+* Actively participating in all stages of the implementation project from development through testing
+
+
+* Developing relationships with the clients and supporting them during the project lifecycle
+
+
+* Meeting with and utilizing teammates’ expertise to maximize project efficiency
+
+
+* Documenting methods and lessons learned
+
+
+**EXPERIENCE AND REQUIRED SKILLS:**
+
+* Ability to work on US Government contracts required
+
+
+* Some travel required
+
+
+* Bachelor's degree, preferably in Computer Science and/or equivalent experience in the development industry
+
+
+* Experience with Java programming
+
+
+* Professional experience in software implementation is a plus
+
+
+* Web\\-based development experience (JSP, Javascript, MVC, Spring) preferred
+
+
+* In Depth knowledge of object\\-oriented methodologies and API development preferred
+
+
+* Database experience (Oracle, SQL Server) is a plus
+**Area(s) of responsibility**
+-----------------------------","","https://www.indeed.com/cmp/Birlasoft","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/4c14ead57fc86fce74e0409ce1d62ee6","https://www.birlasoft.com","Pune, IN","1,001 to 5,000","more than $10B (USD)","","","","","","",""
+"in-831f893b364d87e7","indeed","https://www.indeed.com/viewjob?jk=831f893b364d87e7","https://jobs.birlasoft.com/job/Sr-Technical-Lead-App-Engg-Services-US/56357544/","Sr Technical Lead-App Engg Services","Birlasoft","NJ, US","2026-05-26","","","","","","",False,"","","","","Country/Region: US
+Requisition ID: 36298
+Work Model: Hybrid
+Position Type: Permanent
+Salary Range:
+Location: US \\- NJ \\- BIRLASOFT OFFICE
+**Title:** **Sr Technical Lead\\-App Engg Services**
+===================================================
+
+Description:
+**Senior Windchill Developer**
+------------------------------
+
+
+**Senior Windchill Developer**
+
+
+**US Citizenship Required**
+
+
+
+Birlasoft is currently seeking a strong Java developer who enjoys interacting with both customers and peers to join our Extended Product LifeCycle Management (EPLM) Team. The developer will be involved in all phases of projects, from analysis of client’s needs to implementation, customization, and reporting on a variety of solutions. The developer will be dealing with large, high profile clients in the medical, automotive, defense, and manufacturing industries and will be required to configure and customize solutions to the client’s complex needs. The ideal candidate will have strong communication skills and a willingness to provide support along with strong technical knowledge.
+
+
+
+The expectation is this person would have 5\\+ years of experience with Windchill development.
+
+
+**RESPONSIBILITIES INCLUDE:**
+
+* Developing and maintaining software using Java and enterprise system APIs
+* Actively participating in all stages of the implementation project from development through testing
+* Developing relationships with the clients and supporting them during the project lifecycle
+* Meeting with and utilizing teammates’ expertise to maximize project efficiency
+* Documenting methods and lessons learned
+
+
+**EXPERIENCE AND REQUIRED SKILLS:**
+
+* Prior experience with Aerospace and Defense industry a major plus
+* Experience with various forms of Windchill Report Capability (Jasper, QML, etc.)
+* Experience with heavily customized Windchill systems
+* Windchill Upgrade experience
+* Some travel required
+* Bachelor's degree, preferably in Computer Science and equivalent experience in the development industry
+* Experience with Java programming, specifically with Windchill API
+* Experience with ERP integrations preferred
+* Web\\-based development experience (JSP, Javascript, MVC, Spring) preferred
+* In Depth knowledge of object\\-oriented methodologies and API development preferred
+* Database experience (Oracle, SQL Server) is a plus
+**Area(s) of responsibility**
+-----------------------------","","https://www.indeed.com/cmp/Birlasoft","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/4c14ead57fc86fce74e0409ce1d62ee6","https://www.birlasoft.com","Pune, IN","1,001 to 5,000","more than $10B (USD)","","","","","","",""
+"in-6097a72507ddf03f","indeed","https://www.indeed.com/viewjob?jk=6097a72507ddf03f","https://jobs.birlasoft.com/job/Sr-Engineer-Application-Engg-Services-US/56357244/","Sr Engineer-Application Engg Services","Birlasoft","NJ, US","2026-05-26","","","","","","",False,"","","","","Country/Region: US
+Requisition ID: 36296
+Work Model: Hybrid
+Position Type: Permanent
+Salary Range:
+Location: US \\- NJ \\- BIRLASOFT OFFICE
+**Title:** **Sr Engineer\\-Application Engg Services**
+=====================================================
+
+Description:
+**Associate Java Developer**
+----------------------------
+
+
+**Associate Java Developer**
+
+
+
+Must be U.S. Citizen
+
+
+
+Birlasoft is currently seeking a strong Java developer who enjoys interacting with both customers and peers to join our Extended Product LifeCycle Management (EPLM) Team. The Java developer will be involved in all phases of projects, from analysis of client’s needs to implementation, customization, and reporting on a variety of solutions. The developer will be dealing with large, high profile clients in the automotive, defense, and manufacturing industries and will be required to configure and customize solutions to the client’s complex needs. The ideal candidate will have strong communication skills and a willingness to provide support along with strong technical knowledge.
+
+
+
+Recent and upcoming college graduates are encouraged to apply. PLM specific training is provided.
+
+
+**RESPONSIBILITIES INCLUDE:**
+
+* Developing and maintaining software using Java and enterprise system APIs
+
+
+* Actively participating in all stages of the implementation project from development through testing
+
+
+* Developing relationships with the clients and supporting them during the project lifecycle
+
+
+* Meeting with and utilizing teammates’ expertise to maximize project efficiency
+
+
+* Documenting methods and lessons learned
+
+
+**EXPERIENCE AND REQUIRED SKILLS:**
+
+* Ability to work on US Government contracts required
+
+
+* Some travel required
+
+
+* Bachelor's degree, preferably in Computer Science and/or equivalent experience in the development industry
+
+
+* Experience with Java programming
+
+
+* Professional experience in software implementation is a plus
+
+
+* Web\\-based development experience (JSP, Javascript, MVC, Spring) preferred
+
+
+* In Depth knowledge of object\\-oriented methodologies and API development preferred
+
+
+* Database experience (Oracle, SQL Server) is a plus
+**Area(s) of responsibility**
+-----------------------------","","https://www.indeed.com/cmp/Birlasoft","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/4c14ead57fc86fce74e0409ce1d62ee6","https://www.birlasoft.com","Pune, IN","1,001 to 5,000","more than $10B (USD)","","","","","","",""
+"in-83f82aaa0bacb5b1","indeed","https://www.indeed.com/viewjob?jk=83f82aaa0bacb5b1","https://careers.nordstrom.com/senior-full-stack-software-engineer-catalogs-hierarchy-orgmdm-hybrid-seattle-wa/job/1E621E383FD5979BEFEBC992E1A2ED20","Senior Full Stack Software Engineer - Catalogs, Hierarchy & OrgMDM (Hybrid - Seattle, WA)","Nordstrom","Seattle, WA, US","2026-05-26","","direct_data","yearly",142000.0,220500.0,"USD",False,"","","","","Nordstrom's Product Information Management organization is the backbone of how millions of products are represented, organized, and discovered across every Nordstrom channel — from Nordstrom.com, NordstromRack.com and the Nordstrom apps to in\\-store systems and marketplace partner integrations. Within PIM, the **Catalogs, Hierarchy \\& Org MDM** team owns the foundational data structures that make this possible: the product catalogs customers browse, the merchandising hierarchies that power navigation and reporting, and the Organization Master Data Management (MDM) platform that governs how store and organizational entities are maintained across the enterprise.
+
+
+This is a rare opportunity to work at the intersection of large\\-scale data architecture and customer\\-facing impact. Every product page a customer sees, every filter they apply, and every category they navigate depends on the systems you will build and evolve.
+
+**This role is offered as hybrid in Seattle, WA. Candidates must be available to work in office at the Nordstrom corporate headquarters a minimum of 4 days/week to be considered for this position.**
+
+**A day in the life...**
+
+
+As a Senior Full Stack Software Engineer, you will design, build, and operate services and user interfaces that are central to Nordstrom's product data ecosystem. You will work across the entire stack — from React\\-based internal tools used by merchants and data stewards to Java microservices that process millions of catalog and hierarchy records daily.
+
+* **Build and evolve core platform services.** You'll own microservices that power catalog management, hierarchical classification, and organizational master data. These services integrate with upstream ingestion pipelines (including Kafka\\-based event streaming and Temporal workflow orchestration) and serve downstream consumers across the company.
+* **Design delightful internal tools.** Merchants, buyers, and data stewards rely on the UIs your team builds to manage catalogs, assign hierarchy nodes, and govern organizational entities. You'll create React\\-based applications that make complex data operations intuitive and efficient.
+* **Drive data quality at scale.** You'll build validation, canonicalization, and entity resolution capabilities that ensure data consistency across Nordstrom's product ecosystem — spanning wholesale, marketplace, and direct\\-to\\-consumer channels.
+* **Own what you ship.** You'll participate in on\\-call rotations, build observability into every service (New Relic, structured logging, custom dashboards), and drive operational excellence through runbooks, alerting, and incident response.
+* **Influence technical direction.** You'll contribute to architecture decisions, participate in design reviews, and mentor engineers on the team. Your designs will consider upstream and downstream integration points and balance short\\-term delivery with long\\-term platform health.
+
+**Technology stack...**
+
+* **Backend:** Java, Spring Boot, REST APIs, Kafka (event streaming and CDC), Temporal.io (workflow orchestration), PostgreSQL, DynamoDB, Redis
+* **Frontend:** React, TypeScript, modern component libraries, responsive design
+* **Infrastructure \\& Cloud:** AWS (ECS/EKS, Lambda, S3, RDS, MSK), Terraform, GitHub Actions CI/CD
+* **Data \\& Integration:** Kafka topics (Avro schemas), REST and gRPC service\\-to\\-service communication, batch and real\\-time data pipelines
+* **Observability:** New Relic (APM, dashboards, alerting), structured logging, distributed tracing
+
+**You own this if you have...**
+
+* **7\\+ years of professional software engineering experience**, including significant delivery of both backend services and frontend applications.
+* **Bachelor’s or Master’s degree in Computer Science, Information Systems Engineering, Data Engineering.**
+* **Communication Skills.** Strong verbal, written and diagramming communication skills, with the ability to explain technical concepts clearly to both technical and non\\-technical stakeholders.
+* **Programming Skills.** Proficient in more than one Programming Language. Experience with agentic development and perspective on how to get the most from agents during the Software Development Lifecycle.
+* **Strong backend fundamentals.** You're comfortable designing and building microservices in Java or Kotlin, working with relational databases (PostgreSQL), and integrating with event\\-driven architectures (Kafka). Experience with workflow orchestration tools like Temporal is a strong plus.
+* **Modern frontend skills.** You've built production React applications with TypeScript. You care about usability, accessibility, and creating tools that people enjoy.
+* **Infrastructure fluency.** You're comfortable working with containerized deployments (Docker, Kubernetes), defining infrastructure as code with Terraform, and configuring CI/CD pipelines. You don't need to be a platform engineer, but you can provision what your services need and troubleshoot deployment issues without waiting on someone else.
+* **Distributed systems thinking.** You understand the tradeoffs of eventual consistency, can reason about failure modes in a service\\-oriented architecture, and have data driven perspectives on topics like idempotency, schema evolution, and data partitioning.
+* **Ownership mentality.** You do more than write code — you own outcomes. You think about observability from the start, you write runbooks, and you show up when your systems need you.
+* **Collaborative and communicative.** You thrive in cross\\-functional environments. You can explain a technical tradeoff to a product manager, pair with a junior engineer on a complex problem, and contribute to architectural discussions with clarity and conviction.
+* **Bias toward simplification.** You actively seek ways to reduce complexity, remove bottlenecks, and make systems easier to operate and evolve.
+
+**Nice to have...**
+
+* Experience with master data management (MDM) concepts or enterprise data governance
+* Familiarity with product information management or retail/e\\-commerce domains
+* Background in entity resolution, canonicalization, or data quality systems
+* Experience with Temporal.io or similar durable execution frameworks
+* Contributions to engineering standards, shared libraries, or developer experience tooling
+
+**Why this team...**
+
+
+The Catalogs, Hierarchy \\& Org MDM team is in an exciting phase. Nordstrom's Marketplace Highway program is expanding the product ecosystem to include third\\-party marketplace sellers alongside the traditional wholesale business, and our team's systems are foundational to that growth. You'll be joining a team that is actively modernizing its platform, tackling hard data problems at scale, and shipping work that has direct, measurable impact on how customers discover and shop for products.
+
+
+You'll work alongside engineers who are deeply technical, genuinely collaborative, and committed to building things the right way. We invest in our people — through mentorship, stretch assignments, design review culture, and an environment where your ideas shape the direction of the platform.
+
+**We’ve got you covered…**
+
+
+Our employees are our most important asset and that’s reflected in our benefits. Nordstrom is proud to offer a variety of benefits to support employees and their families, including:
+
+* Medical/Vision, Dental, Retirement and Paid Time Away
+* Life Insurance and Disability
+* Merchandise Discount and EAP Resources
+
+
+A few more important points...
+
+
+The job posting highlights the most critical responsibilities and requirements of the job. It’s not all\\-inclusive. There may be additional duties, responsibilities and qualifications for this job.
+
+
+For Los Angeles or San Francisco applicants: Nordstrom is required to inform you that we conduct background checks after conditional offer and consider qualified applicants with criminal histories in a manner consistent with legal requirements per Los Angeles, Cal. Muni. Code 189\\.04 and the San Francisco Fair Chance Ordinance. For additional state and location specific notices, please refer to the Legal Notices document within the FAQ section of the Nordstrom Careers site.
+
+
+Applicants with disabilities who require assistance or accommodation should contact the nearest Nordstrom location, which can be identified at www.nordstrom.com.
+
+
+Please be mindful that there may be legal notices and requirements related to this job posting that are specific to your state. Review the Career Site FAQ’s for relevant information and guidelines.
+
+
+© 2022 Nordstrom, Inc
+
+
+Current Nordstrom employees: To apply, log into Workday, click the Careers button and then click Find Jobs.
+
+
+Nordstrom keeps job postings open for at least one day after the posting date.
+
+**Pay Range Details**
+
+
+The pay range(s) below has been provided in compliance with state specific laws. Pay ranges may be different for other locations.  
+
+Pay offers are dependent on the location, as well as job\\-related knowledge, skills, and experience.
+
+
+$142,000\\.00 \\- $220,500\\.00 Annual
+This position may be eligible for performance\\-based incentives/bonuses. Benefits include 401k, medical/vision/dental/life/disability insurance options, PTO accruals, Holidays, and more. Eligibility requirements may apply based on location, job level, classification, and length of employment. Learn more in the Nordstrom Benefits Overview by copying and pasting the following URL into your browser: https://careers.nordstrom.com/pdfs/Ben\\_Overview\\_17\\-19\\.pdf","","https://www.indeed.com/cmp/Nordstrom","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/453eb6f8e635fa99274a5d0c7881f56f","http://www.nordstrom.com","Seattle, WA","10,000+","more than $10B (USD)","Nordstrom, Inc. is a leading fashion retailer based in the U.S.","","","","","",""
+"in-ff90aa9e425b16ab","indeed","https://www.indeed.com/viewjob?jk=ff90aa9e425b16ab","https://careers.cognizant.com/global-en/jobs/00069051251/sr-java-developer/","Sr. Java Developer","Cognizant","Chicago, IL, US","2026-05-26","fulltime","direct_data","yearly",90000.0,117000.0,"USD",False,"","","","","About the role
+  
+As a Senior Java developer , you will make an impact by leading the design and delivery of secure, scalable microservices and intelligent automation solutions that support critical asset and wealth management platforms. You will be a valued member of the engineering team and work collaboratively with product owners, architects, and cross\\-functional stakeholders to drive high\\-quality software delivery.
+  
+\\*\\*Applicants must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future.\\*\\*
+  
+  
+
+**In this role, you will:**  
+
+Lead and mentor a cross\\-functional engineering team delivering microservices using Java, Spring Boot, and Python
+  
+Drive end\\-to\\-end software delivery, from design through deployment, ensuring quality, scalability, and reliability
+  
+Define architecture and best practices for REST/SOAP services and distributed systems
+  
+Guide adoption of prompt engineering techniques to enhance automation and decision\\-support capabilities
+  
+Oversee database design and optimization using PL/SQL with Oracle and MySQL
+  
+Work model
+  
+We believe hybrid work is the way forward as we strive to provide flexibility wherever possible. Based on this role’s business requirements, this is a hybrid position requiring 3 days a week in a client or Cognizant office in Chicago, Illinois. Regardless of your working arrangement, we are here to support a healthy work\\-life balance through our various wellbeing programs.
+  
+The working arrangements for this role are accurate as of the date of posting. This may change based on the project you’re engaged in, as well as business and client requirements. Rest assured; we will always be clear about role expectations.
+  
+What you need to have to be considered
+  
+Proven experience leading engineering teams delivering enterprise applications (9\\+ years overall experience)
+  
+Strong expertise in Java, J2EE, Spring Boot, and microservices architecture
+  
+Hands\\-on experience designing and implementing REST and SOAP APIs
+  
+Advanced knowledge of relational databases (Oracle/MySQL) and strong PL/SQL skills
+  
+Experience working in Linux environments, including deployment and production support
+  
+These will help you stand out
+  
+Experience with prompt engineering or AI\\-driven automation using Python or similar tools
+  
+Exposure to asset and wealth management domain (portfolios, trading, regulatory workflows)
+  
+Experience integrating microservices with enterprise platforms (messaging, authentication, monitoring)
+  
+Background in CI/CD pipelines, test automation, and secure development practices
+  
+Experience working in hybrid or distributed team environments
+  
+  
+
+**Salary and Other Compensation:**  
+
+Applications will be accepted until June 5th, 2026\\.
+  
+The annual salary for this position is between $90,000 \\- $117,000 depending on experience and other qualifications of the successful candidate.
+  
+This position is also eligible for Cognizant’s discretionary annual incentive program, based on performance and subject to the terms of Cognizant’s applicable plans.
+  
+  
+
+**Benefits:**  
+
+Cognizant offers the following benefits for this position, subject to applicable eligibility requirements:
+  
+Medical/Dental/Vision/Life Insurance
+  
+Paid holidays plus Paid Time Off
+  
+401(k) plan and contributions
+  
+Long\\-term/Short\\-term Disability
+  
+Paid Parental Leave
+  
+Employee Stock Purchase Plan
+  
+  
+
+**Disclaimer:**  
+
+The salary, other compensation, and benefits information is accurate as of the date of this posting. Cognizant reserves the right to modify this information at any time, subject to applicable law.","","https://www.indeed.com/cmp/Cognizant-f7abe767","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3bd95f13d06ef8241426506395a8cad3","https://www.cognizant.com/","","10,000+","more than $10B (USD)","We help companies modernise technology, reimagine processes and transform experiences so they can thrive in a world that never stops evolving.","","","","","",""
+"in-d078043d3a055c2f","indeed","https://www.indeed.com/viewjob?jk=d078043d3a055c2f","https://www.gdit.com/careers/job/723053fd9/front-endangular-2full-stack-java-developer/","Front End/Angular 2+/Full Stack Java Developer","General Dynamics Information Technology","Hanover, MD, US","2026-05-26","","direct_data","yearly",111155.0,150385.0,"USD",False,"","","","","Your Impact
+
+
+Own your opportunity to serve as a critical component of our nation’s safety and security. Make an impact by using your expertise to protect our country from threats.
+
+
+Job Description
+
+
+As a Full Stack Java Developer, you'll perform software requirements analysis, system integration activities, research and design and develop and test software and tools. From inventing new products or enhancing existing applications, your talent will be front and center.  
+
+  
+
+What you bring to the table:  
+
+* Seasoned, experienced professional with a broad range of expertise and a wide range of professional experience, possessing a substantial understanding of software engineering concepts, principles, and theories; expert at applying technical standards and methodologies to resolve a wide range of issues in creative ways
+* Team player who thrives in collaborative environments and revels in team success, meeting and exceeding personal and team commitments
+* Ability to serve as company technical spokesperson with subject matter expertise (SME)
+
+
+What sets you apart:  
+
+* Active contributor to the achievement of financial and business objectives by resolving complex issues in creative, effective and financially favorable ways
+* Contributes to the development of innovative principles and ideas
+* Effectively leads complex assignments, interacting with both customers and end\\-users
+
+
+What you'll experience:  
+
+* Technologies that aren't just top\\-notch, they're often top\\-secret
+* A team of bold thinkers committed to exploring what's next
+
+
+\\- Opportunities to gain new knowledge \\- as it's discovered  
+
+Qualifications:  
+
+* Experience developing object\\-oriented software applications in Java (version 1\\.8 or higher)
+* Experience in Web Development in Angular 2\\+ or ReactJS
+* Experience with MongoDB or relational databases
+* Familiarity with Java Frameworks (i.e. Spring, Spring Data, Spring Boot)
+* Proficient understanding of software engineering concepts, principles, and theories
+* Proficient at applying technical standards and methodologies to resolve issues in creative ways and help company meet financial and business objectives
+
+\\#GDPoly
+
+
+\\#EnhancedTechPoly2025
+
+
+Work Requirements
+
+
+Years of Experience
+1 \\+ years of related experience* may vary based on technical training, certification(s), *or* degree
+
+Certification
+Travel Required
+None
+Citizenship
+U.S. Citizenship Required
+Salary and Benefit Information
+
+
+The likely salary range for this position is $111,155 \\- $150,385\\. This is not, however, a guarantee of compensation or salary. Rather, salary will be set based on experience, geographic location and possibly contractual requirements and could fall outside of this range.  
+
+View information about benefits and our total rewards program.
+About Our Work
+
+
+We are GDIT. A global technology and professional services company that delivers technology and mission services to every major agency across the U.S. government, defense and intelligence community. Our 26,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation. We operate across over 50 countries worldwide, offering leading capabilities in digital modernization, AI/ML, cloud, cyber and application development. Together with our customers, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.
+Join our Talent Community to stay up to date on our career opportunities and events at gdit.com/tc.*Equal Opportunity Employer / Individuals with Disabilities / Protected Veterans*","","https://www.indeed.com/cmp/General-Dynamics-Information-Technology","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8fb756e998ab49977b1e207da51feba2","http://www.gdit.com","Falls Church, VA","10,000+","more than $10B (USD)","We are GDIT. The people supporting some of the most complex government, defense, and intelligence projects across the country.","","","","","",""
+"in-0e2ec5e6fa6270ca","indeed","https://www.indeed.com/viewjob?jk=0e2ec5e6fa6270ca","https://career.luxoft.com/jobs/senior-java-developer-fixed-income-cash-21800","Senior Java Developer Fixed Income Cash","Luxoft","New York, NY, US","2026-05-26","","direct_data","yearly",130000.0,190000.0,"USD",True,"","","","","##### **Project description**
+
+EST hours  
+
+This is a unique opportunity to get in on the ground floor of a greenfield development project to design and develop a low\\-latency, electronic trading platform for interest rate swaps, US treasuries and futures. In this role, you will interact directly with trading, quantitative, compliance and risk, and IT functions to deliver new trading capabilities and services leveraging modern technologies and data \\& software architectures.  
+
+For Hybrid Remote work salaries from 130000\\-190000 USD per year dependent on knowledge and skill  
+
+For other locations as dependent on location and market standards
+
+
+##### **Responsibilities**
+
+
+Hands on Senior Java Developer with enterprise development experience
+
+
+Work with multiple business teams
+
+
+Provide work estimates as needed
+
+
+Develop system architectures, designs and concepts
+
+
+Maintain and improve code quality using static \\& dynamic code analyses, security vulnerability scans, code coverage and CI/CD pipeline gating
+
+
+Provide technical guidance and be a technical mentor to the development team
+
+
+Design, build and configure applications to meet business process and application requirements
+
+
+Participate in all phases of software delivery lifecycle from analysis through support.
+
+
+##### **Skills**
+
+
+Must have
+
+
+Required
+
+
+10\\+ years of core Java server, back\\-end, development experience
+
+
+Experienced Java Developer (JDK 11 or 17\\)
+
+
+Enterprise services (including observability, configuration management and cloud deployment)
+
+
+Spring (including Spring Boot and Spring Boot Actuator)
+
+
+Message Drive Application development (Kafka, Active MQ or similar)
+
+
+MS SQL Server and/or Sybase experience
+
+
+Preferred
+
+
+Spring (including Spring Boot and Spring Boot Actuator)
+
+
+Apache Camel (Version 3\\)
+
+
+REST API (including Enterprise Authentication and Authentication)
+
+
+Enterprise services (including monitoring, state management)
+
+
+JMS (Active MQ or similar)
+
+
+MS SQL Server and/or Sybase experience
+
+
+Working knowledge of Agile, CI/CD tools (Jenkins, Git, SonarQube)
+
+
+Excellent communication and stakeholder management.
+
+
+Strong problem\\-solving and analytical skills.
+
+
+Ability to handle multiple priorities in a fast\\-paced environment.
+
+
+Proactive, self\\-motivated, and team oriented.
+
+
+Bachelor degree in Mathematics, Engineering or Computer Science.
+
+
+Nice to have
+
+
+* 
+Experience with Capital Markets, understanding how Derivatives instruments are priced and valued, RFQ workflow
+
+
+##### **Other**
+
+
+Languages
+
+
+English: C1 Advanced
+
+
+Seniority
+
+
+Senior
+
+
+  
+New York City, United States of America
+
+
+Req. VR\\-120235
+
+
+Java
+
+
+BCM Industry
+
+
+26/05/2026
+
+
+Req. VR\\-120235","","https://www.indeed.com/cmp/Luxoft","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/aa682d67782d68b9b76c5316f9b70e4d","https://www.luxoft.com/","Zug","10,000+","Decline to state","Luxoft helps businesses innovate, adapt and compete in a constantly changing technology landscape.","","","","","",""
+"in-9d37ae5f64071b8e","indeed","https://www.indeed.com/viewjob?jk=9d37ae5f64071b8e","https://app.jobvite.com/CompanyJobs/Job.aspx?j=o45bAfwE&s=Indeed","Senior Developer","ActioNet","Remote, US","2026-05-26","fulltime","","","","","",True,"","","","","**IgniteAction** is seeking an experienced **Senior Level Developer** to design and build scalable, high\\-quality software and data solutions. The ideal candidate has experience with modern frontend frameworks (React, Vue.js, or Angular), backend development in Java, JavaScript, Python, or Go, SQL\\-based data stores, and strong experience with ETL processes, data pipelines, and AWS CloudFormation. This role requires a strong focus on clean code, API design, performance optimization, and collaborative code reviews.
+**The Core Tech Stack*** **Frontend:** React, Vue.js, or Angular
+* **Backend:** Java, JavaScript, Python, Go
+* **Data:** PostgreSQL or SQL, ETL processes, Data Pipelines
+* **Cloud:** AWS (CloudFormation)
+
+**Key Responsibilities**
+
+* **Feature Architecture**: Designing small\\-to\\-medium systems, including scalable data pipelines and ETL workflows
+* **Code** Quality: Writing clean, testable code, conduct peer code reviews to help keep the codebase sane.
+* **API:** Foundational understanding of RESTful or GraphQL APIs that are intuitive for other team members to use.
+* **Performance:** Identifying and fixing bottlenecks, from slow SQL queries to bloated frontend bundles and inefficient data pipelines
+* **Data Engineering:** Build, maintain, and optimize ETL processes and end\\-to\\-end data pipelines
+* **Cloud Infrastructure**: Develop and manage infrastructure as code using AWS CloudFormation
+**Skill Area****What’s Expected** **System Design**
+ Understanding database normalization, load balancing, basic microservices, and data pipeline architecture  
+
+**DevOps**
+ Ability to debug a failing CI/CD pipeline, manage environment variables safely, and support AWS environments  
+
+**Testing**
+Writing unit tests and End\\-to\\-End tests as standard practice. **Soft Skills**
+Explaining technical trade\\-offs to product managers and mentoring junior developers.  
+
+
+**Requirements:*** Bachelor’s degree
+* 8 years of experience relative experience
+
+**Work Authorization:**
+Must be a U.S. Citizen and able to obtain or maintain Public Trust (High) clearance.
+
+ActioNet is a CMMI\\-DEV Level 4, CMMI\\-SVC Level 4, ISO 20000, ISO 27001, ISO 9001, HDI\\-certified, woman\\-owned IT Solutions Provider with strong qualifications and expertise in Agile Software Engineering, Cloud Solutions, Cyber Security and IT Managed Services. With 26\\+ years of stellar past performance, ActioNet is the premier Trusted Innogrator!
+**Core Capabilities:*** Advanced and Managed IT Services
+* Agile Software Development
+* DevSecOps
+* Cybersecurity
+* Health IT
+* C4ISR \\& SIGINT
+* Data Center Engineering \\& Operations
+* Engineering \\& Installation
+
+**Why ActioNet?**
+
+At ActioNet, our Passion for Quality is at the heart of everything we do:* **Commitment to Employees**: We are committed to making ActioNet a great place to work and continue to invest in our ActioNeters.
+* **Commitment to Customers**: We are committed to our customers by driving and sustaining Service Delivery Excellence.
+* **Commitment to Community**: We are committed to giving back to our community, helping others, and making the world a better place for our next generation.
+
+**ActioNet is proud to be named a Top Workplace** for the thirteen year in a row (2014 \\- 2026\\). We have a 98% customer retention rate. We are passionate about the inspirational missions of our customers, and we entrust our employees and teams to deliver exceptional performance to enable the safety, security, health, and well\\-being of our nation.**What's in It For You?**
+As an ActioNeter, you get to be part of an exceptional team and a corporate culture that nurtures mutual success for our customers, employees, and communities. We give you the tools to be successful; all you need to do is bring your best ideas, your energy, and a desire to develop your skills, experience, and career. Are you ready to make a difference?
+ActioNet is an equal\\-opportunity employer and values inclusion at our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.**Full\\-Time Employees are eligible to participate in our ActioNet’s Benefits Program:*** Medical Insurance
+* Vision Insurance
+* Dental Insurance
+* Life and AD\\&D Insurance
+* 401(k) Savings Plan
+* Education and Professional Training
+* Flexible Spending Accounts (FSA)
+* Employee Referral and Merit Recognition Programs
+* Employee Assistance and Identity Theft Protection
+* Paid Holidays: 11 per year
+* Paid Time Off (PTO)
+* Disability Insurance
+
+*ActioNet is an equal opportunity employer and value inclusion at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.*
+***\\*\\*\\*\\*\\*\\*\\*\\*Direct Applicants, only. No Agencies, No third\\-party recruiters, please\\*\\*\\*\\*\\*\\*\\*\\****","","https://www.indeed.com/cmp/Actionet","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/cbdc923ad7f2dab1418b4f2ec0092d39","https://www.actionet.com","Vienna, VA","1,001 to 5,000","$100M to $500M (USD)","ActioNet is a CMMI-DEV/SVC Level 4, ISO 20000/27001/9001, HDI Certified, Woman-Owned IT Services Firm with strong qualifications and expertise in Cloud, Cybersecurity and Agile Software Engineering.","","","","","",""
+"in-cefe4cb2bb1fd6b2","indeed","https://www.indeed.com/viewjob?jk=cefe4cb2bb1fd6b2","https://www.lockheedmartinjobs.com/job/king-of-prussia/software-engineer-sr-level-3-top-secret/694/95594170416","Software Engineer Sr - Level 3 (Top Secret)","Lockheed Martin","King of Prussia, PA, US","2026-05-25","fulltime","","","","","",True,"","","","","**JOB ID:** 729622BR
+
+
+**Date posted:** May. 26, 2026
+
+
+  
+
+**Description:**
+
+Space is a critical domain, connecting our technologies, our security and our humanity. While others view space as a destination, we see it as a realm of possibilities, where we can do more — we can innovate, invest, inspire and integrate our capabilities to transform the future.
+  
+
+  
+
+At Lockheed Martin Space, we aim to harness the full potential of space to cultivate innovation, reduce costs, and push the boundaries of what technology can achieve. We’re creating future\\-ready solutions, focusing on resiliency and urgency through our 21st Century Security® vision. We’re erasing boundaries and forming partnerships across industries and around the world. We’re advancing spacecraft and the workforce to fuel the next generation. And we’re reimagining how space can connect us, ensuring security and prosperity.  
+
+  
+
+Join us in shaping a new era in space and find a career that's built for you.  
+
+  
+
+* Generating and simulating operational level plans to explore the art of the possible, how we could defend the ultimate high ground in a future space war
+* Dynamically optimizing both terrestrial and space\\-based sensors to provide comprehensive space domain awareness
+* Strategically optimizing the placement and maneuvering of constellations of satellites to satisfy multiple, evolving priorities
+
+  
+
+Our team leverages industry standard open\\-source software solutions such as GitLab, Kubernetes, Docker, and Rancher. Our automation\\-first and “everything as code” mindset allows our software engineers to focus their time and efforts on what is most important \\- building cutting edge functionality for our end users.
+  
+
+  
+
+As an engineer on an Agile Scrum Team, you will have the opportunity to rapidly develop and deploy solutions for a complex space system following core engineering principles, ultimately enabling the delivery of fully functioning mission capability to end users securely and continuously.  
+
+**Basic Qualifications:**
+
+  
+
+* Recent experience using Java, JavaScript, and Node.js, for full\\-stack software development
+* Experience with Git/Gitlab/Git Bash for software version control
+* Experience with CI/CD \\- deployment pipelines, automated build, and configuration tools
+* Experience with application containerization (e.g., Docker, Kubernetes, Helm, Rancher, etc.) in a cloud environment (AWS/Azure/Openstack/Openshift)
+* Bachelor’s degree in computer science, computer engineering, another engineering discipline, or equivalent experience
+* Familiarity with software test best practices, including unit test, integration test, and end\\-to\\-end test
+* Experience working in an Agile development environment, using tools such as Jira and Confluence
+* Active Top Secret security clearance required to start (Must be a US citizen)
+
+**Desired Skills:**
+
+  
+
+* Three years’ experience developing software on the Whiskey program
+* Experience as a maintainer on the Whiskey Program
+* Active Whiskey program clearance
+* Experience with API design and development, such as RESTful APIs
+* Experience with microservices and microservice architecture
+* Recent JavaScript library experience with web\\-based components (e.g., Lit, React, Angular)
+* Experience with Lit for JS front\\-end
+* Experience with CesiumJS
+* Experience with HTML/CSS
+* Experience with Quarkus for backend Java development
+* Experience with Helm charts for infrastructure as code (IaC)
+* Knowledge of database management systems, such as PostgreSQL or MySQL
+* Familiarity with the Space Domain
+* Ability to communicate effectively and work in a collaborative environment
+* Experience in running unit tests with Playwright and/or integration testing with Cucumber
+* Experience working on large\\-scale software projects with multiple teams and stakeholders
+
+  
+
+\\#LMSpaceSoftwareEng  
+
+\\#SpaceSecurity  
+
+  
+
+\\#SpaceNSS  
+
+**Security Clearance Statement:**
+
+This position requires a government security clearance, you must be a US Citizen for consideration.  
+
+**Clearance Level:**
+
+Top Secret  
+
+**Other Important Information You Should Know**
+
+  
+
+**Expression of Interest:**
+
+By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.  
+
+**Ability to Work Remotely:**
+
+Onsite Full\\-time: The work associated with this position will be performed onsite at a designated Lockheed Martin facility.  
+
+**Work Schedules:**
+
+Lockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.  
+
+**Schedule for this Position:**
+
+9x80 every other Friday off  
+
+**Lockheed Martin is an equal opportunity employer. Qualified candidates will be considered without regard to legally protected characteristics.**  
+
+**The application window will close in 90 days; applicants are encouraged to apply within 5 \\- 30 days of the requisition posting date in order to receive optimal consideration.**  
+
+At Lockheed Martin, we use our passion for purposeful innovation to help keep people safe and solve the world's most complex challenges. Our people are some of the greatest minds in the industry and truly make Lockheed Martin a great place to work.
+  
+
+  
+
+With our employees as our priority, we provide diverse career opportunities designed to propel, develop, and boost agility. Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work. We place an emphasis on empowering our employees by fostering an inclusive environment built upon integrity and corporate responsibility.  
+
+  
+
+If this sounds like a culture you connect with, you’re invited to apply for this role. Or, if you are unsure whether your experience aligns with the requirements of this position, we encourage you to search on Lockheed Martin Jobs, and apply for roles that align with your qualifications.  
+
+**Experience Level:**
+
+Experienced Professional  
+
+**Business Unit:**
+
+SPACE  
+
+**Relocation Available:**
+
+Possible  
+
+**Career Area:**
+
+Software Engineering  
+
+**Type:**
+
+Full\\-Time  
+
+**Shift:**
+
+First
+  
+At Lockheed Martin, we apply our passion for purposeful innovation to keep people safe and solve the world's most complex challenges.
+
+
+**Pioneering Defense Technology:** From aerospace to outer space to cyber space, you can innovate mission solutions alongside the best minds in the business.
+
+
+**United By Culture:** Excellence, integrity, and collaboration define us. We accelerate change and embrace one another’s perspectives to win for our customers.
+
+
+**Real Impact, Real Growth:** Grow your career and skills for life. Our wide array of opportunities and technology\\-driven learning programs enable your development and agility.
+
+
+**Your Health, Your Wealth, Your Life:** Competitive pay, comprehensive benefits and flexible schedules designed so you thrive — at work and beyond.
+
+
+**Empowered to Be Your Best:** Use your strengths to make a difference in the lives of one another, our customers, our communities, and our planet.
+
+
+Here, the possibilities are endless because we offer:
+
+
+Flexible Schedules, dependent on role
+Levels: Student, Entry, Mid, Senior, Management
+Locations: Nationwide \\& OCONUS Positions","","https://www.indeed.com/cmp/Lockheed-Martin","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/debbff68624041821d0c56fbccbcc330","https://www.lockheedmartin.com","Bethesda, MD","10,000+","more than $10B (USD)","Lockheed Martin Canada: #1 Defence Company in 2020 With a rich history supporting collective success across Canadian industry, Lockheed Martin Canada continues to grow this positive impact as Canada’","","","","","",""
+"in-66cf84b742c64ca6","indeed","https://www.indeed.com/viewjob?jk=66cf84b742c64ca6","https://www.lockheedmartinjobs.com/job/king-of-prussia/software-engineer-level-2-top-secret/694/95594170320","Software Engineer - Level 2 (Top Secret)","Lockheed Martin","King of Prussia, PA, US","2026-05-25","fulltime","","","","","",True,"","","","","**JOB ID:** 729619BR
+
+
+**Date posted:** May. 26, 2026
+
+
+  
+
+**Description:**
+
+Space is a critical domain, connecting our technologies, our security and our humanity. While others view space as a destination, we see it as a realm of possibilities, where we can do more — we can innovate, invest, inspire and integrate our capabilities to transform the future.
+  
+
+  
+
+At Lockheed Martin Space, we aim to harness the full potential of space to cultivate innovation, reduce costs, and push the boundaries of what technology can achieve. We’re creating future\\-ready solutions, focusing on resiliency and urgency through our 21st Century Security® vision. We’re erasing boundaries and forming partnerships across industries and around the world. We’re advancing spacecraft and the workforce to fuel the next generation. And we’re reimagining how space can connect us, ensuring security and prosperity.  
+
+  
+
+Join us in shaping a new era in space and find a career that's built for you.  
+
+  
+
+* Generating and simulating operational level plans to explore the art of the possible, how we could defend the ultimate high ground in a future space war
+* Dynamically optimizing both terrestrial and space\\-based sensors to provide comprehensive space domain awareness
+* Strategically optimizing the placement and maneuvering of constellations of satellites to satisfy multiple, evolving priorities
+
+  
+
+Our team leverages industry standard open\\-source software solutions such as GitLab, Kubernetes, Docker, and Rancher. Our automation\\-first and “everything as code” mindset allows our software engineers to focus their time and efforts on what is most important \\- building cutting edge functionality for our end users.
+  
+
+  
+
+As an engineer on an Agile Scrum Team, you will have the opportunity to rapidly develop and deploy solutions for a complex space system following core engineering principles, ultimately enabling the delivery of fully functioning mission capability to end users securely and continuously.  
+
+**Basic Qualifications:**
+
+  
+
+* Recent experience using Java, JavaScript, and Node.js, for full\\-stack software development
+* Experience with Git/Gitlab/Git Bash for software version control
+* Experience with CI/CD \\- deployment pipelines, automated build, and configuration tools
+* Experience with application containerization (e.g., Docker, Kubernetes, Helm, Rancher, etc.) in a cloud environment (AWS/Azure/Openstack/Openshift)
+* Bachelor’s degree in computer science, computer engineering, another engineering discipline, or equivalent experience
+* Familiarity with software test best practices, including unit test, integration test, and end\\-to\\-end test
+* Experience working in an Agile development environment, using tools such as Jira and Confluence
+* Active Top Secret security clearance required to start. (Must be a US citizen)
+
+**Desired Skills:**
+
+  
+
+* Three years’ experience developing software on the Whiskey program
+* Experience as a maintainer on the Whiskey Program
+* Active Whiskey program clearance
+* Experience with API design and development, such as RESTful APIs
+* Experience with microservices and microservice architecture
+* Recent JavaScript library experience with web\\-based components (e.g., Lit, React, Angular)
+* Experience with Lit for JS front\\-end
+* Experience with CesiumJS
+* Experience with HTML/CSS
+* Experience with Quarkus for backend Java development
+* Experience with Helm charts for infrastructure as code (IaC)
+* Knowledge of database management systems, such as PostgreSQL or MySQL
+* Familiarity with the Space Domain
+* Ability to communicate effectively and work in a collaborative environment
+* Experience in running unit tests with Playwright and/or integration testing with Cucumber
+* Experience working on large\\-scale software projects with multiple teams and stakeholders
+
+  
+
+\\#LMSpaceSoftwareEng  
+
+\\#SpaceSecurity  
+
+  
+
+\\#SpaceNSS  
+
+**Security Clearance Statement:**
+
+This position requires a government security clearance, you must be a US Citizen for consideration.  
+
+**Clearance Level:**
+
+Top Secret  
+
+**Other Important Information You Should Know**
+
+  
+
+**Expression of Interest:**
+
+By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.  
+
+**Ability to Work Remotely:**
+
+Onsite Full\\-time: The work associated with this position will be performed onsite at a designated Lockheed Martin facility.  
+
+**Work Schedules:**
+
+Lockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.  
+
+**Schedule for this Position:**
+
+9x80 every other Friday off  
+
+**Lockheed Martin is an equal opportunity employer. Qualified candidates will be considered without regard to legally protected characteristics.**  
+
+**The application window will close in 90 days; applicants are encouraged to apply within 5 \\- 30 days of the requisition posting date in order to receive optimal consideration.**  
+
+At Lockheed Martin, we use our passion for purposeful innovation to help keep people safe and solve the world's most complex challenges. Our people are some of the greatest minds in the industry and truly make Lockheed Martin a great place to work.
+  
+
+  
+
+With our employees as our priority, we provide diverse career opportunities designed to propel, develop, and boost agility. Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work. We place an emphasis on empowering our employees by fostering an inclusive environment built upon integrity and corporate responsibility.  
+
+  
+
+If this sounds like a culture you connect with, you’re invited to apply for this role. Or, if you are unsure whether your experience aligns with the requirements of this position, we encourage you to search on Lockheed Martin Jobs, and apply for roles that align with your qualifications.  
+
+**Experience Level:**
+
+Experienced Professional  
+
+**Business Unit:**
+
+SPACE  
+
+**Relocation Available:**
+
+Possible  
+
+**Career Area:**
+
+Software Engineering  
+
+**Type:**
+
+Full\\-Time  
+
+**Shift:**
+
+First
+  
+At Lockheed Martin, we apply our passion for purposeful innovation to keep people safe and solve the world's most complex challenges.
+
+
+**Pioneering Defense Technology:** From aerospace to outer space to cyber space, you can innovate mission solutions alongside the best minds in the business.
+
+
+**United By Culture:** Excellence, integrity, and collaboration define us. We accelerate change and embrace one another’s perspectives to win for our customers.
+
+
+**Real Impact, Real Growth:** Grow your career and skills for life. Our wide array of opportunities and technology\\-driven learning programs enable your development and agility.
+
+
+**Your Health, Your Wealth, Your Life:** Competitive pay, comprehensive benefits and flexible schedules designed so you thrive — at work and beyond.
+
+
+**Empowered to Be Your Best:** Use your strengths to make a difference in the lives of one another, our customers, our communities, and our planet.
+
+
+Here, the possibilities are endless because we offer:
+
+
+Flexible Schedules, dependent on role
+Levels: Student, Entry, Mid, Senior, Management
+Locations: Nationwide \\& OCONUS Positions","","https://www.indeed.com/cmp/Lockheed-Martin","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/debbff68624041821d0c56fbccbcc330","https://www.lockheedmartin.com","Bethesda, MD","10,000+","more than $10B (USD)","Lockheed Martin Canada: #1 Defence Company in 2020 With a rich history supporting collective success across Canadian industry, Lockheed Martin Canada continues to grow this positive impact as Canada’","","","","","",""
+"in-1e46ee372e362c6e","indeed","https://www.indeed.com/viewjob?jk=1e46ee372e362c6e","https://www.lockheedmartinjobs.com/job/king-of-prussia/software-engineer-stf-level-4-top-secret/694/95594170512","Software Engineer Stf - Level 4 (Top Secret)","Lockheed Martin","King of Prussia, PA, US","2026-05-25","fulltime","","","","","",True,"","","","","**JOB ID:** 729623BR
+
+
+**Date posted:** May. 26, 2026
+
+
+  
+
+**Description:**
+
+Space is a critical domain, connecting our technologies, our security and our humanity. While others view space as a destination, we see it as a realm of possibilities, where we can do more — we can innovate, invest, inspire and integrate our capabilities to transform the future.
+  
+
+  
+
+At Lockheed Martin Space, we aim to harness the full potential of space to cultivate innovation, reduce costs, and push the boundaries of what technology can achieve. We’re creating future\\-ready solutions, focusing on resiliency and urgency through our 21st Century Security® vision. We’re erasing boundaries and forming partnerships across industries and around the world. We’re advancing spacecraft and the workforce to fuel the next generation. And we’re reimagining how space can connect us, ensuring security and prosperity.  
+
+  
+
+Join us in shaping a new era in space and find a career that's built for you.  
+
+  
+
+* Generating and simulating operational level plans to explore the art of the possible, how we could defend the ultimate high ground in a future space war
+* Dynamically optimizing both terrestrial and space\\-based sensors to provide comprehensive space domain awareness
+* Strategically optimizing the placement and maneuvering of constellations of satellites to satisfy multiple, evolving priorities
+
+  
+
+Our team leverages industry standard open\\-source software solutions such as GitLab, Kubernetes, Docker, and Rancher. Our automation\\-first and “everything as code” mindset allows our software engineers to focus their time and efforts on what is most important \\- building cutting edge functionality for our end users.
+  
+
+  
+
+As an engineer on an Agile Scrum Team, you will have the opportunity to rapidly develop and deploy solutions for a complex space system following core engineering principles, ultimately enabling the delivery of fully functioning mission capability to end users securely and continuously.  
+
+**Basic Qualifications:**
+
+  
+
+* Recent experience using Java, JavaScript, and Node.js, for full\\-stack software development
+* Experience with Git/Gitlab/Git Bash for software version control
+* Experience with CI/CD \\- deployment pipelines, automated build, and configuration tools
+* Experience with application containerization (e.g., Docker, Kubernetes, Helm, Rancher, etc.) in a cloud environment (AWS/Azure/Openstack/Openshift)
+* Bachelor’s degree in computer science, computer engineering, another engineering discipline, or equivalent experience
+* Familiarity with software test best practices, including unit test, integration test, and end\\-to\\-end test
+* Experience working in an Agile development environment, using tools such as Jira and Confluence
+* Active Top Secret security clearance required to start (Must be a US citizen)
+
+**Desired Skills:**
+
+  
+
+* Three years’ experience developing software on the Whiskey program
+* Experience as a maintainer on the Whiskey Program
+* Active Whiskey program clearance
+* Experience with API design and development, such as RESTful APIs
+* Experience with microservices and microservice architecture
+* Recent JavaScript library experience with web\\-based components (e.g., Lit, React, Angular)
+* Experience with Lit for JS front\\-end
+* Experience with CesiumJS
+* Experience with HTML/CSS
+* Experience with Quarkus for backend Java development
+* Experience with Helm charts for infrastructure as code (IaC)
+* Knowledge of database management systems, such as PostgreSQL or MySQL
+* Familiarity with the Space Domain
+* Ability to communicate effectively and work in a collaborative environment
+* Experience in running unit tests with Playwright and/or integration testing with Cucumber
+* Experience working on large\\-scale software projects with multiple teams and stakeholders
+
+  
+
+\\#LMSpaceSoftwareEng  
+
+\\#SpaceSecurity  
+
+  
+
+\\#SpaceNSS  
+
+**Security Clearance Statement:**
+
+This position requires a government security clearance, you must be a US Citizen for consideration.  
+
+**Clearance Level:**
+
+Top Secret  
+
+**Other Important Information You Should Know**
+
+  
+
+**Expression of Interest:**
+
+By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.  
+
+**Ability to Work Remotely:**
+
+Onsite Full\\-time: The work associated with this position will be performed onsite at a designated Lockheed Martin facility.  
+
+**Work Schedules:**
+
+Lockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.  
+
+**Schedule for this Position:**
+
+9x80 every other Friday off  
+
+**Lockheed Martin is an equal opportunity employer. Qualified candidates will be considered without regard to legally protected characteristics.**  
+
+**The application window will close in 90 days; applicants are encouraged to apply within 5 \\- 30 days of the requisition posting date in order to receive optimal consideration.**  
+
+At Lockheed Martin, we use our passion for purposeful innovation to help keep people safe and solve the world's most complex challenges. Our people are some of the greatest minds in the industry and truly make Lockheed Martin a great place to work.
+  
+
+  
+
+With our employees as our priority, we provide diverse career opportunities designed to propel, develop, and boost agility. Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work. We place an emphasis on empowering our employees by fostering an inclusive environment built upon integrity and corporate responsibility.  
+
+  
+
+If this sounds like a culture you connect with, you’re invited to apply for this role. Or, if you are unsure whether your experience aligns with the requirements of this position, we encourage you to search on Lockheed Martin Jobs, and apply for roles that align with your qualifications.  
+
+**Experience Level:**
+
+Experienced Professional  
+
+**Business Unit:**
+
+SPACE  
+
+**Relocation Available:**
+
+Possible  
+
+**Career Area:**
+
+Software Engineering  
+
+**Type:**
+
+Full\\-Time  
+
+**Shift:**
+
+First
+  
+At Lockheed Martin, we apply our passion for purposeful innovation to keep people safe and solve the world's most complex challenges.
+
+
+**Pioneering Defense Technology:** From aerospace to outer space to cyber space, you can innovate mission solutions alongside the best minds in the business.
+
+
+**United By Culture:** Excellence, integrity, and collaboration define us. We accelerate change and embrace one another’s perspectives to win for our customers.
+
+
+**Real Impact, Real Growth:** Grow your career and skills for life. Our wide array of opportunities and technology\\-driven learning programs enable your development and agility.
+
+
+**Your Health, Your Wealth, Your Life:** Competitive pay, comprehensive benefits and flexible schedules designed so you thrive — at work and beyond.
+
+
+**Empowered to Be Your Best:** Use your strengths to make a difference in the lives of one another, our customers, our communities, and our planet.
+
+
+Here, the possibilities are endless because we offer:
+
+
+Flexible Schedules, dependent on role
+Levels: Student, Entry, Mid, Senior, Management
+Locations: Nationwide \\& OCONUS Positions","","https://www.indeed.com/cmp/Lockheed-Martin","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/debbff68624041821d0c56fbccbcc330","https://www.lockheedmartin.com","Bethesda, MD","10,000+","more than $10B (USD)","Lockheed Martin Canada: #1 Defence Company in 2020 With a rich history supporting collective success across Canadian industry, Lockheed Martin Canada continues to grow this positive impact as Canada’","","","","","",""
