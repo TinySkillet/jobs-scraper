@@ -10,10 +10,12 @@ LOCATION = "USA"
 HOURS_OLD = 24
 COUNTRY_INDEED = "USA"
 RESULTS_WANTED = 500
+FINAL_DIR = Path("final")
+TEMP_DIR = Path("temp")
 
 ROLE_SEARCHES = {
     "java": {
-        "final_output": Path("jobs_final_java.csv"),
+        "final_output": FINAL_DIR / "jobs_final_java.csv",
         "searches": [
             (
                 "java_engineer",
@@ -26,7 +28,7 @@ ROLE_SEARCHES = {
         ],
     },
     "fullstack": {
-        "final_output": Path("jobs_final_fullstack.csv"),
+        "final_output": FINAL_DIR / "jobs_final_fullstack.csv",
         "searches": [
             (
                 "fullstack_engineer",
@@ -35,6 +37,23 @@ ROLE_SEARCHES = {
             (
                 "fullstack_frontend",
                 '("full stack" OR "full-stack" OR fullstack) (react OR angular OR javascript OR typescript OR node) -intern -internship -android -mobile -qa -tester -salesforce',
+            ),
+        ],
+    },
+    "data_engineer": {
+        "final_output": FINAL_DIR / "jobs_final_data_engineer.csv",
+        "searches": [
+            (
+                "data_engineer",
+                '("data engineer" OR "data engineering" OR "big data engineer") (python OR sql OR spark OR airflow OR dbt OR databricks OR snowflake) -intern -internship -qa -tester -salesforce',
+            ),
+            (
+                "etl_pipeline",
+                '("etl developer" OR "etl engineer" OR "data pipeline engineer" OR "pipeline engineer") (python OR sql OR spark OR airflow OR aws OR azure OR gcp) -intern -internship -qa -tester -salesforce',
+            ),
+            (
+                "analytics_engineer",
+                '("analytics engineer" OR "data warehouse engineer" OR "data platform engineer") (sql OR dbt OR snowflake OR bigquery OR redshift OR databricks) -intern -internship -qa -tester -salesforce',
             ),
         ],
     },
@@ -55,6 +74,19 @@ FINAL_SOURCE_COLUMNS = [source_column for source_column, _ in FINAL_COLUMNS]
 FINAL_OUTPUT_COLUMNS = [output_column for _, output_column in FINAL_COLUMNS]
 
 ALLOWED_JOB_TYPES = {"fulltime", "contract", ""}
+EXCLUDED_TITLE_RE = re.compile(r"\b(staff|lead)\b", re.I)
+CLEARANCE_REQUIREMENT_RE = re.compile(
+    r"\bactive\b.{0,80}\b(?:security\s+)?clearance\b|"
+    r"\b(?:security\s+)?clearance\b.{0,80}\bactive\b|"
+    r"\bclearance\s+required\b|"
+    r"\brequires?\b.{0,80}\b(?:security\s+)?clearance\b|"
+    r"\b(?:security\s+)?clearance\b.{0,80}\brequired\b|"
+    r"\btop\s+secret\b|"
+    r"\bts/sci\b|"
+    r"\bsecret\s+clearance\b|"
+    r"\bactive\b.{0,80}\b(?:secret|top secret|ts/sci|sci)\b",
+    re.I | re.S,
+)
 JAVA_TITLE_RELEVANCE_RE = re.compile(r"\bjava\b|\bspring\b", re.I)
 JAVA_BODY_RELEVANCE_RE = re.compile(
     r"\bjava\b|\bspring\b|\bspring\s+boot\b|\bj2ee\b|\bjvm\b", re.I
@@ -64,9 +96,21 @@ FULLSTACK_BODY_RELEVANCE_RE = re.compile(
     r"\bfull[\s-]?stack\b|\bfullstack\b|\bfrontend\b|\bfront-end\b|\bbackend\b|\bback-end\b",
     re.I,
 )
+DATA_ENGINEER_TITLE_RELEVANCE_RE = re.compile(
+    r"\bdata engineer(?:ing)?\b|\bbig data engineer\b|\betl (?:developer|engineer)\b|\banalytics engineer\b|\bdata (?:pipeline|platform|warehouse) engineer\b",
+    re.I,
+)
+DATA_ENGINEER_BODY_RELEVANCE_RE = re.compile(
+    r"\bdata pipeline\b|\betl\b|\bspark\b|\bairflow\b|\bdatabricks\b|\bsnowflake\b|\bdbt\b|\bbigquery\b|\bredshift\b|\bdata warehouse\b|\bdata lake\b",
+    re.I,
+)
 FRONTEND_RE = re.compile(r"\breact\b|\bangular\b|\bjavascript\b|\btypescript\b", re.I)
 BACKEND_RE = re.compile(
     r"\bnode\b|\bexpress\b|\bapi\b|\bbackend\b|\bback-end\b|\bjava\b|\bspring\b|\.net\b|\bc#\b|\bpython\b|\bdjango\b|\bflask\b",
+    re.I,
+)
+DATA_ENGINEER_SKILL_RE = re.compile(
+    r"\bsql\b|\bpython\b|\bspark\b|\bpyspark\b|\bairflow\b|\bdbt\b|\bdatabricks\b|\bsnowflake\b|\bbigquery\b|\bredshift\b|\baws\b|\bazure\b|\bgcp\b",
     re.I,
 )
 GENERIC_ENGINEER_TITLE_RE = re.compile(
@@ -75,7 +119,7 @@ GENERIC_ENGINEER_TITLE_RE = re.compile(
 
 
 def raw_output_path(role, search_name):
-    return Path(f"jobs_{role}_{search_name}.csv")
+    return TEMP_DIR / f"jobs_{role}_{search_name}.csv"
 
 
 def is_relevant(row, role):
@@ -102,38 +146,68 @@ def is_relevant(row, role):
             and BACKEND_RE.search(description)
         )
 
+    if role == "data_engineer":
+        if DATA_ENGINEER_TITLE_RELEVANCE_RE.search(title):
+            return True
+
+        return (
+            GENERIC_ENGINEER_TITLE_RE.search(title)
+            and DATA_ENGINEER_BODY_RELEVANCE_RE.search(description)
+            and DATA_ENGINEER_SKILL_RE.search(description)
+        )
+
     raise ValueError(f"Unknown role: {role}")
+
+
+def exclusion_reason(row):
+    title = row.get("title") or ""
+    description = row.get("description") or ""
+
+    if EXCLUDED_TITLE_RE.search(title):
+        return "excluded_title_seniority"
+
+    if CLEARANCE_REQUIREMENT_RE.search(f"{title}\n{description}"):
+        return "requires_clearance"
+
+    return None
+
+
+def scrape_role(role, config):
+    TEMP_DIR.mkdir(exist_ok=True)
+
+    for search_name, search_term in config["searches"]:
+        output = raw_output_path(role, search_name)
+        print(f"\n=== Running {role}: {search_name} ===")
+        print(search_term)
+
+        jobs = scrape_jobs(
+            site_name=SITE_NAME,
+            search_term=search_term,
+            location=LOCATION,
+            verbose=1,
+            results_wanted=RESULTS_WANTED,
+            hours_old=HOURS_OLD,
+            country_indeed=COUNTRY_INDEED,
+        )
+
+        print(f"Found {len(jobs)} jobs for {role}: {search_name}")
+        if jobs.empty:
+            output.unlink(missing_ok=True)
+            continue
+
+        jobs.to_csv(output, quoting=csv.QUOTE_NONNUMERIC, escapechar="\\", index=False)
+        print(f"Saved {output}")
 
 
 def scrape_searches():
     for role, config in ROLE_SEARCHES.items():
-        for search_name, search_term in config["searches"]:
-            output = raw_output_path(role, search_name)
-            print(f"\n=== Running {role}: {search_name} ===")
-            print(search_term)
-
-            jobs = scrape_jobs(
-                site_name=SITE_NAME,
-                search_term=search_term,
-                location=LOCATION,
-                verbose=1,
-                results_wanted=RESULTS_WANTED,
-                hours_old=HOURS_OLD,
-                country_indeed=COUNTRY_INDEED,
-            )
-
-            print(f"Found {len(jobs)} jobs for {role}: {search_name}")
-            if jobs.empty:
-                output.unlink(missing_ok=True)
-                continue
-
-            jobs.to_csv(output, quoting=csv.QUOTE_NONNUMERIC, escapechar="\\", index=False)
-            print(f"Saved {output}")
+        scrape_role(role, config)
 
 
 def build_final_csv(role, config):
     rows = []
     reasons_by_file = {}
+    FINAL_DIR.mkdir(exist_ok=True)
 
     for search_name, _ in config["searches"]:
         path = raw_output_path(role, search_name)
@@ -153,6 +227,11 @@ def build_final_csv(role, config):
                 job_type = (row.get("job_type") or "").strip().lower()
                 if job_type not in ALLOWED_JOB_TYPES:
                     reasons["excluded_job_type"] += 1
+                    continue
+
+                reason = exclusion_reason(row)
+                if reason:
+                    reasons[reason] += 1
                     continue
 
                 if not is_relevant(row, role):
