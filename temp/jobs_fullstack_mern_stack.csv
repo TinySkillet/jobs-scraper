@@ -1,0 +1,897 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"in-c99e4a05b7cb7cfd","indeed","https://www.indeed.com/viewjob?jk=c99e4a05b7cb7cfd","https://jobs.smartrecruiters.com/AshburnConsulting/744000129034109-senior-security-code-reviewer","Senior Security Code Reviewer","Ashburn Consulting","Camp Springs, MD, US","2026-05-29","fulltime","direct_data","yearly",175000.0,205000.0,"USD",False,"","","","hr@ashburnconsulting.com, hr@ashburnconsulting.com","**Company Description**  
+
+Ashburn Consulting, LLC, based in the Washington, DC metropolitan area, specializes in providing network and network security solutions in complex environments to a select set of government and business clients. The company, an established leader in its field, is composed of an elite team of engineers and business consultants, each of whom is recognized, and highly regarded, within the network and security communities.
+
+ **Job Description**  
+
+Ashburn is seeking a Senior Security Code Reviewer to support a federal cybersecurity architecture opportunity. This Key Personnel role will lead application security testing, secure code review, DevSecOps pipeline integration, secure development guidance, risk assessments, and cloud/network security evaluation for a proposal opportunity.
+
+**Primary Responsibilities**
+
+* Conduct security code reviews and risk assessments for applications and enterprise systems.
+* Use application security testing tools to identify vulnerabilities and provide remediation guidance.
+* Integrate security testing into DevSecOps and CI/CD pipelines.
+* Review application architecture, source code, dependencies, infrastructure\\-as\\-code, and deployment practices.
+* Support secure coding standards, developer security training, and technical remediation guidance.
+* Evaluate and improve cloud, network, and enterprise system security.
+* Provide technical writing, reporting, and mentoring to engineering and development teams.
+* Support federal cybersecurity compliance objectives and secure development lifecycle requirements.
+
+  
+
+**Qualifications** **Required Qualifications**
+
+* Candidates must be U.S. citizens.
+* Candidates must be willing and able to work as Ashburn W\\-2 employees. 1099 and corp\\-to\\-corp arrangements are not permitted for these roles.
+* DHS EOD / suitability is required.
+* 10\\+ years of experience automating application security scanning processes, Zero Trust integration, and data sanitization for Government or similarly complex enterprise systems.
+* Experience deploying and using Application Security Testing platforms such as Checkmarx.
+* Experience automating or supporting Zero Trust Network Access (ZTNA) and Secure Web Gateway (SWG) solutions.
+* Advanced security engineering experience across on\\-premises and cloud environments.
+* Experience implementing AWS security best practices, including VPC Flow Logs, Security Lake, and audit monitoring.
+* Experience building EKS clusters using Terraform and Kubernetes.
+* Experience creating custom hardened AMI builds.
+* Experience integrating network security tools such as Palo Alto, AlgoSec, Gigamon, and Corelight.
+* Experience reviewing, evaluating, and improving security of complex systems and networks.
+* Experience with vulnerability management, SIEM integrations, certificate management, single sign\\-on implementations, and federal regulatory compliance.
+* Demonstrated ability to lead security code reviews and conduct risk assessments.
+* Experience developing OS hardening strategies, evaluating firewall policies, and implementing enterprise infrastructure monitoring solutions.
+* Strong technical writing, training, and mentoring skills.
+* Ability to mentor development teams in secure coding practices and align technical solutions to Government cybersecurity objectives.
+
+**Preferred / Strongly Desired Qualifications**
+
+* Experience with Burp Suite, Checkmarx One, PortSwigger, SonarQube, Fortify, SAST, DAST, SCA, API security testing, or IaC scanning.
+* Experience integrating application security testing into CI/CD pipelines.
+* Experience with secure coding practices in Java, Python, JavaScript, C\\#, Ruby, SQL, React, Node.js, PowerShell, Go, or similar languages.
+* Experience applying OWASP, NIST, DHS, DevSecOps, and secure software lifecycle practices.
+* Secure software certification preferred, such as CSSLP, GIAC secure software credential, EC\\-Council secure programmer certification, or comparable experience.
+* Prior DHS, DOD / DOW or federal application security experience.
+
+ **Additional Information** **PHYSICAL REQUIREMENTS:**  
+
+Work is equally performed in the field as well as in a normal office environment. Lifting (up to 50lbs) may be required. Ladder climbing may be required. Driving is required. All duties performed with or without reasonable accommodations.
+
+**Additional Information**
+
+
+Equal Opportunity Employer/Veterans/Disabled. An Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status
+
+
+Ashburn Consulting is an Equal Opportunity Affirmative Action Employer.  
+
+In compliance with the American with Disabilities Act Amendments Act (ADAAA), if you have a disability and would like to request and accommodation in order to apply for a position with Ashburn Consulting, please e\\-mail hr@ashburnconsulting.com.”
+
+
+Ashburn Consulting is an Equal Opportunity Affirmative Action Employer.  
+
+In compliance with the American with Disabilities Act Amendments Act (ADAAA), if you have a disability and would like to request and accommodation in order to apply for a position with Ashburn Consulting, please e\\-mail hr@ashburnconsulting.com.”","","https://www.indeed.com/cmp/Ashburn-Consulting","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7fce5817b7b3b99c31aee451ea00c637","http://www.ashburnconsulting.com","Fairfax","51 to 200","$1M to $5M (USD)","","","","","","",""
+"in-28b141d714c3242f","indeed","https://www.indeed.com/viewjob?jk=28b141d714c3242f","http://www.indeed.com/job/frontend-developer-28b141d714c3242f","Frontend Developer","Global Reserve Distribution","Minneapolis, MN, US","2026-05-29","fulltime","direct_data","yearly",105500.0,126639.0,"USD",False,"","","","","**Overview**  
+We are looking for a forward\\-thinking Front\\-End Developer who actively leverages AI tools (replit, claude code, etc.) to accelerate development velocity and write highly efficient code. In this role, you will be responsible for building, optimizing, and maintaining modern web applications and digital storefronts.
+
+You will bridge the gap between robust technical architecture and exceptional user experience, working heavily with React, Node.js, and headless frameworks. If you are a developer who understands how to use AI to 10x your output while maintaining strict quality control over complex integrations and headless deployments, we want you on the team.
+
+**Responsibilities**
+
+* **AI\\-Driven Development:** Utilize AI coding assistants to rapid\\-prototype, debug, refactor, and write production\\-ready code, significantly decreasing time\\-to\\-ship.
+* **Front\\-End Architecture:** Design, build, and maintain high\\-performance user interfaces using React and modern frameworks (e.g., Next.js).
+* **Headless Commerce \\& Deployments:** Manage and deploy headless architecture setups (e.g., headless Shopify storefronts, Vercel deployments), ensuring high availability and lightning\\-fast load times.
+* **API \\& System Integrations:** Build and maintain seamless integrations between the front end and various backend systems, utilizing Node.js to connect APIs (REST/GraphQL), CRM platforms, or custom databases.
+* **UI/UX Execution:** Translate design requirements into responsive, accessible, and highly polished interfaces with a strong eye for modern, minimalist aesthetics.
+* **Technical Problem Solving:** Troubleshoot complex UI bugs, optimize rendering paths, and ensure cross\\-browser compatibility.
+
+**Qualifications**
+
+* **Core Stack:** Proven professional experience building scalable applications with React, Node.js, and standard web technologies (HTML, CSS, JavaScript/TypeScript).
+* **Design Sensibility:** A strong appreciation for UI/UX principles. You don't just build what's on the ticket; you care about the user journey, micro\\-interactions, and visual fidelity.
+* **AI Fluency:** Demonstrable experience incorporating AI coding tools into your daily workflow to generate boilerplate, solve complex logic, and write tests.
+* **Headless Experience:** Hands\\-on experience with decoupled front\\-end architectures, static site generation, and modern deployment platforms (Vercel, Netlify, etc.).
+* **Integration Expertise:** Strong understanding of fetching and mutating data via APIs, with a solid grasp of state management.
+
+**Nice\\-to\\-Haves**
+
+* Experience within the e\\-commerce or Consumer Packaged Goods (CPG) sectors.
+* Familiarity with enterprise integrations, including Microsoft Power Platform, Dataverse, or SQL environments.
+* Experience managing headless Shopify implementations.
+
+Pay: $105,500\\.00 \\- $126,639\\.36 per year
+
+Benefits:
+
+* 401(k)
+* 401(k) matching
+* Dental insurance
+* Employee discount
+* Flexible schedule
+* Health insurance
+* Paid time off
+* Referral program
+* Vision insurance
+
+Work Location: In person","","https://www.indeed.com/cmp/Global-Reserve-Distribution","","","","","","","","","","","",""
+"in-f919363557c46aaf","indeed","https://www.indeed.com/viewjob?jk=f919363557c46aaf","https://awac.taleo.net/careersection/ex/jobdetail.ftl?job=2600002K&tz=GMT-05%3A00&tzname=America%2FChicago","Analyst","Allied World Assurance Company","Iselin, NJ, US","2026-05-28","","direct_data","yearly",60000.0,65000.0,"USD",False,"","","","","**Analyst, Developer, IT Product, Claims** **\\-** **(****2600002K****)****Description** **Job Title****:** Full Stack Developer – Insurance Technology
+
+**Location**: NYC
+
+  
+
+Take the next step in your career with us.  
+
+Allied World is an ideal place for talented professionals who are driven by a belief in the value of collaboration and the power of knowledge.  
+
+We believe that when our great people work together and support one another, our clients receive the best solutions. We embrace unique perspectives and empower each person to grow through professional development, career training, and mentoring programs.  
+
+Our people are our most important asset, and we are very proud of the quality of our team members. **Position Summary****:**  
+
+We are seeking an **energetic and motivated Junior Full Stack Developer** who is passionate about learning new tools and technologies. This role offers an exciting opportunity to work on cutting\\-edge solutions in the **Insurance domain**, including exposure to **Python**, modern frameworks, and **agentic AI\\-based transformation initiatives**. **Job Duties:*** **Application Development:** Assist in building and maintaining full\\-stack applications using modern frameworks and best practices.
+* **Learning \\& Growth:** Continuously learn and adopt new technologies, including **Python**, **React**, **Node.js**, and **AWS Serverless**.
+* **Collaboration:** Work closely with senior engineers and solution architects to deliver high\\-quality software solutions.
+* **Innovation:** Contribute ideas for implementing **agentic AI models** and automation to improve business processes.
+* **Testing \\& Quality:** Write clean, maintainable code and participate in unit testing and code reviews.
+* **Agile Delivery:** Support sprint planning, backlog grooming, and iterative development in an Agile environment.
+  
+
+**Qualifications** **Compensation:**
+
+
+The below annualized base pay range is a broad range based on analysis of similar positions in the market. The actual base pay for the position may be above or below the listed range and determined by a number of considerations, including but not limited to complexity, location, and scope of the role, along with experience, skills, education, training, and other conditions of employment. Base salary represents one component of Allied World’s comprehensive total reward package, which may also include annual incentive compensation rewards.
+
+**$60,000 \\- $65,000**
+
+**Professional Experience / Qualifications**
+
+* **Technical Foundation:** Basic knowledge of **JavaScript**, **HTML/CSS**, and at least one backend language (Python preferred).
+* **Python** for backend development.
+* **React** for building dynamic front\\-end interfaces.
+* **Node.js** for server\\-side development.
+* **AWS Serverless** (Lambda, API Gateway, DynamoDB) for cloud\\-native solutions.
+* **Cloud Awareness:** Familiarity with **AWS** and serverless architecture is a plus.
+* **Database Basics:** Understanding of relational and NoSQL databases.
+* **Eagerness to Learn:** Strong willingness to explore new technologies and frameworks.
+* **Problem\\-Solving:** Ability to think critically and troubleshoot issues effectively.
+* **Team Player:** Excellent communication and collaboration skills.
+  
+
+**Primary Location****:** US\\-NJ\\-Iselin**Work Locations****:** Iselin 200 South Wood Avenue Iselin 08830**Job****:** Information Technology**Employee Status****:**Regular**Job Type****:**Standard**Job Posting****:** May 28, 2026, 12:16:56 PM**Maximum Salary**65,000\\.00**Pay Basis**Yearly","","https://www.indeed.com/cmp/Allied-World-Assurance-Company","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/fd7f49360f48afa8cca1d840cdebe46f","https://awac.com","","","","","","","","","",""
+"in-cd410518050875b4","indeed","https://www.indeed.com/viewjob?jk=cd410518050875b4","https://www.dzyne.com/careers/?gnk=job&gni=8a7883a89e235a19019e461d4ca26f7b&gns=Indeed+Free","Flight Ops Full-Stack Software Engineer","DZYNE Technologies LLC.","Irvine, CA, US","2026-05-28","","direct_data","hourly",105.0,130.0,"USD",False,"","","","","**Our Culture**
+DZYNE Technologies is leading the future of autonomous defense. Based in Irvine, California, we develop and manufacture advanced airborne and ground\\-based defense solutions deployed in over 50 countries. Backed by U.S. Government Programs of Record, our technologies are field\\-proven, scalable, and production\\-ready.
+We’re growing fast and looking for innovators ready to make an impact. At DZYNE, you’ll join a culture built on collaboration, integrity, and purpose. We celebrate wins, value diverse perspectives, and support every team member’s success.
+Ready to do work that matters? Join us.
+**Position:** Flight Ops Full\\-Stack Software Engineer
+**Location:** Irvine, CA
+**Position Description:**
+DZYNE Technologies is seeking a Full\\-Stack Web Application Developer to design and build internal tools that streamline operations and improve team workflows. You will embed with our Flight Operations team and observe their manual workflows to discover points ready for automation. From these observations, you will develop web\\-based systems that make complex processes simple and efficient — from data integration to real\\-time dashboards — helping teams move faster and work smarter. You will create clean, intuitive front\\-end interfaces and build robust back\\-end APIs and databases. The ideal candidate is a developer who loves quickly addressing real\\-world needs with elegant, maintainable software.
+**Responsibilities:**
+* Design and develop internal web applications and dashboards to support flight operations, ground check out, and system testing.
+* Collaborate closely with cross\\-functional teams to understand workflows and pain points to rapidly prototype solutions.
+* Build, test, and deploy full\\-stack applications using modern front\\- and backend frameworks (React, Node, Postgres or other databases).
+* Design and maintain secure, scalable, and maintainable codebases.
+
+**Required Skills/Qualifications:**
+* Strong proficiency in JavaScript, React, and full\\-stack web development.
+* Experience building RESTful APIs and working with relational databases (e.g., PostgreSQL).
+* Familiarity with CI/CD pipelines and agile tools.
+* Familiarity with virtual machines and cloud platforms for hosting
+* Familiarity with Docker deployment
+* Comfort working in fast\\-paced environments, both in and on\\-site, with evolving requirements.
+
+**Preferred Skills/Qualifications:**
+* Experience integrating software tools with real\\-time data or hardware systems.
+* Gitlab CI/CD pipeline scripting
+* Exposure to DevOps best practices
+* Experience working with teams that operate physical systems (IoT, robotics, or similar)
+* Drone software exposure
+
+**Education:**
+* Bachelor’s degree in Computer Science, Software Engineering, or related field (or equivalent experience)
+
+**Clearance Level Required:** No
+**Travel:** Up to 25%
+**Working Conditions**: The diversity of work conditions may range from an environment where there is little or no physical discomfort, such as a general office environment or warehouse to in the field (e.g. proving grounds, airfields).
+**Physical Demands:** The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job.
+* Must have the ability to stand, climb, occasionally lift a minimum of 25 lbs.
+* Regularly required to crouch and reach to install/move equipment by bending forward at the waist or by bending legs and spine
+* Involves movement between departments, floors, and worksites to facilitate work.
+* May be performing physical activities including, but not limited to, heavy lifting and moving of items, climbing in and out of equipment, crawling, and working outdoors
+
+
+**Salary**: $105,000\\-$130,000
+Salary depends on relevant work experience, education, training, essential skills, and/or other factors such as specialized or high\\-demand professions. In addition to the annual salary, the position will be eligible for an annual bonus. The pay range for this job level is a general guideline only and not a guarantee of salary or annual bonus.
+**Benefits:**
+Our benefits are *DZYNE’ed* for your overall health and financial wellness. DZYNE provides comprehensive medical, dental, and vision plans, employee life and accidental death, and disability, with all premiums for our employees paid for by DZYNE Technologies. DZYNE provides paid time off and paid holidays. Additionally, DZYNE offers a 401K plan with an employer match.
+ DZYNE Technologies is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, national origin, disability, or protected veteran status. In addition to federal law requirements, DZYNE Technologies complies with applicable state and local laws governing nondiscrimination in employment in every location in which our company has facilities. This policy applies to all terms and conditions of employment.
+\\#LI\\-ONSITE","","https://www.indeed.com/cmp/Dzyne-Technologies-Llc.","","","","","","","","","","","",""
+"in-122c492f1133db02","indeed","https://www.indeed.com/viewjob?jk=122c492f1133db02","https://jobs.ourcareerpages.com/job/809109?source=Indeed","Senior .NET Developer (cleared)-61525","Syneren Technologies Corporation","Alexandria, VA, US","2026-05-28","fulltime","","","","","",False,"","","","","**Job Title**: Mid\\-level Software Developer (Full\\-Stack)  
+
+**Location:** Alexandria, VA (Onsite)  
+
+**Clearance Required:** Secret Clearance  
+
+**Employment Type**: Full\\-Time/Exempt  
+
+**Overview:**
+
+
+
+Syneren Technologies is seeking a seasoned Full\\-Stack Developer to design, build, and maintain scalable web and cloud\\-native applications using modern frameworks and Microsoft Azure services. This role requires strong collaboration, technical leadership, and a passion for clean, secure, and efficient code.
+
+
+**Key Responsibilities:**
+
+
+* Design, develop, test, and deploy full\\-stack applications using technologies like C\\#, .NET, JavaScript, Angular, React, Node.js, and Python.
+* Architect scalable solutions and modernize legacy systems for Azure cloud environments.
+* Collaborate with cross\\-functional teams to translate business needs into technical solutions.
+* Lead code reviews, mentor junior developers, and uphold coding standards.
+* Manage CI/CD pipelines (Azure DevOps, Jenkins) and version control (Git, TFS).
+* Integrate APIs, microservices, and serverless components.
+* Troubleshoot complex issues across front\\-end, back\\-end, and databases (MS SQL).
+* Stay current with emerging tools, frameworks, and Azure services.
+
+
+**Required Skills \\& Tools**
+
+
+* Azure App Services, Functions, SQL Database, DevOps, AI/ML, and AI Search
+* Docker, Kubernetes, and serverless architecture
+* Familiarity with ServiceNow and cross\\-domain cloud traffic
+* Strong understanding of security, performance, and accessibility best practices
+
+
+**Qualifications**
+
+
+* U.S. Citizenship and active Secret Clearance required
+* Microsoft AZ\\-900 or higher Azure certification
+* IAT Level I certification (or ability to obtain)
+* 5\\+ years of full\\-stack development experience, preferably in Azure
+* Experience with both front\\-end and back\\-end technologies
+
+
+**Working Conditions**:  
+
+* Standard office environment
+* May require extended hours
+* Must be able to lift up to 15 lbs
+
+**Physical Requirements:**  
+
+* Prolonged desk/computer work
+* Occasional movement across office space
+* Ability to lift up to 15 lbs
+  
+
+
+***Disclaimer***
+
+
+*This job description is intended to describe the general nature and level of work performed. It is not an exhaustive list of all responsibilities, duties, and skills required.*
+
+
+*ADA Compliance: Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.*
+
+
+*EEO\\-1 Statement: We are an Equal Opportunity Employer and do not discriminate based on race, color, religion, sex, national origin, age, disability, or genetic information.*
+
+
+*E\\-Verify Participation: This employer participates in E\\-Verify to confirm the eligibility of all newly hired employees to work in the United States*.","","https://www.indeed.com/cmp/Syneren-Technologies-Corporation","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f5d3703a035deaed52ac3a521f4f216a","https://www.syneren.com","Arlington","51 to 200","$5M to $25M (USD)","","","","","","",""
+"in-9256112f2d84af1e","indeed","https://www.indeed.com/viewjob?jk=9256112f2d84af1e","https://careers.mcdean.com/jobs/31565/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Software Developer 6 - Springfield, VA","M.C. Dean, Inc.","Springfield, VA, US","2026-05-27","fulltime","","","","","",False,"","","","","Overview:
+**About M.C. Dean**  
+
+M.C. Dean is Building Intelligence®. We design, build, operate, and maintain cyber\\-physical solutions for the nation’s most mission\\-critical facilities, secure environments, complex infrastructure, and global enterprises. With over 9,000 employees, our capabilities span electrical, electronic security, telecommunications, life safety, automation and controls, audiovisual, and IT systems. Headquarters in Tysons, Virginia, M.C. Dean delivers resilient, secure, and innovative power and technology solutions through engineering expertise and smart systems integration.  
+
+  
+
+**Why Join Us?**  
+
+Our people are passionate about engineering innovation that improves lives and drives impactful change. Guided by our core values—agility, expertise, and trust—we foster a collaborative and forward\\-thinking work environment. At M.C. Dean, we are committed to building the next generation of technical leaders in electrical, engineering, and cybersecurity industries.  
+
+  
+
+We are seeking a **Software Developer 6** to join our **Security and Electronic Systems (SES)** business Unit. As part of **(SES)** Strategic Business Unit you will be part of a team that designs, engineers, integrates, operates and maintains electronic security services inclusive of intrusion detection, access control, biometric authentication, video surveillance, audio visual, it systems, perimeter defense and command and control systems for federal, local and commercial customers across high\\-growth markets.
+Responsibilities:
+
+As a Software Developer 6 you will work independently and as part of a cross\\-functional team to develop, maintain, and enhance complex and diverse software systems pursuant documented requirements.
+Main responsibilities include:* Perform full life\\-cycle software development, from conception to deployment.
+* Analyze user requirements to derive software design and performance requirements.
+* Develop software solutions by analyzing system performance standards, conferring with users or system engineers; analyzing systems flow, data usage and work processes; and investigating problem areas.
+* Design and code new software or modify existing software to add new features.
+* Review and test software components to ensure design requirements are met.
+* Write or review software and system documentation.
+* Modify existing software to correct errors, to adapt to new hardware, or to improve its performance.
+* Integrate existing software into new or modified systems or operating environments.
+* Recommend system designs including hardware and software use, process standards, and procedures.
+* Design, code/modify, and implement complex algorithms pursuant to strict requirements.
+* Coordinate software system installation and monitor equipment functionality to ensure operational specifications are met.
+* Make recommendations for improving documentation and software development process standards.
+* Oversees one or more software development teams and ensures the work is completed in accordance with the constraints of the software development process being used on any particular project.
+
+  
+
+
+Qualifications:
+**Clearance/Citizen Type:** Applicants selected will be subject to a government security investigation and must meet eligibility requirements, including U.S. Citizenship, for access to classified information; **Active Top Secret clearance with the ability to obtain SCI is required.**  
+
+**Key Requirements:*** Education and Experience: Computer Science, Engineering, or a Related Discipline
+	+ Bachelor's Degree and 12\\+ years of relevant progressive experience or
+	+ Master's Degree and 9\\+ years of relevant progressive experience
+* DoD 8570 IAT Level II or higher baseline certification, e.g. CISSP, Security\\+, etc.
+* Relevant experience / knowledge of coding languages, development frameworks and third\\-party libraries
+	+ Front\\-end languages and libraries (e.g. HTML/CSS, JavaScript, XML, jQuery)
+	+ Back\\-end languages (e.g. C\\#, Java, Python) and JavaScript frameworks (e.g. Angular, React, Node.js)
+* Familiarity with databases (e.g. MySQL, MongoDB), web servers (e.g. Apache) and UI/UX design
+* Strong oral and writing skills
+* Demonstrate background working with multidisciplinary teams
+* Demonstrate time management and organization skills to meet deadlines and quality objectives
+
+**Travel:*** Ability to travel up to 25% of the time.
+
+**What we offer:*** A collaborative team inspired by the way engineering and innovation enhance customer outcomes, improve lives, and change the world for the better. We are driven by our core values of agility, expertise, and trust.
+* An opportunity to lead and build a business with the support of an industry\\-leading firm that has been in business for 75 years.
+* Investment in your skills and expertise through a combination of professional and technical training programs, including leadership training and tuition reimbursement.
+* Open and transparent communication with senior leadership as well as local office management.
+
+**Abilities:*** Exposure to computer screens for an extended period of time.
+* Sitting for extended periods of time.
+* Reach by extending hands or arms in any direction.
+* Have finger dexterity in order to manipulate objects with fingers rather than whole hands or arms, for example, using a keyboard.
+* Listen to and understand information and ideas presented through spoken words and sentences.
+* Communicate information and ideas in speaking so others will understand.
+* Read and understand information and ideas presented in writing.
+* Apply general rules to specific problems to produce answers that make sense.
+* Identify and understand the speech of another person.","Consulting And Business Services","https://www.indeed.com/cmp/M.c.-Dean,-Inc.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8b5a8f300f5435d312f179b959442208","http://www.mcdean.com","1765 Greensboro Station Pl.
+Tysons, VA 22102","5,001 to 10,000","$1B to $5B (USD)","$1B+ global engineering, design-build, and systems integration firm delivering cyber-physical solutions to government and Fortune 50 clients.","","","","","",""
+"in-73b05e37a72eb5d7","indeed","https://www.indeed.com/viewjob?jk=73b05e37a72eb5d7","https://jobs.ashbyhq.com/Stepful/227ebf1e-4d95-46cb-9b52-f7e6677db180?utm_source=eY5XMN8pWz","Senior Software Engineer 2 (L5)","Stepful","New York, NY, US","2026-05-27","fulltime","direct_data","yearly",157000.0,248000.0,"USD",False,"","","","","**About Stepful**:
+
+
+Stepful is reimagining allied healthcare training by offering affordable, online, instructor\\-led, and AI\\-supported programs that help learners—regardless of background or circumstance—launch high\\-demand healthcare careers.
+
+
+In addition to our direct\\-to\\-consumer training, Stepful partners with leading healthcare institutions to address the growing national shortage of healthcare workers. Our graduates, including Medical Assistants, Pharmacy Technicians, Nurses, and more, form the talent pipelines at major employers like CVS, NY\\-Presbyterian, HCA, Providence, and Walgreens.
+
+
+Stepful is backed by Y Combinator, Reach Capital, and AlleyCorp, with a recent $31\\.5M Series B led by Oak HC/FT. We were named the \\#1 EdTech company in the U.S. by TIME for 2025\\.
+
+
+We’re improving access to quality healthcare for everyone, everywhere, and improving access to healthcare careers for those who need them most
+
+**Our values**:
+
+
+We credit much of our success to our exceptional team. We’re looking for mission\\-driven builders who thrive in fast\\-paced, ambiguous environments, and embody our four core values:
+
+* **Care first**: We do whatever it takes for our students to succeed.
+* **Learn quickly**: We test, learn with data, and iterate.
+* **Build together**: We win when we rely on each other.
+* **Own it**: We show up, take initiative, and show pride.
+
+**What you can expect to be working on:**
+-----------------------------------------
+
+* World Class Learning Experience: Develop and iterate on an advanced Learning Management System that generates outcomes! Focus on seamless UX, adaptive learning, peer\\-to\\-peer engagement, gamification and motivational mechanisms.
+* Innovative Career Services: Empower graduates to find jobs and match our growing network of clinical partners. Apply generative AI to the job\\-seeking process, from resume generation to interview training.
+* Empower the Internal Workforce: Design and maintain platforms for instructors, TAs, coaches, and operators to optimize student success. Leverage generative AI to maximize its impact on students' lives.
+* Cutting Edge Content Management: Generate and maintain content at scale that adapts to evolving educational needs. Build the technology to create new curricula in a fraction of the time and iterate to maximize students' learning.
+* Data Pipelines: Make data reliable and accessible to everyone at Stepful, and empower the business, learning, and operation teams at Stepful to make data\\-driven decisions.
+
+**This job is for you if you have:**
+------------------------------------
+
+* 8\\+ years of full\\-stack engineering experience. Can take ownership of the whole development lifecycle (this means you are comfortable operating full\\-stack)
+* Must be familiar with React\\+Typescript on the frontend. Familiarity with any of the following languages for the backend: Python, Node.js, Ruby on Rails
+* Relentlessly obsess over solving complex problems with cutting\\-edge technology and willing to learn something new every day
+* Find excitement in joining an early\\-stage company and are not afraid of building something new
+
+**Bonus points if:**
+--------------------
+
+* You have previous experience in a direct\\-to\\-consumer startup, especially within EdTech/Healthcare
+
+**Interview Process:**
+----------------------
+
+* Interview with a Recruiter (30 min)
+* Technical Round (2\\.45 hrs):
+
+
+	+ (1\\) Live Full Stack Coding Exercise \\- You will have a choice of the following tech stack:
+	
+	
+		- React\\+Node.js (Express)
+		- React\\+Python (Django)
+		- React\\+Ruby
+	+ (2\\) Live Coding Challenge \\- You will have a choice of the following language:
+	
+	
+		- Python
+		- Ruby
+		- JavaScript
+	+ (3\\) Technical Interview with the Hiring Manager
+
+Onsite (1\\.5 hrs)  
+
+  
+
+**Compensation:**  
+
+Senior II \\- $172,000\\-$228,000
+
+
+Compensation for this role will fall within the pay range listed and will be determined based on job\\-related factors including, but not limited to, skills, experience, qualifications as well as interview evaluation. Ranges are market\\-dependent and may be modified in the future. Please note we do not have a bonus structure at this time so all cash compensation will come in the form of base salary. The total compensation package will also include our benefits package and an equity (ISOs) package.  
+
+  
+
+**Benefits**:
+
+* Meaningful Equity Stake
+* Subsidized Medical, Dental, and Vision insurance plan options
+* 401(k)
+* FSA, HSA and commuter benefits
+* Open vacation policy, including:
+
+
+	+ Guidance of 15 days PTO annually
+	+ Stepful closed the last week of December
+	+ 15 work\\-from\\-anywhere days
+	+ 10 public holidays observed for 2026
+
+**Stepful is proud to be an equal opportunity employer**. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex, marital status, ancestry, disability, genetic information, veteran status, gender identity or expression, sexual orientation, pregnancy, or other applicable legally protected characteristic.
+
+
+Compensation Range: $157K \\- $248K","","https://www.indeed.com/cmp/Stepful-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/db461639be6bc1ba018cb0d973c616e4","https://www.stepful.com/","Detroit, MI","51 to 200","","Stepful's mission is to empower communities with accessible pathways to healthcare careers, regardless of background or circumstance.","","","","","",""
+"in-3cb92e94dc3f62fa","indeed","https://www.indeed.com/viewjob?jk=3cb92e94dc3f62fa","https://jobs.ashbyhq.com/Stepful/0441f421-a1b2-4561-9284-50e0621db3ba?utm_source=eY5XMN8pWz","Senior Software Engineer 1 (L4)","Stepful","New York, NY, US","2026-05-27","fulltime","direct_data","yearly",157000.0,248000.0,"USD",False,"","","","","**About Stepful**:
+
+
+Stepful is reimagining allied healthcare training by offering affordable, online, instructor\\-led, and AI\\-supported programs that help learners—regardless of background or circumstance—launch high\\-demand healthcare careers.
+
+
+In addition to our direct\\-to\\-consumer training, Stepful partners with leading healthcare institutions to address the growing national shortage of healthcare workers. Our graduates, including Medical Assistants, Pharmacy Technicians, Nurses, and more, form the talent pipelines at major employers like CVS, NY\\-Presbyterian, HCA, Providence, and Walgreens.
+
+
+Stepful is backed by Y Combinator, Reach Capital, and AlleyCorp, with a recent $31\\.5M Series B led by Oak HC/FT. We were named the \\#1 EdTech company in the U.S. by TIME for 2025\\.
+
+
+We’re improving access to quality healthcare for everyone, everywhere, and improving access to healthcare careers for those who need them most
+
+**Our values**:
+
+
+We credit much of our success to our exceptional team. We’re looking for mission\\-driven builders who thrive in fast\\-paced, ambiguous environments, and embody our four core values:
+
+* **Care first**: We do whatever it takes for our students to succeed.
+* **Learn quickly**: We test, learn with data, and iterate.
+* **Build together**: We win when we rely on each other.
+* **Own it**: We show up, take initiative, and show pride.
+
+**What you can expect to be working on:**
+-----------------------------------------
+
+* World Class Learning Experience: Develop and iterate on an advanced Learning Management System that generates outcomes! Focus on seamless UX, adaptive learning, peer\\-to\\-peer engagement, gamification and motivational mechanisms.
+* Innovative Career Services: Empower graduates to find jobs and match our growing network of clinical partners. Apply generative AI to the job\\-seeking process, from resume generation to interview training.
+* Empower the Internal Workforce: Design and maintain platforms for instructors, TAs, coaches, and operators to optimize student success. Leverage generative AI to maximize its impact on students' lives.
+* Cutting Edge Content Management: Generate and maintain content at scale that adapts to evolving educational needs. Build the technology to create new curricula in a fraction of the time and iterate to maximize students' learning.
+* Data Pipelines: Make data reliable and accessible to everyone at Stepful, and empower the business, learning, and operation teams at Stepful to make data\\-driven decisions.
+
+**This job is for you if you have:**
+------------------------------------
+
+* 5\\+ years of full\\-stack engineering experience. Can take ownership of the whole development lifecycle (this means you are comfortable operating full\\-stack)
+* Must be familiar with React\\+Typescript on the frontend. Familiarity with any of the following languages for the backend: Python, Node.js, Ruby on Rails
+* Relentlessly obsess over solving complex problems with cutting\\-edge technology and willing to learn something new every day
+* Find excitement in joining an early\\-stage company and are not afraid of building something new
+
+**Bonus points if:**
+--------------------
+
+* You have previous experience in a direct\\-to\\-consumer startup, especially within EdTech/Healthcare
+
+**Interview Process:**
+----------------------
+
+* Interview with a Recruiter (30 min)
+* Technical Round (2\\.45 hrs):
+
+
+	+ (1\\) Live Full Stack Coding Exercise \\- You will have a choice of the following tech stack:
+	
+	
+		- React\\+Node.js (Express)
+		- React\\+Python (Django)
+		- React\\+Ruby
+	+ (2\\) Live Coding Challenge \\- You will have a choice of the following language:
+	
+	
+		- Python
+		- Ruby
+		- JavaScript
+	+ (3\\) Technical Interview with the Hiring Manager
+
+Onsite (1\\.5 hrs)  
+
+  
+
+**Compensation:**  
+
+Senior 1 \\- $157,000\\-$208,000
+
+
+Compensation for this role will fall within the pay range listed and will be determined based on job\\-related factors including, but not limited to, skills, experience, qualifications as well as interview evaluation. Ranges are market\\-dependent and may be modified in the future. Please note we do not have a bonus structure at this time so all cash compensation will come in the form of base salary. The total compensation package will also include our benefits package and an equity (ISOs) package.  
+
+  
+
+**Benefits**:
+
+* Meaningful Equity Stake
+* Subsidized Medical, Dental, and Vision insurance plan options
+* 401(k)
+* FSA, HSA and commuter benefits
+* Open vacation policy, including:
+
+
+	+ Guidance of 15 days PTO annually
+	+ Stepful closed the last week of December
+	+ 15 work\\-from\\-anywhere days
+	+ 10 public holidays observed for 2026
+
+**Stepful is proud to be an equal opportunity employer**. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex, marital status, ancestry, disability, genetic information, veteran status, gender identity or expression, sexual orientation, pregnancy, or other applicable legally protected characteristic.
+
+
+Compensation Range: $157K \\- $248K","","https://www.indeed.com/cmp/Stepful-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/db461639be6bc1ba018cb0d973c616e4","https://www.stepful.com/","Detroit, MI","51 to 200","","Stepful's mission is to empower communities with accessible pathways to healthcare careers, regardless of background or circumstance.","","","","","",""
+"in-e0a39111dfa5564f","indeed","https://www.indeed.com/viewjob?jk=e0a39111dfa5564f","https://jobs.ashbyhq.com/Stepful/1bcc5add-aebd-46c8-8bcc-3bcf60dda70e?utm_source=eY5XMN8pWz","Staff Software Engineer 1 (L6)","Stepful","New York, NY, US","2026-05-27","fulltime","direct_data","yearly",157000.0,248000.0,"USD",False,"","","","","**About Stepful**:
+
+
+Stepful is reimagining allied healthcare training by offering affordable, online, instructor\\-led, and AI\\-supported programs that help learners—regardless of background or circumstance—launch high\\-demand healthcare careers.
+
+
+In addition to our direct\\-to\\-consumer training, Stepful partners with leading healthcare institutions to address the growing national shortage of healthcare workers. Our graduates, including Medical Assistants, Pharmacy Technicians, Nurses, and more, form the talent pipelines at major employers like CVS, NY\\-Presbyterian, HCA, Providence, and Walgreens.
+
+
+Stepful is backed by Y Combinator, Reach Capital, and AlleyCorp, with a recent $31\\.5M Series B led by Oak HC/FT. We were named the \\#1 EdTech company in the U.S. by TIME for 2025\\.
+
+
+We’re improving access to quality healthcare for everyone, everywhere, and improving access to healthcare careers for those who need them most
+
+**Our values**:
+
+
+We credit much of our success to our exceptional team. We’re looking for mission\\-driven builders who thrive in fast\\-paced, ambiguous environments, and embody our four core values:
+
+* **Care first**: We do whatever it takes for our students to succeed.
+* **Learn quickly**: We test, learn with data, and iterate.
+* **Build together**: We win when we rely on each other.
+* **Own it**: We show up, take initiative, and show pride.
+
+**What you can expect to be working on:**
+-----------------------------------------
+
+* World Class Learning Experience: Develop and iterate on an advanced Learning Management System that generates outcomes! Focus on seamless UX, adaptive learning, peer\\-to\\-peer engagement, gamification and motivational mechanisms.
+* Innovative Career Services: Empower graduates to find jobs and match our growing network of clinical partners. Apply generative AI to the job\\-seeking process, from resume generation to interview training.
+* Empower the Internal Workforce: Design and maintain platforms for instructors, TAs, coaches, and operators to optimize student success. Leverage generative AI to maximize its impact on students' lives.
+* Cutting Edge Content Management: Generate and maintain content at scale that adapts to evolving educational needs. Build the technology to create new curricula in a fraction of the time and iterate to maximize students' learning.
+* Data Pipelines: Make data reliable and accessible to everyone at Stepful, and empower the business, learning, and operation teams at Stepful to make data\\-driven decisions.
+
+**This job is for you if you have:**
+------------------------------------
+
+* 10\\+ years of full\\-stack engineering experience. Can take ownership of the whole development lifecycle (this means you are comfortable operating full\\-stack)
+* Must be familiar with React\\+Typescript on the frontend. Familiarity with any of the following languages for the backend: Python, Node.js, Ruby on Rails
+* Relentlessly obsess over solving complex problems with cutting\\-edge technology and willing to learn something new every day
+* Find excitement in joining an early\\-stage company and are not afraid of building something new
+
+**Bonus points if:**
+--------------------
+
+* You have previous experience in a direct\\-to\\-consumer startup, especially within EdTech/Healthcare
+
+**Interview Process:**
+----------------------
+
+* Interview with a Recruiter (30 min)
+* Technical Round (2\\.45 hrs):
+
+
+	+ (1\\) Live Full Stack Coding Exercise \\- You will have a choice of the following tech stack:
+	
+	
+		- React\\+Node.js (Express)
+		- React\\+Python (Django)
+		- React\\+Ruby
+	+ (2\\) Live Coding Challenge \\- You will have a choice of the following language:
+	
+	
+		- Python
+		- Ruby
+		- JavaScript
+	+ (3\\) Technical Interview with the Hiring Manager
+
+Onsite (1\\.5 hrs)  
+
+  
+
+**Compensation:**  
+
+Staff 1 \\- $188,000\\-$248,000
+
+
+Compensation for this role will fall within the pay range listed and will be determined based on job\\-related factors including, but not limited to, skills, experience, qualifications as well as interview evaluation. Ranges are market\\-dependent and may be modified in the future. Please note we do not have a bonus structure at this time so all cash compensation will come in the form of base salary. The total compensation package will also include our benefits package and an equity (ISOs) package.  
+
+  
+
+**Benefits**:
+
+* Meaningful Equity Stake
+* Subsidized Medical, Dental, and Vision insurance plan options
+* 401(k)
+* FSA, HSA and commuter benefits
+* Open vacation policy, including:
+
+
+	+ Guidance of 15 days PTO annually
+	+ Stepful closed the last week of December
+	+ 15 work\\-from\\-anywhere days
+	+ 10 public holidays observed for 2026
+
+**Stepful is proud to be an equal opportunity employer**. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex, marital status, ancestry, disability, genetic information, veteran status, gender identity or expression, sexual orientation, pregnancy, or other applicable legally protected characteristic.
+
+
+Compensation Range: $157K \\- $248K","","https://www.indeed.com/cmp/Stepful-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/db461639be6bc1ba018cb0d973c616e4","https://www.stepful.com/","Detroit, MI","51 to 200","","Stepful's mission is to empower communities with accessible pathways to healthcare careers, regardless of background or circumstance.","","","","","",""
+"in-91ec420e38b50af2","indeed","https://www.indeed.com/viewjob?jk=91ec420e38b50af2","https://jobs.lever.co/h1/05d083e8-7bb9-4cc6-a8ff-a1abae2048f8","Full-Stack Software Engineer","H1","Remote, US","2026-05-27","fulltime","","","","","",True,"","","","","At H1, we believe access to the best healthcare information is a basic human right. Our mission is to provide a platform that can optimally inform every doctor interaction globally. This promotes health equity and builds needed trust in healthcare systems. To accomplish this our teams harness the power of data and AI\\-technology to unlock groundbreaking medical insights and convert those insights into action that result in optimal patient outcomes and accelerates an equitable and inclusive drug development lifecycle. Visit h1\\.co to learn more about us.  
+
+  
+
+Product Engineering is responsible for the development and delivery of our consumer\\-facing applications. Today, that includes enterprise SaaS web development. Our applications are a window into our knowledge base of millions of healthcare professional profiles and their affiliations. The product engineering team builds the applications that allow our customers to search and visualize information to make rapid, business\\-critical decisions.
+
+
+**WHAT YOU’LL DO AT H1**
+
+
+
+As a Software Engineer on the Product Engineering team, you will assist in developing our product's technical strategy, H1 Trial Landscape. Collaborate closely with your team to deliver the most innovative, reliable, and high\\-quality healthcare data application available.
+
+
+
+You will:  
+
+* Assist in building a world\\-class user experience
+* Work on APIs powering our applications
+* Build and maintain data pipelines using Airflow and Kafka
+* Build and maintain client\\-facing applications powered by React (TanStack Start, Next.js, and more)
+* Ensure you are supporting your team in delivering the best healthcare data application in the market
+* Manage and deploy infrastructure using Docker and Kubernetes
+* Work across teams, managing cross\\-functional dependencies where required
+  
+
+  
+
+**ABOUT YOU**  
+
+* You’re a builder. You love to get your hands dirty writing code. You understand how each system dovetails to the other. The H1 core product is built with Typescript, React, Node.JS, ElasticSearch, SQL, Kubernetes, and AWS. You are not afraid to use modern tools and enjoy working in a modern tech stack.
+* You are a teammate. Being part of a team is a requirement for you. You appreciate working together, solving problems, and iterating to become something better. You accept feedback professionally. You understand that delivering the best solution to the customer requires teamwork.
+* You are a lifelong learner, always seeking to expand your knowledge and questioning existing solutions to drive innovation
+* You are a student. You understand that as an engineer, you never stop learning. You ask questions about current solutions. You enjoy learning new things and exploring ideas. You will adopt new technologies tempered by due diligence.
+  
+
+**REQUIREMENTS**  
+
+* 3\\+ years of experience in building products within top\\-tier engineering teams
+* Experience with our core technologies: Typescript/ Javascript, React, NodeJS, SQL, GraphQL, ElasticSearch, AWS
+* Experience with databases like PostgreSQL
+* Software management tools such as Git, JIRA, and CircleCI
+* Experience with or strong willingness to learn data pipeline tools such as Apache Airflow and Apache Kafka
+* Developer Operations, deploying to systems like AWS and Kubernetes
+
+
+Bonus Skills  
+
+* Experience in healthcare or clinical trials
+* Familiarity with Agentic tools and their application in real\\-world engineering scenarios.
+* Experience building GraphQL services
+
+**H1 OFFERS**
+* Full suite of health insurance options, in addition to generous paid time off
+
+
+* Pre\\-planned company\\-wide wellness holidays
+
+
+* Retirement options
+
+
+* Health \\& charitable donation stipends
+
+
+* Impactful Business Resource Groups
+
+
+* Flexible work hours \\& the opportunity to work from anywhere
+
+
+* The opportunity to work with leading biotech and life sciences companies in an innovative industry with a mission to improve healthcare around the globe
+
+  
+
+
+
+*H1 is proud to be an equal opportunity employer that celebrates diversity and is committed to creating an inclusive workplace with equal opportunity for all applicants and teammates. Our goal is to recruit the most talented people from a diverse candidate pool regardless of race, color, ancestry, national origin, religion, disability, sex (including pregnancy), age, gender, gender identity, sexual orientation, marital status, veteran status, or any other characteristic protected by law.*
+
+*H1 is committed to working with and providing access and reasonable accommodation to applicants with mental and/or physical disabilities. If you require an accommodation, please reach out to your recruiter once you've begun the interview process. All requests for accommodations are treated discreetly and confidentially, as practical and permitted by law.*
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.","","https://www.indeed.com/cmp/H1-4","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/9ee4d048272b95c472c208ec3d1215e1","https://www.h1.co","386 Park Ave S., Floor 5 
+New York, NY 10016","","","Creating a healthier future by connecting the world with the right doctors.","","","","","",""
+"in-73073c20113d8a46","indeed","https://www.indeed.com/viewjob?jk=73073c20113d8a46","https://click.appcast.io/t/l6Gfdo7DNQep13t1nO4EXLkAsYu5E9dlITl9Php-_8E=","Senior Engineer","GEICO","Palo Alto, CA, US","2026-05-27","fulltime","direct_data","yearly",105000.0,215000.0,"USD",False,"","","","","**At GEICO, we offer a rewarding career where your ambitions are met with endless possibilities.**
+
+**Every day we honor our iconic brand by offering quality coverage to millions of customers and being there when they need us most. We thrive through relentless innovation to exceed our customers’ expectations while making a real impact for our company through our shared purpose.**
+
+**When you join our company, we want you to feel valued, supported and proud to work here. That’s why we offer The GEICO Pledge: Great Company, Great Culture, Great Rewards and Great Careers.**
+
+**Position Summary**
+
+
+GEICO is seeking an experienced Senior Engineer with a passion for building high\\-performance, low maintenance, zero\\-downtime platforms, and applications. You will help drive our insurance business transformation as we transition from a traditional IT model to a tech organization with engineering excellence as its mission, while co\\-creating the culture of psychological safety and continuous improvement.
+
+ **Position Description**
+
+
+Our Senior Engineer is a key member of the engineering staff working across the organization to provide a friction\\-less experience to our customers and maintain the highest standards of protection and availability. Our team thrives and succeeds in delivering high quality technology products and services in a hyper\\-growth environment where priorities shift quickly. The ideal candidate has broad and deep technical knowledge, typically ranging from front\\-end UIs through back\\-end systems and all points in between.
+
+ **Position Responsibilities**
+
+
+As a Senior Engineer, you will:
+
+* Scope, design, and build scalable, resilient distributed systems
+* Build product definition and leverage your technical skills to drive towards the right solution
+* Engage in cross\\-functional collaboration throughout the entire software lifecycle
+* Lead in design sessions and code reviews with peers to elevate the quality of engineering across the organization
+* Define, create, and support reusable application components/patterns from a business and technology perspective
+* Utilize programming languages like JavaScript, TypeScript, React, Node.js, Objective C, C\\#, Dart, Python, SQL, and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of Azure tools and services
+* Debug application code and troubleshoot interface software
+* Mentor other engineers
+* Consistently share best practices and improve processes within and across teams
+
+ **Qualifications**
+
+* Advanced programming experience with at least two modern languages such as Java, C\\+\\+, Python or C\\# including object\\-oriented design
+* Experience with modern front\\-end frameworks, likes of React, NodeJs, Angular, including hooks, state management, and component architecture
+* Proven understanding of microservices oriented architecture and extensible REST APIs
+* Experience architecting and designing new and current systems
+* Advanced understanding of DevOps concepts including Azure DevOps framework and tools
+* Advanced PowerShell scripting skills
+* Advanced understanding of security protocols and products: Understanding of Active Directory, Windows Authentication, SAML, OAuth
+* Advanced understanding of security protocols and products
+* Experience with continuous delivery and infrastructure as code
+* In\\-depth knowledge of CS data structures and algorithms
+* Knowledge of developer tooling across the software development life cycle (task management, source code, building, deployment, operations, real\\-time communication)
+* Experience following workflows and writing application interfaces using JavaScript
+* Experience developing and maintaining front\\-end architectures that support user interfaces
+* Experience with application design, implementation, maintenance, diagnosis, and correcting issues
+* Experience managing security vulnerabilities, and maintaining compliance with industry security standards under minimal direction
+* Experience in enterprise\\-scale Event driver architecture and enterprise grade queue management
+* Strong analytical and problem\\-solving ability
+* Ability to excel in a fast\\-paced environment
+
+
+. Proficiency in crafting prompts using AI tools for software development tasks.
+
+
+Experience
+
+* 4\\+ years of professional software development experience using React and/or Flutter concepts to implement responsive components of the user interface
+* 3\\+ years of experience with architecture and design
+* 3\\+ years of experience with AWS, GCP, Azure, or another cloud service
+* 2\\+ years of experience in open\\-source frameworks
+
+ **Education**
+
+* Bachelor’s degree in Computer Science, Information Systems, or equivalent education or work experience
+
+ **Annual Salary**
+
+
+$105,000\\.00 \\- $215,000\\.00
+The above annual salary range is a general guideline. Multiple factors are taken into consideration to arrive at the final hourly rate/ annual salary to be offered to the selected candidate. Factors include, but are not limited to, the scope and responsibilities of the role, the selected candidate’s work experience, education and training, the work location as well as market and business considerations.
+
+  
+
+
+At this time, GEICO will not sponsor a new applicant for employment authorization for this position. **The GEICO Pledge:**
+
+**Great Company:** At GEICO, we help our customers through life’s twists and turns. Our mission is to protect people when they need it most and we’re constantly evolving to stay ahead of their needs.
+
+
+We’re an iconic brand that thrives on innovation, exceeding our customers’ expectations and enabling our collective success. From day one, you’ll take on exciting challenges that help you grow and collaborate with dynamic teams who want to make a positive impact on people’s lives.
+
+**Great Careers:** We offer a career where you can learn, grow, and thrive through personalized development programs, created with your career – and your potential – in mind. You’ll have access to industry leading training, certification assistance, career mentorship and coaching with supportive leaders at all levels.
+
+**Great Culture:** We foster an inclusive culture of shared success, rooted in integrity, a bias for action and a winning mindset. Grounded by our core values, we have an an established culture of caring, inclusion, and belonging, that values different perspectives. Our teams are led by dynamic, multi\\-faceted teams led by supportive leaders, driven by performance excellence and unified under a shared purpose.
+
+
+As part of our culture, we also offer employee engagement and recognition programs that reward the positive impact our work makes on the lives of our customers.
+
+**Great Rewards:** We offer compensation and benefits built to enhance your physical well\\-being, mental and emotional health and financial future.
+
+* Comprehensive Total Rewards program that offers personalized coverage tailor\\-made for you and your family’s overall well\\-being.
+* Financial benefits including market\\-competitive compensation; a 401K savings plan vested from day one that offers a 6% match; performance and recognition\\-based incentives; and tuition assistance.
+* Access to additional benefits like mental healthcare as well as fertility and adoption assistance.
+* Supports flexibility\\- We provide workplace flexibility as well as our GEICO Flex program, which offers the ability to work from anywhere in the US for up to four weeks per year.
+
+
+The equal employment opportunity policy of the GEICO Companies provides for a fair and equal employment opportunity for all associates and job applicants regardless of race, color, religious creed, national origin, ancestry, age, gender, pregnancy, sexual orientation, gender identity, marital status, familial status, disability or genetic information, in compliance with applicable federal, state and local law. GEICO hires and promotes individuals solely on the basis of their qualifications for the job to be filled.
+
+
+GEICO reasonably accommodates qualified individuals with disabilities to enable them to receive equal employment opportunity and/or perform the essential functions of the job, unless the accommodation would impose an undue hardship to the Company. This applies to all applicants and associates. GEICO also provides a work environment in which each associate is able to be productive and work to the best of their ability. We do not condone or tolerate an atmosphere of intimidation or harassment. We expect and require the cooperation of all associates in maintaining an atmosphere free from discrimination and harassment with mutual respect by and for all associates and applicants.","","https://www.indeed.com/cmp/Geico","","https://www.geico.com/careers/","","10,000+","Decline to state","At GEICO, we offer a rewarding career where your ambitions are met with endless possibilities.","","","","","",""
+"in-5f8d56cbddc83bf0","indeed","https://www.indeed.com/viewjob?jk=5f8d56cbddc83bf0","https://job-boards.eu.greenhouse.io/heritageholdings/jobs/4407378101","Senior Software Engineer","Heritage Holdings","Remote, US","2026-05-27","","","","","","",True,"","","","","**Who we are**
+--------------
+
+**Heritage is building the Modern Investment Office**, supporting some of the most prominent families globally to achieve their capital enhancement and preservation goals.
+
+
+**Our vision** is to **help clients build enduring wealth across generations** by combining institutional\\-grade investment sourcing with personalized portfolio construction, cutting\\-edge technology, and deep sector expertise. **We aim to make sophisticated private market opportunities and modern wealth solutions more transparent, connected, and actionable.**
+
+
+**Our team comprises** of a diverse **international group** of individuals from leading organisations and with **diverse backgrounds**, including private equity, venture capital, banking, software development, law, and entrepreneurship. We are committed to attracting **top\\-notch talent** and providing opportunities for growth and development based on their individual strengths and interests.
+
+  
+
+
+**Your role**
+-------------
+
+As a Senior Software Engineer, you will be part of the Engineering organization that is responsible for designing and developing all our user\\-facing products as well as the back\\-office tools and the automation and integration mechanisms that accelerates the efficiency and the scale of our business model.
+
+
+
+You will work closely with our CTO, Federico Feroldi, and other senior members of our internal engineering organization, to discuss ideas and solve complex multi\\-disciplinary problems with innovative technical solutions. (where we value innovative solutions)
+
+
+**You will**
+------------
+
+  
+
+
+
+
+* **Develop solutions** in collaboration with stakeholder groups and other developers;
+* **Implement a best\\-in\\-class experience** for our users across stakeholder groups;
+* **Empower advisors** with stronger tools, data, and insights;
+* **Develop automations** for internal processes to enable efficiency and sustainable growth;
+* **Enhance and extend** the use of third party systems as part of a unified, scalable technology ecosystem.
+
+  
+
+
+**You may be fit for this role if you**
+---------------------------------------
+
+* Have 5\\+ years of industry front\\-end and/or back\\-end development experience, building, running, and debugging web applications using modern JS/TS frameworks (desired experiences: React, Node.js (Fastify), GraphQL, Functional Programming).
+* Have a passion for performance and API design.
+* See the advantages in functional programming and strive to use it in your everyday work.
+* Have an appreciation for the importance of good documentation – internal and external.
+* Have a high level of attention to detail, especially around performance, reliability, and security.
+* Prefer simple solutions and designs over complex ones.
+* Have previous experience in the FinTech field (but it’s not mandatory)
+* Enjoy working with a diverse group of people with different areas of expertise. Engineering works closely with a variety of teams: Sales and Operations to better understand our customers’ needs, Legal and Accounting to understand how global policies influence our financial infrastructure, etc...
+* Have a growth mindset and love learning.
+* Is fluent in English both written and verbally.
+
+**Your Benefits \\& Compensation**
+---------------------------------
+
+* Heritage engineering team was born in a remote\\-only setting and, therefore, we remain a fully flexible organization. Join us remotely or in one of our offices in Milan and London.
+* Meet the team at fun off\\-sites once or twice a year.
+* Diversity is at our core: we represent 10\\+ nationalities and counting.
+
+**Process**
+-----------
+
+CV screening \\> Introductory call with HR \\> Interview with CPO \\> Technical assessments \\> Interview with CTO \\> Interview with COO **\\>** Offer
+
+  
+
+
+At Heritage, we are proud to have a diverse team representing over 15 nationalities, with all communication conducted in English. We are deeply committed to providing equal opportunities and work actively to remove potential biases in our hiring process by involving a Hiring Committee in all decision\\-making.
+
+
+
+By applying to this job offer, you confirm that you have read and understood Heritage's privacy policy: http://bit.ly/privacypolicy121\\.","","https://www.indeed.com/cmp/Heritage-Holdings","","","","","","","","","","","",""

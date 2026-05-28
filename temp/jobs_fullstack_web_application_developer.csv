@@ -1,0 +1,864 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"in-66a24f562008028e","indeed","https://www.indeed.com/viewjob?jk=66a24f562008028e","http://www.indeed.com/job/senior-full-stack-developer-66a24f562008028e","Senior Full Stack Developer","Integration Resolve, Inc.","Remote, US","2026-05-29","fulltime","direct_data","yearly",120000.0,175000.0,"USD",True,"","","","","Please do ***\\*not\\**** respond if you are not a **U.S. citizen** or do not meet other Minimum Requirements since we will not be able to consider you for the position.
+
+**Position Overview**  
+Are you a Senior Developer looking to build modern, cloud\\-native applications that impact global operations? We are seeking a self\\-driven **Senior Full Stack Application Developer** to drive the large\\-scale Agile development of a next\\-generation medical supply chain and logistics suite.
+
+In this role, you will be a key pillar of our Agile DevOps team, modernizing a global platform by building supply\\-chain functionality (front\\-end and back\\-end microservices) within an AWS cloud environment. You will actively collaborate with functional experts to build, deploy, and sustain applications via a fully automated CI/CD pipeline.
+
+**What You Will Do (Responsibilities)**
+
+* **Develop \\& Modernize:** Design and code resilient backend microservices (**Java**) and dynamic frontend interfaces (**Angular/JavaScript**).
+* **Architect Cloud Solutions:** Build and deploy scalable solutions within an AWS ecosystem using containerization (Docker/Kubernetes/Gitlab).
+* **Data Integration:** Integrate complex relational and NoSQL databases, processing streams via Kafka, MongoDB, and PostgreSQL.
+* **DevOps Collaboration:** Participate actively in a mature Scrum environment, leveraging CI/CD pipelines for automated deployment and collaboration (Jira/Confluence).
+* **Innovate:** Utilize AI\\-assisted development models to optimize code delivery and automate routine tasks (GenAI, Amazon Bedrock, Gemini).
+
+**Minimum Qualifications (Required)**
+
+* **Citizenship/Clearance:** Must be a U.S. Citizen capable of obtaining a U.S. Government Public Trust clearance (T3/NAC\\-LC).
+* **Experience:** 12\\+ years of total IT experience, including at least 7 years focused on Full Stack Application Development.
+* **Backend Mastery:** Strong Java development skills with experience in Java EE/Jakarta EE frameworks, such as Spring Boot.
+* **Frontend Expertise:** Proven experience building responsive user interfaces using Angular (TypeScript) and JavaScript.
+* **APIs \\& Architecture:** Deep understanding of microservices architecture and hands\\-on experience implementing/consuming RESTful APIs.
+* **Database \\& Messaging:** Experience working with relational databases (PostgreSQL) and NoSQL/Stream systems (MongoDB, Elasticsearch, or Kafka).
+* **Education:** BS in Computer Science, Information Systems, or a related technical discipline.
+
+**Preferred Qualifications (Desired)**
+
+* **Modern Tools:** Familiarity with AI\\-assisted software development tools and prompt engineering.
+* **Cloud \\& Containers:** Hands\\-on engineering support for databases and apps in AWS or Azure, utilizing Docker and Kubernetes.
+* **Domain Expertise:** Prior experience working with Department of Defense (DoD), Veterans Affairs (VA), or commercial logistics, supply\\-chain, or financial systems.
+* **Automation:** Scripting fluency in Python, Bash, Powershell, or Java to automate development tasks.
+* **Certification:** CompTIA Security\\+ or AWS Certified Developer/Solutions Architect.
+
+Please do ***\\*not\\**** respond if you are not a U.S. citizen or do not meet other Minimum Requirements since we will not be able to consider you for the position.
+
+**Why Join the IntegrationResolve Team?**  
+When you join IntegrationResolve, you enter a forward\\-thinking, high\\-trust environment where advanced technical expertise is celebrated, and autonomous thinking is the norm. We don't micromanage—we trust our professionals to drive solutions and get the job done.
+
+**What We Offer:**
+
+* **True Autonomy:** Deliver large\\-scale integration projects your way, backed by a team of smart, analytical peers.
+* **Premium Compensation:** Enjoy above\\-market salaries and **company\\-paid benefits including a profit\\-sharing bonus**.
+* **Career Mobility:** Expand your skills and advance your career within a massive, modern IT development ecosystem.
+
+If you are a self\\-motivated, seasoned professional ready to make a global impact on complex supply chain systems, we want to hear from you. **Apply today to elevate your career.**
+
+Job Type: Full\\-time
+
+Pay: $120,000\\.00 \\- $175,000\\.00 per year
+
+Application Question(s):
+
+* Are you a U.S. citizen? (Do not apply if you are not a U.S. citizen)
+
+Experience:
+
+* Java development: 7 years (Required)
+
+Work Location: Remote","","https://www.indeed.com/cmp/Integration-Resolve,-Inc.","","","","","","","","","","","",""
+"in-8372037d5116e2b0","indeed","https://www.indeed.com/viewjob?jk=8372037d5116e2b0","https://www.applicantpro.com/openings/globalinformation/jobs/4101136-33887","Application Developer","Global Information Technology","Southfield, MI, US","2026-05-28","fulltime","","","","","",True,"","","","","**Job Description**
+
+**Job Title: Application Developer**  
+
+**Job Location: Remote**  
+
+**Job Type: Full Time** **Job Description:*** Design, develop, test, and support enterprise applications
+* Build and maintain backend services using Java, Spring Boot, and Jakarta EE
+* Develop responsive user interfaces using Angular or React
+* Create and integrate RESTful APIs and microservices
+* Participate in full software development lifecycle (SDLC)
+* Support CI/CD pipelines and containerized deployments
+* Implement secure coding practices and application security standards
+* Analyze business requirements and provide technical solutions
+* Collaborate with cross\\-functional teams and provide technical guidance
+* Support testing, troubleshooting, deployment, and production issues
+
+**Requirement:*** 5\\+ years of backend development experience with Java, Spring Boot, and Jakarta EE
+* Strong experience with REST APIs, SQL databases, and Git
+* 3\\+ years of frontend experience with Angular or React, TypeScript, HTML5, and CSS3
+* Experience with CI/CD tools, Jenkins, GitHub, Docker, or Podman
+* Knowledge of Spring Security, OAuth2, JWT, and secure coding practices
+* Experience with DevSecOps and vulnerability management
+* Familiarity with AI\\-assisted development tools such as GitHub Copilot
+* Strong understanding of enterprise application architecture and SDLC
+* Excellent analytical, troubleshooting, and communication skills
+
+### **Preferred Skills**
+
+* Experience in healthcare or health insurance industry
+* Knowledge of microservices and enterprise integrations
+* Experience leading projects or mentoring developers
+* Understanding of software delivery lifecycle and testing processes
+* Ability to present technical solutions to leadership teams
+
+### **Education \\& Certifications**
+
+* Bachelor's degree in Computer Science, Business Systems, or related field required
+* Master's degree preferred
+* Certifications in Java, Oracle, or Project Management preferred
+
+
+  
+
+**Interested candidates can send their updated resumes at jobs@global\\-itech.com**","","https://www.indeed.com/cmp/Global-Information-Technology","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b2fd9a492e683388cdf44865e56488e6","http://www.git-org.com","Tampa","51 to 200","$1M to $5M (USD)","","","","","","",""
+"in-cd410518050875b4","indeed","https://www.indeed.com/viewjob?jk=cd410518050875b4","https://www.dzyne.com/careers/?gnk=job&gni=8a7883a89e235a19019e461d4ca26f7b&gns=Indeed+Free","Flight Ops Full-Stack Software Engineer","DZYNE Technologies LLC.","Irvine, CA, US","2026-05-28","","direct_data","hourly",105.0,130.0,"USD",False,"","","","","**Our Culture**
+DZYNE Technologies is leading the future of autonomous defense. Based in Irvine, California, we develop and manufacture advanced airborne and ground\\-based defense solutions deployed in over 50 countries. Backed by U.S. Government Programs of Record, our technologies are field\\-proven, scalable, and production\\-ready.
+We’re growing fast and looking for innovators ready to make an impact. At DZYNE, you’ll join a culture built on collaboration, integrity, and purpose. We celebrate wins, value diverse perspectives, and support every team member’s success.
+Ready to do work that matters? Join us.
+**Position:** Flight Ops Full\\-Stack Software Engineer
+**Location:** Irvine, CA
+**Position Description:**
+DZYNE Technologies is seeking a Full\\-Stack Web Application Developer to design and build internal tools that streamline operations and improve team workflows. You will embed with our Flight Operations team and observe their manual workflows to discover points ready for automation. From these observations, you will develop web\\-based systems that make complex processes simple and efficient — from data integration to real\\-time dashboards — helping teams move faster and work smarter. You will create clean, intuitive front\\-end interfaces and build robust back\\-end APIs and databases. The ideal candidate is a developer who loves quickly addressing real\\-world needs with elegant, maintainable software.
+**Responsibilities:**
+* Design and develop internal web applications and dashboards to support flight operations, ground check out, and system testing.
+* Collaborate closely with cross\\-functional teams to understand workflows and pain points to rapidly prototype solutions.
+* Build, test, and deploy full\\-stack applications using modern front\\- and backend frameworks (React, Node, Postgres or other databases).
+* Design and maintain secure, scalable, and maintainable codebases.
+
+**Required Skills/Qualifications:**
+* Strong proficiency in JavaScript, React, and full\\-stack web development.
+* Experience building RESTful APIs and working with relational databases (e.g., PostgreSQL).
+* Familiarity with CI/CD pipelines and agile tools.
+* Familiarity with virtual machines and cloud platforms for hosting
+* Familiarity with Docker deployment
+* Comfort working in fast\\-paced environments, both in and on\\-site, with evolving requirements.
+
+**Preferred Skills/Qualifications:**
+* Experience integrating software tools with real\\-time data or hardware systems.
+* Gitlab CI/CD pipeline scripting
+* Exposure to DevOps best practices
+* Experience working with teams that operate physical systems (IoT, robotics, or similar)
+* Drone software exposure
+
+**Education:**
+* Bachelor’s degree in Computer Science, Software Engineering, or related field (or equivalent experience)
+
+**Clearance Level Required:** No
+**Travel:** Up to 25%
+**Working Conditions**: The diversity of work conditions may range from an environment where there is little or no physical discomfort, such as a general office environment or warehouse to in the field (e.g. proving grounds, airfields).
+**Physical Demands:** The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job.
+* Must have the ability to stand, climb, occasionally lift a minimum of 25 lbs.
+* Regularly required to crouch and reach to install/move equipment by bending forward at the waist or by bending legs and spine
+* Involves movement between departments, floors, and worksites to facilitate work.
+* May be performing physical activities including, but not limited to, heavy lifting and moving of items, climbing in and out of equipment, crawling, and working outdoors
+
+
+**Salary**: $105,000\\-$130,000
+Salary depends on relevant work experience, education, training, essential skills, and/or other factors such as specialized or high\\-demand professions. In addition to the annual salary, the position will be eligible for an annual bonus. The pay range for this job level is a general guideline only and not a guarantee of salary or annual bonus.
+**Benefits:**
+Our benefits are *DZYNE’ed* for your overall health and financial wellness. DZYNE provides comprehensive medical, dental, and vision plans, employee life and accidental death, and disability, with all premiums for our employees paid for by DZYNE Technologies. DZYNE provides paid time off and paid holidays. Additionally, DZYNE offers a 401K plan with an employer match.
+ DZYNE Technologies is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, national origin, disability, or protected veteran status. In addition to federal law requirements, DZYNE Technologies complies with applicable state and local laws governing nondiscrimination in employment in every location in which our company has facilities. This policy applies to all terms and conditions of employment.
+\\#LI\\-ONSITE","","https://www.indeed.com/cmp/Dzyne-Technologies-Llc.","","","","","","","","","","","",""
+"in-fd5315fc3f6282ee","indeed","https://www.indeed.com/viewjob?jk=fd5315fc3f6282ee","http://www.indeed.com/job/application-developer-fd5315fc3f6282ee","Application Developer","Knight Federal Solutions","Bolling AFB, DC, US","2026-05-28","fulltime, contract","direct_data","yearly",120000.0,130000.0,"USD",True,"","","","","**Job Overview**  
+We are seeking a dynamic and detail\\-oriented Application Developer to join our innovative technology team. In this role, you will be instrumental in designing, developing, and maintaining robust software applications that drive business success. Your expertise will help translate complex requirements into scalable solutions, ensuring seamless integration across various platforms and systems. This position offers an exciting opportunity to work with cutting\\-edge technologies and contribute to impactful projects that shape the future of our organization.
+
+**Clearance Required**: TS/SCI \\& CI Polygraph (Active)
+
+**Location**: DIA HQ (Bolling AFB) Washington, D.C.
+
+**Shift**: 2 days on site, 3 days remote
+
+**Position Description**: The SITE III EPD Application Development and Sustainment Task Order will be a hybrid application developer to support sustainment of two critical operating systems on JWICs. The Application Developer is a critical position on our contract. The individual must have a TS/SCI CI Poly and work will take place at DIA HQ.
+
+**Basic Requirements**: Experience using Node.js with Typescript, SQL, PostgreSQL, Redis, and Elasticsearch Experience creating solutions to complex problems within a collaborative, cross functional team Ability to work with automated testing tools to perform testing and maintenance TS/SCI clearance with a polygraph Bachelor's degree and 10\\+ years of experience with application or software development, or Master's degree and 8\\+ years of experience with application or software development Experience with JSON, Java, JavaScript, SharePoint, XML, VBAs, Oracle, MongoDB, Solr, SQL, Open AI, or other AI technologies
+
+Pay: $120,000\\.00 \\- $130,000\\.00 per year
+
+Benefits:
+
+* 401(k)
+* 401(k) matching
+* Dental insurance
+* Health insurance
+* Health savings account
+* Life insurance
+* Paid time off
+* Vision insurance
+
+Security clearance:
+
+* Top Secret (Required)
+
+Work Location: Hybrid remote in Bolling AFB, DC","","https://www.indeed.com/cmp/Knight-Federal-Solutions","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26d313cbd8103c0146d29c36acbbdf3a","http://www.knightfederal.com","Orlando","51 to 200","","","","","","","",""
+"in-0ea584c419d6351f","indeed","https://www.indeed.com/viewjob?jk=0ea584c419d6351f","http://www.indeed.com/job/java-application-developer-0ea584c419d6351f","Java Application Developer","Global KTech","New York, NY, US","2026-05-28","contract","direct_data","hourly",45.0,50.0,"USD",True,"","","","","**Overview**  
+We are seeking a dynamic and highly skilled Java Application Developer to join our innovative technology team. In this role, you will be at the forefront of designing, developing, and maintaining robust Java\\-based applications that drive our core business functions. Your expertise will contribute to building scalable, efficient, and secure software solutions that meet evolving client needs. This is an exciting opportunity for passionate developers eager to work in a fast\\-paced environment where creativity and technical excellence are celebrated.
+
+**Responsibilities**
+
+* Java DeveloperApplication Description These are home grown and maintained business applications that service the overpayment recovery business. The apps have about 2K users made up of about 1K internal and 1K external users. They research insurance claims for overpayments by payers, i.e. insurance companies. Once we identify overpayments we work with payers (UHC, as well as hundreds of other insurance companies which we call payers.)The app that we support is based in Angular front\\-end and C\\# backend with just a few Java based APIs. We are hosted on Azure Public Cloud. Backend DB is SQL Server. As most other app dev groups within Optum/UHG are devs are true full stack developers. They do CICD, deployments, Infrastructure as Code, security vulnerability remediation, unit tests, regression testing, app support, etc.Role OverviewDevelop, test, deploy, monitor, maintain, and continuously improve softwareTranslate product concepts into project commitments that results in delivery of incremental value to our customers frequently and with high quality in 2\\-week\\-sprintsParticipate and attend Scrum Ceremonies with meaningful contributions to discussionsEngage in continuous learning related to the software development process.Required Qualifications 2\\+ years of coding experience with one or more of the following languages Java, C\\#, Javascript, or C/C\\+\\+, and the eagerness to learn new languages and frameworks.Solid understanding of engineering fundamentals Unit Testing, Agile Methodologies, and DevOps.Preferred Qualifications Experience working with CICD (Continuous Integration/Continuous Delivery) toolsExperience in incident management and end user supportBachelor's degree in related field (Software Engineering) or equivalent work experienceRequired AI Skills \\- All contractor resources are expected to demonstrate baseline proficiency in enterprise\\-approved AI tools as part of their day\\-to\\-day responsibilities. This includes, but is not limited to \\-Consistent Use Maintain a minimum of 90% weekly usage of AI tools such as GitHub Copilot, Microsoft 365 Copilot, and other GenAI platforms approved by the enterprise. \\-Applied Productivity Leverage AI tools to enhance coding, documentation, data analysis, and decision\\-making workflows. \\-Continuous Learning Stay current with evolving AI capabilities and features, and apply them to improve delivery quality and velocity.
+
+**Job Title : Senior Software Engineer**
+
+**Primary Skill : Java**
+
+**Experience : 5 years**
+
+Pay: $45\\.00 \\- $50\\.00 per hour
+
+Experience:
+
+* Java: 5 years (Required)
+* CI/CD: 5 years (Required)
+* AI: 3 years (Required)
+
+Work Location: Hybrid remote in New York, NY 10114","","https://www.indeed.com/cmp/Global-Ktech-1","","","","","","","","","","","",""
+"in-10a1b9e8677d47e1","indeed","https://www.indeed.com/viewjob?jk=10a1b9e8677d47e1","https://gen-h8e9up6aereglu3x-prd.inforcloudsuite.com/hcm/xmlhttp/shorturl.do?key=X6","Jr Application Developer","DXP Enterprises","Houston, TX, US","2026-05-28","fulltime","","","","","",False,"","","","","Do you want to grow with us? At DXP we are passionate about what we do and driven to be the best solution for our industrial customers. Since 1908 DXP has been dedicated to the highest quality of customer service through our expertise of the products we distribute and the technical services we perform with a sense of individual pride and company spirit. Throughout your career with DXP, we will encourage and empower you to take an active role in identifying and driving your development, so you feel total confidence in your ability to achieve ongoing success. We aspire to be the best solution for the Industrial customers' needs for MROP products and services through our Innovative Pumping Solutions, Metal Working, Supply Chain Services and Service Centers.
+
+
+Check out our many videos to learn more! http://www.dxpe.com/about\\-us/careers/
+
+  
+
+DXP Enterprises is seeking a Jr Application Developer to design, develop, and maintain our Electronic Data Interchange (EDI) systems that exchange business documents in standardized formats between DXP and our trading partners. In this role, you will build and maintain data maps, integrate EDI with our ERP platforms, and ensure secure, accurate, and automated data transfer that reduces manual effort and supports the business at scale.
+
+
+This is a hands\\-on technical role with significant cross\\-functional visibility. You will work closely with internal business associates, IT teams, and external customer and supplier contacts to onboard new trading partners, resolve production issues, and continuously improve the reliability of our integrations.  
+
+
+
+  
+
+**Responsibilities of the Jr Applications Developer include, but are not limited to:**
+
+
+* **EDI Mapping \\& Translation:** Develop, test, and implement EDI maps for various formats including ANSI X12, EDIFACT, XML, and flat files
+* **System Integration:** Integrate EDI solutions with existing ERP software (P21, Infor M3\\) and other backend applications, ensuring clean and reliable data flow in both directions
+* **Support \\& Troubleshooting:** Monitor daily EDI transactions and troubleshoot communication protocols such as AS2, FTP/SFTP, and HTTPS
+* **Trading Partner Implementation:** Onboard new customers and vendors by configuring trading partner profiles, building or modifying maps, and conducting end\\-to\\-end testing
+* **Documentation:** Maintain accurate documentation for EDI processes, maps, specifications, and trading partner setups so that knowledge is preserved and transferable
+* **Collaboration:** Serve as a liaison between DXP business associates and external trading partners, translating business requirements into reliable technical implementations
+
+  
+
+**Day\\-to\\-Day Activities**
+
+
+A typical day in this role includes:
+
+
+* Monitoring and resolving EDI processing error emails throughout the day
+* Reviewing and addressing document requests, including resends and missing documents
+* Reviewing unacknowledged EDI documents (e.g., missing 997s/CONTRLs) and following up with trading partners as needed
+* Supporting active supplier and customer integrations — attending project meetings, setting up new connections, updating mappings, processing inbound and outbound test documents, and communicating with trading partners throughout testing and go\\-live
+* Coordinating with internal teams (purchasing, customer service, accounting, IT) to investigate and resolve data discrepancies
+
+**Qualifications of the Jr Applications Developer include, but are not limited to:**
+
+
+**Required Technical Skills**
+
+
+* Proficiency in SQL, including writing queries and stored procedures to investigate transaction data
+* Strong working knowledge of XML and flat\\-file data structures
+* Knowledge of ANSI X12 and EDIFACT standards and common transaction sets (e.g., 850, 855, 856, 810, 846, 997\\)
+* Experience with EDI communication protocols such as AS2, FTP/SFTP, and HTTPS.
+* Experience integrating EDI with ERP systems; familiarity with Prophet 21 (P21\\) and/or Infor M3 is a strong plus
+* Hands\\-on experience with an EDI platform such as OpenText Liaison ECS / Delta is preferred. Experience with comparable platforms (OpenText Trading Grid, IBM Sterling, Cleo, SPS Commerce, TrueCommerce, etc.) will also be considered
+
+**Key Competencies**
+
+
+* Analytical thinking — ability to map complex data between disparate systems and trace issues end\\-to\\-end
+* Strong written and verbal communication — comfortable serving as a liaison with external trading partners and internal DXP business associates
+* Detail\\-oriented — committed to data integrity and accurate documentation
+* Ownership mindset — takes initiative to monitor, follow up, and close the loop on open issues without prompting
+* Ability to manage multiple concurrent integrations and support requests while keeping production stable
+* Acceptable driving record according to company guidelines
+
+**Preferred Qualifications**
+
+* Bachelor’s degree in computer science, information systems, or a related field (equivalent experience considered)
+* 3\\+ years of experience in an EDI developer, integration developer, or application developer role
+* Exposure to industrial distribution, manufacturing, or supply chain environments.
+* Familiarity with Azure services, .NET, or related development ecosystems used at DXP
+
+\\#LI\\-YJ1 \\#zrjj
+
+  
+
+
+
+**Additional Information**
+
+
+**Physical Demand**: N/A
+
+
+**Working Conditions**: Office environment
+
+
+**Training/Certifications**: N/A
+
+
+**Shift Time/Overtime**: Monday \\- Friday, 8:00am to 5:00pm, minimal overtime
+
+
+**Travel**: Occasional driving
+
+
+**Education**: Bachelor’s degree preferred
+
+  
+
+
+
+DXP offers a comprehensive benefits package for full\\-time regular employees, normally working a minimum of 30 hours per week, including: medical, dental, vision, flexible spending account, paid holidays, life and disability insurance, and additional supplemental benefits. All employees are eligible to participate in the 401(k) plan.
+
+
+Salary is commensurate with experience. Except where prohibited by state law, all offers of employment are contingent upon successfully passing a drug test. DXP is an equal opportunity employer and participates in E\\-Verify. EOE/M/F/D/V.","Industrial Manufacturing","https://www.indeed.com/cmp/Dxp-Enterprises","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0a8337ca0099fb07801e75d543195e46","https://www.dxpe.com","Houston, TX","1,001 to 5,000","$1B to $5B (USD)","","","","","","",""
+"in-7f4107838273facd","indeed","https://www.indeed.com/viewjob?jk=7f4107838273facd","https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Staff-SW-Engineer--AI-Solutions_REF080359W","Staff SW Engineer, AI Solutions","Visa","Ashburn, VA, US","2026-05-27","fulltime","direct_data","yearly",131600.0,210300.0,"USD",False,"","","","","**About Us**  
+
+Visa is a world leader in payments technology, facilitating transactions between consumers, merchants, financial institutions and government entities across more than 200 countries and territories, dedicated to uplifting everyone, everywhere by being the best way to pay and be paid.
+
+
+At Visa, you'll have the opportunity to create impact at scale — tackling meaningful challenges, growing your skills and seeing your contributions impact lives around the world.
+
+
+Join Visa and do work that matters – to you, to your community, and to the world. Progress starts with you.
+
+**Job Description**
+
+
+We are seeking a highly skilled AI developer with deep expertise in Agentic and Generative AI to drive the next wave of intelligent automation and digital transformation. In this role, you will be at the forefront of designing, implementing, and optimizing AI\\-powered solutions integrated into the ServiceNow platform. Your primary focus will be on leveraging artificial intelligence, including custom MCP tooling, Agentic scoped applications, and third\\-party Large Language Models—to enhance workflows, automate complex processes, and deliver innovative business outcomes.
+
+
+You will architect and build custom AI solutions and ensure seamless user experiences through intelligent automation. As a thought leader in AI, you will collaborate with stakeholders to identify opportunities for AI adoption, experiment with emerging technologies, and contribute to Visa’s enterprise AI strategy.
+
+
+In addition to your AI responsibilities, you will develop and configure integrations between ServiceNow and other enterprise applications, manage the full lifecycle of these integrations (from API development and scripting to framework deployment), and ensure robust, secure, and scalable connections.
+
+
+Roles and responsibilities:
+
+* Designing, developing, and optimizing AI\\-powered solutions (built within the ServiceNow platform and/or integrated through external custom solutions), including the creation of custom MCP tooling and Agentic solutions.
+* Leveraging AI solutions to integrate and orchestrate third\\-party Large Language Models (LLMs) such as OpenAI, Google Gemini, etc, driving intelligent automation and enhanced user experiences.
+* Collaborating with stakeholders to identify opportunities for AI adoption, experiment with emerging technologies, and deliver innovative, AI\\-driven business outcomes.
+* Troubleshooting and resolving issues with ServiceNow configurations and AI components, ensuring seamless operation and reliability.
+* Identifying requirement gaps to ensure high\\-quality solutions and providing configuration options with clear pros and cons.
+* Designing and implementing intuitive, user\\-friendly software that enables customer\\-led customization and flexibility.
+* Collaborating with internal customers and business analysts to clarify requirements and architect effective, AI\\-driven solutions.
+* Authoring comprehensive technical design and build documentation for all facets of the technical infrastructure.
+* Conducting research and analysis of existing systems to provide accurate time estimates and recommendations to project managers.
+* Actively participating in project meetings and daily scrums to communicate development status, progress, and technical insights.
+
+
+This is a hybrid position. Expectation of days in office will be confirmed by your hiring manager.
+
+
+Visa will accept applications for this role until at least May 31, 2026\\.
+
+
+Visa requires at least 3 days in office, expectations of these days will be confirmed by your Hiring Manager.**Qualifications**
+
+
+Basic Qualifications • 5\\+ years of relevant work experience with a Bachelor’s Degree or at least 2 years of work experience with an Advanced degree (e.g. Masters, MBA, JD, MD) or 0 years of work experience with a PhD, OR 8\\+ years of relevant work experience. Preferred Qualifications • Proven ability to deliver projects on time and within budget by writing high\\-quality code, mentoring junior developers, understanding workload and usage requirements, and producing clear technical documentation that enables knowledge transfer and long\\-term supportability across global teams. • Experience designing robust, scalable, and moderately complex architectural solutions that integrate across a broader technical ecosystem, while effectively operating as a collaborative member of a globally distributed team across diverse time zones and cultures. • Minimum of 2 years of relevant professional experience including hands\\-on work with AI\\-powered solutions, with a bachelor’s degree; or at least 2 years of relevant experience with an Advanced Degree (e.g., Master’s, MBA, JD, MD). • In\\-depth knowledge of APIs, web services, and standard relational database concepts. • Proven experience with JavaScript, AJAX, JSON, CSS, REST, SOAP, and HTML. • Strong Python skills and hands\\-on experience building RESTful or GraphQL APIs. • Demonstrated experience building GenAI solutions, agents, or conversational applications, exhibiting the ability to differentiate reasoning approaches like ReAct and Chain\\-of\\-Thought (CoT). • Demonstrate ability to design and architect Agentic Systems, applying various agent architectures (symbolic, BDI, LLM\\-based) to design intelligent agents tailored for specific tasks and environments. • Implement Core Agent Capabilities. Develop agents that can perceive, reason, plan, act, and learn, utilizing Python and relevant AI libraries and frameworks. • Analyze and Evaluate Agent Behavior. Critically assess agent performance, understand the complexities of multi\\-agent systems and human\\-agent interaction, and identify risks. • Navigate Ethical Landscapes. Identify, analyze, and address the ethical challenges and safety considerations inherent in developing and deploying autonomous AI systems, applying principles of responsible AI. • Apply Agentic AI to Solve Problems. Conceptualize and build functional AI agents for practical applications, demonstrating the ability to integrate diverse concepts into cohesive business solutions. • Deep understanding of prompt engineering concepts, LLM fine\\-tuning, and retrieval\\-augmented generation (RAG). • Familiarity with MCP servers or comparable model\\-serving/hosting platforms. • Excellent problem\\-solving skills, strong communication, and a collaborative attitude. • Strong analytical skills with the ability to extensively analyze and improve business processes and workflows. • Demonstrated expertise in designing, implementing, and optimizing AI\\-driven functionalities integrated with ServiceNow, such as custom Agentic AI skills, GenAI integrations, and intelligent automation. • Strong technical background in ServiceNow\\-specific development tools and frameworks (UI Policies, UI Macros, UI Pages, Client Scripts, Script Includes, Business Rules, Mid Server Configuration \\& Architecture, Import Sets, Transform Maps, Update Sets). • Strong knowledge of the CMDB, data modeling, data strategies, and integrations. • Knowledge of ServiceNow ITSM/ITOM product portfolio including Change Management, Discovery, and Service Mapping. • Relevant certifications such as Certified ServiceNow Admin (CSA), Certified Implementation Specialist (CIS), or Certified Application Developer (CAD) are highly desirable.**U.S. Applicants Only**
+
+
+The estimated salary range for this position is $131,600\\.00 to $ 210,300\\.00 USD per year, which may include potential sales incentive payments (if applicable). Salary may vary depending on job\\-related factors which may include knowledge, skills, experience, and location. In addition, this position may be eligible for bonus and equity.Visa has a comprehensive benefits package for which this position may be eligible that includes Medical, Dental, Vision, 401(k), FSA/HSA, Life Insurance, Paid Time Off, and Wellness Program.**Work Hours**
+
+
+Varies upon the needs of the department.
+
+**Travel Requirements**
+
+
+This position requires travel 5\\-10% of the time.
+
+**Mental/Physical Requirements**
+
+
+This position will be performed in an office setting. The position will require the incumbent to sit and stand at a desk, communicate in person and by telephone, frequently operate standard office equipment, such as telephones and computers.
+
+**Visa is an EEO Employer**
+
+
+Qualified applicants will receive consideration for employment without regard to race, color religion, sex, national origin, sexual orientation, gender identity, disability or protect veteran status. Visa will also consider for employment qualified applicants with criminal histories in a manner consistent with the EEOC guidelines and applicable local law.","","https://www.indeed.com/cmp/Visa","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/860a54ecfd7d7cab270f291d2d877922","http://www.visa.com","","10,000+","more than $10B (USD)","Our Purpose is to... Uplift everyone, everywhere by being the best way to pay and be paid.","","","","","",""
+"in-f36571309a9b9a80","indeed","https://www.indeed.com/viewjob?jk=f36571309a9b9a80","https://jobs.lever.co/agile-defense/f674a127-fec6-45ec-8e9c-f4616fc89b7a?lever-source=Indeed","Web Developer – Intermediate","Agile Defense","Fort Huachuca, AZ, US","2026-05-27","","","","","","",False,"","","","","**About Agile Defense**
+
+At Agile Defense we know that action defines the outcome and new challenges require new solutions. That’s why we always look to the future and embrace change with an unmovable spirit and the courage to build for what comes next.
+
+Our vision is to bring adaptive innovation to support our nation's most important missions through the seamless integration of advanced technologies, elite minds, and unparalleled agility—leveraging a foundation of speed, flexibility, and ingenuity to strengthen and protect our nation’s vital interests.  
+
+**Requisition \\#:** 1628
+**Job Title:** Web Developer – Intermediate
+**Location:** Fort Huachuca, AZ
+**Clearance Level:** Secret, Must Have Clearance to Start
+**Required Certification(s):** CISSP\\-ISSAP
+### **Job Description**
+
+
+Responsibilities include:
+* Design, develop, troubleshoot, debug, and implement programming technologies (such as C\\#, HTML, JavaScript) for web\\-based applications tied to a SQL Server backend.
+* Design, develop, enhance, and maintain Power Platform solutions, including Power Apps, Power Automate, and Power BI, to automate business processes.
+* Serve as the SharePoint Administrator, responsible for the implementation, assessment, and support of new and existing capabilities in SharePoint Online (SPO).
+* Maintain SharePoint permissions for all sites and provide technical support for any tools created in SPO.
+* Participate in the full software development lifecycle (SDLC), from discovery and requirements gathering to build, test, and deployment.
+* Collaborate with customers to gather requirements, conduct demos, and ensure solutions meet their needs.
+* Handle application deployment to IIS web and application servers.
+* Provide advice, guidance, and training to end\\-users on SharePoint and other developed solutions.
+* Create, maintain, and support clear and comprehensive system documentation.
+* Maintain current knowledge of relevant technologies and provide advice on industry best practices.
+* Provide guidance and work leadership to less\\-experienced staff members.
+
+### **Education and Background**
+
+
+Bachelors in Computer Science, Cybersecurity, Data Science, Information Systems, Information Technology, Software Engineering OR CISSP\\-ISSAP certification### **Years of Experience**
+
+
+2 years of experience with BS/BA, 4 years of experience with AA/AS, 6 years of experience with no degree### **Required Skills**
+
+
+**Technical skills:**
+
+
+* Skilled in C\\#, HTML, CSS, JavaScript, JQuery, REST, and SQL.
+* Deep knowledge of SharePoint Online (SPO).
+* Experience designing and developing Canvas Power Apps.
+* Experience using Power Automate to create workflows.
+* Knowledge of relational database concepts and GIT or other source control software.
+* Familiarity with Modern UI design and strong site\\-design instincts.
+
+
+**Professional Abilities:**
+
+
+* Ability to collaborate with customers to gather use\\-case requirements and translate them into effective applications.
+* Must be able to design, develop, troubleshoot, and implement quality code for multiple projects.
+* Strong ability to communicate technical information clearly and provide training to technical and non\\-technical users.
+* Must work well with other team members and independently to achieve goals.
+* Consistently engaged in learning new and emerging technologies.
+### **Working Conditions**
+
+* 100% on\\-site
+* Ability to sit, stand, and walk for extended periods of time
+* Fine motor skills, with the ability to operate keyboards, phones, and controls
+
+**Our Core Values**
+
+Employees of Agile Defense are our number one priority, and the importance we place on our culture here is fundamental. Our culture is alive and evolving, but it always stays true to its roots. Here, you are valued as a family member, and we believe that we can accomplish great things together. Agile Defense has been highly successful in the past few years due to our employees and the culture we create together.
+
+What makes us Agile? We call it the 6Hs, the values that define our culture and guide everything we do. Together, these values infuse vibrancy, integrity, and a tireless work ethic into advancing the most important national security and critical civilian missions. It's how we show up every day. It's who we are.
+
+* **Happy** \\- Be Infectious. Happiness multiplies and creates a positive and connected environment where motivation and satisfaction have an outsized effect on everything we do.
+* **Helpful** \\- Be Supportive. Being helpful is the foundation of teamwork, resulting in a supportive atmosphere where collaboration flourishes, and collective success is celebrated.
+* **Honest** \\- Be Trustworthy. Honesty serves as our compass, ensuring transparent communication and ethical conduct, essential to who we are and the complex domains we support.
+* **Humble** \\- Be Grounded. Success is not achieved alone, humility ensures a culture of mutual respect, encouraging open communication, and a willingness to learn from one another and take on any task.
+* **Hungry** \\- Be Eager. Our hunger for excellence drives an insatiable appetite for innovation and continuous improvement, propelling us forward in the face of new and unprecedented challenges.
+* **Hustle** \\- Be Driven. Hustle is reflected in our relentless work ethic, where we are each committed to going above and beyond to advance the mission and achieve success.
+
+
+**Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities**
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.","","https://www.indeed.com/cmp/Agile-Defense-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/bbe2ee04fc4865a3286c344f5e97ba54","https://agiledefense.com/","1430 Spring Hill Rd # 200, McLean, VA 22102","1,001 to 5,000","","Agile Defense supports critical national security and civilian missions through advanced cybersecurity, engineering, cloud, and data solutions.","","","","","",""
+"in-ddf8707091e5edcd","indeed","https://www.indeed.com/viewjob?jk=ddf8707091e5edcd","https://careers.icf.com/us/en/job/IIIIIIUSR2601911EXTERNALENUS/Lead-ServiceNow-Architect-Remote?utm_source=indeed&utm_medium=phenom-feeds","Lead ServiceNow Architect (Remote)","ICF","Reston, VA, US","2026-05-27","fulltime","direct_data","yearly",119323.0,202850.0,"USD",True,"","","","Candidateaccommodation@icf.com, candidateaccommodation@icf.com","Description
+
+**\\* We are open to supporting 100% remote work anywhere within the continental US \\***
+
+
+ICF’s Digital Modernization and Experience (DMX) Division is a rapidly growing, entrepreneurial, technology\\-driven department, seeking a ServiceNow Platform Architect who will serve as a key member of the ServiceNow Platform team.
+
+
+We are seeking an experienced ServiceNow Platform Architect to lead the design, governance, and strategic evolution of the ServiceNow platform across the enterprise. The ideal candidate will possess deep technical expertise in ServiceNow architecture, integration strategies, platform governance, and enterprise IT service management practices. This role will partner with business stakeholders, product owners, developers, and infrastructure teams to deliver scalable, secure, and high\\-performing ServiceNow solutions aligned with organizational objectives.
+
+**Local candidates may be expected to work at the client site in Rockville, MD, at least 1\\-2 days per week.**
+
+**What You Will Do:**
+
+* **Platform Governance, Architecture and Roadmap:** Define and maintain the overall ServiceNow platform architecture and roadmap. Lead architecture design for ServiceNow modules including HRSD, CSM, and custom applications. Establish platform governance, development standards, and best practices. Evaluate new ServiceNow capabilities and recommend adoption strategies. Provide technical leadership for platform upgrades, integrations, and enterprise implementations. Collaborate with enterprise architects and business leaders to align ServiceNow capabilities with business strategy.
+* **Solution Design and Architecture:** Collaborate with clients and internal stakeholders, developers, and business analysts to gather requirements, understand business processes, and design robust and scalable ServiceNow solutions. Create detailed technical designs that align with the clients' short\\- and long\\-term needs and leverage the capabilities of the ServiceNow platform and integrations with third\\-party technologies effectively.
+* **Technical Consultation:** Act as a trusted advisor to clients and project teams, providing expert guidance on ServiceNow capabilities, customization options, and best practices. Identify potential challenges and propose innovative solutions to address them.
+* **Implementation Support:** Work closely with project managers, developers, and other teams to support the implementation of ServiceNow solutions. Provide technical oversight and ensure that the design is accurately translated into a functional solution. Ensure deliveries adhere to ServiceNow established best practices and processes.
+* **Integration and Automation:** Design scalable integrations with third\\-party systems using REST, SOAP, MID Server, Integration Hub, and APIs. Ensure data consistency and integrity across different platforms.
+* **Performance Optimization:** Conduct performance analysis and optimizations to enhance the overall efficiency and responsiveness of ServiceNow and integrated solutions. Identify and address bottlenecks to improve system performance.
+* **Quality Assurance:** Design quality assurance plans and ensure that the technical deliverables meet quality standards and adhere to best practices.
+* **Project Management:** Work closely with project managers to keep projects within scope and timeline. Communicate regularly with management and clients on the status of projects.
+* **Security and Compliance:** Design the security plan and ensure that all ServiceNow and integrated solutions adhere to security best practices and compliance requirements. Collaborate with security teams to implement robust security measures and maintain a secure environment. Ensure adherence to ITIL, security, compliance, and data governance standards.
+* **Documentation and Knowledge Sharing:** Create comprehensive technical documentation, including architecture diagrams, design specifications, and implementation guidelines. Contribute to the knowledge base and share best practices within the team and the client. Lead the sharing of knowledge across our customers, including white papers, demonstrations, and lunch and learns.
+* **Continuous Learning:** Stay updated on the latest advancements in ServiceNow and integrated technologies, tools, and industry trends. Continuously enhance your expertise to provide cutting\\-edge solutions and innovative approaches. Mentor developers, administrators, and technical consultants on ServiceNow architecture and development standards.
+* **Client Relationships:** Build and maintain strong relationships with clients through effective communication, understanding their needs, and delivering high\\-quality solutions that exceed their expectations.
+
+**Required Experiences and Certifications**
+
+* Bachelor’s Degree in Computer Science, Information Systems, Engineering or other related scientific/technical discipline
+* 8\\+ years of experience implementing ServiceNow solutions
+* 5\\+ years of experience architecting ServiceNow solutions
+* ServiceNow Certified Technical Architect
+* ServiceNow Certified System Administrator
+* **Must be a United States** (U.S.) **Citizen or Green card,** and the **work MUST BE PERFORMED in the United States** (U.S.), as this work is for a federal contract, and laws do apply
+* Candidate must be able to obtain and maintain a Public Trust with the government
+* Candidate must reside in the U.S., be authorized to work in the U.S., and all work must be performed in the U.S.
+
+**Valuable for this Role**
+
+
+The ideal candidate will also have:
+
+* ServiceNow Certified Application Developer
+* Vast experience across numerous parts of the ServiceNow platform and comfort with commonly integrated third\\-party technologies
+* Excellence in scripting languages (JavaScript, GlideScript, Angular.js) and other relevant languages
+* Experience in designing and leading complex solutions and integrations
+* Strong understanding of system architecture and design principles.
+* Excellent written and oral communications skills to deliver technical solutions simply and succinctly
+* Exceptional problem\\-solving and critical\\-thinking abilities
+* Excellent communication, presentation, and stakeholder management skills
+* In\\-depth understanding of ServiceNow best practices and industry trends
+* Excellent Conflict resolution skills to mitigate risks, resolve issues, and ensure timely and accurate delivery
+
+
+\\#DMX24
+
+
+\\#Indeed
+
+
+\\#LI\\-CC1
+
+
+\\#Clearance
+
+
+\\#ICN24
+
+**Working at ICF**
+
+
+ICF is a global advisory and technology services provider, but we’re not your typical consultants. We combine unmatched expertise with cutting\\-edge technology to help clients solve their most complex challenges, navigate change, and shape the future.
+We can only solve the world's toughest challenges by building a workplace that allows everyone to thrive. We are an equal opportunity employer. Together, our employees are empowered to share their expertise and collaborate with others to achieve personal and professional goals. For more information, please read our EEO policy.
+
+
+We will consider for employment qualified applicants with arrest and conviction records.
+
+  
+
+Reasonable Accommodations are available, including, but not limited to, for disabled veterans, individuals with disabilities, and individuals with sincerely held religious beliefs, in all phases of the application and employment process. To request an accommodation, please email Candidateaccommodation@icf.com and we will be happy to assist. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+
+
+Read more about workplace discrimination rights or our benefit offerings which are included in the Transparency in (Benefits) Coverage Act.
+
+ **Candidate AI Usage Policy**
+At ICF, we are committed to ensuring a fair interview process for all candidates based on their own skills and knowledge. As part of this commitment, the use of artificial intelligence (AI) tools to generate or assist with responses during interviews (whether in\\-person or virtual) is not permitted. This policy is in place to maintain the integrity and authenticity of the interview process.
+
+
+However, we understand that some candidates may require accommodation that involves the use of AI. If such an accommodation is needed, candidates are instructed to contact us in advance at candidateaccommodation@icf.com. We are dedicated to providing the necessary support to ensure that all candidates have an equal opportunity to succeed.
+
+ **Pay Range** \\- There are multiple factors that are considered in determining final pay for a position, including, but not limited to, relevant work experience, skills, certifications and competencies that align to the specified role, geographic location, education and certifications as well as contract provisions regarding labor categories that are specific to the position.
+
+
+The pay range for this position based on full\\-time employment is:
+
+
+$119,323\\.00 \\- $202,850\\.00
+Nationwide Remote Office (US99\\)","","https://www.indeed.com/cmp/Icf-4a7490b6","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7c8274f46304359b41773c1d96c5e642","https://www.icf.com/careers","","5,001 to 10,000","$1B to $5B (USD)","ICF is a global advisory and technology services provider. We combine unmatched expertise with cutting-edge technology to help clients solve their most complex challenges and shape the future.
+
+","","","","","",""
+"in-731872efb5c019b8","indeed","https://www.indeed.com/viewjob?jk=731872efb5c019b8","https://gliacelltechnologies.applytojob.com/apply/at4c8Brup0/Senior-Full-Stack-Software-Engineer?source=INDE&~","Senior Full Stack Software Engineer","GliaCell Technologies","Laurel, MD, US","2026-05-27","fulltime","direct_data","yearly",170000.0,230000.0,"USD",True,"","","","","**\\*\\*\\*An active or rein\\-statable TS/SCI with Polygraph security clearance is REQUIRED. Please do not apply if you currently do not possess this level of clearance.\\*\\*\\***  
+
+  
+
+**Are you a Senior Full Stack Software Engineer who is ready for a new challenge that will launch your career to the next level?**
+
+* Tired of being treated like a company drone?
+* Tired of promised adventures during the hiring phase, then dropped off on a remote contract and never seen or heard from the mothership again?
+* Our engineers were certainly tired of the same.
+
+**At GliaCell our slogan is “We make It happen”.**
+
+* We will immerse you in the latest technologies.
+* We will develop and support your own personalized training program to continue your individual growth.
+* We will provide you with work that matters with our mission focused customers, and surround you with a family of brilliant engineers.
+
+**Culture isn’t something you need to talk about…if it just exists.**
+
+**If this sounds interesting to you, then we’d like to have a discussion regarding your next adventure! If you want to be a drone, this isn’t the place for you.**
+
+**We Make It Happen!**
+
+*GliaCell Technologies focuses on Software \\& System Engineering in Enterprise and Cyber Security solution spaces. We excel at delivering stable and reliable software solutions using Agile Software Development principles. These provide us the capability to deliver a quick turn\\-around using interactive applications and the integration of industry standard software stacks.*
+
+*GliaCell’s Enterprise capabilities include Full\\-Stack Application Development, Big Data, Cloud Technologies, Analytics, Machine Learning, AI, and DevOps Containerization. We also provide customer solutions in the areas of CND, CNE, and CNO by providing our customers with assessments and solutions in Threat Mitigation, Vulnerability Exposure, Penetration Testing, Threat Hunting, and Preventing Advanced Persistent Threat.*
+
+**We Offer:**
+
+* Long term job security
+* Competitive salaries \\& bonus opportunities
+* Challenging work you are passionate about
+* Ability to work with some amazingly talented people
+
+**Job Description:**
+
+
+GliaCell is seeking a **Senior Full Stack Software Engineer** on one of our subcontracts. This is a full\\-time position offering the opportunity to support a U.S. Government customer. The mission is to provide technical expertise that assists in sustaining critical mission\\-related software and systems to a large government contract.
+
+* Join CNO's Custom Media Operations team, winners of the President's Intelligence Advisory Board Killian Award for outstanding mission support.
+* CMO is leading the charge on media capabilities in the IC. You will support the team in full\\-stack web development efforts that connect CMO's capabilities with their customers.
+* This role offers hands\\-on experience developing solutions within the state\\-of\\-the\\-art AI/ML landscape.
+* On this small team, you will manage products through their entire lifecycle—from initial ideation to full production—and take full ownership of their success.
+
+**Responsibilities:**
+
+* Builds and maintains full stack applications in collaboration with business leaders and AI/ML engineers providing custom media operations.
+* Partners with AI/ML engineers, senior stakeholders, and business users to thoroughly understand complex operational challenges and translate those needs into robust, technical solutions.
+* Rapidly prototypes and pilots complex, cutting\\-edge capabilities to meet customers' ever\\-evolving needs.
+* Optimizes system usability and workflow efficiency by collaborating with end\\-users to define and refine ideal user interaction path that reduce mission operation friction.
+* Cultivates an understanding of latest technological developments in the AI/ML landscape and seeks opportunities to operationalize them.
+
+**Key Requirements:**
+
+
+To be considered for this position you must have the following:
+
+* **Possess an active or rein\\-statable TS/SCI with Polygraph security clearance.**
+* U.S. Citizenship.
+* Professional/Education experience: 8 years \\& Bachelors of Science Degree, or 4 additional years in place of a BS Degree.
+* Works well independently as well as on a team.
+* Strong communication skills.
+
+**Required Skills:**
+
+* Proven ability to take a project from initial concept/scoping through iterative development, rigorous testing, and final deployment.
+* Highly self\\-directed, with experience decomposing work into features and actions, with minimal oversight.
+* Experience conducting direct user research, iterating on new capabilities based on user feedback, and solving real\\-world operational pain points.
+* Extensive experience building applications in JavaScript including node.js, TypeScript, and UI frameworks/libraries such as React and Material UI.
+* Experience with Linux, especially Ubuntu and Amazon Linux.
+* Experience with Docker.
+* Working knowledge of NoSQL databases, specifically MongoDB.
+* Experience managing CI/CD build pipelines within GitLab.
+
+**Desired Skills:**
+
+* Experience with Java/Spring Boot and Python/Flask.
+* AWS Certified CloudOps Engineer, or general experience with managing software infrastructure in AWS.
+* Certified Kubernetes Application Developer, or general experience with managing an application running on Kubernetes.
+* Experience with multimedia and 3D modeling tools such Cinema4D, Blender, Unreal Engine, Gimp, Adobe Photoshop, Adobe Illustrator, etc.
+* Basic literacy in AI and knowledge of ML process.
+* Experience using code\\-assist tools such as OpenCode, Copilot, etc.
+
+**Location:** Laurel, MD (onsite full time)
+
+**Salary Range:** The salary range for this full\\-time position is $170,000 to $230,000\\. Our salary ranges are determined by position, level, skills, professional experience, relevant education and certifications. The range displayed on each job posting reflects the minimum and maximum target salaries for this position across our projects. Within the range, your salary is determined by your individual benefits package selection. Your recruiter can share more about the specific salary range for your preferred position during the hiring process. SIGN\\-ON BONUS ELIGIBLE.
+
+**Benefits:**
+
+* CareFirst Medical Coverage for Employee and Dependents
+* Guardian Dental and Vision Coverage for Employee and Dependents
+* Up to 25 Days of Paid Time Off
+* Up to 40 hours of PTO Carryover
+* 11 Federal Government Holidays
+* Work From Home Opportunities
+* 401K Company Contribution, Fully Vested Day 1
+* Discretionary, Certification, and Sign\\-On Bonus Potential
+* Employee Referral Bonus Program
+* Annual Professional Development
+* 100% Premium Covered for Life \\& Disability Insurances
+* Additional Voluntary Life Insurance Coverage Available
+* Employee Assistance Program
+* Travel Protection Program
+* Financial Planning Assistance
+* Bereavement and Jury Duty Leave
+* Monthly Team and Family Events
+* Technology Budget
+* Global Entry
+* Annual Swag Budget
+
+
+Learn more about GliaCell Technologies: https://gliacelltechnologies.applytojob.com/apply/
+
+**To apply for this position, respond to this job posting and attach an updated resume for us to review.**
+
+
+GliaCell Technologies, LLC is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.
+
+
+
+
+at4c8Brup0","","https://www.indeed.com/cmp/Gliacell-Technologies","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2690e7ac09737ce3d45ce0c0b9d51851","http://www.gliacelltechnologies.com","Centreville","11 to 50","","","","","","","",""
+"in-2ecfe375681a4b6e","indeed","https://www.indeed.com/viewjob?jk=2ecfe375681a4b6e","https://searchcareers.caci.com/careers/job/1443151100560","Full Stack Developer","CACI International","Hanover, MD, US","2026-01-21","fulltime","direct_data","yearly",82100.0,172400.0,"USD",False,"","","","","Job ID
+327032
+Job Title: Full Stack Developer
+Job Category: Information Technology
+Time Type: Full time
+Minimum Clearance Required to Start: Top Secret
+Employee Type: Regular
+Percentage of Travel Required: Up to 10%
+Type of Travel: Local
+\\* \\* \\***The Opportunity:**
+
+
+CACI has an outstanding opportunity for a skilled Full Stack Developer with expertise in Angular for web\\-based applications and.NET/C\\# for the HighVIEW framework. You will have a strong background in both front\\-end and back\\-end development, with a focus on creating robust, scalable, and maintainable software solutions.
+
+
+HighVIEW is CACI’s commercial off\\-the\\-shelf (COTS) product designed for Enterprise Content Management. HighVIEW is provided as a software development framework for use by application developers and integrators in constructing specialized content management systems as well as other forms of information management systems based on a rich set of foundational product capabilities that have been leveraged successfully within a diverse set of federal government organizations.
+
+
+If you are a passionate Full Stack Developer with a strong background in Angular and .NET/C\\#, we encourage you to apply for this exciting opportunity.
+
+**Responsibilities:**
+
+
+Angular Development:
+
+* Design, develop, and maintain custom Angular web applications using the latest versions of Angular
+* Implement responsive and intuitive user interfaces using Angular components and services.
+* Optimize application performance and ensure cross\\-browser compatibility.
+* Participate in code reviews and contribute to the continuous improvement of development practices.
+
+
+.NET/C\\# Development:
+
+* Develop and maintain the HighVIEW framework using .NET and C\\#.
+* Create and implement robust back\\-end services and APIs.
+* Ensure the integration of front\\-end and back\\-end components for seamless application functionality.
+* Optimize application performance and ensure scalability.
+* Participate in code reviews and contribute to the continuous improvement of development practices.
+* Testing and Deployment:
+* Develop and execute unit, component, and integration tests to ensure code quality and reliability.
+* Actively participate in release and sprint planning, artifact creation, sprint testing, regression testing, demonstrations and retrospectives and solution releases
+
+**Qualifications:**
+
+*Required:*
+
+* Bachelor's Degree in Computer Science, Software Engineering, Information Systems, or related discipline
+* At least five (5\\) years of related technical experience, with software design, development, and implementation in a Windows environment, that should include Javascript, Angular Material UI components and WCF RESTful Web Services (C\\# .NET) or equivalent REST technologies
+* Demonstrated skill with HTML, CSS,
+* Development Process and Tools such as Angular (v20 or higher) Single Page Web Applications using node.js and TypeScript
+* Experience with SQL or PL/SQL Oracle
+* Familiarity with the Atlassian Suite (JIRA, Confluence)
+* Proficiency in version control tools (e.g. SVN, Git)
+* Strong knowledge of CI/CD tools (e.g. GitLab) and CI/CD pipelines and automation
+* Understanding of all elements of the software development life cycle, including planning, development, requirements management, CM, quality assurance, and release management.
+* Willing to work a hybrid schedule with on\\-site in Hanover, MD
+* Willing to travel to other DC metro locations as needed
+* Willing and able to get a Top Secret Security Clearance
+
+*Desired:*
+
+* Candidates with Top Secret clearance are highly desired
+* Experience working with the end users gathering requirements that help to understand how the application and its information will be used.
+* Strong problem solving and analytical skills
+* Experience implementing AI technologies
+* Experience developing 508 compliant web applications
+* Proactive approach to identifying and addressing application performance issues
+* Continuous learning mindset to stay updated with emerging technologies and best practices
+
+* 
+
+ **What You Can Expect:**
+
+**A culture of integrity.**
+
+
+At CACI, we place character and innovation at the center of everything we do. As a valued team member, you’ll be part of a high\\-performing group dedicated to our customer’s missions and driven by a higher purpose – to ensure the safety of our nation.
+
+**An environment of trust.**
+
+
+CACI values the unique contributions that every employee brings to our company and our customers \\- every day. You’ll have the autonomy to take the time you need through a unique flexible time off benefit and have access to robust learning resources to make your ambitions a reality.
+
+**A focus on continuous growth.**
+
+
+Together, we will advance our nation's most critical missions, build on our lengthy track record of business success, and find opportunities to break new ground — in your career and in our legacy.
+
+ **Pay Range**:
+
+
+There are a host of factors that can influence final salary including, but not limited to, geographic location, Federal Government contract labor categories and contract wage rates, relevant prior work experience, specific skills and competencies, education, and certifications. Our employees value the flexibility at CACI that allows them to balance quality work and their personal lives. We offer competitive compensation, benefits and learning and development opportunities. Our broad and competitive mix of benefits options is designed to support and protect employees and their families. At CACI, you will receive comprehensive benefits such as; healthcare, wellness, financial, retirement, family support, continuing education, and time off benefits.
+
+
+Since this position can be worked in more than one location, the range shown is the national average for the position.
+
+
+The proposed salary range for this position is:
+
+
+$82,100\\-$172,400*CACI is* *an Equal Opportunity Employer.* *All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, age, national origin, disability, status as a protected veteran, or any* *other protected characteristic.*","","https://www.indeed.com/cmp/CACI-International-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/1f2e0188bca33d5172379e765ba16720","http://www.caci.com","Reston, VA","10,000+","$5B to $10B (USD)","CACI is ever vigilant in helping our customers meet their greatest challenges in national security and government transformation.  ","","","","","",""
+"in-f6594aa769991099","indeed","https://www.indeed.com/viewjob?jk=f6594aa769991099","https://searchcareers.caci.com/careers/job/1443151056628","Full Stack Web Development Software Engineer","CACI International","Reston, VA, US","2026-01-21","fulltime","direct_data","yearly",94400.0,198200.0,"USD",False,"","","","","Job ID
+326805
+Job Title: Full Stack Web Development Software Engineer
+Job Category: Engineering
+Time Type: Full time
+Minimum Clearance Required to Start: Secret
+Employee Type: Regular
+Percentage of Travel Required: None
+Type of Travel: None
+\\* \\* \\***The Opportunity:**  
+
+CACI is seeking a skilled Mid\\-Level Full Stack Web Developer with a strong background in Java development and experience with Model\\-Based Systems Engineering (MBSE) processes for our Integrated Broadcast Service\\-Network Services (IBS\\-NS) program. The Integrated Broadcast Service (IBS) is a worldwide Department of Defense (DoD) network designed to transmit time\\-sensitive tactical and strategic intelligence and targeting data from various sources to authorized users across all echelons, in near real\\-time. The ideal candidate will be responsible for designing, developing, porting, and maintaining high\\-quality software solutions that align with our company’s objectives and standards. This role requires a collaborative team player who can work effectively in a fast\\-paced environment. The candidate will have extensive knowledge of system implementation and full project lifecycle experience. We are seeking candidates with substantial experience in full stack web application development, implementation, and maintenance best practices.  
+
+  
+
+**Responsibilities:**
+
+* Subsequently, breaking out custom front\\-end web applications and back\\-end data services into modules across a cluster of machines using an architecture (e.g., Docker) on a containerized platform (e.g., Kubernetes)
+* Port front\\-end web applications and back\\-end Java and C\\+\\+ services from the Solaris environment to the Redhat Open Shift (Linux) environment.
+* Making recommendations and applying best technical design to meet customer requirements
+* Continuously innovating to automate processes, implement best practices, and improve the overall system architecture’s scalability, high availability, and performance
+* Actively engaging in agile development practices, including sprint planning, daily stand\\-ups, and software peer reviews
+* Debugging and troubleshooting code to resolve issues promptly
+* Writing and executing successful unit tests, integration tests, and end\\-to\\-end tests
+* Documenting technical designs, processes, and any issues encountered
+
+ **Qualifications:**
+
+***Required*****:**
+
+* Currently hold an active Secret clearance and ability to successfully achieve a Top Secret or Top Secret SCI clearance
+* BS in Computer Science or other technical discipline
+* Minimum of 5\\+ years of professional experience in software development
+* Strong front\\-end web development skills. Expert in one or more of the following: HTML, CSS, XSL, JSP, JavaScript, Bootstrap
+* Familiarity with modern front\\-end JavaScript libraries or frameworks, such as Angular or React
+* Knowledge of the CI/CD pipeline and DevOpsSec
+* Demonstrated experience building modern, user\\-friendly web applications
+* Experience with relational databases such as Oracle and with interacting with the database through SQL and/or stored procedures
+* Experience with one or more of the following frameworks, architectures, or patterns: MVC, REST, HTTP, XML, JSON, Spring, or SOAP
+* Experience leveraging RPC sockets (e.g., gRPC) as a mechanism for establishing and managing communication channels between clients and servers
+* Experience with one or more of the following build automation tools: Maven, Ant, Bjam
+* Experience with source code version control systems with a particular understanding of Git and GitLab
+* Experience with one or more of the following web servers: JBoss, Weblogic, Websphere, or Tomcat
+* Ability to document technical designs, processes, and any issues encountered
+* Excellent problem\\-solving skills and attention to detail
+* Strong communication and teamwork abilities
+* Ability to work independently and manage time effectively
+
+***Desired:***
+
+* Experience with Integrated Development Environments such as Eclipse
+* Knowledge of the Angular JS framework
+* Knowledge of JMS
+* Experience executing Unix command\\-line utilities in one or more shells, e.g., Bash
+* Experience with one or more technologies for working with XML and an XSD: JAXB, XML Schema
+* Experience using GitLab and keeping CI/CD
+
+* 
+
+**What You Can Expect:**
+
+**A culture of integrity.**
+
+
+At CACI, we place character and innovation at the center of everything we do. As a valued team member, you’ll be part of a high\\-performing group dedicated to our customer’s missions and driven by a higher purpose – to ensure the safety of our nation.
+
+**An environment of trust.**
+
+
+CACI values the unique contributions that every employee brings to our company and our customers \\- every day. You’ll have the autonomy to take the time you need through a unique flexible time off benefit and have access to robust learning resources to make your ambitions a reality.
+
+**A focus on continuous growth.**
+
+
+Together, we will advance our nation's most critical missions, build on our lengthy track record of business success, and find opportunities to break new ground — in your career and in our legacy.
+
+ **Pay Range**:
+
+
+There are a host of factors that can influence final salary including, but not limited to, geographic location, Federal Government contract labor categories and contract wage rates, relevant prior work experience, specific skills and competencies, education, and certifications. Our employees value the flexibility at CACI that allows them to balance quality work and their personal lives. We offer competitive compensation, benefits and learning and development opportunities. Our broad and competitive mix of benefits options is designed to support and protect employees and their families. At CACI, you will receive comprehensive benefits such as; healthcare, wellness, financial, retirement, family support, continuing education, and time off benefits.
+
+
+The proposed salary range for this position is:
+
+
+$94,400 \\- $198,200*CACI is* *an Equal Opportunity Employer.* *All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, age, national origin, disability, status as a protected veteran, or any* *other protected characteristic.*","","https://www.indeed.com/cmp/CACI-International-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/1f2e0188bca33d5172379e765ba16720","http://www.caci.com","Reston, VA","10,000+","$5B to $10B (USD)","CACI is ever vigilant in helping our customers meet their greatest challenges in national security and government transformation.  ","","","","","",""

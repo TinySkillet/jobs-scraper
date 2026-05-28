@@ -1,15 +1,17 @@
 import csv
+import os
 import re
 from collections import Counter
+from datetime import date, datetime, timedelta
 from pathlib import Path
 
 from jobspy import scrape_jobs
 
 SITE_NAME = ["indeed"]
 LOCATION = "USA"
-HOURS_OLD = 24
+HOURS_OLD = int(os.getenv("HOURS_OLD", "24"))
 COUNTRY_INDEED = "USA"
-RESULTS_WANTED = 500
+RESULTS_WANTED = int(os.getenv("RESULTS_WANTED", "1000"))
 FINAL_DIR = Path("final")
 TEMP_DIR = Path("temp")
 
@@ -22,8 +24,36 @@ ROLE_SEARCHES = {
                 '("java developer" OR "java engineer" OR "java software engineer" OR "backend java") (spring OR "spring boot" OR microservices) -intern -internship -android -mobile -qa -tester -salesforce',
             ),
             (
+                "java_developer",
+                '("java developer" OR "java application developer") -intern -internship -android -mobile -qa -tester -salesforce',
+            ),
+            (
+                "java_software_engineer",
+                '("java software engineer" OR "software engineer java") -intern -internship -android -mobile -qa -tester -salesforce',
+            ),
+            (
                 "spring_backend",
                 '("spring boot developer" OR "spring developer" OR "java backend developer" OR "backend java developer") -intern -internship -android -mobile -qa -tester -salesforce',
+            ),
+            (
+                "java_microservices",
+                '(java OR "spring boot") (microservices OR "rest api" OR backend) -intern -internship -android -mobile -qa -tester -salesforce',
+            ),
+            (
+                "backend_java",
+                '("backend developer" OR "backend engineer" OR "software engineer") (java OR spring OR "spring boot") -intern -internship -android -mobile -qa -tester -salesforce',
+            ),
+            (
+                "java_api",
+                '(java OR "spring boot") (api OR kafka OR aws OR kubernetes) -intern -internship -android -mobile -qa -tester -salesforce',
+            ),
+            (
+                "junior_java",
+                '(java OR spring OR "spring boot") (junior OR associate OR "entry level" OR "early career" OR "new grad" OR "software engineer I" OR "developer I") -intern -internship -android -mobile -qa -tester -salesforce',
+            ),
+            (
+                "mid_level_java",
+                '(java OR spring OR "spring boot") ("mid level" OR "mid-level" OR intermediate OR "software engineer II" OR "developer II" OR "java developer II") -intern -internship -android -mobile -qa -tester -salesforce',
             ),
         ],
     },
@@ -37,6 +67,46 @@ ROLE_SEARCHES = {
             (
                 "fullstack_frontend",
                 '("full stack" OR "full-stack" OR fullstack) (react OR angular OR javascript OR typescript OR node) -intern -internship -android -mobile -qa -tester -salesforce',
+            ),
+            (
+                "react_node",
+                '("react developer" OR "react engineer") (node OR "node.js" OR express OR backend) -intern -internship -android -mobile -qa -tester -salesforce',
+            ),
+            (
+                "typescript_node",
+                '(typescript OR javascript) (node OR "node.js" OR express) ("full stack" OR fullstack OR backend) -intern -internship -android -mobile -qa -tester -salesforce',
+            ),
+            (
+                "frontend_backend",
+                '("front end" OR frontend OR react OR angular) (backend OR "back end" OR api) -intern -internship -android -mobile -qa -tester -salesforce',
+            ),
+            (
+                "mern_stack",
+                '(mern OR "mongo express react node" OR "react node") -intern -internship -android -mobile -qa -tester -salesforce',
+            ),
+            (
+                "software_engineer_react_node",
+                '("software engineer" OR developer) (react OR angular OR typescript OR javascript) (node OR "node.js" OR backend OR api) -intern -internship -android -mobile -qa -tester -salesforce',
+            ),
+            (
+                "web_application_developer",
+                '("web application developer" OR "web developer" OR "application developer") (react OR angular OR node OR "full stack" OR backend) -intern -internship -android -mobile -qa -tester -salesforce',
+            ),
+            (
+                "javascript_fullstack",
+                '(javascript OR typescript) ("full stack" OR fullstack OR backend OR api) (react OR angular OR node) -intern -internship -android -mobile -qa -tester -salesforce',
+            ),
+            (
+                "angular_node",
+                '(angular OR react) (node OR "node.js" OR api OR backend) ("software engineer" OR developer) -intern -internship -android -mobile -qa -tester -salesforce',
+            ),
+            (
+                "junior_fullstack",
+                '("full stack" OR fullstack OR react OR angular OR node OR typescript) (junior OR associate OR "entry level" OR "early career" OR "new grad" OR "software engineer I" OR "developer I") -intern -internship -android -mobile -qa -tester -salesforce',
+            ),
+            (
+                "mid_level_fullstack",
+                '("full stack" OR fullstack OR react OR angular OR node OR typescript) ("mid level" OR "mid-level" OR intermediate OR "software engineer II" OR "developer II" OR "full stack developer II") -intern -internship -android -mobile -qa -tester -salesforce',
             ),
         ],
     },
@@ -54,6 +124,34 @@ ROLE_SEARCHES = {
             (
                 "analytics_engineer",
                 '("analytics engineer" OR "data warehouse engineer" OR "data platform engineer") (sql OR dbt OR snowflake OR bigquery OR redshift OR databricks) -intern -internship -qa -tester -salesforce',
+            ),
+            (
+                "spark_data_engineer",
+                '("data engineer" OR "big data engineer") (spark OR pyspark OR databricks) -intern -internship -qa -tester -salesforce',
+            ),
+            (
+                "snowflake_dbt",
+                '("data engineer" OR "analytics engineer") (snowflake OR dbt OR "data warehouse") -intern -internship -qa -tester -salesforce',
+            ),
+            (
+                "airflow_pipeline",
+                '("data engineer" OR "pipeline engineer" OR "etl engineer") (airflow OR orchestration OR "data pipeline") -intern -internship -qa -tester -salesforce',
+            ),
+            (
+                "python_data_engineer",
+                '("data engineer" OR "etl engineer") (python OR pyspark) (sql OR spark OR airflow OR cloud) -intern -internship -qa -tester -salesforce',
+            ),
+            (
+                "sql_data_engineer",
+                '("data engineer" OR "analytics engineer") (sql OR "data warehouse") (python OR dbt OR snowflake OR bigquery) -intern -internship -qa -tester -salesforce',
+            ),
+            (
+                "junior_data_engineer",
+                '("data engineer" OR "etl developer" OR "etl engineer" OR "analytics engineer" OR "data pipeline") (junior OR associate OR "entry level" OR "early career" OR "new grad" OR "engineer I" OR "developer I") -intern -internship -qa -tester -salesforce',
+            ),
+            (
+                "mid_level_data_engineer",
+                '("data engineer" OR "etl developer" OR "etl engineer" OR "analytics engineer" OR "data pipeline") ("mid level" OR "mid-level" OR intermediate OR "engineer II" OR "developer II" OR "data engineer II") -intern -internship -qa -tester -salesforce',
             ),
         ],
     },
@@ -118,8 +216,47 @@ GENERIC_ENGINEER_TITLE_RE = re.compile(
 )
 
 
+def prefer_recent_indeed_results():
+    """JobSpy defaults Indeed pagination to relevance; date sort keeps 24h runs fresh."""
+    try:
+        import jobspy.indeed as indeed_module
+        import jobspy.indeed.constant as indeed_constant
+    except ImportError:
+        return
+
+    for module in (indeed_module, indeed_constant):
+        query = getattr(module, "job_search_query", "")
+        if "sort: RELEVANCE" in query:
+            module.job_search_query = query.replace("sort: RELEVANCE", "sort: DATE")
+
+
 def raw_output_path(role, search_name):
     return TEMP_DIR / f"jobs_{role}_{search_name}.csv"
+
+
+def parse_date_posted(value):
+    value = (value or "").strip()
+    if not value:
+        return None
+
+    try:
+        return datetime.fromisoformat(value).date()
+    except ValueError:
+        return None
+
+
+def posted_within_hours(row, hours_old=HOURS_OLD, today=None):
+    posted_date = parse_date_posted(row.get("date_posted"))
+    if not posted_date:
+        return False
+
+    # JobSpy's Indeed output only keeps the posting date, not the posting time.
+    # Keep today's and yesterday's rows for a 24h run; the scrape API still gets
+    # the exact hours_old filter, and this removes clearly stale leakage.
+    today = today or date.today()
+    allowed_calendar_days = max(1, (hours_old + 23) // 24)
+    cutoff = today - timedelta(days=allowed_calendar_days)
+    return posted_date >= cutoff
 
 
 def is_relevant(row, role):
@@ -200,6 +337,7 @@ def scrape_role(role, config):
 
 
 def scrape_searches():
+    prefer_recent_indeed_results()
     for role, config in ROLE_SEARCHES.items():
         scrape_role(role, config)
 
@@ -219,6 +357,14 @@ def build_final_csv(role, config):
 
         with path.open(newline="", encoding="utf-8-sig") as f:
             for row in csv.DictReader(f):
+                if not parse_date_posted(row.get("date_posted")):
+                    reasons["missing_or_invalid_date_posted"] += 1
+                    continue
+
+                if not posted_within_hours(row):
+                    reasons["older_than_hours_old"] += 1
+                    continue
+
                 direct_url = (row.get("job_url_direct") or "").strip()
                 if not direct_url:
                     reasons["missing_direct_url"] += 1
