@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Scraper output
+temp/
+final/
