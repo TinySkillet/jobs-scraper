@@ -1,4 +1,328 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"in-1f2707f3c3ba55eb","indeed","https://www.indeed.com/viewjob?jk=1f2707f3c3ba55eb","https://www.capgemini.com/jobs/490047-en_US_SAPBTP/","Senior Software Engineer - Java Lead","Capgemini","Berwyn, IL, US","2026-05-28","fulltime","direct_data","yearly",73150.0,174000.0,"USD",False,"","","","","Choosing Capgemini means choosing a company where you will be empowered to shape your career in the way you’d like, where you’ll be supported and inspired by a collaborative community of colleagues around the world, and where you’ll be able to reimagine what’s possible. Join us and help the world’s leading organizations unlock the value of technology and build a more sustainable, more inclusive world.
+
+
+**Location**
+------------
+
+
+This is a hybrid role based in Reading PA.
+
+
+**About the job you're considering**
+------------------------------------
+
+  
+
+  
+
+The Capgemini team offers extensive career opportunities and provides mentoring and coaching for teammates. This role is an experienced professional with a strong background in sof
+
+
+**Your role**
+-------------
+
+
+* Build scalable microservices using Java and Spring Boot and responsive UI components using Angular.
+* Implement efficient client\\-side state management and data caching strategies within Angular applications.
+* Design relational database schemas and build secure, optimized RESTful APIs to connect front\\-end and back\\-end systems.
+* Demonstrate a strong handle on SQL by writing and optimizing complex queries, stored procedures to investigate data anomalies and scripts to resolve data\\-related production issues.
+* Manage containerized build pipelines and deploy full\\-stack applications using Docker and OpenShift.
+* Conduct rigorous peer code reviews and write comprehensive unit tests for both TypeScript (Karma/Jasmine) and Java (JUnit, Mockito).
+* Creating comprehensive documentation for software systems, including architectural designs and technical workflows.
+**Your skills and experience**
+------------------------------
+
+
+* 10\\+ experience in core Java, Spring Boot, microservices architecture, and dependency injection.
+* 5\\+ years of software development experience with a strong focus on full\\-stack application delivery.
+* Deep knowledge of Angular (v20\\+ preferred), TypeScript, RxJS, HTML5, CSS3/SASS, and responsive web design.
+* Proven experience with Apache Kafka, including topics design, partitions, consumer groups, Kafka Streams, and schema registry configurations.
+* Advanced skills in relational databases (SQL Server, DB2, PostgreSQL) including query optimization, indexing, and joins.
+* Proven experience building and consumption of secure RESTful web services and JSON data structures.
+* Experience with frontend testing frameworks (Jasmine, Karma, Cypress) and backend tools (JUnit, Mockito).
+* Keeping up with advancements in Java and related technologies.
+  
+
+\\#LI\\-RM1
+
+
+The base compensation range for this role in the posted location is: $73,150 \\- $174,000\\.
+
+
+Capgemini provides compensation range information in accordance with applicable national, state, provincial, and local pay transparency laws. The base compensation range listed for this position reflects the minimum and maximum target compensation Capgemini, in good faith, believes it may pay for the role at the time of this posting. This range may be subject to change as permitted by law.
+
+
+The actual compensation offered to any candidate may fall outside of the posted range and will be determined based on multiple factors legally permitted in the applicable jurisdiction.
+
+
+These may include, but are not limited to: Geographic location, Education and qualifications, Certifications and licenses, Relevant experience and skills, Seniority and performance, Market and business consideration, Internal pay equity.
+
+
+It is not typical for candidates to be hired at or near the top of the posted compensation range.
+
+
+In addition to base salary, this role may be eligible for additional compensation such as variable incentives, bonuses, or commissions, depending on the position and applicable laws.
+
+  
+
+**Capgemini offers a comprehensive, non\\-negotiable benefits package to all regular, full\\-time employees.** In the U.S. and Canada, available benefits are determined by local policy and eligibility and may include:
+
+
+* Paid time off based on employee grade (A\\-F), defined by policy: Vacation: 12\\-25 days, depending on grade, Company paid holidays, Personal Days, Sick Leave
+* Medical, dental, and vision coverage (or provincial healthcare coordination in Canada)
+* Retirement savings plans (e.g., 401(k) in the U.S., RRSP in Canada)
+* Life and disability insurance
+* Employee assistance programs
+* Other benefits as provided by local policy and eligibility
+
+**Important Notice:** Compensation (including bonuses, commissions, or other forms of incentive pay) is not considered earned, vested, or payable until it becomes due under the terms of applicable plans or agreements and is subject to Capgemini’s discretion, consistent with applicable laws. The Company reserves the right to amend or withdraw compensation programs at any time, within the limits of applicable legislation.
+
+  
+
+**Disclaimers**
+
+
+Capgemini is an Equal Opportunity Employer encouraging inclusion in the workplace. Capgemini also participates in the Partnership Accreditation in Indigenous Relations (PAIR) program which supports meaningful engagement with Indigenous communities across Canada by promoting fairness, accessibility, inclusion and respect. We value the rich cultural heritage and contributions of Indigenous Peoples and actively work to create a welcoming and respectful environment. All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age, religion, disability, sexual orientation, genetics, veteran status, marital status or any other characteristic protected by law.
+
+
+This is a general description of the Duties, Responsibilities and Qualifications required for this position. Physical, mental, sensory or environmental demands may be referenced in an attempt to communicate the manner in which this position traditionally is performed. Whenever necessary to provide individuals with disabilities an equal employment opportunity, Capgemini will consider reasonable accommodations that might involve varying job requirements and/or changing the way this job is performed, provided that such accommodation does not pose an undue hardship. Capgemini is committed to providing reasonable accommodation during our recruitment process. If you need assistance or accommodation, please reach out to your recruiting contact.
+
+
+Please be aware that Capgemini may capture your image (video or screenshot) during the interview process and that image may be used for verification, including during the hiring and onboarding process.
+
+
+Click the following link for more information on your rights as an Applicant in the United States. http://www.capgemini.com/resources/equal\\-employment\\-opportunity\\-is\\-the\\-law
+
+  
+
+Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55\\-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end\\-to\\-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem.","","https://www.indeed.com/cmp/Capgemini","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/705e8467dd710fe59b83f3f0d13d2b16","https://www.capgemini.com","Paris","10,000+","more than $10B (USD)","With more than 325,000 people, Capgemini is present in over 50 countries and celebrated its 50th Anniversary year in 2017.","","","","","",""
+"in-ec5496e15369abf7","indeed","https://www.indeed.com/viewjob?jk=ec5496e15369abf7","https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Java-Software-Engineer_R-533651","Senior Java Software Engineer","Wells Fargo","Charlotte, NC, US","2026-05-28","fulltime","direct_data","yearly",119000.0,224000.0,"USD",False,"","","","","**About this role:**
+
+
+Wells Fargo is seeking a Senior Java Software Engineer to join our CCIBT Organization and of Collateral and Margin Management Technology team working on Platforms Modernization \\& Regulatory/Compliance initiatives. The ideal candidate would have very strong technical knowledge of Java and a solid foundation of server design methodologies. Successful applicant will help enhance, build, and deliver frameworks and business application micro services. leveraging GenAI to accelerate development and build new capabilities. In this role as an AI engineer, you will develop cutting edge artificial intelligence solutions using large language models, agentic frameworks, and other innovative technologies. The ideal candidate would have knowledge in designing, developing, and deploying applications leveraging LLM models and systems, with a strong focus on Prompt Engineering, Fine Tuning, RAG implementation and Agentic frameworks.
+
+
+In this role, you will:
+
+* Lead complex initiatives on selected domains
+* Ensure systems are monitored to increase operational efficiency and managed to mitigate risk
+* Stay up to date with the latest advancements in AI, LLM second agentic frameworks and apply this knowledge to improve existing systems and develop new one
+* Design, develop, and deploy AI applications using Enterprise APIs, LLM's, agent frameworks, and other related technologies
+* Define opportunities to maximize resource utilization and improve processes while reducing cost
+* Lead, design, develop, test, and implement applications and system components, tools and utilities, models, simulation, and analytics to manage complex business functions using sophisticated technologies
+* Resolve coding, testing, and escalated platform issues of a technically challenging nature Led team to ensure compliance and risk management requirements for supported area are met and work with other stakeholders to implement key risk initiatives
+* Mentor less experienced software engineers
+* Collaborate and influence all levels of professionals including managers
+* Lead team to achieve objectives
+* Partner with production support and platform engineering teams effectively
+
+**Required Qualifications:**
+
+* 4\\+ years of Software Engineering experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education
+* 4\\+ years of experience in Spring Boot, JPA, Microservices, SQL and NoSQL
+* 3\\+ year of experience in Capital Markets Technology working on building solutions in any of the following areas (Pricing \\& Risk Management, Trade lifecycle, Sales \\& Trading, Prime services or Securities Clearing and Settlements) •
+* 2\\+ years of experience in React.js
+* 2\\+ years of experience in Kubernetes/OpenShift
+* 2\\+ years of experience in Apache Kafka/Confluent Enterprise
+* 2\\+ years of Experience with SDLC and Agile tools such as JIRA, GitHub, Jenkins, Confluence etc.
+* 1\\+ years of experience building and using AI MCPs and Agents.
+
+**Desired Qualifications:**
+
+* Bachelor's/master's degree in computer science or equivalent
+* 2\\+ Years of experience in Enterprise Architecture
+* Knowledge of SWIFT (Society for Worldwide Interbank Financial Telecommunications) is a HUGE PLUS
+* 2\\+ years of DevOps tool set based continuous incremental delivery experience
+* 2\\+ Years of Experience in Blue Green Deployment Model
+* 2\\+ years working in OpenShift Container Platform
+* 2\\+ years working in Micro Front End Architecture
+* 2\\+ years using SQL Server/MongoDB
+* 2\\+ years of experience working Domain Driven Development
+* Experience on GenAI enabled solutions, Retrieval\\-Augmented Generation (RAG) and agentic workflows, with a strong understanding of prompt engineering, grounding, and extensibility.
+* Hands\\-on experience with major GenAI platforms (e.g., Microsoft VS Code, GitHub Copilot ).
+* Familiarity with Model Context Protocol (MCP), enterprise\\-grade agentic workflows is highly desirable
+* Deep knowledge of LLM and API integration, including RESTful API design.
+
+**Job Expectations**
+
+* **Must be based in one of the above locations or willing to relocate at your own expense.**
+* Relocation assistance is not available for this position.
+* This position currently offers a hybrid work schedule, 3 days onsite.
+* This position is not eligible for Visa sponsorship.
+
+**Locations:**
+
+* 300 S Brevard St. Charlotte, NC 28202
+* 194 Wood Ave S, Iselin, New Jersey 08830
+
+**Pay Range**
+
+  
+
+Reflected is the base pay range offered for this position. Pay may vary depending on factors including but not limited to demonstrated examples of prior performance, skills, experience, or work location. Employees may also be eligible for incentive opportunities.
+
+
+$119,000\\.00 \\- $224,000\\.00**Benefits**
+
+Wells Fargo provides eligible employees with a comprehensive set of benefits, many of which are listed below. Visit Benefits \\- Wells Fargo Jobs for an overview of the following benefit plans and programs offered to employees.
+
+* Health benefits
+* 401(k) Plan
+* Paid time off
+* Disability benefits
+* Life insurance, critical illness insurance, and accident insurance
+* Parental leave
+* Critical caregiving leave
+* Discounts and savings
+* Commuter benefits
+* Tuition reimbursement
+* Scholarships for dependent children
+* Adoption reimbursement
+**Posting End Date:**
+
+
+31 May 2026* ***Job posting may come down early due to volume of applicants.***
+
+**We Value Equal Opportunity**
+
+
+Wells Fargo is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other legally protected characteristic.
+
+
+Employees support our focus on building strong customer relationships balanced with a strong risk mitigating and compliance\\-driven culture which firmly establishes those disciplines as critical to the success of our customers and company. They are accountable for execution of all applicable risk programs (Credit, Market, Financial Crimes, Operational, Regulatory Compliance), which includes effectively following and adhering to applicable Wells Fargo policies and procedures, appropriately fulfilling risk and compliance obligations, timely and effective escalation and remediation of issues, and making sound risk decisions. There is emphasis on proactive monitoring, governance, risk identification and escalation, as well as making sound risk decisions commensurate with the business unit’s risk appetite and all risk and compliance program requirements.
+
+**Applicants with Disabilities**
+
+
+To request a medical accommodation during the application or interview process, visit Disability Inclusion at Wells Fargo.
+
+**Drug and Alcohol Policy**
+
+  
+
+Wells Fargo maintains a drug free workplace. Please see our Drug and Alcohol Policy to learn more.
+
+**Wells Fargo Recruitment and Hiring Requirements:**
+
+
+a. Third\\-Party recordings are prohibited unless authorized by Wells Fargo.
+
+
+b. Wells Fargo requires you to directly represent your own experiences during the recruiting and hiring process.","","https://www.indeed.com/cmp/Wells-Fargo","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8420576b1d6cf9bd2b2e883e847486f9","https://www.wellsfargojobs.com/en/well-life/","San Francisco, CA","10,000+","more than $10B (USD)","At Wells Fargo, we provide opportunities that go beyond just your career. Whatever living a Well Life looks like to you, you'll find it here. Learn more at wellsfargojobs.com/well-life. ","","","","","",""
+"in-24294ee46ae8346d","indeed","https://www.indeed.com/viewjob?jk=24294ee46ae8346d","https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Java-Software-Engineer_R-533651","Senior Java Software Engineer","Wells Fargo","Iselin, NJ, US","2026-05-28","fulltime","direct_data","yearly",119000.0,224000.0,"USD",False,"","","","","**About this role:**
+
+
+Wells Fargo is seeking a Senior Java Software Engineer to join our CCIBT Organization and of Collateral and Margin Management Technology team working on Platforms Modernization \\& Regulatory/Compliance initiatives. The ideal candidate would have very strong technical knowledge of Java and a solid foundation of server design methodologies. Successful applicant will help enhance, build, and deliver frameworks and business application micro services. leveraging GenAI to accelerate development and build new capabilities. In this role as an AI engineer, you will develop cutting edge artificial intelligence solutions using large language models, agentic frameworks, and other innovative technologies. The ideal candidate would have knowledge in designing, developing, and deploying applications leveraging LLM models and systems, with a strong focus on Prompt Engineering, Fine Tuning, RAG implementation and Agentic frameworks.
+
+
+In this role, you will:
+
+* Lead complex initiatives on selected domains
+* Ensure systems are monitored to increase operational efficiency and managed to mitigate risk
+* Stay up to date with the latest advancements in AI, LLM second agentic frameworks and apply this knowledge to improve existing systems and develop new one
+* Design, develop, and deploy AI applications using Enterprise APIs, LLM's, agent frameworks, and other related technologies
+* Define opportunities to maximize resource utilization and improve processes while reducing cost
+* Lead, design, develop, test, and implement applications and system components, tools and utilities, models, simulation, and analytics to manage complex business functions using sophisticated technologies
+* Resolve coding, testing, and escalated platform issues of a technically challenging nature Led team to ensure compliance and risk management requirements for supported area are met and work with other stakeholders to implement key risk initiatives
+* Mentor less experienced software engineers
+* Collaborate and influence all levels of professionals including managers
+* Lead team to achieve objectives
+* Partner with production support and platform engineering teams effectively
+
+**Required Qualifications:**
+
+* 4\\+ years of Software Engineering experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education
+* 4\\+ years of experience in Spring Boot, JPA, Microservices, SQL and NoSQL
+* 3\\+ year of experience in Capital Markets Technology working on building solutions in any of the following areas (Pricing \\& Risk Management, Trade lifecycle, Sales \\& Trading, Prime services or Securities Clearing and Settlements) •
+* 2\\+ years of experience in React.js
+* 2\\+ years of experience in Kubernetes/OpenShift
+* 2\\+ years of experience in Apache Kafka/Confluent Enterprise
+* 2\\+ years of Experience with SDLC and Agile tools such as JIRA, GitHub, Jenkins, Confluence etc.
+* 1\\+ years of experience building and using AI MCPs and Agents.
+
+**Desired Qualifications:**
+
+* Bachelor's/master's degree in computer science or equivalent
+* 2\\+ Years of experience in Enterprise Architecture
+* Knowledge of SWIFT (Society for Worldwide Interbank Financial Telecommunications) is a HUGE PLUS
+* 2\\+ years of DevOps tool set based continuous incremental delivery experience
+* 2\\+ Years of Experience in Blue Green Deployment Model
+* 2\\+ years working in OpenShift Container Platform
+* 2\\+ years working in Micro Front End Architecture
+* 2\\+ years using SQL Server/MongoDB
+* 2\\+ years of experience working Domain Driven Development
+* Experience on GenAI enabled solutions, Retrieval\\-Augmented Generation (RAG) and agentic workflows, with a strong understanding of prompt engineering, grounding, and extensibility.
+* Hands\\-on experience with major GenAI platforms (e.g., Microsoft VS Code, GitHub Copilot ).
+* Familiarity with Model Context Protocol (MCP), enterprise\\-grade agentic workflows is highly desirable
+* Deep knowledge of LLM and API integration, including RESTful API design.
+
+**Job Expectations**
+
+* **Must be based in one of the above locations or willing to relocate at your own expense.**
+* Relocation assistance is not available for this position.
+* This position currently offers a hybrid work schedule, 3 days onsite.
+* This position is not eligible for Visa sponsorship.
+
+**Locations:**
+
+* 300 S Brevard St. Charlotte, NC 28202
+* 194 Wood Ave S, Iselin, New Jersey 08830
+
+**Pay Range**
+
+  
+
+Reflected is the base pay range offered for this position. Pay may vary depending on factors including but not limited to demonstrated examples of prior performance, skills, experience, or work location. Employees may also be eligible for incentive opportunities.
+
+
+$119,000\\.00 \\- $224,000\\.00**Benefits**
+
+Wells Fargo provides eligible employees with a comprehensive set of benefits, many of which are listed below. Visit Benefits \\- Wells Fargo Jobs for an overview of the following benefit plans and programs offered to employees.
+
+* Health benefits
+* 401(k) Plan
+* Paid time off
+* Disability benefits
+* Life insurance, critical illness insurance, and accident insurance
+* Parental leave
+* Critical caregiving leave
+* Discounts and savings
+* Commuter benefits
+* Tuition reimbursement
+* Scholarships for dependent children
+* Adoption reimbursement
+**Posting End Date:**
+
+
+31 May 2026* ***Job posting may come down early due to volume of applicants.***
+
+**We Value Equal Opportunity**
+
+
+Wells Fargo is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other legally protected characteristic.
+
+
+Employees support our focus on building strong customer relationships balanced with a strong risk mitigating and compliance\\-driven culture which firmly establishes those disciplines as critical to the success of our customers and company. They are accountable for execution of all applicable risk programs (Credit, Market, Financial Crimes, Operational, Regulatory Compliance), which includes effectively following and adhering to applicable Wells Fargo policies and procedures, appropriately fulfilling risk and compliance obligations, timely and effective escalation and remediation of issues, and making sound risk decisions. There is emphasis on proactive monitoring, governance, risk identification and escalation, as well as making sound risk decisions commensurate with the business unit’s risk appetite and all risk and compliance program requirements.
+
+**Applicants with Disabilities**
+
+
+To request a medical accommodation during the application or interview process, visit Disability Inclusion at Wells Fargo.
+
+**Drug and Alcohol Policy**
+
+  
+
+Wells Fargo maintains a drug free workplace. Please see our Drug and Alcohol Policy to learn more.
+
+**Wells Fargo Recruitment and Hiring Requirements:**
+
+
+a. Third\\-Party recordings are prohibited unless authorized by Wells Fargo.
+
+
+b. Wells Fargo requires you to directly represent your own experiences during the recruiting and hiring process.","","https://www.indeed.com/cmp/Wells-Fargo","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8420576b1d6cf9bd2b2e883e847486f9","https://www.wellsfargojobs.com/en/well-life/","San Francisco, CA","10,000+","more than $10B (USD)","At Wells Fargo, we provide opportunities that go beyond just your career. Whatever living a Well Life looks like to you, you'll find it here. Learn more at wellsfargojobs.com/well-life. ","","","","","",""
 "in-6bcf8472695816d4","indeed","https://www.indeed.com/viewjob?jk=6bcf8472695816d4","https://morganstanley.eightfold.ai/careers/job?domain=morganstanley.com&pid=549797899905","Lead Java Software Engineer - Backend (VP)","Morgan Stanley","New York, NY, US","2026-05-28","fulltime","direct_data","yearly",150000.0,210000.0,"USD",False,"","","","","In the Technology division, we leverage innovation to build the connections and capabilities that power our Firm, enabling our clients and colleagues to redefine markets and shape the future of our communities.
 
 
@@ -98,1084 +422,551 @@ Our workforce reflects a broad cross\\-section of the global communities in whic
 
 
 For more information, please visit : https://www.morganstanley.com/people\\-opportunities/eeo .","","https://www.indeed.com/cmp/Morgan-Stanley","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/301e696f90356ab8aaba627938837745","http://www.morganstanley.com","New York, NY","10,000+","more than $10B (USD)","Morgan Stanley mobilizes capital to help governments, corporations, institutions and individuals around the world achieve their financial goals.","","","","","",""
-"in-d26d6345a025e2d0","indeed","https://www.indeed.com/viewjob?jk=d26d6345a025e2d0","https://tnl2.jometer.com/v2/job?jz=581jnd369a4ae92c02f79a3200b541e83fdfbCMAAKAAAAABQ&utm_source=joveo&publisher=Indeed-organic","Lead Java Software Engineer","Wells Fargo","Chandler, AZ, US","2026-05-28","","","","","","",False,"","","","","**About this role:**  
+"in-0df69ade06b135b7","indeed","https://www.indeed.com/viewjob?jk=0df69ade06b135b7","https://www.lockheedmartinjobs.com/job/colorado-springs/java-software-engineer-space-mission-applications-level-3/694/95679123728","Java Software Engineer - Space Mission Applications - Level 3","Lockheed Martin","Colorado Springs, CO, US","2026-05-27","fulltime","direct_data","yearly",107300.0,185840.0,"USD",True,"","","","","**JOB ID:** 730127BR
+
+
+**Date posted:** May. 28, 2026
+
 
   
 
-Wells Fargo is seeking a Lead Software Engineer in our Enterprise Content Management (ECM) team as part of Digital Technology \\& Innovation (DTI). Learn more about the career areas and business divisions at wellsfargojobs.com.  
+**Description:**
+
+Protecting what matters most is the mission that matters most.  
 
   
 
-This role is part of the Enterprise Content Management (ECM) team and focuses on Intelligent Document Services (IDOCS)\\-one of the most robust, high\\-scale production platforms in the enterprise with 10\\+ Billion documents in our repository. This is a unique chance to work on a mission\\-critical system that handles massive document volumes at enterprise scale. You will help build and evolve next\\-generation AI solutions used every day across the bank. In this role, you will lead the architecture and design of modern systems that are reusable, scalable, efficient, and resilient. You will work hands\\-on with cutting\\-edge AI technologies and latest AI models to transform document operations such as classification, extraction, validation, and enrichment. This position offers significant AI research and innovation opportunities. You will help shape how new AI tools and technologies are adopted and scaled across the enterprise. If you are passionate about AI, large\\-scale systems, and real\\-world impact, this role gives you the platform to innovate, lead, and make a difference.  
+Space is a critical domain, connecting our technologies, our security and our humanity. While others view space as a destination, we see it as a realm of possibilities, where we can do more— we can innovate, invest, inspire and integrate our capabilities to transform the future. At Lockheed Martin Space, we aim to harness the full potential of space to cultivate innovation, reduce costs, and push the boundaries of what technology can achieve. We’re creating future\\-ready solutions, focusing on resiliency and urgency through our 21st Century Security® vision. We’re erasing boundaries and forming partnerships across industries and around the world. We’re advancing spacecraft and the workforce to fuel the next generation. And we’re reimagining how space can connect us, ensuring security and prosperity. Join us in shaping a new era in space and find a career that's built for you.  
 
   
 
-**In this role, you will:*** Lead complex technology initiatives including those that are companywide with broad impact
-* Act as a key participant in developing standards and companywide best practices for engineering complex and large scale technology solutions for technology engineering disciplines
-* Design, code, test, debug, and document for projects and programs
-* Review and analyze complex, large\\-scale technology solutions for tactical and strategic business objectives, enterprise technological environment, and technical challenges that require in\\-depth evaluation of multiple factors, including intangibles or unprecedented technical factors
-* Make decisions in developing standard and companywide best practices for engineering and technology solutions requiring understanding of industry best practices and new technologies, influencing and leading technology team to meet deliverables and drive new initiatives
-* Collaborate and consult with key technical experts, senior technology team, and external industry groups to resolve complex technical issues and achieve goals
-* Lead projects, teams, or serve as a peer mentor
-
-**Required Qualifications:*** 5\\+ years of Software Engineering experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education
-* 5\\+ years of experience in Application Development using Java and Microservices
-* 3\\+ years of experience using Spring Boot
-
-**Desired Qualifications:*** 5\\+ years of experience using ReactJS, Redux, HTML, CSS, TypeScript, and JavaScript
-* 5\\+ years of experience using Database Technologies such as Oracle, Mongo
-* 1\\+ years of experience using generative AI technologies using OpenAI standard APIs
-* Experience on vector database is big advantage
-* Experience on Kafka, Apigee and containers like docker, k3s
-* 1\\+ years of experience with ReactJS
-* 3\\+ years of MongoDB experience
-* 3\\+ years of experience with secure DevOps and deployment automation to cloud environments
-* Understanding of technology architecture: distributed and client server technologies
-* Understanding of AI technology
-* Strong analytical skills with high attention to detail and accuracy
-* Strong organizational, multi\\-tasking, and prioritizing skills
-* Excellent communication and teamwork skills, be self\\-directed, self\\-motivated, committed, and a quick learner
-
-**Job Expectations:*** This position is not eligible for Visa sponsorship
-* This position requires a hybrid in office work schedule
-* Relocation assistance is not available for this position
-
-**Job Location:**  
+We are looking for talented Software Engineers with a passion for developing creative solutions spanning Space Domain Awareness, Space Battle Management Command/Control, Modeling/Simulation, Wargaming and Test/Training. If you are a team\\-oriented, full stack, Java/JavaScript software developer with a background in orbital mechanics, mathematics, gaming and optimization strategies, come join us.  
 
   
 
-300 S. Brevard \\- Charlotte, North Carolina 28202  
+Our team leverages industry standard open\\-source software solutions such as GitLab, Kubernetes, Docker, and Rancher. Our automation\\-first and “everything as code” mindset allows our software engineers to focus their time and efforts on what is most important \\- building cutting edge functionality for our end users. As a Software Engineer on an Agile Scrum Team, you will have the opportunity to rapidly develop and deploy solutions for a complex space system following core engineering principles, ultimately enabling the delivery of fully functioning mission capability to end users securely and continuously.  
 
   
 
-2600 S Price Rd \\- Chandler, Arizona 85286  
+You will be working side by side with extraordinarily talented and experienced engineers, while having the opportunity to lead and mentor less experienced individuals on the team.  
 
   
 
-**Posting End Date:**
-  
+**Summary of Key Duties for this position:**
 
-14 Jun 2026  
-
-**\\*Job posting may come down early due to volume of applicants.**
   
 
   
 
-**We Value Equal Opportunity**  
+* Performance of all phases of software development (user interface and software services) including design, implementation, integration, testing and verification
 
   
 
-Wells Fargo is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other legally protected characteristic.  
+* Developing services that solve optimization problems (dynamic programming, non\\-linear optimization, over\\-constrained planning, etc. )
 
   
 
-Employees support our focus on building strong customer relationships balanced with a strong risk mitigating and compliance\\-driven culture which firmly establishes those disciplines as critical to the success of our customers and company. They are accountable for execution of all applicable risk programs (Credit, Market, Financial Crimes, Operational, Regulatory Compliance), which includes effectively following and adhering to applicable Wells Fargo policies and procedures, appropriately fulfilling risk and compliance obligations, timely and effective escalation and remediation of issues, and making sound risk decisions. There is emphasis on proactive monitoring, governance, risk identification and escalation, as well as making sound risk decisions commensurate with the business unit's risk appetite and all risk and compliance program requirements.  
+* Dynamically optimizing both terrestrial and space\\-based systems to support prioritized mission needs
 
   
 
-Candidates applying to job openings posted in Canada: Applications for employment are encouraged from all qualified candidates, including women, persons with disabilities, aboriginal peoples and visible minorities. Accommodation for applicants with disabilities is available upon request in connection with the recruitment process.  
+* Work collaboratively in small, fast paced agile teams, focused on product delivery to program customers
 
   
 
-**Applicants with Disabilities**  
+This is a full\\-time telework position but the preferred locations are:  
 
   
 
-To request a medical accommodation during the application or interview process, visit Disability Inclusion at Wells Fargo .  
+➡️ King of Prussia, PA  
 
   
 
-**Drug and Alcohol Policy**  
+➡️ Littleton, CO  
 
   
 
-Wells Fargo maintains a drug free workplace. Please see our Drug and Alcohol Policy to learn more.  
+➡️Colorado Springs, CO  
 
   
 
-**Wells Fargo Recruitment and Hiring Requirements:**  
+\\#LMSpaceMIAA  
+
+**Basic Qualifications:**
 
   
 
-a. Third\\-Party recordings are prohibited unless authorized by Wells Fargo.  
+* Extensive experience in Java and/or JavaScript.
 
   
 
-b. Wells Fargo requires you to directly represent your own experiences during the recruiting and hiring process.","","https://www.indeed.com/cmp/Wells-Fargo","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8420576b1d6cf9bd2b2e883e847486f9","https://www.wellsfargojobs.com/en/well-life/","San Francisco, CA","10,000+","more than $10B (USD)","At Wells Fargo, we provide opportunities that go beyond just your career. Whatever living a Well Life looks like to you, you'll find it here. Learn more at wellsfargojobs.com/well-life. ","","","","","",""
-"in-89867faae8c68784","indeed","https://www.indeed.com/viewjob?jk=89867faae8c68784","https://tnl2.jometer.com/v2/job?jz=581jnf2624fde779702c585ba503b005f6794CMAAKAAAAABQ&utm_source=joveo&publisher=Indeed-organic","Lead Java Software Engineer","Wells Fargo","Charlotte, NC, US","2026-05-28","","","","","","",False,"","","","","**About this role:**  
+* Experience with application containerization (Kubernetes, Helm, Docker, Containerd) in a cloud environment (AWS, Azure, OpenStack, OpenShift)
 
   
 
-Wells Fargo is seeking a Lead Software Engineer in our Enterprise Content Management (ECM) team as part of Digital Technology \\& Innovation (DTI). Learn more about the career areas and business divisions at wellsfargojobs.com.  
+* Experience working in an Agile development environment, using tools such as JIRA and Confluence
 
   
 
-This role is part of the Enterprise Content Management (ECM) team and focuses on Intelligent Document Services (IDOCS)\\-one of the most robust, high\\-scale production platforms in the enterprise with 10\\+ Billion documents in our repository. This is a unique chance to work on a mission\\-critical system that handles massive document volumes at enterprise scale. You will help build and evolve next\\-generation AI solutions used every day across the bank. In this role, you will lead the architecture and design of modern systems that are reusable, scalable, efficient, and resilient. You will work hands\\-on with cutting\\-edge AI technologies and latest AI models to transform document operations such as classification, extraction, validation, and enrichment. This position offers significant AI research and innovation opportunities. You will help shape how new AI tools and technologies are adopted and scaled across the enterprise. If you are passionate about AI, large\\-scale systems, and real\\-world impact, this role gives you the platform to innovate, lead, and make a difference.  
+* Experience with CI/CD \\- Deployment pipelines, automated build, and configuration tools (Gitlab, ArgoCD)
 
   
 
-**In this role, you will:*** Lead complex technology initiatives including those that are companywide with broad impact
-* Act as a key participant in developing standards and companywide best practices for engineering complex and large scale technology solutions for technology engineering disciplines
-* Design, code, test, debug, and document for projects and programs
-* Review and analyze complex, large\\-scale technology solutions for tactical and strategic business objectives, enterprise technological environment, and technical challenges that require in\\-depth evaluation of multiple factors, including intangibles or unprecedented technical factors
-* Make decisions in developing standard and companywide best practices for engineering and technology solutions requiring understanding of industry best practices and new technologies, influencing and leading technology team to meet deliverables and drive new initiatives
-* Collaborate and consult with key technical experts, senior technology team, and external industry groups to resolve complex technical issues and achieve goals
-* Lead projects, teams, or serve as a peer mentor
+* Must be a US Citizen and eligible to obtain TS/SCI clearances.
 
-**Required Qualifications:*** 5\\+ years of Software Engineering experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education
-* 5\\+ years of experience in Application Development using Java and Microservices
-* 3\\+ years of experience using Spring Boot
-
-**Desired Qualifications:*** 5\\+ years of experience using ReactJS, Redux, HTML, CSS, TypeScript, and JavaScript
-* 5\\+ years of experience using Database Technologies such as Oracle, Mongo
-* 1\\+ years of experience using generative AI technologies using OpenAI standard APIs
-* Experience on vector database is big advantage
-* Experience on Kafka, Apigee and containers like docker, k3s
-* 1\\+ years of experience with ReactJS
-* 3\\+ years of MongoDB experience
-* 3\\+ years of experience with secure DevOps and deployment automation to cloud environments
-* Understanding of technology architecture: distributed and client server technologies
-* Understanding of AI technology
-* Strong analytical skills with high attention to detail and accuracy
-* Strong organizational, multi\\-tasking, and prioritizing skills
-* Excellent communication and teamwork skills, be self\\-directed, self\\-motivated, committed, and a quick learner
-
-**Job Expectations:*** This position is not eligible for Visa sponsorship
-* This position requires a hybrid in office work schedule
-* Relocation assistance is not available for this position
-
-**Job Location:**  
+**Desired Skills:**
 
   
 
-300 S. Brevard \\- Charlotte, North Carolina 28202  
+* Bachelors degree from an accredited college in a related discipline, such as Math, Physics, Aerospace Engineering, Systems Engineering, Software Engineering or other engineering disciplines
 
   
 
-2600 S Price Rd \\- Chandler, Arizona 85286  
+* Familiarity with the Space Domain
 
   
 
-**Posting End Date:**
+* Knowledge of Orbital dynamics and Astro Standards math libraries
+
   
 
-14 Jun 2026  
+* Experience designing and implementing algorithms
 
-**\\*Job posting may come down early due to volume of applicants.**
+  
+
+* Experience working as a member of an Agile Scrum or Kanban team
+
+  
+
+To promote the sharing of ideas, Lockheed Martin fosters a work environment that encourages big\\-picture thinking. Our employees play an active role in strengthening the quality of life where we live and work by volunteering more than 850,000 hours annually.
   
 
   
 
-**We Value Equal Opportunity**  
+**Benefits you can enjoy include:**
 
   
 
-Wells Fargo is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other legally protected characteristic.  
+  
+
+* Medical {many choices of plans; some LM locations have on\\-site medical}
+* Dental
+* 401k {with generous matching}
+* Generous Paid time off
+* Work/life balance, family\\-friendly environment
+* Career development, career\\-growth, and lots of learning opportunities for aspiring minds
+* Fun, talented, and witty teammates
+* Knowledgeable, supportive, and engaged leadership
+* Community\\-minded organization
+* Mentorship opportunities
+* Rewards \\& recognition
+* Generous Tuition Reimbursement
 
   
 
-Employees support our focus on building strong customer relationships balanced with a strong risk mitigating and compliance\\-driven culture which firmly establishes those disciplines as critical to the success of our customers and company. They are accountable for execution of all applicable risk programs (Credit, Market, Financial Crimes, Operational, Regulatory Compliance), which includes effectively following and adhering to applicable Wells Fargo policies and procedures, appropriately fulfilling risk and compliance obligations, timely and effective escalation and remediation of issues, and making sound risk decisions. There is emphasis on proactive monitoring, governance, risk identification and escalation, as well as making sound risk decisions commensurate with the business unit's risk appetite and all risk and compliance program requirements.  
+  
 
   
 
-Candidates applying to job openings posted in Canada: Applications for employment are encouraged from all qualified candidates, including women, persons with disabilities, aboriginal peoples and visible minorities. Accommodation for applicants with disabilities is available upon request in connection with the recruitment process.  
+We are committed to enabling transitioning veterans to connect with their communities and find new purpose as they reintegrate into civilian life. By clicking on the link, you can find out more on how we proudly support Hiring Our Heroes.  
 
   
 
-**Applicants with Disabilities**  
+\\#SpaceSBD  
+
+**Security Clearance Statement:**
+
+This position requires a government security clearance, you must be a US Citizen for consideration.  
+
+**Clearance Level:**
+
+TS/SCI  
+
+**Other Important Information You Should Know**
 
   
 
-To request a medical accommodation during the application or interview process, visit Disability Inclusion at Wells Fargo .  
+**Expression of Interest:**
+
+By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.  
+
+**Ability to Work Remotely:**
+
+Full\\-time Remote Telework: The employee selected for this position will work remotely full time at a location other than a Lockheed Martin designated office/job site. Employees may travel to a Lockheed Martin office for periodic meetings.  
+
+**Work Schedules:**
+
+Lockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.  
+
+**Schedule for this Position:**
+
+9x80 every other Friday off  
+
+**Pay Rate:** The annual base salary range for this position in most major metropolitan areas in California, Massachusetts, and New York is $107,300 \\- $185,840\\. For states not referenced above, the salary range for this position will reflect the candidate’s final work location. Please note that the salary information is a general guideline only. Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market and business considerations when extending an offer.  
+
+**Benefits offered:** Medical, Dental, Vision, Life Insurance, Short\\-Term Disability, Long\\-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays.  
+
+This position is incentive plan eligible.  
+
+**Pay Rate:** The annual base salary range for this position in California, Massachusetts, and New York (excluding most major metropolitan areas), Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, Vermont, Washington or Washington DC is $93,200 \\- $164,450\\. For states not referenced above, the salary range for this position will reflect the candidate’s final work location. Please note that the salary information is a general guideline only. Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market and business considerations when extending an offer.  
+
+**Benefits offered:** Medical, Dental, Vision, Life Insurance, Short\\-Term Disability, Long\\-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays.
+  
+
+(Washington state applicants only) Non\\-represented full\\-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays. Represented full time employees accrue 6\\.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays. PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year.  
+
+This position is incentive plan eligible.  
+
+**Lockheed Martin is an equal opportunity employer. Qualified candidates will be considered without regard to legally protected characteristics.**  
+
+**The application window will close in 90 days; applicants are encouraged to apply within 5 \\- 30 days of the requisition posting date in order to receive optimal consideration.**  
+
+At Lockheed Martin, we use our passion for purposeful innovation to help keep people safe and solve the world's most complex challenges. Our people are some of the greatest minds in the industry and truly make Lockheed Martin a great place to work.
+  
 
   
 
-**Drug and Alcohol Policy**  
+With our employees as our priority, we provide diverse career opportunities designed to propel, develop, and boost agility. Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work. We place an emphasis on empowering our employees by fostering an inclusive environment built upon integrity and corporate responsibility.  
 
   
 
-Wells Fargo maintains a drug free workplace. Please see our Drug and Alcohol Policy to learn more.  
+If this sounds like a culture you connect with, you’re invited to apply for this role. Or, if you are unsure whether your experience aligns with the requirements of this position, we encourage you to search on Lockheed Martin Jobs, and apply for roles that align with your qualifications.  
+
+**Experience Level:**
+
+Experienced Professional  
+
+**Business Unit:**
+
+SPACE  
+
+**Relocation Available:**
+
+No  
+
+**Career Area:**
+
+Software Engineering  
+
+**Type:**
+
+Full\\-Time  
+
+**Shift:**
+
+First
+  
+At Lockheed Martin, we apply our passion for purposeful innovation to keep people safe and solve the world's most complex challenges.
+
+
+**Pioneering Defense Technology:** From aerospace to outer space to cyber space, you can innovate mission solutions alongside the best minds in the business.
+
+
+**United By Culture:** Excellence, integrity, and collaboration define us. We accelerate change and embrace one another’s perspectives to win for our customers.
+
+
+**Real Impact, Real Growth:** Grow your career and skills for life. Our wide array of opportunities and technology\\-driven learning programs enable your development and agility.
+
+
+**Your Health, Your Wealth, Your Life:** Competitive pay, comprehensive benefits and flexible schedules designed so you thrive — at work and beyond.
+
+
+**Empowered to Be Your Best:** Use your strengths to make a difference in the lives of one another, our customers, our communities, and our planet.
+
+
+Here, the possibilities are endless because we offer:
+
+
+Flexible Schedules, dependent on role
+Levels: Student, Entry, Mid, Senior, Management
+Locations: Nationwide \\& OCONUS Positions","","https://www.indeed.com/cmp/Lockheed-Martin","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/debbff68624041821d0c56fbccbcc330","https://www.lockheedmartin.com","Bethesda, MD","10,000+","more than $10B (USD)","Lockheed Martin Canada: #1 Defence Company in 2020 With a rich history supporting collective success across Canadian industry, Lockheed Martin Canada continues to grow this positive impact as Canada’","","","","","",""
+"in-bd0d183a2dc8d3aa","indeed","https://www.indeed.com/viewjob?jk=bd0d183a2dc8d3aa","https://www.lockheedmartinjobs.com/job/king-of-prussia/java-software-engineer-level-3/694/95679123376","Java Software Engineer - Level 3","Lockheed Martin","King of Prussia, PA, US","2026-05-27","fulltime","","","","","",True,"","","","","**JOB ID:** 730120BR
+
+
+**Date posted:** May. 28, 2026
+
 
   
 
-**Wells Fargo Recruitment and Hiring Requirements:**  
+**Description:**
+
+Protecting what matters most is the mission that matters most.  
 
   
 
-a. Third\\-Party recordings are prohibited unless authorized by Wells Fargo.  
+Space is a critical domain, connecting our technologies, our security and our humanity. While others view space as a destination, we see it as a realm of possibilities, where we can do more— we can innovate, invest, inspire and integrate our capabilities to transform the future. At Lockheed Martin Space, we aim to harness the full potential of space to cultivate innovation, reduce costs, and push the boundaries of what technology can achieve. We’re creating future\\-ready solutions, focusing on resiliency and urgency through our 21st Century Security® vision. We’re erasing boundaries and forming partnerships across industries and around the world. We’re advancing spacecraft and the workforce to fuel the next generation. And we’re reimagining how space can connect us, ensuring security and prosperity. Join us in shaping a new era in space and find a career that's built for you.  
 
   
 
-b. Wells Fargo requires you to directly represent your own experiences during the recruiting and hiring process.","","https://www.indeed.com/cmp/Wells-Fargo","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8420576b1d6cf9bd2b2e883e847486f9","https://www.wellsfargojobs.com/en/well-life/","San Francisco, CA","10,000+","more than $10B (USD)","At Wells Fargo, we provide opportunities that go beyond just your career. Whatever living a Well Life looks like to you, you'll find it here. Learn more at wellsfargojobs.com/well-life. ","","","","","",""
-"in-0c6f9e99b28e118c","indeed","https://www.indeed.com/viewjob?jk=0c6f9e99b28e118c","https://recruiting2.ultipro.com/MED1007MHP/JobBoard/ffa5492f-9175-4dab-891d-a6a5d6dced2f/OpportunityDetail?opportunityId=ba4431f8-d04e-41e2-b95c-33d03b3da2a3&postingId=b7cacf05-b823-43f7-aa35-460f1fb2b421","Technical Lead Software Engineer (Java, React, Spring boot)","Medica Services Company LLC","Minnetonka, MN, US","2026-05-28","","direct_data","yearly",100300.0,172000.0,"USD",False,"","","","","Medica is a nonprofit health plan with more than a million members that serves communities in Minnesota, Nebraska, Wisconsin, Missouri, and beyond. We deliver personalized health care experiences and partner closely with providers to ensure members are genuinely cared for.
-
-
-
-We're a team that owns our work with accountability, makes data\\-driven decisions, embraces continuous learning, and celebrates collaboration — because success is a team sport. It's our mission to be there in the moments that matter most for our members and employees. Join us in creating a community of connected care, where coordinated, quality service is the norm and every member feels valued.
-
-
-**Role Summary**
-
-We are seeking a talented and motivated Technology Engineer to join our Member Portal 2\\.0 Team.
-
-
-
-The Lead Tech Software Engineer serves as an experienced technical professional responsible for the design, implementation, support, and continuous improvement of enterprise technology solutions within assigned areas of responsibility.
-
-
-
-This role handles complex assignments with limited supervision and team autonomy, providing clear communication, interpretations, and technical guidance within their area of specialty. The engineer applies developing professional knowledge to influence functional objectives and contribute to effective team practices. With growing decision‑making authority, the position exercises creativity and sound judgment to deliver reliable, scalable solutions. This role is responsible for developing and supporting technology solutions to advance the Digital applications by using the latest technology, integrating with multiple data sources, and solving complex problems. The IT Engineer IV will work with a team of developers and interact closely with business subject matter experts to design and build solutions that help Medica members, providers and brokers do business with us using our portals.
-
-
-**Key Accountabilities**
-
-
-**Solution Design, Implementation, \\& Quality**
-
-
-* Translate business requirements into technical designs, selecting appropriate technologies and patterns
-* Develop clean, testable, secure code using modern programming languages and cloud based interfaces, using emerging AI solutions.
-* Write SQL queries using Oracle or SQL Server to access data from multiple data sources
-* Automate deployments and configuration using CI/CD pipeline tools such as Azure DevOps (ADO), GitHub, and Jenkins.
-* Validate solutions via functional tests, performance benchmarking, and post\\-implementation reviews
-
-
-**Systems Engineering \\& Operations**
-
-
-* Maintain and optimize code (front end and back\\-end, apis), and define core infrastructure needs
-* Utilize Test\\-Driven Development (TDD) to design and implement robust, high\\-quality code that ensures reliability and simplifies long\\-term maintenance.
-* Execute change management processes, including peer reviews, change records, and rollback planning.
-
-
-**Incident \\& Problem Management**
-
-* Troubleshoot production incidents to resolve within SLAs and investigate root cause to prevent reoccurrence
-* Implement monitoring and logging to assist with debugging.
-* Proactively monitor software to identify vulnerabilities before they turn into outages
-* Communicate incident status and next steps to stakeholders.
-* Track recurring issues and convert learnings into backlog items, automation, or policy updates.
-
-
-**Security, Compliance, \\& Risk Management**
-
-
-* Enforce identity, access, and endpoint controls (e.g., least privilege, MFA, certificate management).
-* Remediate security vulnerabilities through timely patching, configuration hardening, and dependency updates.
-* Support audits by maintaining evidence (e.g., asset inventories, change logs, backup and recovery tests).
-* Implement data protection and logging standards aligned to organizational policies and frameworks.
-
-
-**Documentation, Knowledge Sharing, \\& Collaboration**
-
-
-* Produce clear technical documentation: architecture diagrams, SOPs, runbooks, and comments in code.
-* Develop and expand foundational understanding and use of Artificial Intelligence/AI
-* Mentor peers and partner teams through code reviews, office hours, and knowledge sessions.
-* Provide technical guidance to product owners, stakeholders and business partners on effort, risks, and trade\\-offs.
-* Contribute to agile team rituals (standups, retros, sprint planning, demos, backlog refinement, PI planning) and drive continuous improvement.
-
-
-**Other Duties as assigned:**
-
-
-* Experience writing object\\-oriented code with java, React, and working with UI/UX designers to ensure optimal performance and accessibility.
-* Experience in cloud platforms with end to end application building
-
-
-**Required Qualifications**
-
-
-* Bachelor's degree or equivalent experience in related field
-* 5\\+ years of product related work experience beyond degree
-* Proficient with Java and React
-
-
-**Preferred Qualifications**
-
-
-* Experience converting applications from .Net to Java
-* Experience or exposure to Jireh
-* Healthcare industry experience
-* Analytical and systems thinking
-* Strong communication, negotiation, and stakeholder alignment skills
-
-
-This position is an Office role, which requires an employee to work onsite, on average, 3 days per week. We are open to candidates located near one of the following office locations: Minnetonka MN, Madison WI, Omaha NE, and St. Louis MO.
-
-
-
-The full salary grade for this position is $100,300 \\- $172,000\\. While the full salary grade is provided, the typical hiring salary range for this role is expected to be between $100,300 \\- $150,465\\. Annual salary range placement will depend on a variety of factors including, but not limited to, education, work experience, applicable certifications and/or licensure, the position's scope and responsibility, internal pay equity and external market salary data. In addition to compensation, Medica offers a generous total rewards package that includes competitive medical, dental, vision, PTO, Holidays, paid volunteer time off, 401K contributions, caregiver services and many other benefits to support our employees.
-
-
-
-The compensation and benefits information is provided as of the date of this posting. Medica’s compensation and benefits are subject to change at any time, with or without notice, subject to applicable law.
-
-
-
-We are an Equal Opportunity employer, where all qualified candidates receive consideration for employment indiscriminate of race, religion, ethnicity, national origin, citizenship, gender, gender identity, sexual orientation, age, veteran status, disability, genetic information, or any other protected characteristic.
-
-
-Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities  
-
-This employer is required to notify all applicants of their rights pursuant to federal employment laws. For further information, please review the Know Your Rights (https://www.eeoc.gov/poster) notice from the Department of Labor.","","https://www.indeed.com/cmp/Medica-Services-Company-LLC","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/9efa682c647f269dfad04fe5ea70108d","https://www.medica.com/","Headquarters
-401 Carlson Pkwy
-Minnetonka, MN 55305","1,001 to 5,000","","Medica is a non-profit health plan that serves communities in Minnesota, Iowa, Kansas, Missouri, Nebraska, North Dakota, Oklahoma, South Dakota and Wisconsin.","","","","","",""
-"in-e62880ee6e5eba74","indeed","https://www.indeed.com/viewjob?jk=e62880ee6e5eba74","https://glint-tech-solutions-llc.careers-page.com/jobs/c87a3d53-5196-40c2-8037-1dea8e230f64?utm_medium=free_job_board&utm_source=indeed","Jr. Java Software Engineer","Glint Tech Solutions","Scottsdale, AZ, US","2026-05-27","contract","","","","","",False,"","","","","Job Title: Jr. Java Software Engineer  
-
-Location: Scottsdale, AZ  
-
-Duration: Long\\-Term Contract  
-
-Clearance: Active TS/SCI Required
-
-
-Our client, a leading federal defense contractor, is seeking a Jr. Java Software Engineer to support a new Restricted Ground Systems program in Scottsdale, AZ. This is a long\\-term contract opportunity supporting mission\\-critical systems for the US Warfighter.
-
-
-Key Responsibilities:
-
-* Develop and maintain Java\\-based software applications
-* Work within an Agile development environment
-* Support RESTful interface development and enterprise software initiatives
-* Collaborate with cross\\-functional engineering teams in an AWS environment
-* Participate in software builds, testing, and deployment activities
-
-
-Required Qualifications:
-
-* Active DoD TS/SCI clearance required at time of hire
-* Bachelor's degree in Software Engineering, Computer Science, or related STEM field with 2\\+ years of experience, OR Master's degree with 6\\+ months of experience
-* Experience with Java development, Maven, VSCode, REST APIs
-* Familiarity with AWS development environments and GitLab
-* Strong problem\\-solving and teamwork skills
-* US Citizenship required due to government contract requirements
-
-
-Preferred:
-
-* Agile development experience
-* Interest in continuous improvement and emerging technologies including AI","","https://www.indeed.com/cmp/Glint-Tech-Solutions","","","","","","","","","","","",""
-"in-7006c4faf0c4f7b8","indeed","https://www.indeed.com/viewjob?jk=7006c4faf0c4f7b8","https://jobs.boeing.com/job/herndon/lead-java-software-engineer-developer/185/95652529760","Lead Java Software Engineer – Developer","Boeing","Seal Beach, CA, US","2026-05-27","","direct_data","yearly",211650.0,286350.0,"USD",False,"","","","","Herndon, Virginia; Seal Beach, California; El Segundo, California; Colorado Springs, Colorado
-
-
-Job ID JR2026512286 Category Engineering \\- Software Role Type Onsite Post Date May 27, 2026  
-
-**Job Description**
-
-
-At Boeing, we innovate and collaborate to make the world a better place. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.
-
-
-The Boeing Company is looking for a **Lead Software Engineer \\- Developer** to join the Advanced Ground Architecture team located in **Herndon, Virginia, Colorado Springs, Colorado, Seal Beach, California and El Segundo, California.**
-
-
-This position will focus on supporting the Boeing Defense, Space \\& Security (BDS) Software Engineering organization.
-
-
-The Advanced Ground Architecture (AGA) software team is dynamic group of software engineers creating the future of Ground support with the extensibility and adaptability to be used across ALL Boeing programs. The software team is executing this vision through modern software technologies (Java, ReactJS, python, CI/CD pipelines) and methodologies (Scaled Agile). AGA is looking for self\\-motivated high performers to lead and execute the large scope of Java development needed for the program's vision.
-
-
-The ideal candidates will provide Java software development leadership for the Advanced Ground Architecture program, specifically the System Planning and Scheduling team. These positions will be responsible for accelerating complex java development, shepherding peer reviews for code merge requests at a faster cycle time, providing sub system leadership on key components, mentoring early and mid career software developers in AGA to be higher performers, and assisting P6 and Chief Engineering on architecture and software system engineering duties and decisions. These responsibilities are in addition to monitoring overall cost and schedule performance to meet or exceed expectations.
-
-**Position Responsibilities:**
-
-* Oversees the design, development, test, and maintenance of non\\-embedded software throughout the end\\-to\\-end lifecycle that meets industry, customer, safety, and regulation standards
-* Oversees the review, analysis, and translation of customer requirements into initial design of software products
-* Reviews the development, maintenance, enhancement and optimization of software products and functionalities for systems integrations
-* Oversees development, documentation and maintenance of architectures, requirements, algorithms, interfaces and designs for software products
-* Oversees debugging and resolution of issues identified to ensure the reliability and efficiency of software products
-* Oversees research and implementation of current and emerging technologies, tools, frameworks and changes in regulations relevant to software development
-* Leads development, establishment, monitoring and improvement of software processes, tools and key performance metrics that align projects with organizational goals and industry benchmarks
-* Reviews planning, execution and documentation of software research and development projects
-* Consults on software domains, system\\-specific issues, processes and regulations
-* Oversees software project management activities and software supplier management functions
-* Oversees tracking and evaluation of software team and supplier performance to ensure product and process compliance to project plans and industry standards
-
-**Basic Qualifications (Required Skills/Experience):**
-
-* Bachelor’s Degree
-* Active Top Secret Security Clearance
-* Experience working with both Windows and Linux operating systems
-* 10\\+ years of experience with Java, C\\+\\+, Angular/React.js, HTML, and CSS Languages
-* 10\\+ years of experience in software configuration management tools
-* 10\\+ years of experience in developing software products in a cloud environment
-
-**Preferred Qualifications (Desired Skills/Experience):**
-
-* Bachelor of Science degree from an accredited course of study in engineering, engineering technology (includes manufacturing engineering technology), chemistry, physics, mathematics, data science, or computer science and 14\\+ years of related work experience **OR** Bachelor’s Degree and 18\\+ years of directly related work experience **OR** 22\\+ years of related, relevant experience
-* Experience with the specification format requirements, guidelines, and change control processes. Understanding of relationship between specifications/standards and aircraft/product certification systems
-* Experience with host environments, including processors, operating systems and networks. Ability to build, integrate and troubleshoot software components
-* Experience with deriving and allocating requirements (e.g., system, sub\\-system, software) and show traceability throughout the product lifecycle
-* Experience with software architecture and design methodologies. Ability to synthesize software architectures and designs that meet requirements, characteristics and constraints
-* Experience with software development processes in compliance with established internal and industry standards, guidelines, and best practices in the development, testing, and deployment of software
-* Experience with software development and testing tools, capability and usage. Examples include compilers, linkers, debuggers, data analysis tools, graphical user interface builders, post processing tools, requirements management tools, and web authoring tools
-* Experience with the implementation, validation, and verification processes, practices, and guidelines to ensure software development quality, performance, and safety
-
-**Drug Free Workplace:**
-
-
-Boeing is a Drug Free Workplace where post offer applicants and employees are subject to testing for marijuana, cocaine, opioids, amphetamines, PCP, and alcohol when criteria is met as outlined in our policies.
-
-**CodeVue Coding Challenge:**
-
-
-To be considered for this position you will be required to complete a technical assessment as part of the selection process. Failure to complete the assessment will remove you from consideration.
-
-**Pay \\& Benefits:**
-
-At Boeing, we strive to deliver a Total Rewards package that will attract, engage and retain the top talent. Elements of the Total Rewards package include competitive base pay and variable compensation opportunities.
-
-
-The Boeing Company also provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and a number of programs that provide for both paid and unpaid time away from work.
-
-
-The specific programs and options available to any given employee may vary depending on eligibility factors such as geographic location, date of hire, and the applicability of collective bargaining agreements.
-
-
-Pay is based upon candidate experience and qualifications, as well as market and business considerations.
-
-
-Summary Pay Range:
-
-
-For Virginia: $211,650 \\- $286,350
-
-
-For Colorado: $198,050 \\- $267,950
-
-
-For California: $211,650 \\- $286,350
+We are looking for talented Software Engineers with a passion for developing creative solutions spanning Space Domain Awareness, Space Battle Management Command/Control, Modeling/Simulation, Wargaming and Test/Training. If you are a team\\-oriented, full stack, Java/JavaScript software developer with a background in orbital mechanics, mathematics, gaming and optimization strategies, come join us.  
 
   
 
-
-Applications for this position will be accepted until **Jun. 11, 2026**
-
-  
-
-**Export Control Requirements:**
-
-This position must meet U.S. export control compliance requirements. To meet U.S. export control compliance requirements, a “U.S. Person” as defined by 22 C.F.R. §120\\.62 is required. “U.S. Person” includes U.S. Citizen, U.S. National, lawful permanent resident, refugee, or asylee.
-
-**Export Control Details:**
-
-US based job, US Person required
-
-**Education**
-
-Bachelor's Degree or Equivalent Required
-
-**Relocation**
-
-This position offers relocation based on candidate eligibility.
-
-**Security Clearance**
-
-This position requires an active U.S. Top Secret Security Clearance (U.S. Citizenship Required). (A U.S. Security Clearance that has been active in the past 24 months is considered active). This position requires ability to obtain program access, for which the U.S. Government requires U.S. Citizenship only.
-
-**Visa Sponsorship**
-
-Employer will not sponsor applicants for employment visa status.
-
-**Shift**
-
-This position is for 1st shift
+Our team leverages industry standard open\\-source software solutions such as GitLab, Kubernetes, Docker, and Rancher. Our automation\\-first and “everything as code” mindset allows our software engineers to focus their time and efforts on what is most important \\- building cutting edge functionality for our end users. As a Software Engineer on an Agile Scrum Team, you will have the opportunity to rapidly develop and deploy solutions for a complex space system following core engineering principles, ultimately enabling the delivery of fully functioning mission capability to end users securely and continuously.  
 
   
 
-**Equal Opportunity Employer:**
-
-
-Boeing is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.
-
-
-  
-**Your Benefits**
------------------
-
-
-No matter where you are in life, our benefits help prepare you for the present and the future.
-
-
-* Generous company match to your 401(k).
-* Industry\\-leading tuition assistance program pays your institution directly.
-* Fertility, adoption, and surrogacy benefits.
-* Up to $10,000 gift match when you support your favorite nonprofit organizations.
+You will be working side by side with extraordinarily talented and experienced engineers, while having the opportunity to lead and mentor less experienced individual  
 
   
 
-
-These programs are subject to eligibility requirements and other conditions, which may differ for employees of certain subsidiaries or business units, or union\\-represented employees depending on bargaining agreement terms. If this information conflicts with the program documents, the latter shall control. This material is informational only.","","https://www.indeed.com/cmp/Boeing","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d756d2fff42aa9586c0905e5281a25f9","https://www.boeing.com","Washington, DC","10,000+","more than $10B (USD)","Boeing is the world's largest aerospace company. We’re engineers & technicians. Innovators & dreamers. Join us, and build something better.","","","","","",""
-"in-75e00bde1e56bedb","indeed","https://www.indeed.com/viewjob?jk=75e00bde1e56bedb","https://jobs.boeing.com/job/herndon/senior-java-software-engineer-developer/185/95652529632","Senior Java Software Engineer – Developer","Boeing","Seal Beach, CA, US","2026-05-27","","direct_data","yearly",160650.0,232300.0,"USD",False,"","","","","Herndon, Virginia; Seal Beach, California; El Segundo, California; Colorado Springs, Colorado
-
-
-Job ID JR2026512252 Category Engineering \\- Software Role Type Onsite Post Date May 27, 2026  
-
-**Job Description**
-
-
-At Boeing, we innovate and collaborate to make the world a better place. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.
-
-
-The Boeing Company is looking for a **Senior Java Software Engineer – Developer** to join the Advanced Ground Architecture team located in **Herndon, Virginia, Seal Beach, California, El Segundo, California or Colorado Springs, Colorado**.
-
-
-This position will focus on supporting the Boeing Defense, Space \\& Security (BDS) Software Engineering organization.
-
-
-The Advanced Ground Architecture (AGA) software team is dynamic group of software engineers creating the future of Ground support with the extensibility and adaptability to be used across ALL Boeing programs. The software team is executing this vision through modern software technologies (Java, ReactJS, python, CI/CD pipelines) and methodologies (Scaled Agile). AGA is looking for self\\-motivated high performers to lead and execute the large scope of Java development needed for the program's vision.
-
-
-The ideal candidates will provide software engineering functions for the design, development, and maintenance of complex, multi\\-tiered application software systems used to support the command and control of space vehicles. The software engineers will work day\\-to\\-day with system and test engineers to implement, test, and document new features and improvements for both web services and applications supporting distributed computing solutions.
-
-**Position Responsibilities:**
-
-* Develops software in conjunction with agile team leadership including participation at agile events
-* Assists in the execution of DevSecOps processes to deliver software baseline on sprint boundaries.
-* Participates in PI planning as an agile team member
-* Engages with users and other engineers to determine solutions to technical issues
-* Coordinates the development, maintenance, enhancement and optimization of software products and functionalities for systems integrations
-* Leads activities to develop, document and maintain architecture, requirements, algorithms, interfaces and designs for software products
-* Debugs and leads resolution of issues identified to ensure the reliability and efficiency of software products
-* Leads handling of user inquiries, troubleshooting technical issues and user feedback analysis
-* Leads development, establishment, monitoring and improvement of software processes, tools and key performance metrics that align projects with organizational goals and industry benchmarks
-* Consults on software domains, system\\-specific issues, processes and regulations.
-* Leads the design, development, test, and maintenance of non\\-embedded software throughout the end\\-to\\-end lifecycle that meets industry, customer, safety, and regulation standards
-* Leads review, analysis, and translation of customer requirements into initial design of software products
-* Leads software project management activities and software supplier management functions
-
-**Basic Qualifications (Required Skills/Experience):**
-
-* Bachelor’s Degree
-* Active Top Secret clearance
-* Experience in both Windows and Linux operating systems
-* Experience in developing software products using Agile software development methodologies
-* 5\\+ years of proven experience with Java, C\\+\\+, Angular/ReactJS, HTML, and CSS languages
-* 5\\+ years of experience in software development and configuration management tools
-
-**Preferred Qualifications (Desired Skills/Experience):**
-
-* Bachelor of Science degree from an accredited course of study in engineering, engineering technology (includes manufacturing engineering technology), chemistry, physics, mathematics, data science, or computer science and 9\\+ years of related work experience OR Bachelor’s Degree and 13\\+ years of directly related work experience OR 17\\+ years of related, relevant experience
-* Experience with software programming languages and databases and the ability to apply to the software domain. Programming languages encompass higher order languages, auto\\-coded languages and assembly languages
-* Experience with deriving and allocating requirements (e.g., system, sub\\-system, software) and show traceability throughout the product lifecycle
-* Experience with software architecture and design methodologies. Ability to synthesize software architectures and designs that meet requirements, characteristics and constraints
-* Experience with software development processes in compliance with established internal and industry standards, guidelines, and best practices in the development, testing, and deployment of software
-* Experience with implementation, validation, and verification processes, practices, and guidelines to ensure software development quality, performance, and safety
-
-**Drug Free Workplace:**
-
-
-Boeing is a Drug Free Workplace where post offer applicants and employees are subject to testing for marijuana, cocaine, opioids, amphetamines, PCP, and alcohol when criteria is met as outlined in our policies.
-
-**CodeVue Coding Challenge:**
-
-
-To be considered for this position you will be required to complete a technical assessment as part of the selection process. Failure to complete the assessment will remove you from consideration.
-
-**Pay \\& Benefits:**
-
-At Boeing, we strive to deliver a Total Rewards package that will attract, engage and retain the top talent. Elements of the Total Rewards package include competitive base pay and variable compensation opportunities.
-
-
-The Boeing Company also provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and a number of programs that provide for both paid and unpaid time away from work.
-
-
-The specific programs and options available to any given employee may vary depending on eligibility factors such as geographic location, date of hire, and the applicability of collective bargaining agreements.
-
-
-Pay is based upon candidate experience and qualifications, as well as market and business considerations.
-
-
-Summary Pay Range:
-
-
-Virginia: $171,700 \\- $232,300
-
-
-California: $171,700 \\- $232,300
-
-
-Colorado: $160,650 \\- $217,350
+**Summary of Key Duties for this position:**
 
   
 
+  
 
-Applications for this position will be accepted until **Jun. 11, 2026**
+* Performance of all phases of software development (user interface and software services) including design, implementation, integration, testing and verification
 
   
 
-**Export Control Requirements:**
-
-This position must meet U.S. export control compliance requirements. To meet U.S. export control compliance requirements, a “U.S. Person” as defined by 22 C.F.R. §120\\.62 is required. “U.S. Person” includes U.S. Citizen, U.S. National, lawful permanent resident, refugee, or asylee.
-
-**Export Control Details:**
-
-US based job, US Person required
-
-**Education**
-
-Bachelor's Degree or Equivalent Required
-
-**Relocation**
-
-This position offers relocation based on candidate eligibility.
-
-**Security Clearance**
-
-This position requires an active U.S. Top Secret Security Clearance (U.S. Citizenship Required). (A U.S. Security Clearance that has been active in the past 24 months is considered active). This position requires ability to obtain program access, for which the U.S. Government requires U.S. Citizenship only.
-
-**Visa Sponsorship**
-
-Employer will not sponsor applicants for employment visa status.
-
-**Shift**
-
-This position is for 1st shift
+* Developing services that solve optimization problems (dynamic programming, non\\-linear optimization, over\\-constrained planning, etc. )
 
   
 
-**Equal Opportunity Employer:**
-
-
-Boeing is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.
-
-
-  
-**Your Benefits**
------------------
-
-
-No matter where you are in life, our benefits help prepare you for the present and the future.
-
-
-* Generous company match to your 401(k).
-* Industry\\-leading tuition assistance program pays your institution directly.
-* Fertility, adoption, and surrogacy benefits.
-* Up to $10,000 gift match when you support your favorite nonprofit organizations.
+* Dynamically optimizing both terrestrial and space\\-based systems to support prioritized mission needs
 
   
 
-
-These programs are subject to eligibility requirements and other conditions, which may differ for employees of certain subsidiaries or business units, or union\\-represented employees depending on bargaining agreement terms. If this information conflicts with the program documents, the latter shall control. This material is informational only.","","https://www.indeed.com/cmp/Boeing","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d756d2fff42aa9586c0905e5281a25f9","https://www.boeing.com","Washington, DC","10,000+","more than $10B (USD)","Boeing is the world's largest aerospace company. We’re engineers & technicians. Innovators & dreamers. Join us, and build something better.","","","","","",""
-"in-4ac955889aa47a55","indeed","https://www.indeed.com/viewjob?jk=4ac955889aa47a55","https://jobs.boeing.com/job/herndon/java-software-engineer-developer-experienced-and-senior/185/95652529728","Java Software Engineer – Developer (Experienced and Senior)","Boeing","Seal Beach, CA, US","2026-05-27","","direct_data","yearly",135150.0,232400.0,"USD",False,"","","","","Herndon, Virginia; Seal Beach, California; Mesa, Arizona
-
-
-Job ID JR2026512278 Category Security Clearance Role Type Onsite Post Date May 27, 2026  
-
-**Job Description**
-
-
-At Boeing, we innovate and collaborate to make the world a better place. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.
-
-
-The Boeing Company is currently seeking **Java Software Engineers – Developer (Experienced and Senior)** to support our Advanced Ground Architecture team located in **Herndon, Virginia, Mesa, Arizona, and Seal Beach, California.**
-
-
-This position will focus on supporting the Boeing Defense, Space \\& Security (BDS) Software Engineering organization.
-
-
-The Advanced Ground Architecture (AGA) software team is a dynamic group of software engineers creating the future of Ground support with the extensibility and adaptability to be used across ALL Boeing programs. The software team is executing this vision through modern software technologies (Java, ReactJS, python, CI/CD pipelines) and methodologies (Scaled Agile). AGA is looking for self\\-motivated high performers to execute the large scope of Java development needed for the program's vision.
-
-
-The ideal candidates will provide software engineering functions for the design, development, and maintenance of complex, multi\\-tiered application software systems used to support the command and control of space vehicles. The software engineers will work day\\-to\\-day with system and test engineers in order to implement, test, and document new features and improvements for both web services and applications supporting distributed computing solutions.
-
-**Position Responsibilities:**
-
-* Designs, develops, tests, and maintains software in an Agile execution that meets industry, customer, safety, and regulation standards throughout the end\\-to\\-end lifecycle
-* Reviews, analyzes, and translates customer requirements into initial design and software products
-* Develops, maintains, and enhances software products \\& features for system integrations
-* Documents and maintains architectures, requirements, algorithms, interfaces, and designs for software products
-* Debugs and resolves issues identified to ensure the reliability and efficiency of software products
-* Interfaces with the user community to troubleshoot technical issues, seek user feedback, and develop future design concepts
-* Implements current and emerging technologies, tools, frameworks and changes in regulations relevant to software development
-* Develops, establishes, monitors, and improves software processes, tools, and key performance metrics that align projects with organizational goals and industry benchmarks
-* Advises on software domains, system\\-specific issues, processes, and regulations
-
-**Basic Qualifications (Required Skills/Experience):**
-
-* Bachelor’s Degree
-* Active U.S. Top Secret Security Clearance
-* Experience in both Windows and Linux operating systems
-* 3\\+ years of experience with Java, C\\+\\+, Angular/React.js, HTML, and CSS Languages
-* 3\\+ years of experience in software development and configuration management tools
-* 3\\+ years of experience developing software products in a cloud environment
-* 2\\+ years of experience with Agile methodologies
-
-**Preferred Qualifications (Desired Skills/Experience):**
-
-* 9 or more years' related work experience or an equivalent combination of education and experience
-* 5\\+ years of experience in Java, React
-* 5\\+ years of experience in Window, Linux, and AWS environments
-* 5\\+ years of experience in Windows\\-based IDEs, Linux\\-based IDEs, Maven, Git, Gitlab
-* 2\\+ years of experience using Agile methodologies and Atlassian tools (Jira, Confluence, BitBucket)
-* 2\\+ years of experience writing unit tests (Junit/Mockito Testing)
-* 2\\+ years of experience with Spring Boot, NoSQL Databases (specifically MongoDB), REST API integration, and Kubernetes with Helm
-* Experience implementing algorithms involving orbital mechanics, coordinate transforms, etc.
-* Experience working with distributed teams
-
-**Drug Free Workplace:**
-
-
-Boeing is a Drug Free Workplace where post offer applicants and employees are subject to testing for marijuana, cocaine, opioids, amphetamines, PCP, and alcohol when criteria is met as outlined in our policies.
-
-**CodeVue Coding Challenge:**
-
-
-To be considered for this position you will be required to complete a technical assessment as part of the selection process. Failure to complete the assessment will remove you from consideration.
-
-**Pay \\& Benefits:**
-
-At Boeing, we strive to deliver a Total Rewards package that will attract, engage and retain the top talent. Elements of the Total Rewards package include competitive base pay and variable compensation opportunities.
-
-
-The Boeing Company also provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and a number of programs that provide for both paid and unpaid time away from work.
-
-
-The specific programs and options available to any given employee may vary depending on eligibility factors such as geographic location, date of hire, and the applicability of collective bargaining agreements.
-
-
-Pay is based upon candidate experience and qualifications, as well as market and business considerations.
-
-
-Summary Pay Range for Experienced Level (Level 3\\):
-
-
-Herndon, Virginia and Seal Beach, California: $135,150 \\- $182,850
-
-
-Mesa, Arizona: $126,650 \\- $171,350
-
-
-Summary Pay Range for Senior Level (Level 4\\):
-
-
-Herndon, Virginia and Seal Beach, California: $171,700 \\- $232,400
-
-
-Mesa, Arizona: $160,650 \\- $217,350
+* Work collaboratively in small, fast paced agile teams, focused on product delivery to program customers
 
   
 
-
-Applications for this position will be accepted until **Jun. 11, 2026**
-
-  
-
-**Export Control Requirements:**
-
-This position must meet U.S. export control compliance requirements. To meet U.S. export control compliance requirements, a “U.S. Person” as defined by 22 C.F.R. §120\\.62 is required. “U.S. Person” includes U.S. Citizen, U.S. National, lawful permanent resident, refugee, or asylee.
-
-**Export Control Details:**
-
-US based job, US Person required
-
-**Education**
-
-Bachelor's Degree or Equivalent Required
-
-**Relocation**
-
-This position offers relocation based on candidate eligibility.
-
-**Security Clearance**
-
-This position requires an active U.S. Top Secret Security Clearance (U.S. Citizenship Required). (A U.S. Security Clearance that has been active in the past 24 months is considered active). This position requires ability to obtain program access, for which the U.S. Government requires U.S. Citizenship only.
-
-**Visa Sponsorship**
-
-Employer will not sponsor applicants for employment visa status.
-
-**Shift**
-
-This position is for 1st shift
+This position will sit in King of Prussia, PA.  
 
   
 
-**Equal Opportunity Employer:**
+King of Prussia, PA  
 
-
-Boeing is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.
-
-
-  
-**Your Benefits**
------------------
-
-
-No matter where you are in life, our benefits help prepare you for the present and the future.
-
-
-* Generous company match to your 401(k).
-* Industry\\-leading tuition assistance program pays your institution directly.
-* Fertility, adoption, and surrogacy benefits.
-* Up to $10,000 gift match when you support your favorite nonprofit organizations.
+**Basic Qualifications:**
 
   
 
-
-These programs are subject to eligibility requirements and other conditions, which may differ for employees of certain subsidiaries or business units, or union\\-represented employees depending on bargaining agreement terms. If this information conflicts with the program documents, the latter shall control. This material is informational only.","","https://www.indeed.com/cmp/Boeing","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d756d2fff42aa9586c0905e5281a25f9","https://www.boeing.com","Washington, DC","10,000+","more than $10B (USD)","Boeing is the world's largest aerospace company. We’re engineers & technicians. Innovators & dreamers. Join us, and build something better.","","","","","",""
-"in-7f9789880d3754c5","indeed","https://www.indeed.com/viewjob?jk=7f9789880d3754c5","https://careers.zoom.us/jobs/software-engineer-java-seattle-washington-united-states","Software Engineer - Java","Zoom Communications","Seattle, WA, US","2026-05-27","fulltime","direct_data","yearly",166170.0,228700.0,"USD",True,"","","","","* Seattle, Washington, United States
-* Full time
-
-  
-Immigration sponsorship is not available for this position**Responsibilities:**
-
-* Work closely with cross‐functional teams to design, implement, and deliver customer facing software solutions including integrations with 3rd party products;
-* Build features that address Zoom's security, trust and safety requirements like Spam, ATO;
-* Ensure software feature quality and reliability through code reviews as well as manual and automated testing and application security;
-* Drive cloud‐based solutions and deployment strategies to optimize service performance and ensure product stability using Cloud Platform on AWS infrastructure;
-* Contribute to improving system architecture for cloud development and operational support through system analysis and new/improved tooling;
-* Utilize cloud infrastructure technologies used in full stack development such as AWS, DynamoDB, Cloud development/Microservices Architecture;
-* Utilize Java, Springboot, Javascript Framework, Object oriented design, and application/system troubleshooting;
-* Collaborate with offshore teams, track tasks using ticket management software and communicate status regularly; and
-* Triage critical customer issues and provide technical guidance for customer engagement.
-
-**What we're looking for:**
-
-
-Requires a Master’s degree in Computer Science, Information, a related field, or a foreign degree equivalent. Must have 2 years of experience in job offered or related occupation. Must have 2 years of experience in the following:
-
-* Experience in Java programming language for building enterprise applications, features and web services used to secure platforms;
-* Experience with designing, developing, and maintaining cloud\\-native applications, RESTful APIs and microservices using Java and Spring framework for building scalable and resilient services that power Trust and Safety features;
-* Experience designing and implementing data models for NoSQL databases for storing and retrieving large volumes of event data, user behavior patterns with high throughput and low latency to support abuse detections and preventions in Trust and Safety domain;
-* Experience with relational databases and SQL for designing and implementing robust data schemas, optimizing complex queries, and managing data that supports user data, policy \\& compliance reporting capabilities within Trust and Safety infrastructure;
-* Hands on experience using AWS platform, DynamoDB and S3 for building and maintaining high performance, scalable infrastructure for storing large volumes of security event data, implementing efficient data access patterns to support Trust and Safety operations;
-* Experience with docker and CI/CD tools for containerizing applications, automating build, test, and deployment processes, and ensuring consistent delivery of features across environments; and
-* Experience using source code tools such as Git for version control, collaborative development, and maintaining code integrity across distributed teams.
-* Telecommuting work arrangement permitted: position may work in various unanticipated locations throughout the U.S. Position does not require domestic or international travel.
-
-
-Zoom Communications, Inc.  
-
-\\#LI\\-DNI  
-
-\\#Ind0
-
- **Salary Range or On Target Earnings:**
-
-
-Minimum:
-
-
-$166,170\\.00
-Maximum:
-
-
-$228,700\\.00
-In addition to the base salary and/or OTE listed Zoom has a Total Direct Compensation philosophy that takes into consideration; base salary, bonus and equity value.
-
-
-Note: Starting pay will be based on a number of factors and commensurate with qualifications \\& experience.
-
-
-We also have a location based compensation structure; there may be a different range for candidates in this and other locations.
-
-**Ways of Working**  
-
-Our structured hybrid approach is centered around our offices and remote work environments. The work style of each role, Hybrid, Remote, or In\\-Person is indicated in the job description/posting.
-
-**Benefits**  
-
-As part of our award\\-winning workplace culture and commitment to delivering happiness, our benefits program offers a variety of perks, benefits, and options to help employees maintain their physical, mental, emotional, and financial health; support work\\-life balance; and contribute to their community in meaningful ways.
-
-**About Us**  
-
-Zoomies help people stay connected so they can get more done together. We set out to build the best collaboration platform for the enterprise, and today help people communicate better with products like Zoom Contact Center, Zoom Phone, Zoom Events, Zoom Apps, Zoom Rooms, and Zoom Webinars.  
-
-We’re problem\\-solvers, working at a fast pace to design solutions with our customers and users in mind. Find room to grow with opportunities to stretch your skills and advance your career in a collaborative, growth\\-focused environment.
-
- **Our Commitment**
-
-At Zoom, we believe great work happens when people feel supported and empowered. We’re committed to fair hiring practices that ensure every candidate is evaluated based on skills, experience, and potential. If you require an accommodation during the hiring process, let us know—we’re here to support you at every step.
-
-
-We welcome people of different backgrounds, experiences, abilities and perspectives including qualified applicants with arrest and conviction records and any qualified applicants requiring reasonable accommodations in accordance with the law.
-
-
-If you need assistance navigating the interview process due to a medical disability, please submit an Accommodations Request Form and someone from our team will reach out soon. This form is solely for applicants who require an accommodation due to a qualifying medical disability. Non\\-accommodation\\-related requests, such as application follow\\-ups or technical issues, will not be addressed.
-
-
-Think of this opportunity as a marathon, not a sprint! We're building a strong team at Zoom, and we're looking for talented individuals to join us for the long haul. No need to rush your application – take your time to ensure it's a good fit for your career goals. We continuously review applications, so submit yours whenever you're ready to take the next step.
-
-
-Our interviews are supported by BrightHire, a tool that helps us create a consistent and thoughtful interview experience and may include recordings. Please refer to our candidate privacy statement for more information of how we use your data.","","https://www.indeed.com/cmp/Zoom-Communications-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f041857767ebf52fa28bcbf0e430e38c","https://zoom.us/","San Jose, CA","5,001 to 10,000","$1B to $5B (USD)","Zoomies help the world connect — and deliver happiness while doing it.","","","","","",""
-"in-6992298841b7c53d","indeed","https://www.indeed.com/viewjob?jk=6992298841b7c53d","https://jobs.lever.co/synergyecp/c17b2161-db09-4d0e-ab0f-a730e2b6226b?lever-source=Indeed","Senior Java Software Engineer","Synergy ECP","Columbia, MD, US","2026-05-27","fulltime","direct_data","yearly",160000.0,250000.0,"USD",False,"","","","","Founded in 2007 and headquartered in Columbia, Maryland, Synergy ECP is a leading provider of cybersecurity, software and systems engineering and IT services to the U.S. intelligence and defense communities. The company leverages its expertise in data transport solutions, software and systems engineering, and other solutions to deliver critical and innovative capabilities to high\\-level decision makers that enhance our nation’s security.  
-
-In an ultra\\-competitive environment, Synergy ECP has thrived by adhering to our name, making sure excellence is displayed by our Employees, to our Customers and by Improving Performance (ECP). It’s what sets us apart, enabling us to be an autonomous yet agile business that delivers huge results—showing we’re ready to meet our customers’ evolving demands. Synergy ECP has earned a client list that includes numerous Fortune 100 companies, in addition to multiple branches of the US government and military services.  
-
-### **Software Engineer – Java \\& Linux**
-
-
-
-We are seeking an experienced **Software Engineer** with strong expertise in **Java development and Linux environments** to support enterprise\\-grade, high\\-performance applications in distributed computing environments.
-
-
-#### **Required Qualifications:**
-
-
-* Strong experience with **enterprise/server\\-side Java development**
-* Experience with the **Spring Framework** and **Dependency Injection**
-* Experience developing applications in **high\\-performance, multi\\-threaded, distributed computing environments**
-* Strong proficiency working in **Linux\\-based development environments**
-* Experience using:
-	+ Git
-	+ Maven
-	+ Gradle
-
-#### **Desired Qualifications:**
-
-
-* Experience developing analytics using:
-	+ Apache Hadoop
-	+ HDFS
-	+ MapReduce
-* Experience designing and developing applications with:
-	+ Apache Accumulo
-	+ Similar NoSQL databases
-* Experience processing:
-	+ Large datasets
-	+ High\\-volume data ingest pipelines
-* Experience monitoring, maintaining, and troubleshooting:
-	+ Apache Accumulo
-	+ Apache Hadoop
-	+ Apache Zookeeper deployments
-
-**Experience Required:**
-8\\+ years with a technical degree
-12\\+ years without a technical degree
-
-**CLEARANCE REQUIRED:**
-
-TS/SCI w/ Polygraph
-
-**Other Requirements:**
-
-U.S. Citizenship
-
-**Compensation Spotlight:**
-
-For this role, our typical salary range starts at $160,000 and stretches up to $250,000\\. But here's the deal – we're not about capping your potential. We're committed to snapping up the best and brightest, and we're ready to put our money where our mouth is. So, if you're one of the rare exceptions to the status quo with the education, experience, and that extra something special, we're not afraid to go above and beyond to secure your talent. Because for us, it's not just about a salary. It's about the complete rewards package, the culture, and the opportunity to make a real impact.
-**Taking Care of the People Who Take Care of The Nation**  
-
-Compensation: We offer highly competitive compensation that is consistently recognized by our employees as being generous!  
-
-Health \\& Retirement: We offer a comprehensive Health Benefits package and 401K Retirement plan so you can take care of yourself and your family... both now and in the future. Other health\\-related benefits include People Partners who will help you navigate both personal and professional worlds, as well as strong wellness related resources offered through our healthcare provider.  
+* Extensive experience in Java and/or JavaScript.
 
   
 
-Education: Individual growth is a priority at Synergy ECP. Employees are encouraged to take advantage of our company\\-sponsored continuing education program so they can get their degree or that next certification needed to propel them towards the next level. Not sure what's best for your career plans, we'll help you navigate it all!  
-
-Work/Life Balance: A healthy work/life balance is essential for building and executing your work effectively at Synergy ECP, but it’s also necessary to allow you the room to pursue everything you want to develop in your personal life. We offer a generous Paid Time Off benefit and 11 paid holidays a year. Synergy ECP also provides flexible work options that work with your schedule and lifestyle.  
-
-Philanthropy: With the help of our amazing employees, Synergy ECP participates annually in building awareness, volunteering and contributing to dozens of organizations. We believe that giving back creates a sense of purpose, engagement, and fulfillment. Have a cause you are passionate about? We bet you'll find others here that care about it just as much!  
-
-Great Corporate Facilities: Come by our corporate office and enjoy a weekly happy hour, take a drive to nearby restaurants, grab a snack or coffee in our café, or utilize our collaborative office space and conference rooms.  
-
-SkillBridge: Our SkillBridge Program takes the incredible experience our servicemembers already have and shows them how to apply it within corporate environments. We are fanatical about helping our Military!  
+* Experience with application containerization (Kubernetes, Helm, Docker, Containerd) in a cloud environment (AWS, Azure, OpenStack, OpenShift)
 
   
 
-Synergy ECP is committed to providing equal employment opportunities to all qualified individuals. Employment decisions are based on merit, qualifications, and business needs. We do not discriminate on the basis of race, color, sex, national origin, religion, age, disability, or any other status protected by applicable law.  
-
-We welcome candidates from all backgrounds and are dedicated to maintaining a professional and respectful workplace where every employee can succeed.","","https://www.indeed.com/cmp/Synergy-Ecp","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8bfd7c0e481f5441d5188a8f29b5384c","","","","","","","","","","",""
-"in-0373a43034b66206","indeed","https://www.indeed.com/viewjob?jk=0373a43034b66206","https://click.appcast.io/t/hygccxDHcoP_XrWCKXTG22MSX-b_cHs0cukshyqdegA=","Staff Software Engineer - Java [Hybrid]","GEICO","Seattle, WA, US","2026-05-27","fulltime","direct_data","yearly",115000.0,230000.0,"USD",False,"","","","","**At GEICO, we offer a rewarding career where your ambitions are met with endless possibilities.**
-
-**Every day we honor our iconic brand by offering quality coverage to millions of customers and being there when they need us most. We thrive through relentless innovation to exceed our customers’ expectations while making a real impact for our company through our shared purpose.**
-
-**When you join our company, we want you to feel valued, supported and proud to work here. That’s why we offer The GEICO Pledge: Great Company, Great Culture, Great Rewards and Great Careers.**
-
-
-Position Description
-
-
-Our Staff Engineer is an influential technical leader and key member of the engineering staff working across the organization to provide a friction\\-less experience to our customers and maintain the highest standards of protection and availability. Our team thrives and succeeds in delivering high\\-quality technology products and services in a hyper\\-growth environment where priorities shift quickly. The ideal candidate has broad and deep technical knowledge, typically ranging from front\\-end UIs through back\\-end systems and all points in between, and demonstrates a proactive, critical thinking approach to complex problem\\-solving and driving technological advancement.
-
-
-\\-
-
-**Position Responsibilities**
-
-**As a Staff Engineer, you will:**
-
-* Provide influential technical leadership and guidance to engineering teams.
-* Own complete solution across its entire life cycle.
-* Proactively influence and collaboratively build vision with product managers, principal engineers, architects, team members, and customers to solve complex enterprise\\-class problems, demonstrating clear, concise communication and active listening.
-* Be accountable for the quality, usability, and performance of the solutions.
-* Lead impactful architectural design discussions and contribute to elevating the quality of engineering through active participation in peer review requests across the organization.
-* Utilize programming languages like Java, and open\\-source frameworks (e.g., Spring Boot), Container Orchestration services including Docker and Kubernetes, Kafka, and a variety of Azure tools and services including Azure Boards and Azure AppInsights, alongside cloud data platforms like Snowflake.
-* Mentor more junior team members professionally to help them realize their full potential.
-* Consistently share best practices and drive improvements within and across teams, fostering curiosity and innovation to advance our technology and processes.
-* Drive digital transformation initiatives, including modernizing and migrating legacy applications.
-
-**Qualifications**
-
-* Fluency and Specialization with Java and at least one other modern language (e.g., C\\+\\+, C\\#) including object\\-oriented design.
-* Demonstrated ability to communicate complex technical concepts clearly, concisely, and directly, both verbally and in writing.
-* Proven ability to provide independent technical leadership and mentor engineers with significant depth.
-* Deep architectural maturity, capable of fostering and driving broader organizational influence through technical vision.
-* Expertise in complex problem\\-solving autonomy, particularly in troubleshooting critical production issues and devising creative, scalable technical solutions.
-* Experience in building products using microservices\\-oriented architecture and extensible REST APIs.
-* Experience building the architecture and design (architecture, design patterns, reliability, and scaling) of new and current systems, with a proven ability to think strategically and take a holistic, cross\\-domain view on system design.
-* Extensive experience collaborating with architects and other technical leaders to shape engineering strategy and solutions.
-* Fluency in DevOps Concepts, Cloud Architecture, and Azure DevOps Operational Framework, including continuous delivery and infrastructure as code.
-* Experience with various operational tools and platforms, including Azure Portal, Azure Boards, and SonarQube.
-* Familiarity with and experience applying Agile/Scrum methodologies.
-* Strong understanding and practical experience with application monitoring, performance assessments, and observability practices, leveraging tools such as Azure AppInsights, Datadog, New Relic, Dynatrace, or Splunk.
-* In\\-depth understanding of cloud infrastructure concepts and offerings, particularly within the Azure platform and its native services.
-* Experience in security protocols and products: Understanding of Active Directory, Windows Authentication, SAML, and other secure authentication/authorization mechanisms.
-* In\\-depth knowledge of computer science data structures and algorithms.
-* Ability to excel in a fast\\-paced, startup\\-like environment.
-* Knowledge of developer tooling across the software development life cycle (task management, source code, building, deployment, operations, real\\-time communication), including familiarity with tools like webhook, Kafka, API Curio, Snowflake, and IBM FileNet P8\\.
-* Demonstrated experience driving digital transformation, including successfully migrating or modernizing complex legacy applications.
-
-**Experience**
-
-* 12\\+ years of professional software development experience, with significant, demonstrable impact in a lead or principal engineering capacity, primarily within a Java (e.g., Spring Boot) framework.
-* 5\\+ years of experience in architectural design and leading significant system initiatives, including collaboration with cross\\-functional technical leadership.
-* 4\\+ years of experience in open\\-source frameworks.
-* 3\\+ years of experience with AWS, GCP, Azure, or another cloud service.
-
-**Education**
-
-* Bachelor’s degree in Computer Science, Information Systems, or equivalent education or work experience
-
-
-\\#LI\\-JK1
-
- **Annual Salary**
-
-
-$115,000\\.00 \\- $230,000\\.00
-The above annual salary range is a general guideline. Multiple factors are taken into consideration to arrive at the final hourly rate/ annual salary to be offered to the selected candidate. Factors include, but are not limited to, the scope and responsibilities of the role, the selected candidate’s work experience, education and training, the work location as well as market and business considerations.
+* Experience working in an Agile development environment, using tools such as JIRA and Confluence
 
   
 
+* Experience with CI/CD \\- Deployment pipelines, automated build, and configuration tools (Gitlab, ArgoCD)
 
-GEICO will consider sponsoring a new qualified applicant for employment authorization for this position. **The GEICO Pledge:**
+  
 
-**Great Company:** At GEICO, we help our customers through life’s twists and turns. Our mission is to protect people when they need it most and we’re constantly evolving to stay ahead of their needs.
+* Must be a US Citizen and eligible to obtain TS/SCI clearances.
+
+**Desired Skills:**
+
+  
+
+* Bachelors degree from an accredited college in a related discipline, such as Math, Physics, Aerospace Engineering, Systems Engineering, Software Engineering or other engineering disciplines
+
+  
+
+* Familiarity with the Space Domain
+
+  
+
+* Knowledge of Orbital dynamics and Astro Standards math libraries
+
+  
+
+* Experience designing and implementing algorithms
+
+  
+
+* Experience working as a member of an Agile Scrum or Kanban team
+
+  
+
+To promote the sharing of ideas, Lockheed Martin fosters a work environment that encourages big\\-picture thinking. Our employees play an active role in strengthening the quality of life where we live and work by volunteering more than 850,000 hours annually.
+  
+
+  
+
+**Benefits you can enjoy include:**
+
+  
+
+  
+
+* Medical {many choices of plans; some LM locations have on\\-site medical}
+* Dental
+* 401k {with generous matching}
+* Generous Paid time off
+* Work/life balance, family\\-friendly environment
+* Career development, career\\-growth, and lots of learning opportunities for aspiring minds
+* Fun, talented, and witty teammates
+* Knowledgeable, supportive, and engaged leadership
+* Community\\-minded organization
+* Mentorship opportunities
+* Rewards \\& recognition
+* Generous Tuition Reimbursement
+
+  
+
+  
+
+  
+
+We are committed to enabling transitioning veterans to connect with their communities and find new purpose as they reintegrate into civilian life. By clicking on the link, you can find out more on how we proudly support Hiring Our Heroes.  
+
+  
+
+\\#SpaceSBD  
+
+**Security Clearance Statement:**
+
+This position requires a government security clearance, you must be a US Citizen for consideration.  
+
+**Clearance Level:**
+
+TS/SCI  
+
+**Other Important Information You Should Know**
+
+  
+
+**Expression of Interest:**
+
+By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.  
+
+**Ability to Work Remotely:**
+
+Onsite Full\\-time: The work associated with this position will be performed onsite at a designated Lockheed Martin facility.  
+
+**Work Schedules:**
+
+Lockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.  
+
+**Schedule for this Position:**
+
+9x80 every other Friday off  
+
+**Lockheed Martin is an equal opportunity employer. Qualified candidates will be considered without regard to legally protected characteristics.**  
+
+**The application window will close in 90 days; applicants are encouraged to apply within 5 \\- 30 days of the requisition posting date in order to receive optimal consideration.**  
+
+At Lockheed Martin, we use our passion for purposeful innovation to help keep people safe and solve the world's most complex challenges. Our people are some of the greatest minds in the industry and truly make Lockheed Martin a great place to work.
+  
+
+  
+
+With our employees as our priority, we provide diverse career opportunities designed to propel, develop, and boost agility. Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work. We place an emphasis on empowering our employees by fostering an inclusive environment built upon integrity and corporate responsibility.  
+
+  
+
+If this sounds like a culture you connect with, you’re invited to apply for this role. Or, if you are unsure whether your experience aligns with the requirements of this position, we encourage you to search on Lockheed Martin Jobs, and apply for roles that align with your qualifications.  
+
+**Experience Level:**
+
+Experienced Professional  
+
+**Business Unit:**
+
+SPACE  
+
+**Relocation Available:**
+
+Possible  
+
+**Career Area:**
+
+Software Engineering  
+
+**Type:**
+
+Full\\-Time  
+
+**Shift:**
+
+First
+  
+At Lockheed Martin, we apply our passion for purposeful innovation to keep people safe and solve the world's most complex challenges.
 
 
-We’re an iconic brand that thrives on innovation, exceeding our customers’ expectations and enabling our collective success. From day one, you’ll take on exciting challenges that help you grow and collaborate with dynamic teams who want to make a positive impact on people’s lives.
-
-**Great Careers:** We offer a career where you can learn, grow, and thrive through personalized development programs, created with your career – and your potential – in mind. You’ll have access to industry leading training, certification assistance, career mentorship and coaching with supportive leaders at all levels.
-
-**Great Culture:** We foster an inclusive culture of shared success, rooted in integrity, a bias for action and a winning mindset. Grounded by our core values, we have an an established culture of caring, inclusion, and belonging, that values different perspectives. Our teams are led by dynamic, multi\\-faceted teams led by supportive leaders, driven by performance excellence and unified under a shared purpose.
+**Pioneering Defense Technology:** From aerospace to outer space to cyber space, you can innovate mission solutions alongside the best minds in the business.
 
 
-As part of our culture, we also offer employee engagement and recognition programs that reward the positive impact our work makes on the lives of our customers.
-
-**Great Rewards:** We offer compensation and benefits built to enhance your physical well\\-being, mental and emotional health and financial future.
-
-* Comprehensive Total Rewards program that offers personalized coverage tailor\\-made for you and your family’s overall well\\-being.
-* Financial benefits including market\\-competitive compensation; a 401K savings plan vested from day one that offers a 6% match; performance and recognition\\-based incentives; and tuition assistance.
-* Access to additional benefits like mental healthcare as well as fertility and adoption assistance.
-* Supports flexibility\\- We provide workplace flexibility as well as our GEICO Flex program, which offers the ability to work from anywhere in the US for up to four weeks per year.
+**United By Culture:** Excellence, integrity, and collaboration define us. We accelerate change and embrace one another’s perspectives to win for our customers.
 
 
-The equal employment opportunity policy of the GEICO Companies provides for a fair and equal employment opportunity for all associates and job applicants regardless of race, color, religious creed, national origin, ancestry, age, gender, pregnancy, sexual orientation, gender identity, marital status, familial status, disability or genetic information, in compliance with applicable federal, state and local law. GEICO hires and promotes individuals solely on the basis of their qualifications for the job to be filled.
+**Real Impact, Real Growth:** Grow your career and skills for life. Our wide array of opportunities and technology\\-driven learning programs enable your development and agility.
 
 
-GEICO reasonably accommodates qualified individuals with disabilities to enable them to receive equal employment opportunity and/or perform the essential functions of the job, unless the accommodation would impose an undue hardship to the Company. This applies to all applicants and associates. GEICO also provides a work environment in which each associate is able to be productive and work to the best of their ability. We do not condone or tolerate an atmosphere of intimidation or harassment. We expect and require the cooperation of all associates in maintaining an atmosphere free from discrimination and harassment with mutual respect by and for all associates and applicants.","","https://www.indeed.com/cmp/Geico","","https://www.geico.com/careers/","","10,000+","Decline to state","At GEICO, we offer a rewarding career where your ambitions are met with endless possibilities.","","","","","",""
+**Your Health, Your Wealth, Your Life:** Competitive pay, comprehensive benefits and flexible schedules designed so you thrive — at work and beyond.
+
+
+**Empowered to Be Your Best:** Use your strengths to make a difference in the lives of one another, our customers, our communities, and our planet.
+
+
+Here, the possibilities are endless because we offer:
+
+
+Flexible Schedules, dependent on role
+Levels: Student, Entry, Mid, Senior, Management
+Locations: Nationwide \\& OCONUS Positions","","https://www.indeed.com/cmp/Lockheed-Martin","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/debbff68624041821d0c56fbccbcc330","https://www.lockheedmartin.com","Bethesda, MD","10,000+","more than $10B (USD)","Lockheed Martin Canada: #1 Defence Company in 2020 With a rich history supporting collective success across Canadian industry, Lockheed Martin Canada continues to grow this positive impact as Canada’","","","","","",""
+"in-80f2d4cc8d5ebe0f","indeed","https://www.indeed.com/viewjob?jk=80f2d4cc8d5ebe0f","https://careers-healthedge.icims.com/jobs/7570/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Senior Software Engineer","HealthEdge","Remote, US","2026-04-03","fulltime","direct_data","yearly",130000.0,165000.0,"USD",True,"","","","","Overview:
+**Position Overview:**  
+
+HealthEdge is seeking a Senior Software Engineer (Java) with a strong technical background, a passion for solving complex business problems, and a focus on delivering enterprise\\-grade solutions. As a senior member of the team, you will lead solution design, develop high\\-quality code, drive deployments, and mentor junior engineers. You will play a pivotal role in integrating our HealthRules software suite with client systems, optimizing workflows, and implementing AI\\-driven solutions where appropriate.  
+
+This role is highly technical and requires hands\\-on experience with Java/J2EE, integration frameworks, testing, deployment pipelines, and enterprise systems. You will also guide technical discussions, code reviews, and ensure high\\-quality delivery across the team. **About the Technology Team:**  
+
+Our Technology Team is a dynamic group of innovators reshaping the future of healthcare technology. This team thrives on collaboration, bringing together top talent from diverse backgrounds to create scalable, secure, and cutting\\-edge platforms. With expertise in cloud infrastructure, AI, and user experience design, they enable transformation for healthcare health plan solutions. Beyond technical excellence, the HealthEdge Technology Team is passionate about empowering clients. They prioritize transparency, thoughtful resource allocation, and a commitment to seamless experiences. Guided by visionary leadership and a deep enthusiasm for innovation, this group is redefining what’s possible in healthcare technology. **Your Impact:**  
+
+* Design, develop, and deploy scalable, enterprise\\-grade Java applications, leveraging SOA, EAI, and microservices architectures.
+* Lead solution architecture discussions, design whiteboarding, and technical planning sessions.
+* Mentor junior engineers and lead peer code reviews, enforcing best practices for maintainable and high\\-quality software.
+* Develop unit tests (JUnit, TestNG), integration tests, and automated deployment pipelines for production\\-ready code.
+* Work with CI/CD tools (Jenkins, Maven, Git) to streamline builds, deployments, and testing automation.
+* Handle complex data integration, migration, and transformation tasks, ensuring data consistency and reliability.
+* Collaborate with cross\\-functional teams to ensure successful UAT, production deployments, and client issue resolution.
+* Apply AI/ML techniques, automation, and intelligent algorithms to enhance business processes, predictive analytics, and workflow optimization where applicable.
+* Lead the implementation of integration frameworks, web services, and messaging solutions (JMS, SOAP/REST, ESB technologies).
+* Support ongoing production and non\\-production system maintenance, including database tuning, performance optimization, and troubleshooting.
+ **What You Bring:**  
+
+* BS/BA in Computer Science or related field; advanced degrees a plus.
+* Minimum 7 years of professional experience in Java/J2EE development, system integration, and enterprise application design.
+* Expertise in Core Java, XML, Web Services, JMS, SQL, Linux, WebLogic, Docker, Kubernetes, and Cloud technologies.
+* Hands\\-on experience with unit testing frameworks (JUnit, TestNG), CI/CD pipelines (Jenkins), Git/Bitbucket, and Maven.
+* Familiarity with integration middleware / ESB technologies (iWay, Apache Camel, Spring
+
+Integration) and OSGi containers (Apache Karaf).  
+
+* Strong understanding of design patterns, enterprise integration patterns, and scalable software architectures.
+* Experience leading technical design discussions, performing code reviews, and mentoring junior engineers.
+* Prior experience in the healthcare or health insurance (payor) domain preferred.
+* Agile development experience (SCRUM, Kanban) and ability to work across distributed teams.
+* Strong analytical, problem\\-solving, and communication skills, with a focus on client\\-facing
+
+engagements. **Bonus points:**  
+
+* Exposure to AI/ML technologies or automation frameworks for enterprise software solutions.
+* Experience with performance tuning of Java applications and database queries.
+* Experience with Web Service testing tools (SOAPUI, Postman).
+* Hands\\-on experience with cloud deployments (AWS, Azure) and containerized microservices.
+ *HealthEdge* *commits to building an environment and culture that supports the diverse representation of our teams. We aspire to have an inclusive workplace. We aspire to be a place where all employees have the opportunity to belong, make an* *impact* *and deliver excellent software and services to our customers.*
+
+**Geographic Responsibility:** While HealthEdge is located in Boston, MA you may live anywhere in the US
+
+
+\\*Note this role requires proof of US residency for the last consecutive 5 years\\*
+
+
+**Type of Employment:** Full\\-time, permanent
+
+**Work Environment:** The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job:* The employee is occasionally required to move around the office. Specific vision abilities required by this job include close vision, color vision, peripheral vision, depth perception, and ability to adjust focus.
+* Work across multiple time zones in a hybrid or remote work environment.
+* Long periods of time sitting and/or standing in front of a computer using video technology.
+* May require travel dependent on company needs.
+
+*The above statements are intended to describe the general nature and level of the job being performed by the individual(s) assigned to this position. They are not intended to be an exhaustive list of all duties, responsibilities, and skills* *required**.* *HealthEdge* *reserves the right to* *modify**, add, or remove duties and to assign other* *duties* *as necessary. In addition, reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions of this position in compliance with the Americans with Disabilities Act of 1990\\. Candidates may* *be required* *to go through a pre\\-employment criminal background check.*
+
+ *HealthEdge* *is an equal opportunity employer. We are committed to workforce diversity and actively encourage all qualified persons to seek employment with us, including, but not limited to, racial and ethnic minorities, women,* *veterans* *and persons with disabilities.* *\\#LI\\-Remote* ***\\*\\*****The annual US base salary range for this position is $130,000 to $165,000\\. This salary range may cover multiple career levels at* *HealthEdge**. Final compensation will be* *determined* *during the interview process and is based on a combination of factors including, but not limited to, your skills, experience,* *qualifications* *and education.*","","https://www.indeed.com/cmp/Healthedge","","","","","","","","","","","",""

@@ -1,4 +1,545 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"in-0a5796bfb59c12a9","indeed","https://www.indeed.com/viewjob?jk=0a5796bfb59c12a9","https://click.appcast.io/t/mfe3PpcghobjeZ1mLCXergPBYoMaoE1xW8I_Gem7KPY=","Lead Analytics Engineer","Aramark","Rockville, MD, US","2026-05-28","","direct_data","yearly",90000.0,100000.0,"USD",False,"","","","","**Job Description**
+-------------------
+
+
+We are looking for a highly independent Lead Analytics Engineer to own and evolve our enterprise BI data layer, built on Snowflake and DBT. This role goes beyond implementation \\- you will be responsible for data modeling decisions, pipeline design, validation, and system reliability across a complex and evolving data ecosystem. You will work closely with analytics, supply chain, and engineering teams but are expected to drive technical solutions end\\-to\\-end, including in ambiguous situations.
+
+  
+
+Location Rockville, MD or Philadelphia, PA.
+
+**Job Responsibilities**
+------------------------
+
+* Data Modeling \\& Architecture Ownership: Design and maintain scalable data models using Snowflake and DBT. Define standards for transformations and semantic layers.
+* Data Quality \\& Validation: Own data correctness end\\-to\\-end. Validate counts, aggregations, and joins. Identify discrepancies independently.
+* Pipeline Stability \\& Optimization: Diagnose and resolve pipeline failures and performance issues. Optimize Snowflake workloads and DBT execution.
+* Problem Solving in Ambiguity: Work through incomplete requirements and unclear ownership. Identify root causes across systems.
+* Collaboration \\& Enablement: Partner with analytics and data teams. Provide guidance to junior team members and define best practices.
+**Qualifications**
+------------------
+
+
+Required Qualifications
+
+* 5?8\\+ years in analytics engineering, data engineering, or BI engineering. Advanced SQL expertise. Strong experience with DBT (models, lineage, transformations). Hands\\-on Snowflake experience. Proven ability to own pipelines end\\-to\\-end and solve complex data issues independently.
+
+  
+
+Preferred Qualifications
+
+* Experience with Data Vault concepts, enterprise BI environments like Power BI, and Git\\-based workflows.
+
+  
+
+Success Criteria
+
+* Within 3?6 months, the candidate owns BI Gold modeling with minimal guidance, resolves data discrepancies independently, establishes consistent modeling patterns, and reduces leadership involvement in technical decision\\-making.
+**Benefits**
+------------
+
+
+COMPENSATION: The salary range for this position is $90,000\\-$100,000\\. If both numbers are the same, that is the amount that Aramark expects to offer. This is Aramark?s good faith and reasonable estimate of the compensation for this position as of the time of posting.
+
+  
+
+
+
+BENEFITS: Aramark offers comprehensive benefit programs and services for eligible employees including medical, dental, vision, and work/life resources. Additional benefits may include retirement savings plans like 401(k) and paid days off such as parental leave and disability coverage. Benefits vary by location and are subject to any legal requirements or limitations, employee eligibility status, and where the employee lives and/or works. For more information about Aramark benefits, click here Aramark Careers \\- Benefits \\& Compensation.  
+
+
+
+?
+
+
+There is no predetermined application window for this position, the position will close once a qualified candidate is selected. Qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable law, including, but not limited to, the Los Angeles County Fair Chance Ordinance for Employers, the California Fair Chance Act, and the San Francisco Fair Chance Ordinance to the extent that those laws apply to the opportunity.
+
+**About Aramark**
+-----------------
+
+**Our Mission**
+
+
+Rooted in service and united by our purpose, we strive to do great things for each other, our partners, our communities, and our planet.
+
+
+At Aramark, we believe that every employee should enjoy equal employment opportunity and be free to participate in all aspects of the company. We do not discriminate on the basis of race, color, religion, national origin, age, sex, gender, pregnancy, disability, sexual orientation, gender identity, genetic information, military status, protected veteran status or other characteristics protected by applicable law.
+
+
+**About Aramark**
+
+
+The people of Aramark proudly serve millions of guests every day through food and facilities in 15 countries around the world. Rooted in service and united by our purpose, we strive to do great things for each other, our partners, our communities, and our planet. We believe a career should develop your talents, fuel your passions, and empower your professional growth. So, no matter what you're pursuing \\- a new challenge, a sense of belonging, or just a great place to work \\- our focus is helping you reach your full potential. Learn more about working here at http://www.aramarkcareers.com or connect with us on Facebook, Instagram and Twitter.","","https://www.indeed.com/cmp/Aramark","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ec5824a188b007e21b32907a944939c0","https://careers.aramark.com/","Philadelphia, PA","10,000+","more than $10B (USD)","We're a team of a quarter of a million people dedicated to creating experiences that matter through our culture of inspired hospitality.","","","","","",""
+"in-7e161876bd0dc671","indeed","https://www.indeed.com/viewjob?jk=7e161876bd0dc671","https://www.paycomonline.net/v4/ats/web.php/portal/2BAE53DB5E74E324EB03FD486E912AAF/jobs/298945?source=Indeed","Staff - Cloud Engineer, Development","Citrin Cooperman Advisors LLC","Remote, US","2026-05-28","fulltime","direct_data","yearly",130000.0,160000.0,"USD",True,"","","","","Citrin Cooperman offers a dynamic work environment, fostering professional growth and collaboration. We’re continuously seeking talented individuals who bring a problem\\-solving mindset, fresh perspectives, and sharp technical expertise. We know you have choices, so our team of collaborative, innovative professionals are ready to support your professional development. At Citrin Cooperman, we offer competitive compensation and benefits and most importantly, the flexibility to manage your personal and professional life to focus on what matters most to you!
+
+
+We are seeking a **Staff \\-** **Cloud E****ngineer, Development**, to join our Development team within the Information Technology department. We’re building a centralized Data Operations team to establish and manage our foundational enterprise data platform using Microsoft Fabric. We’re seeking a dedicated Cloud Engineer to secure, manage, and automate the cloud infrastructure that powers our entire data ecosystem.
+
+
+In this role, you’ll be a core contributor to our operational “Base Plan”, as well as focus on the rigorous infrastructure engineering required to maintain a highly secure and scalable data environment. Working primarily within Microsoft Azure, you’ll support our Data Engineers, DBAs, and Fabric implementation team by provisioning resources, managing network security boundaries, and building the CI/CD pipelines that automate our deployments. You’ll be responsible for ensuring that our data platform adheres to strict enterprise security standards while maintaining high availability and cost efficiency. The ideal candidate is a proactive automation enthusiast who treats infrastructure as code and values the stability of mission\\-critical enterprise systems.
+
+**Responsibilities are, but not limited to**
+
+* **Infrastructure Provisioning \\& Automation:** Deploy and manage cloud resources (primarily Azure and Microsoft Fabric infrastructure) using Infrastructure\\-as\\-Code (IaC) tools such as Terraform, Bicep, or ARM templates.
+* **CI/CD Pipeline Management:** Build, maintain, and troubleshoot automated CI/CD pipelines (e.g., Azure DevOps, GitHub Actions) to streamline the deployment of data models, database changes, and infrastructure updates.
+* **Identity \\& Access Management:** Implement and govern strict role\\-based access control (RBAC) and Entra ID (Azure AD) policies, ensuring users and applications have the principle of least privilege access to Fabric workspaces, data lakes, and SQL endpoints.
+* **Network Security Configuration:** Manage virtual networks (VNETs), private endpoints, firewalls, and secure gateways to ensure all data ingress and egress is tightly controlled and isolated from public internet exposure.
+* **Monitoring \\& Alerting:** Configure operational dashboards, logging, and alerting systems (e.g., Azure Monitor, Log Analytics) to proactively detect infrastructure anomalies, performance bottlenecks, or security events.
+* **Cost Management \\& FinOps:** Monitor cloud consumption and resource utilization. Implement tagging strategies, set budget alerts, and identify opportunities to right\\-size compute and storage to optimize operational costs.
+
+**The ideal candidate must:**
+
+* Have a bachelor’s degree in computer science, information technology, engineering, or equivalent practical experience.
+* Be Microsoft Certified: Azure Administrator Associate (AZ\\-104\\).
+* Be Microsoft Certified: Fabric Analytics Engineer Associate (DP\\-600\\).
+* Be Microsoft Certified: Azure Network Engineer Associate (AZ\\-700\\).
+* Be Microsoft Certified: Azure Security Engineer Associate (AZ\\-500\\).
+* Have 2–4\\+ years of professional experience in Cloud Engineering, DevOps, or Cloud Administration within an enterprise environment.
+* Have strong hands\\-on experience with Microsoft Azure services, particularly those related to data, networking, and security.
+* Be proficient in scripting languages (PowerShell, Bash, or Python) for task automation.
+* Have practical experience writing and deploying Infrastructure\\-as\\-Code (Terraform, Bicep).
+* Possess a solid understanding of CI/CD concepts and version control (Git).
+* Be knowledgeable of core cloud networking principles (DNS, routing, subnets) and enterprise identity management (Active Directory / Entra ID.
+* **Have a automation\\-first mindset:** Hates doing the same manual task twice. Instinctively looks for ways to script, template, and automate routine operational work.
+* **Be security conscious:** Understands that a data platform is a high\\-value target and consistently builds with defense\\-in\\-depth principles in mind.
+* **Be reliable and methodical:** Thrives in an operational capacity where predictability, documentation, and careful change management are celebrated.","","https://www.indeed.com/cmp/Citrin-Cooperman-Advisors-LLC","","","","","","","","","","","",""
+"in-422da6e551951475","indeed","https://www.indeed.com/viewjob?jk=422da6e551951475","https://careers.airbnb.com/positions/7960519/","Senior Analyst Advanced Analytics","Airbnb","US","2026-05-28","","direct_data","yearly",136000.0,160000.0,"USD",True,"","","","reasonableaccommodations@airbnb.com","Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+
+
+
+**The Community You Will Join:**
+
+
+
+We are looking for a Senior Analyst, Advanced Analytics role to help Airbnb unlock the next generation of hosts by normalizing and expanding hosting in Multifamily buildings. This role will sit under the Airbnb for RealEstate (A4RE) team and support our Product and Business Operations teams.
+
+
+**The Difference You Will Make:**
+
+
+* **Data thought partner** to product and business leaders, providing insights, recommendations, and enabling data\\-driven decisions.
+* **Contribute towards advancing the Analytics and Data Science disciplines at Airbnb**, including driving data best practices, building new data tools and data sets, expanding data education around the company and mentoring and developing other team members.
+
+
+**A Typical Day:**
+
+
+* **Drive day to day analytics and create scalable data tools:**
+	+ Architect, build, and launch efficient \\& reliable new data models and pipelines in partnership with Data Engineering
+	+ Design, define, and implement metrics and dimensions to enable analysis
+	+ Continue to enhance our understanding and measurement of the tools used by our partners, with a focus on driving higher host activation within partner buildings.
+	+ Work closely with Data Engineers, Analytics Engineers, Data Scientists and other cross functional teams to build a scalable and unified attribution and measurement platform for understanding impact of product, sales and marketing efforts.
+	+ Collaborate closely with Business Leads to design, implement, and assess offline experiments, including A/B tests and other quasi\\-experimental techniques.
+	+ Empower the team to answer data questions quickly and easily by building high\\-quality ground truth data sets and dashboards. Collaborate with Data Engineering to build data tools for mass consumptions within the A4RE team
+
+**Your Expertise:**
+
+
+* 5\\+ years in industry experience and a degree in a quantitative field (e.g., Statistics, Econometrics, Computer Science, Engineering, Mathematics, Data Science, Operations Research).
+* Expert communication and collaboration skills with the ability to work effectively with internal teams in a cross\\-cultural and cross\\-functional environment. Ability to conduct rigorous statistical analysis to inform business decision and communicate conclusions to both technical and non\\-technical audiences
+* Experience partnering with internal teams to drive action and providing expertise and direction on analytics, experimental design, and measurement
+* Experience designing and building metrics, from conception to building prototypes with data pipelines
+* Strong knowledge in SQL and distributed system optimization (e.g. Spark, Presto, Hive)
+* Expert in at least one programming language for data analysis (e.g. Python, R)
+* Experience with Tableau strongly preferred
+
+
+**Your Location:**
+
+
+
+This position is US \\- Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity. Click here for the up\\-to\\-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+
+
+**Our Commitment To Inclusion \\& Belonging:**
+
+
+
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively\\-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+
+
+
+We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at: reasonableaccommodations@airbnb.com. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.
+
+
+
+We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.
+
+
+
+**How We'll Take Care of You:**
+
+
+
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.
+
+
+
+Pay Range
+$136,000—$160,000 USD","Internet And Software","https://www.indeed.com/cmp/Airbnb","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b35a06a64b6d3522e431c31f79fc2532","https://www.airbnb.com","888 Brannan Street, San Francisco, CA 94103, United States
+","1,001 to 5,000","$100M to $500M (USD)","Airbnb is a global travel community that offers magical end-to-end trips, including where you stay, what you do and the people you meet.","","","","","",""
+"in-2688a8e6aaf1165c","indeed","https://www.indeed.com/viewjob?jk=2688a8e6aaf1165c","https://jobs.lever.co/arcadia/16fb294b-eb50-4f1d-a3e9-fd0c34a8594e","Lead Analytics Engineer - Data Modeling & Quality","Arcadia.io","Remote, US","2026-05-28","fulltime","direct_data","yearly",160000.0,185000.0,"USD",True,"","","","","*Arcadia is dedicated to happier, healthier days for all. We believe that there is a better healthcare world – one powered by data. Our platform transforms complex, diverse data into a unified foundation for health, helping organizations deliver better care, boost revenue, and lower costs.*
+*We’re a team of fiercely driven individuals committed to making healthcare more sustainable—and we’re looking for passionate people to help us get there.*
+
+*For more information, visit* *arcadia.io*.  
+
+
+
+**Why This Role Is Important to Arcadia**
+
+Arcadia's data platform powers population health analytics for health plans, ACOs, and provider groups across the country. As a Lead Analytics Engineer — Data Modeling \\& Quality, you sit at the intersection of data quality ownership and analytical data modeling. You'll own the SQL and dbt layer that transforms raw clinical and claims data into trusted, production\\-grade datasets, while also serving as the quality authority for the data those models produce.  
+
+  
+
+This is a hybrid role — deeper SQL and dbt expertise than a traditional Data Health Professional, with a more analytical and model\\-focused scope than a Data Engineering role. You're less focused on pipeline infrastructure and more on the logic, shape, and trustworthiness of the data itself.
+
+  
+
+
+**What Success Looks Like**
+**In 3 months**
+* Independently triage and resolve pipeline data quality issues
+* Author at least one new dbt model or refactor an existing one to meet current modeling standards
+* Design a dbt test suite for a set of models lacking coverage
+* Understand the end\\-to\\-end pipeline from ingress through silver and gold, and be able to trace a data quality issue to its root layer
+**In 6 months**
+* Building strong working relationships with clients and cross\\-functional partners (Data Engineering, Customer Success)
+* Deeply familiar with Arcadia's full data stack — from ingress through silver, gold, and downstream consumers
+* Driving at least one improvement project forward, whether technical (e.g. model refactor, new DQ framework) or process\\-focused (e.g. promotion playbook, triage workflow)
+**In 12 months**
+* Recognized as a leader within the department — peers and stakeholders seek out your expertise on data modeling and quality
+* Operating independently across the full scope of the role with minimal guidance
+* Two or more improvement projects completed and in production, with measurable impact on data quality or operational efficiency
+### **What You'll Be Doing**
+
+
+DATA MODELING \\& DBT DEVELOPMENT
+* Author, review, and maintain dbt models using Spark/Hudi from ingest through bronze and silver
+* Help clients understand their data model, assumptions, and limitations through intentional validation
+* Troubleshoot and fix issues, then write dbt tests to catch issues proactively
+* Optimize SQL performance for slow\\-running jobs
+* Partner with Data Engineering on Hudi table design, partition strategy, and incremental patterns
+
+DATA QUALITY OWNERSHIP
+* Triage and classify data quality alerts, distinguishing source\\-level issues from transform\\-layer failures
+* Design and maintain volume monitors and DQ monitors (null rate, distribution, future\\-date checks)
+* Author and apply clinical DQ rules (entity volume, field coverage, LOINC coverage, referential integrity) and claims validation rules across silver and gold layers
+* Conduct quality reviews for connector promotions — evaluating silver entity coverage, validation rule pass rates, and bronze\\-to\\-silver transformation correctness
+* Own the ticket queue for DQ, attribution, hierarchy, and customer\\-specific data quality issues, writing clear customer\\-facing findings
+
+CROSS\\-FUNCTIONAL QUALITY COLLABORATION
+Lead data quality reviews during connector installation and promotion (UAT* PRD), including claims validation playbooks and null analysis
+* Partner with Data Engineering on root\\-cause triage for errors, ingress anomalies, and silver table issues surfaced through data quality monitoring
+* Coordinate with the Measure Implementation Team (MIT) when data quality issues affect quality measure scores
+* Contribute to and enforce data modeling standards across teams
+
+TECHNOLOGIES
+* Data modeling: dbt\\-spark, SQL, Claude
+* Warehousing: Amazon Redshift, Apache Hudi, AWS Athena
+* Data quality: volume/DQ monitors, dbt tests
+* Orchestration: Argo Workflows, Airflow
+* Source control: Git / GitHub, PR\\-based review workflows
+* Observability: Grafana, Loki, Jira
+* Healthcare data: Claims (plan/professional/pharmacy), EHR (clinical entities), MPI
+### **What You'll Bring**
+
+
+Education:
+* Bachelor's or Master's degree in Computer Science, Statistics, Business, Economics, or a related field
+
+Experience:
+* Advanced SQL: window functions, complex CTEs, aggregation patterns, performance tuning on columnar databases
+* dbt: hands\\-on experience authoring models, tests, macros, and yml documentation; familiarity with incremental strategies
+* Healthcare data literacy: working knowledge of claims data (professional, institutional, pharmacy), clinical data (EHR entities), and common quality dimensions (member months, coverage rates, null patterns)
+* Data quality mindset: ability to differentiate source data issues from transform issues, design systematic validation checks, and communicate data quality findings clearly
+
+Skills:
+* Clear communicator — able to translate technical findings for clients and non\\-technical stakeholders
+* Strong analytical judgment — you can look at a distribution and know when something is wrong
+* Ability to manage several projects simultaneously, leveraging AI tooling to stay organized and efficient
+* Genuine desire to learn and apply AI tools for operational efficiency
+### **Would Love For You To Have**
+
+* Experience with Spark SQL and Hudi table format
+* Familiarity with data quality monitoring tools
+* Comfortable operating in an AI\\-first environment using Claude to build/verify various day\\-to\\-day workflows
+* Exposure to population health analytics concepts: HEDIS measures, risk adjustment, value\\-based care metrics
+	+ Python scripting for data investigation and automation
+	+ Experience with Argo Workflows or similar orchestration platforms
+	+ Healthcare data standards: ICD\\-10, CPT, NDC, LOINC, NPI
+### **What You'll Get**
+
+
+* Work alongside a talented team on some of the most complex and rewarding challenges in healthcare data
+* Flexible, fully remote work environment with the resources and support to do your best work
+* Exposure to senior leaders
+* Be on the front lines of AI adoption — use cutting\\-edge tools to accelerate your work and shape how the team operates in an AI\\-first environment
+* Make a meaningful impact on healthcare data operations by improving the quality, reliability, and trustworthiness of data that drives patient care decisions
+* Be a part of a mission driven company that is transforming the healthcare industry
+* Become a member of the talented, energized, diverse and purpose\\-driven Arcadian Community
+$160,000 \\- $185,000 a year
+**About Arcadia**
+Arcadia.io helps innovative providers and payers across the country transform healthcare to reduce cost while improving patient health. We do this by aggregating large amounts of disparate data, applying algorithms to identify opportunities to provide better patient care, and making those opportunities actionable by physicians at the point of care in near\\-real time. We are passionate about helping our customers drive meaningful outcomes. We are growing fast and have emerged as a market leader in the highly competitive population health management software market and have been recognized by industry analysts KLAS, IDC, Forrester, and Chilmark for our leadership. For a better sense of our brand and products, please explore our website. **Protect Yourself**
+If you have concerns about the authenticity of a job offer or recruitment\\-related communication claiming to be from Arcadia, we encourage you to verify by contacting us directly at (781\\) 202\\-3600 and select option 3\\. For more information, visit our website. *This position is responsible for following all Security policies and procedures in order to protect all PHI under Arcadia's custodianship as well as Arcadia Intellectual Properties. For any security\\-specific roles, the responsibilities would be further defined by the hiring manager.*
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.","","https://www.indeed.com/cmp/Arcadia.io","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7d9c0d39926ccf16a85ae404ef97277e","https://www.arcadia.io","Burlington, MA","201 to 500","$25M to $100M (USD)","","","","","","",""
+"in-5127c2c4d94595fe","indeed","https://www.indeed.com/viewjob?jk=5127c2c4d94595fe","https://companycam.com/job?gh_jid=7748443003","Senior Data Engineer","CompanyCam","Remote, US","2026-05-28","","direct_data","yearly",175000.0,200000.0,"USD",True,"","","","jobs@companycam.com","**Hi, we’re CompanyCam.**
+-------------------------
+
+
+
+We’re a simple\\-to\\-use photo documentation and productivity app for contractors of all commercial and home services industries. Packed with intuitive functionality, CompanyCam facilitates unparalleled communication and accountability across a contractor’s entire business. We’re committed to providing a consumer\\-grade, game\\-changing experience that helps our users build trust within their company and with their customers.
+
+
+
+But don’t let that corporate description fool you—the people behind our buttoned\\-up product are laid\\-back (but hardworking), genuine, and kickass, and you could be one of them!
+
+**The Role**
+------------
+
+
+
+We’re looking for a sharp, self\\-motivated, problem\\-solving **Senior Software Engineer (Ruby on Rails)** to join our **Data** team.
+
+
+
+As a Senior Software Engineer (Ruby on Rails) on the Data team, you’ll build and maintain scalable data infrastructure, focusing on backend systems integration and event pipeline architecture. You’ll serve as the technical bridge between engineering and analytics teams, owning the infrastructure that powers reliable, real\\-time data flows from application events to our data warehouse and downstream services.
+
+
+
+Your work will center on designing event\\-driven pipelines, optimizing workflows, and ensuring the reliability of our data platform. While primarily focused on infrastructure and pipelines, this role will occasionally overlap with analytics engineering in areas like **dbt coordination, Snowflake administration, and data quality monitoring.**
+
+
+
+Most importantly, you’ll actively contribute to the evolution of our engineering culture and processes. We want senior engineers who can scale systems, establish technical standards, and mentor others to grow.
+
+
+**Working At CompanyCam**
+-------------------------
+
+
+
+Our engineering team is remote\\-first, spanning every time zone in the United States. We welcome people from all backgrounds and really don't care whether or not you have a CS degree or even a high school diploma. All that matters is that you're not an a\\*\\*hole and you're good at what you do.
+
+
+
+At CompanyCam, our Foundation Engineering team is driven to create meaningful impact by building a solid foundation that empowers product engineers to do their best work. Instead of just patching issues or adding tools, we focus on eliminating bottlenecks and designing systems that scale, so teams can move faster and with confidence. We’re guided by a spirit of continuous improvement, always reflecting and learning from how our platform supports the business.
+
+
+
+So, how do we actually work? We take a flexible, collaborative approach, drawing from Agile, Kanban, and other frameworks where they fit, without being locked into one rigid process. Our role is to provide the guardrails, core frameworks, and operational awareness that give product teams the freedom to innovate. Within those boundaries, we iterate, refine, and evolve practices that strengthen developer experience, improve system resilience, and ensure our core technologies remain secure, stable, and efficient.
+
+
+**What You’ll Do**
+------------------
+
+
+**Data Architecture and Pipeline Development**
+
+
+* Design and maintain event\\-driven pipelines from backend systems (Ruby on Rails) to Snowflake.
+* Own event pipelines from backend app through Snowplow ingestion.
+* Establish event tracking standards, documentation, and training for engineering teams.
+* Support feature flagging and A/B testing infrastructure requirements.
+* Optimize existing data workflows for efficiency and performance.
+* Manage Snowflake administration, performance optimization, and cost management alongside the data team.
+* Build reverse ETL processes and marketing automation data flows using tools like Census.
+* Collaborate to optimize Snowplow Analytics for event tracking and schema management.
+
+
+**Collaboration and Stakeholder Engagement**
+
+
+* Partner with analytics engineers on dbt deployment, testing, and production workflows.
+* Act as the technical bridge between engineering and analytics for pipeline questions.
+* Provide technical guidance to product and engineering teams on event implementation.
+* Lead training sessions and office hours on event tracking and troubleshooting.
+* Participate in architecture discussions and cross\\-team technical decision\\-making.
+
+**What You’ll Bring**
+---------------------
+
+
+* These are our non\\-negotiables:
+
+
+	+ **Show up:** Have the courage to do difficult but necessary work.
+	+ **Grow up:** Take ownership, learn continuously, and bring a growth mindset.
+	+ **Do good:** Treat your teammates and customers the way you'd want to be treated.
+	+ 5\\+ years of backend engineering experience with **Ruby on Rails** or similar server\\-side technologies.
+	+ 3\\+ years working with cloud data warehouses (**Snowflake strongly preferred**).
+	+ Experience with event streaming platforms and event\\-driven architectures.
+	+ Experience with behavioral analytics platforms (e.g., Snowplow Analytics, Segment).
+	+ Hands\\-on experience with ETL tools (Fivetran, Stitch, or Airbyte).
+	+ Working knowledge of dbt for data transformation orchestration.
+	+ Strong background in backend API development, systems integration, and pipeline reliability.
+	+ **You live and work permanently in the U.S.** (We’re not set up to hire outside the U.S.)**Nice\\-to\\-haves**
+
+
+	+ Experience with monitoring/observability tools for data pipelines.
+	+ Experience with Python.
+	+ Experience building reverse ETL and marketing automation data flows.
+	+ Familiarity with modern data stack concepts and architecture.
+	+ Strong technical communication skills with ability to explain complex systems to diverse audiences.
+	+ Track record of setting technical standards and mentoring other engineers.
+
+**Benefits and Compensation**
+-----------------------------
+
+
+
+This is a salaried position at CompanyCam. Our salary range is **$175,000 \\- $200,000** per year and is based on experience. We also offer meaningful equity and other benefits.
+
+
+*CompanyCam is an equal\\-opportunity employer committed to respect, inclusion, and growth. We work hard, take responsibility, and support each other. Great ideas come from all backgrounds, and we carefully consider every applicant without regard to personal characteristics or traits. Even if your work experience doesn’t align perfectly, we encourage you to apply. What really matters to us is your potential, your passion, and your commitment to learning, innovation, and contributing meaningfully to our team.*
+
+
+
+For any accommodations or technical issues related to the online application or interview process, please email jobs@companycam.com and we’ll respond promptly. Please do not include any medical or health information in your message.
+
+
+**Note:** Resumes sent to this email will **not be reviewed or responded to**. To be considered for a position, you must apply directly through our careers page.","","https://www.indeed.com/cmp/Companycam","","https://www.companycam.com","Lincoln","2 to 10","","","","","","","",""
+"in-af744cc881ed105f","indeed","https://www.indeed.com/viewjob?jk=af744cc881ed105f","https://shawinc.wd1.myworkdayjobs.com/en-US/External/job/Shaw-Plant-72-900-VD-Parrot-Parkway-Dalton-GA-30721-USA/Analytics-Engineer_R-152814","Analytics Engineer","Shaw Industries","Dalton, GA, US","2026-05-28","fulltime","","","","","",False,"","","","","**Job Title**
+
+
+Analytics Engineer**Position Overview**
+
+
+Shaw Industries is seeking an Analytics Engineer to join our Residential Enablement and Insights team in Dalton, GA. This role sits at the intersection of business strategy, advanced analytics, and data engineering — with a strong emphasis on data modeling, Power BI, and Databricks.  
+
+  
+
+As an Analytics Engineer, you will design and implement scalable, trusted data models and visualization tools that drive strategic decision\\-making across our Residential Sales and Marketing organizations. The ideal candidate will blend technical depth with business insight, playing a critical role in enabling data self\\-service and modern analytics practices across Shaw. This position operates in a hybrid work environment with 1 \\- 3 days in Dalton, GA.
+
+**Key Responsibilities:**
+
+* Partner with business stakeholders to gather requirements and translate them into scalable data models and analytic solutions that support decision\\-making.
+* Design, develop, and maintain data models, including semantic layers, star schemas, and data marts, to enable reliable and scalable self\\-service analytics.
+* Build and maintain data pipelines using modern data platforms (e.g., Databricks), transforming raw and complex data into analytics\\-ready datasets.
+* Develop clear, actionable visualizations and dashboards (e.g., Power BI) that enable users to explore data, uncover insights, and drive informed decisions.
+* Collaborate with Data Engineering and cross\\-functional teams to ensure data quality, integrity, and performance, and to support adherence to data governance standards.
+* Apply and promote best practices in data modeling, analytics engineering, and dashboard design, contributing to consistent and effective data solutions.
+* Share knowledge and support the development of others by contributing to team learning, documentation, and adoption of analytics best practices.
+* Contribute to the documentation, standardization, and ongoing improvement of data assets, including data models, datasets, and metadata.
+* Continuously expand knowledge of analytics tools, technologies, and data architecture, and apply new capabilities to improve solutions and processes.
+**Technical Skills \\& Experience:**
+
+* Experience using SQL to query, transform, and analyze data, and familiarity with designing logical and physical data models that support scalable analytics.
+* Experience building reports and dashboards in Power BI, including working with capabilities such as DAX, Power Query, dataflows, and data security concepts (e.g., row\\-level security).
+* Some experience working with Databricks (preferably in a cloud environment such as Azure) to process, transform, and model data using notebooks and modern storage formats (e.g., Delta Lake).
+* Understanding of data pipeline concepts, including ETL/ELT processes, orchestration, and data lake architectures (e.g., Azure Data Lake).
+* Familiarity with programming languages such as Python or R for data transformation, automation, and analytical tasks.
+* Some experience working with version control systems (e.g., Git) and familiarity with collaborative development practices such as DataOps or CI/CD.
+**Core Competencies:**
+
+* Strong communication skills with the ability to translate complex technical concepts into business context.
+* Excellent problem\\-solving and analytical thinking skills.
+* Ability to work cross\\-functionally in a highly collaborative environment.
+* Interest in continuous learning, especially in areas of machine learning, AI, and advanced analytics.
+* Passion for creating clean, reusable, and well\\-documented data assets.
+**Required Qualifications:**
+
+* Bachelor’s degree in Computer Science, Data Analytics, Information Systems, Business, or a related field.
+* Experience delivering modern analytics solutions using Power BI, Databricks, and data modeling practices OR applicable college course work
+
+**Preferred:**
+
+* Experience working in or supporting business analytics teams within a large enterprise environment.
+**Competencies:**
+
+* Learn Continuously,
+* Build Trusting Relationships
+* Execute Action Plan
+* Build Customer Satisfaction
+* Initiate Action
+
+
+Role can be filled at a Level 1 or 2:
+
+* Level 1 less than 2 years in Analytics
+* Level 2 is 2\\+ years of experience in Analytics
+
+
+Location: Dalton, GA
+
+
+Seeking candidates that are currently local to the Northern Georgia, Southern Tennessee area. Candidate is required to come into the Dalton office minimally once a week.
+
+
+\\#ShawIND
+
+
+\\#LI\\-AK1
+
+**Work Shift**
+
+
+8 Hr non\\-rotating shift, Hrs fall to in punch day, Observed Calendar, shift starts AM
+Shaw Industries is an equal opportunity employer as to all protected groups, including protected veterans and individuals with disabilities.","","https://www.indeed.com/cmp/Shaw-Industries","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/c836f501c045f0fe9264d85a579d03c1","http://www.shawinc.com","Dalton, GA","10,000+","$5B to $10B (USD)","Join our approximately 18,000 associates worldwide bound together by a common vision to create a better future. ","","","","","",""
+"in-898279e7a151d58d","indeed","https://www.indeed.com/viewjob?jk=898279e7a151d58d","https://jobs.ashbyhq.com/thyme-care/ca091a49-cf3b-4c97-b671-c749d6578756?utm_source=82KOyoBnyJ","Senior Data Scientist, Provider Data Science","thyme care","Remote, US","2026-05-28","fulltime","direct_data","yearly",166500.0,185000.0,"USD",True,"","","","","**OUR MISSION**
+
+
+We exist to create a more connected, compassionate, and confident experience for people with cancer and those who care for them. We make it easier to get answers, access high\\-quality care quickly, and feel supported throughout treatment and beyond.
+
+
+Today, Thyme Care is a market\\-leading value\\-based oncology care enabler, partnering with national and regional health plans, providers, and employers to deliver better outcomes and lower costs for thousands of people across the country. Our model combines high\\-touch human support with powerful technology and AI to bring together everyone involved in a person’s cancer journey: caregivers, oncologists, health plans, and employers.
+
+
+As a tech\\-native organization, we believe technology should strengthen the human connection at the center of care. Through data science, automation, and AI, we simplify complexity, improve collaboration, and help care teams focus on what matters most: supporting people through cancer.
+
+
+Looking ahead, our vision is bold: to become a household name in cancer care, where every person diagnosed asks for Thyme Care by name. If you’re inspired to make cancer care more human and to help reimagine what’s possible, we’d love to meet you. Together, we can build a future where every person with cancer feels truly cared for, in every moment that matters.
+
+**WHAT YOU’LL DO**
+
+
+As a Senior Data Scientist, you will join our Data team to help us build and maintain strong analytic capabilities supporting Thyme Care’s mission. You will model data, create visualizations to report to stakeholders, and deliver insights that drive action.
+
+
+In this position, you will partner with our Product, Engineering, Operations, and Data Science teams to define and lead improvements to our data pipelines, setting direction that enables faster, more effective care delivery and measurement. You will own efforts to reduce latency between our data and applications, designing and building a scalable data architecture and healthcare data models that enable our pharmacy interventions and provider incentive programs.
+
+* Gain a deep understanding of our core data architecture and lead improvements to our data pipelines, balancing near\\-term needs with long\\-term architectural health.
+* Own and lead the development of data models that make it possible to analyze the nuances of our EMR drug delivery and drug economics in ways that scale across contracts and pharmacy interventions.
+* Establish key KPIs and reporting standards that help stakeholders make our operations more efficient.
+* Partner with stakeholders to understand and translate their business requirements into technical plans. This involves developing data models, pipelines, and analytics dashboards. For example, you own the end\\-to\\-end data life cycle of data ingestion from a practice, standardization and cleaning, core modeling and BI dashboarding for both internal and external partners.
+* Lead the development of utilization and quality metrics and serve as a domain expert for stakeholders across the company. Additionally, you will leverage our data assets for business opportunities and strategic initiatives at Thyme Care.
+
+**WHAT YOU’VE DONE**
+
+* Deep experience working with healthcare data such as electronic health records, claims, or prior auth.
+* Expertise in analytics, data modeling, and data transformation, and have used that expertise to influence decisions beyond your immediate scope.
+* Deep expertise in dbt and SQL, with experience designing, rebuilding, and owning complex data models and pipelines that ensure reliability and scalability across the data platform.
+* Experience with large healthcare datasets, ideally in a healthcare\\-focused technology startup, health plan, or provider group with mature data structures and pipelines.
+* A working knowledge of Python or R and experience with Looker or similar BI tools for data analysis and visualization is a plus.
+* Previous direct involvement drug or Medicare Part D data is a plus.
+
+**WHAT LEADS TO SUCCESS**
+
+**Act with our members in mind**. Thyme Care’s mission, and in particular, our member experience, matters deeply to you.
+  
+
+**Move with purpose.** You’re biased to action. You know how to identify and prioritize your initiative’s needs and do what it takes to ensure that urgent and important needs are acted on immediately.
+  
+
+**Seek diverse perspectives**. You are humble and actively seek feedback from others, eager to learn and share knowledge.  
+
+**Experience.** You have worked with large healthcare datasets, ideally in a health plan or healthcare\\-focused technology startup with mature data structures and pipelines as an Analytics Engineer or Data Engineer. Experience with medical claims, pharmacy claims, eligibility files, and other relevant healthcare data is essential for building data marts for reporting and analysis.  
+
+**Technical ability**. You have deep expertise in analytics, data modeling, and data transformation, with strong proficiency in dbt and SQL to build and maintain data models and pipelines. A working knowledge of Python or R and experience with Looker or similar BI tools for data analysis and visualization is a plus.  
+
+**Clear communication.** You can effectively convey your thoughts and ideas to both technical and non\\-technical colleagues and stakeholders.  
+
+**Comfort with ambiguity.** You have a successful track record working at scaling organizations, in fast\\-paced environments, and at ambitious startups. You navigate through challenges and find solutions in uncertain situations.
+
+**OUR VALUES**
+
+*At Thyme Care, our core values guide us in everything we do: Act with our members in mind, Move with purpose, and Seek diverse perspectives. They anchor our business decisions, including how we grow, the products we make, and the paths we choose—or don’t choose.*
+
+*Our salary ranges are based on paying competitively for our size and industry, and are one part of the total compensation package that also includes equity, benefits, and other opportunities at Thyme Care. Individual pay decisions are based on several factors, including qualifications, experience level, skillset, and balancing internal equity relative to other Thyme Care employees. The base salary for this role is $166,500\\-$185,000\\. The salary range could be lower or higher than this if the role is hired at another level.*
+
+*We recognize a history of inequality in healthcare. We’re here to challenge the status quo and create a culture of inclusion through the care we give and the company we build. We embrace and celebrate a diversity of perspectives in reflection of our members and the members we serve. We are an equal\\-opportunity employer.*
+
+*Be cautious of* *recruitment fraud**, and always confirm that communications are coming from an official Thyme Care email.*","","https://www.indeed.com/cmp/Thyme-Care","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/09774ea7be2d610a1d96f700caa5d350","https://www.thymecare.com/","","","","","","","","","",""
 "in-aa494721f4ef838f","indeed","https://www.indeed.com/viewjob?jk=aa494721f4ef838f","https://recruiting2.ultipro.com/QSE1000QSER/JobBoard/6cf8d9f1-7140-4a4f-8dba-c15b5a2fafb0/OpportunityDetail?opportunityId=f609c1e8-8358-4bb2-892d-3bc369d41333&postingId=9db3c38e-0d15-4031-9e54-c0eec5804166","Data Engineer","Metronet","IN, US","2026-05-28","","direct_data","yearly",70000.0,80000.0,"USD",True,"","","","","Love Your Mondays again!
 
 
@@ -558,6 +1099,119 @@ EY provides equal employment opportunities to applicants and employees without r
 
 
 EY is committed to providing reasonable accommodation to qualified individuals with disabilities including veterans with disabilities. If you have a disability and either need assistance applying online or need to request an accommodation during any part of the application process, please call 1\\-800\\-EY\\-HELP3, select Option 2 for candidate related inquiries, then select Option 1 for candidate queries and finally select Option 2 for candidates with an inquiry which will route you to EY’s Talent Shared Services Team (TSS) or email the TSS at ssc.customersupport@ey.com.","","https://www.indeed.com/cmp/Ey","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/82174c7d7afe2380d2d4631ea183f866","https://www.ey.com","London, England","10,000+","more than $10B (USD)","","","","","","",""
+"in-bad92e6915049edc","indeed","https://www.indeed.com/viewjob?jk=bad92e6915049edc","http://www.indeed.com/job/azure-data-engineer-bad92e6915049edc","Azure Data Engineer","","Jersey City, NJ, US","2026-05-28","temporary, contract","direct_data","hourly",35.0,45.0,"USD",True,"","","","","Azure Data Engineer – Microsoft Fabric (W2 Contract)  
+Job Title:
+
+Azure Data Engineer – Microsoft Fabric
+
+Location:
+
+Remote / Hybrid / Onsite (USA)
+
+Job Type:
+
+Contract – W2 Only
+
+Experience Required:
+
+10\\+ Years
+
+Work Authorization:
+
+USC, GC, GC\\-EAD, H4\\-EAD, TN, H1B Transfer Accepted
+
+Job Summary
+
+We are seeking a highly skilled Azure Data Engineer with 10\\+ years of experience in designing and implementing enterprise\\-scale cloud data solutions using Microsoft Azure and Microsoft Fabric. The ideal candidate should have strong expertise in modern data engineering, big data processing, ETL/ELT frameworks, Lakehouse architecture, and real\\-time analytics platforms.
+
+The candidate must possess hands\\-on experience with Microsoft Fabric, OneLake, Azure Databricks, Synapse Analytics, Data Factory, and scalable cloud\\-native data platforms.
+
+Candidates with Microsoft Fabric Certifications are highly preferred.
+
+Required Skills \\& Qualifications
+
+* 10\\+ years of experience in Data Engineering and Cloud Data Platforms
+* Strong hands\\-on expertise in:
+* Microsoft Fabric
+* Fabric Data Engineering
+* Fabric Data Factory
+* Fabric Lakehouse
+* OneLake
+* Azure Data Factory (ADF)
+* Azure Synapse Analytics
+* Azure Databricks
+* Azure Data Lake Storage (ADLS Gen2\\)
+* Strong experience with:
+* Python
+* PySpark
+* SQL
+* Spark SQL
+* Delta Lake
+* Expertise in:
+* ETL/ELT Pipeline Development
+* Data Warehousing
+* Medallion Architecture
+* Dimensional Data Modeling
+* Data Migration \\& Modernization
+* Experience working with:
+* Real\\-time Streaming
+* Kafka
+* Event Hub
+* Stream Analytics
+* Strong knowledge of:
+* Data Governance
+* Microsoft Purview
+* RBAC \\& Security
+* Data Lineage
+* Data Quality Frameworks
+* Experience integrating Fabric with Power BI and enterprise reporting solutions
+* Hands\\-on experience with CI/CD pipelines using:
+* Azure DevOps
+* GitHub Actions
+* Terraform / ARM / Bicep
+* Experience working in Agile/Scrum environments
+* Excellent communication and stakeholder management skills
+
+Preferred Certifications
+
+The following certifications are highly preferred:
+
+* Microsoft Certified: Fabric Analytics Engineer Associate (DP\\-600\\)
+* Microsoft Certified: Azure Data Engineer Associate (DP\\-203\\)
+* Microsoft Azure Solutions Architect Expert
+* Databricks Certified Data Engineer
+
+Roles \\& Responsibilities
+
+* Design, build, and optimize scalable cloud\\-native data solutions using Azure and Microsoft Fabric
+* Develop enterprise\\-grade Lakehouse architectures and modern analytics platforms
+* Build high\\-performance ETL/ELT pipelines for structured and unstructured data
+* Implement secure and governed data platforms using Microsoft best practices
+* Collaborate with Architects, Data Scientists, BI Teams, and Business Stakeholders
+* Optimize data processing performance, scalability, and operational cost
+* Implement DevOps and Infrastructure\\-as\\-Code practices for deployment automation
+* Support cloud migration and modernization initiatives
+* Create reusable frameworks, standards, and best practices for data engineering teams
+
+Nice to Have
+
+* Experience with Snowflake or Redshift
+* Exposure to AI/ML and Copilot\\-enabled analytics solutions
+* Knowledge of Data Mesh architecture
+* Experience in Banking, Healthcare, Retail, or Insurance domains
+* Kubernetes and containerized workload exposure
+
+Why Join Us?
+
+* Opportunity to work on enterprise\\-scale Microsoft Fabric initiatives
+* Exposure to latest Azure cloud and modern analytics technologies
+* Long\\-term W2 Contract opportunity
+* Collaborative and innovation\\-driven environment
+* High visibility projects with Fortune 500 clients
+
+Pay: $35\\.00 \\- $45\\.00 per hour
+
+Work Location: In person","","https://www.indeed.comNone","","","","","","","","","","","",""
 "in-73690ad7c9738e45","indeed","https://www.indeed.com/viewjob?jk=73690ad7c9738e45","https://job-boards.greenhouse.io/neweratech/jobs/8555568002","Senior Azure Data Platform Engineer","New Era Technology","Remote, US","2026-05-28","contract","","","","","",True,"","","","privacy@neweratech.com","Join New Era Technology, where People First is at the heart of everything we do. With a global team of over 3,000 professionals, we're committed to creating a workplace where everyone feels valued, empowered, and inspired to grow. Our mission is to securely connect people, places, and information with end\\-to\\-end technology solutions at scale.
 
 
@@ -1617,646 +2271,169 @@ Salary:
 
 
 $164,200\\.00 \\- $273,600\\.00","Health Care","https://www.indeed.com/cmp/Dexcom","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/5743a24437f1fde21c5e0c5fc8a2bc44","https://www.dexcom.com","6340 Sequence Drive San Diego, CA 92121 United States","5,001 to 10,000","$1B to $5B (USD)","Empowering people to take control of health.","","","","","",""
-"in-d46ce43aaca60ad9","indeed","https://www.indeed.com/viewjob?jk=d46ce43aaca60ad9","https://grnh.se/eq48z3mq2us","Senior Azure Data Platform Engineer","New Era Technology","Jersey City, NJ, US","2026-05-28","contract","","","","","",True,"","","","privacy@neweratech.com","Join New Era Technology, where People First is at the heart of everything we do. With a global team of over 3,000 professionals, we're committed to creating a workplace where everyone feels valued, empowered, and inspired to grow. Our mission is to securely connect people, places, and information with end\\-to\\-end technology solutions at scale.
+"in-698c96cfb90c5db2","indeed","https://www.indeed.com/viewjob?jk=698c96cfb90c5db2","https://careers-captrust.icims.com/jobs/2334/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Analytics Engineer","National Louis University","Raleigh, NC, US","2026-05-01","fulltime","","","","","",True,"","","","","Overview:
+**WHO are we looking for?**  
+
+CAPTRUST is seeking an ***Analytics Engineer*** to design, build, and maintain analytics\\-ready data models that enable trusted reporting, self\\-service analytics, and downstream decision\\-making across the firm. This role owns the dbt analytics transformation layer and dbt project stewardship, and partners with Data Engineering on upstream pipelines and data shaping to ensure analytics\\-ready inputs. This role serves as the connective tissue between raw data engineering outputs and business\\-facing analytics by translating business concepts into well\\-modeled, well\\-documented dbt assets. This position is ideal for a data professional with deep dbt expertise, strong SQL skills, and a passion for data modeling who can partner closely with Data Engineers, Data Analysts, and business stakeholders to deliver reliable, scalable analytical data products.
+Responsibilities:
+* Owns end\\-to\\-end stewardship of the dbt project, including model organization, naming conventions, testing strategy, documentation standards, and ongoing refactoring to keep the project healthy and scalable
+* Owns the analytics transformation layer and its production reliability, including build/deploy routines, dependency management, and monitoring/triage of model and test failures in partnership with Data Engineering
+* Owns the definition and implementation of analytics\\-ready business logic (e.g., conformed dimensions, facts, and shared metrics) and drives upstream data shaping requirements with Data Engineers to ensure source data supports agreed analytical needs
+* Design, build, and maintain analytics\\-ready data models in dbt that translate business requirements into clear, performant, and trusted analytical structures
+* Collaborate with Data Quality Analysts to embed data quality rules, validation logic, and testing directly into dbt models
+* Apply dimensional and analytical modeling best practices (e.g., star schemas, facts and dimensions, grain alignment) to support reporting and metrics consistency
+* Work with business stakeholders and data analysts to understand reporting needs and codify logic in reusable models
+* Own dbt documentation quality and completeness, including model descriptions, lineage, business context, and assumptions, to support discovery and trust
+* Support the evolution of shared metric definitions in partnership with semantic and governance functions, ensuring consistency across analytics and reporting
+* Participate in analytics development processes, including code reviews, testing, and deployment workflows
 
 
+Qualifications:
+*Minimum Qualifications:** Bachelor’s degree in data analytics, computer science, information systems, or a related field (or equivalent professional experience).
+* 5\\+ years of experience in analytics engineering, business intelligence, data engineering, or a closely related role.
+* Advanced proficiency in SQL, including complex transformations, aggregations, and windowing logic.
+* Strong hands\\-on experience with dbt, including model development, refactoring, documentation, sources, and tests.
+* Solid understanding of analytical data modeling concepts and best practices.
+* Ability to translate business concepts into structured, analytics\\-ready data models.
+* Strong communication skills, with the ability to explain data logic in business terms.
 
-At New Era, you'll join a team\\-oriented culture that prioritizes your personal and professional development. Work alongside industry\\-certified experts, access continuous training, and enjoy competitive benefits. Guided by our core attributes — putting people first, embracing continuous learning, and thriving through collaboration and inclusion — we nurture our people to deliver exceptional customer service.
+*Desired Qualifications/Skills:** Experience working in a modern analytics stack (e.g., cloud data warehouse, dbt, BI tools).
+* Familiarity with Microsoft Fabric, Power BI semantic models, or similar analytics platforms.
+* Experience partnering closely with Data Engineers and Data Quality roles in a team\\-based analytics delivery model.
+* Exposure to data governance concepts such as definitions, lineage, stewardship, and certified metrics.
+* Comfort operating in environments with evolving requirements and helping bring clarity through modeling standards
+* High standard of professionalism, integrity, and accountability.
+
+**WHAT can you expect from your career at CAPTRUST?**  
+
+Our colleagues, like our clients, tend to stay with CAPTRUST for years. There’s a reason for it; it’s a great culture in which to work and grow. We all work together, each of us motivating those around us with our commitment to high standards. At CAPTRUST, expect a fully stocked break room, fun employee events, and a quality team surrounding you with opportunities for personal growth.  
+
+Our Employee Benefits Package shows how much we value our team. Some benefits include:* Company discretionary bonus.
+* Health, dental, and vision coverage, employer 401(k) plan and company match, health savings accounts, flexible spending accounts, and voluntary supplemental plans subject to plan terms
+* Company\\-paid benefits such as life insurance, short\\-term disability, and long\\-term disability, subject to applicable waiting periods.
+* Paid time off (PTO) or Paid Sick Leave (PSL)
+
+**WHERE will you be working?**  
+
+4208 Six Forks Rd \\#1700 \\| Raleigh, NC 27609  
+
+Due to the nature of the role, this is not a remote or work from home position. \\#LI\\-Onsite **HOW do we build a world class organization one brick at a time?**  
+
+We make it a priority to hire those who have a commitment to service, a real interest in other people, and a passion to continuously improve. Simply put: the difference at CAPTRUST is the quality of our people and depth of our bench. If you are ready to make your mark, we want to talk to you. *Are you the next brick?*  
+
+To get it done the CAPTRUST Way, an individual should exhibit the following characteristics:* Ability to build successful, collaborative, and trusting relationships
+* Instinctive aptitude for consistently creating accurate, concise, respectful, and easy\\-to\\-understand verbal and written communications conveying complex information
+* A strong sense of urgency about getting work done and solving problems to achieve results that benefit our clients and colleagues, even when faced with challenges
+* Inherent desire to give back to our communities and enrich the lives of those around us
+* An other\\-centered mindset
+* Integrity through maintaining objectivity
+
+*EEO/Diversity Statement:*  
+
+At CAPTRUST, we are committed to building and maintaining a diverse workforce and inclusive work environment where ALL colleagues feel authentically seen, respected, and supported.  
+
+It is our intent to maintain a work environment that is free of harassment, discrimination, or retaliation because of sex (including pregnancy, childbirth, or other related medical conditions), gender, race (including hair texture or hairstyles associated with race), religion, color, national origin, ancestry, physical or mental disability, genetic information, age, sexual orientation, gender identity, gender expression, protected veteran status, uniformed service, or any other status protected by federal, state, or local laws.\\#mid\\-senior  
+
+This position will remain open until filled.","Education And Schools","https://www.indeed.com/cmp/National-Louis-University","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/47dfe68c9602cf29aa6af7ced8751ce6","https://www.nl.edu/about/","Chicago, IL","1,001 to 5,000","$25M to $100M (USD)","Why Work at NLU? At National Louis University, your work matters. We're a mission-driven community that goes beyond teaching to truly transform lives. Everything we do is grounded in our core values","","","","","",""
+"in-c223e4c0ab13171b","indeed","https://www.indeed.com/viewjob?jk=c223e4c0ab13171b","https://careers-captrust.icims.com/jobs/2332/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Principal Semantic Engineer","National Louis University","Raleigh, NC, US","2026-04-30","fulltime","","","","","",True,"","","","","Overview:
+**WHO are we looking for?**  
+
+CAPTRUST is seeking a ***Principal Semantic Engineer*** to design, build, and govern the semantic and knowledge foundations that make AI trustworthy, explainable, and scalable across the firm. This role focuses on enabling high‑impact AI capabilities such as copilots, agentic analytics, and decision support by ensuring business meaning, relationships, and metadata are clearly defined, aligned, and exposed to AI systems. This position is ideal for an experienced data professional who combines strong engineering skills with deep understanding of semantics, governance, and enterprise context, partnering closely with data engineers, analytics teams, data stewards, and business owners to architect and deploy reliable AI solutions.
+Responsibilities:
+* Design and maintain the knowledge layer that supports priority AI use cases, including semantic models, business definitions, and entity relationship, applying ontology and semantic design where it directly enables consistent, trustworthy AI outcomes.
+* Define how curated data products, metrics, and metadata are exposed to AI models (e.g., RAG, prompt context, embeddings) to ensure consistent and explainable outputs.
+* Partner with data engineers and analytics engineers to integrate semantic and metadata standards into Fabric, dbt models, metrics layers, and deployment pipelines.
+* Collaborate with data stewards and business owners to resolve semantic ambiguity, align definitions, and document assumptions that impact AI behavior.
+* Establish AI‑readiness and usage metadata, including lineage, sensitivity, usage constraints, and trust signals that guide responsible AI consumption.
+* Actively participate in AI strategy conversations, advising on model selection, grounding approaches, and guardrails from a knowledge and trust perspective.
+* Promote best practices for semantic modeling, knowledge representation, and AI governance through documentation, patterns, and enablement.
 
 
+Qualifications:
+*Minimum Qualifications:** Bachelor’s degree in data analytics, computer science, information systems, or a related field (or equivalent professional experience).
+* 6\\+ years of experience in data engineering, data architecture, or a closely related role.  
 
-If you want to make an impact in a supportive, growth\\-oriented environment, New Era is the place for you. Apply today and help us shape the future of work—together
+	+ Strong SQL proficiency and experience working with analytical data models
+* Hands‑on experience with semantic modeling and metrics layers.
+* Working knowledge of data governance concepts including definitions, metadata, lineage, stewardship, and data products.
+* Strong communication skills, with the ability to explain complex technical and conceptual topics in business‑friendly terms.
 
- **Role Overview**
+*Desired Qualifications/Skills:** Experience with dbt (models, metrics, documentation, sources, and tests) as a system of record for analytics and semantics.
+* Familiarity with Microsoft Fabric, Power BI semantic models, or similar analytics platforms.
+* Exposure to AI or ML systems, including LLMs, RAG patterns, embeddings, or AI copilots, with an emphasis on context and grounding.
+* Experience designing ontologies or knowledge graphs in a data or analytics context.
+* Understanding of AI governance, principles, and risk considerations.
+* Comfort operating in ambiguous problem spaces and bringing structure and alignment.
+* High standard of professionalism and integrity.
 
+**WHAT can you expect from your career at CAPTRUST?**  
 
+Our colleagues, like our clients, tend to stay with CAPTRUST for years. There’s a reason for it; it’s a great culture in which to work and grow. We all work together, each of us motivating those around us with our commitment to high standards. At CAPTRUST, expect a fully stocked break room, fun employee events, and a quality team surrounding you with opportunities for personal growth.  
 
-We are seeking a senior\\-level Azure Data Platform Engineer with deep expertise in Azure SQL Managed Instance, Azure Data Factory (ADF), and enterprise database administration. This individual will play a hands\\-on leadership role in managing, troubleshooting, and driving data platform reliability and performance across a complex client environment.
+Our Employee Benefits Package shows how much we value our team. Some benefits include:* Company discretionary bonus.
+* Health, dental, and vision coverage, employer 401(k) plan and company match, health savings accounts, flexible spending accounts, and voluntary supplemental plans subject to plan terms
+* Company\\-paid benefits such as life insurance, short\\-term disability, and long\\-term disability, subject to applicable waiting periods.
+* Paid time off (PTO) or Paid Sick Leave (PSL)
 
+**WHERE will you be working?**
 
+  
 
-This is not a passive support role. The ideal candidate is someone who will step in, take ownership of data pipelines and database operations, and proactively identify and resolve issues—often in high\\-pressure or ambiguous situations with demanding stakeholders.
+4208 Six Forks Rd \\#1700 \\| Raleigh, NC 27609  
 
+Due to the nature of the role, this is not a remote or work from home position. \\#LI\\-Onsite **HOW do we build a world class organization one brick at a time?**  
 
+We make it a priority to hire those who have a commitment to service, a real interest in other people, and a passion to continuously improve. Simply put: the difference at CAPTRUST is the quality of our people and depth of our bench. If you are ready to make your mark, we want to talk to you. *Are you the next brick?*  
 
-This role is best suited for a practitioner who can balance deep technical execution with client engagement, operate across vendor ecosystems, and lead critical data loading and platform operations end\\-to\\-end.
+To get it done the CAPTRUST Way, an individual should exhibit the following characteristics:* Ability to build successful, collaborative, and trusting relationships
+* Instinctive aptitude for consistently creating accurate, concise, respectful, and easy\\-to\\-understand verbal and written communications conveying complex information
+* A strong sense of urgency about getting work done and solving problems to achieve results that benefit our clients and colleagues, even when faced with challenges
+* Inherent desire to give back to our communities and enrich the lives of those around us
+* An other\\-centered mindset
+* Integrity through maintaining objectivity
 
+*EEO/Diversity Statement:*  
 
-**Engagement Focus**
+At CAPTRUST, we are committed to building and maintaining a diverse workforce and inclusive work environment where ALL colleagues feel authentically seen, respected, and supported.  
 
+It is our intent to maintain a work environment that is free of harassment, discrimination, or retaliation because of sex (including pregnancy, childbirth, or other related medical conditions), gender, race (including hair texture or hairstyles associated with race), religion, color, national origin, ancestry, physical or mental disability, genetic information, age, sexual orientation, gender identity, gender expression, protected veteran status, uniformed service, or any other status protected by federal, state, or local laws.\\#mid\\-senior  
 
-* Long\\-term contract supporting a **mission\\-critical data platform**
-* Emphasis on **stability, performance improvement, and operational ownership**
-* Requires a resource who can **operate independently and lead through ambiguity**
-* Not advisory—this is a **hands\\-on execution and delivery role**
+This position will remain open until filled.","Education And Schools","https://www.indeed.com/cmp/National-Louis-University","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/47dfe68c9602cf29aa6af7ced8751ce6","https://www.nl.edu/about/","Chicago, IL","1,001 to 5,000","$25M to $100M (USD)","Why Work at NLU? At National Louis University, your work matters. We're a mission-driven community that goes beyond teaching to truly transform lives. Everything we do is grounded in our core values","","","","","",""
+"in-ce62fbcca405d192","indeed","https://www.indeed.com/viewjob?jk=ce62fbcca405d192","https://careers.sabresystems.com/jobs/4633/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Data Analytics Engineer","Sabre Systems","Lexington Park, MD, US","2026-04-17","fulltime","","","","","",False,"","","","","Responsibilities:
 
+The NAVAIR Digital Department, Command Data Officer Team is seeking a Data Analytics Engineer to work with our diverse operational and customer stakeholders to identify, help acquire, process, and when necessary, visualize and analyze our diverse data sources. The successful candidate will work across diverse technical and operational customers on a number of mission\\-critical, high\\-visibility projects to contribute foundational data assets for our analytics team.  
 
-**Key Responsibilities**
-
-
-**Azure SQL Platform Administration \\& Optimization**
-
-
-* Administer and manage **Azure SQL Managed Instance and Azure SQL databases** in production environments
-* Perform **database performance tuning**, including indexing strategies, query plan analysis, and workload optimization
-* Diagnose and resolve **locking, blocking, and concurrency issues**
-* Implement and manage **database security, user access, and role\\-based permissions**
-* Ensure robust **backup, recovery, and high availability practices**
+Primary Responsibilities:* Work with data engineers \\& developers to acquire, process, and format data both at source and post\\-extraction to create analytical products
+* Work hand\\-in\\-hand with data analysts \\& data scientists to ready diverse data sources for analytics work
+* Liaise with business and operational stakeholders and customers to understand business needs, metrics, and goals and objectives. Translate and map user requirements to underlying data sources and develop plans for how those data sources can be extracted
+* Work with data scientists, analysts, architects, and business stakeholders to develop thorough documentation for data sources and pipelines (e.g. data dictionaries, flow models, etc)
 
   
 
 
-**Data Factory (ADF) Engineering \\& Operations**
+Qualifications:
+* Bachelor’s degree in an information technology related field is required, Master’s degree is preferred.
+* Three (3\\) years of related experience is required
+* Thorough working knowledge of at least two analytical programming languages (R, Python, Scala, SQL)
+* Working knowledge of code repositories \\& version control (Git)
+* Basic working knowledge at least one BI/visualization tool (Qlik, Tableau, Power BI)
+* Technical and business domain\\-focused customer experience
+* A Security \\+ certification is required within 90 days of higher
+* An active DoD Secret Clearance or higher is required
+* Selected candidate must pass a background investigation
 
 
-* Design, build, and maintain **ADF pipelines for batch and incremental data loading**
-* Administer ADF environments, including **monitoring, scheduling, and failure handling**
-* Troubleshoot **pipeline failures, integration issues, and performance bottlenecks**
-* Analyze execution logs and metrics to identify **systemic issues in data processing workflows**
-* Ensure pipelines are **resilient, scalable, and operationally supportable**
+Desired Skills* Experience working with Cybersecurity / RMF
+* Knowledge of advanced analytics principals (statistical modeling, machine learning, AI)
+* Experience building/maintaining/automating dashboards for users
+* Military background a plus
 
   
 
 
-**Data Load Process Ownership**
+Overview:
 
+Sabre Systems, LLC, has been providing innovative technological solutions and services for Department of Defense, Federal Civilian, and commercial customers for more than 35 years. We support the ever\\-evolving areas of advanced communication technologies, cyber, systems and software engineering, and digital transformation.  
 
-* Take **end\\-to\\-end ownership of data loading processes**, from ingestion through validation
-* Lead efforts to **stabilize, standardize, and improve existing pipelines**
-* Identify root causes of failures and implement **durable, repeatable fixes**
-* Coordinate across teams to ensure **data availability and integrity**
-* Establish and enforce **monitoring, alerting, and operational discipline**
-
-
-**Automation \\& Scripting**
-
-
-* Develop and maintain **automation using Python and/or PowerShell**
-* Automate operational workflows such as **environment validation, monitoring, and remediation**
-* Reduce manual intervention through **repeatable scripting solutions**
-
-
-**Azure Infrastructure \\& DevOps Integration**
-
-
-* Work within Azure environments to support **infrastructure dependencies impacting data workloads**
-* Utilize Azure DevOps (ADO) for:
-* + Managing **database schema changes**
-	+ Versioning and promoting **ADF pipelines**
-* Contribute to **CI/CD practices** for data platform deployments
-
-
-**Delivery \\& Stakeholder Engagement**
-
-
-* Work directly with **client stakeholders, internal teams, and third\\-party vendors**
-* Operate effectively in environments with **unclear ownership, legacy systems, or process gaps**
-* Communicate clearly around **issues, risks, and remediation strategies**
-* Demonstrate a willingness to **take initiative, assume ownership, and drive outcomes**
-
-
-**Required Qualifications**
-
-
-* 7\\+ years of experience in **database administration, data engineering, or data platform operations**
-* Deep hands\\-on expertise with:
-* + **Azure SQL Managed Instance / Azure SQL Database**
-	+ **Azure Data Factory (pipeline development and administration)**
-* Strong experience in **SQL query optimization and performance tuning**
-* Proven ability to diagnose and resolve:
-* + Locking/blocking issues
-	+ Data pipeline failures
-	+ Performance bottlenecks
-* Experience managing **database user access and security administration**
-* Hands\\-on experience with **Python and/or PowerShell scripting**
-* Experience with **Azure DevOps (ADO)** for managing code and deployments
-* Strong analytical skills with the ability to **interpret logs and debug data processes**
-* Ability to work **independently in complex, high\\-pressure environments**
-
-
-**Preferred Qualifications**
-
-
-* Experience supporting **large\\-scale or high\\-volume data environments**
-* Exposure to **multi\\-vendor or hybrid data ecosystems**
-* Familiarity with broader Azure services supporting enterprise data platforms
-* Prior experience in **client\\-facing or consulting roles**
-* Experience stabilizing or inheriting **underperforming data environments**
-
-
-**What Success Looks Like**
-
-
-* Data pipelines run **reliably with minimal disruption**
-* Database performance issues are **identified early and resolved quickly**
-* Data load processes are **owned, documented, and continuously improving**
-* Stakeholders gain **confidence in the platform and its stability**
-* The environment shifts from **reactive issue management to proactive control**
-* The individual becomes the **go\\-to resource for platform reliability and execution**
-
-
-\\#LI\\-NP1
-
-
-New Era Technology, LLC., and its subsidiaries (""New Era"" ""we"", ""us"", or ""our"") in its operating regions worldwide are committed to respecting your privacy and recognize the need for appropriate protection and management of any Personal Data that you may provide us. In this, we are also committed to providing you with a positive experience on our websites and while using our products, services and solutions (""Solutions"").
-
-
-
-View our Privacy Policy here https://www.neweratech.com/us/privacy\\-policy/
-
-
-
-We never ask candidates to pay any fees at any point in our hiring process. If you are ever asked to provide payment for training, certification, equipment, or any other purpose, it is not from our company. Only communications from our official company channels should be trusted. Please note our official email domain is **@neweratech.com**. If you suspect fraudulent activity, please contact us immediately at privacy@neweratech.com .","Consulting And Business Services","https://www.indeed.com/cmp/New-Era-Technology","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/cdd9f5f4057ba49fb87bb9064cb76e09","http://www.neweratechnology.com","New York, New York","1,001 to 5,000","$100M to $500M (USD)","Delivering technology solutions that securely connect people, places, and information in a rapidly changing digital world.","","","","","",""
-"in-017456cde7896b46","indeed","https://www.indeed.com/viewjob?jk=017456cde7896b46","https://grnh.se/eq48z3mq2us","Senior Azure Data Platform Engineer","New Era Technology","Chicago, IL, US","2026-05-28","contract","","","","","",True,"","","","privacy@neweratech.com","Join New Era Technology, where People First is at the heart of everything we do. With a global team of over 3,000 professionals, we're committed to creating a workplace where everyone feels valued, empowered, and inspired to grow. Our mission is to securely connect people, places, and information with end\\-to\\-end technology solutions at scale.
-
-
-
-At New Era, you'll join a team\\-oriented culture that prioritizes your personal and professional development. Work alongside industry\\-certified experts, access continuous training, and enjoy competitive benefits. Guided by our core attributes — putting people first, embracing continuous learning, and thriving through collaboration and inclusion — we nurture our people to deliver exceptional customer service.
-
-
-
-If you want to make an impact in a supportive, growth\\-oriented environment, New Era is the place for you. Apply today and help us shape the future of work—together
-
- **Role Overview**
-
-
-
-We are seeking a senior\\-level Azure Data Platform Engineer with deep expertise in Azure SQL Managed Instance, Azure Data Factory (ADF), and enterprise database administration. This individual will play a hands\\-on leadership role in managing, troubleshooting, and driving data platform reliability and performance across a complex client environment.
-
-
-
-This is not a passive support role. The ideal candidate is someone who will step in, take ownership of data pipelines and database operations, and proactively identify and resolve issues—often in high\\-pressure or ambiguous situations with demanding stakeholders.
-
-
-
-This role is best suited for a practitioner who can balance deep technical execution with client engagement, operate across vendor ecosystems, and lead critical data loading and platform operations end\\-to\\-end.
-
-
-**Engagement Focus**
-
-
-* Long\\-term contract supporting a **mission\\-critical data platform**
-* Emphasis on **stability, performance improvement, and operational ownership**
-* Requires a resource who can **operate independently and lead through ambiguity**
-* Not advisory—this is a **hands\\-on execution and delivery role**
-
-
-**Key Responsibilities**
-
-
-**Azure SQL Platform Administration \\& Optimization**
-
-
-* Administer and manage **Azure SQL Managed Instance and Azure SQL databases** in production environments
-* Perform **database performance tuning**, including indexing strategies, query plan analysis, and workload optimization
-* Diagnose and resolve **locking, blocking, and concurrency issues**
-* Implement and manage **database security, user access, and role\\-based permissions**
-* Ensure robust **backup, recovery, and high availability practices**
-
-  
-
-
-**Data Factory (ADF) Engineering \\& Operations**
-
-
-* Design, build, and maintain **ADF pipelines for batch and incremental data loading**
-* Administer ADF environments, including **monitoring, scheduling, and failure handling**
-* Troubleshoot **pipeline failures, integration issues, and performance bottlenecks**
-* Analyze execution logs and metrics to identify **systemic issues in data processing workflows**
-* Ensure pipelines are **resilient, scalable, and operationally supportable**
-
-  
-
-
-**Data Load Process Ownership**
-
-
-* Take **end\\-to\\-end ownership of data loading processes**, from ingestion through validation
-* Lead efforts to **stabilize, standardize, and improve existing pipelines**
-* Identify root causes of failures and implement **durable, repeatable fixes**
-* Coordinate across teams to ensure **data availability and integrity**
-* Establish and enforce **monitoring, alerting, and operational discipline**
-
-
-**Automation \\& Scripting**
-
-
-* Develop and maintain **automation using Python and/or PowerShell**
-* Automate operational workflows such as **environment validation, monitoring, and remediation**
-* Reduce manual intervention through **repeatable scripting solutions**
-
-
-**Azure Infrastructure \\& DevOps Integration**
-
-
-* Work within Azure environments to support **infrastructure dependencies impacting data workloads**
-* Utilize Azure DevOps (ADO) for:
-* + Managing **database schema changes**
-	+ Versioning and promoting **ADF pipelines**
-* Contribute to **CI/CD practices** for data platform deployments
-
-
-**Delivery \\& Stakeholder Engagement**
-
-
-* Work directly with **client stakeholders, internal teams, and third\\-party vendors**
-* Operate effectively in environments with **unclear ownership, legacy systems, or process gaps**
-* Communicate clearly around **issues, risks, and remediation strategies**
-* Demonstrate a willingness to **take initiative, assume ownership, and drive outcomes**
-
-
-**Required Qualifications**
-
-
-* 7\\+ years of experience in **database administration, data engineering, or data platform operations**
-* Deep hands\\-on expertise with:
-* + **Azure SQL Managed Instance / Azure SQL Database**
-	+ **Azure Data Factory (pipeline development and administration)**
-* Strong experience in **SQL query optimization and performance tuning**
-* Proven ability to diagnose and resolve:
-* + Locking/blocking issues
-	+ Data pipeline failures
-	+ Performance bottlenecks
-* Experience managing **database user access and security administration**
-* Hands\\-on experience with **Python and/or PowerShell scripting**
-* Experience with **Azure DevOps (ADO)** for managing code and deployments
-* Strong analytical skills with the ability to **interpret logs and debug data processes**
-* Ability to work **independently in complex, high\\-pressure environments**
-
-
-**Preferred Qualifications**
-
-
-* Experience supporting **large\\-scale or high\\-volume data environments**
-* Exposure to **multi\\-vendor or hybrid data ecosystems**
-* Familiarity with broader Azure services supporting enterprise data platforms
-* Prior experience in **client\\-facing or consulting roles**
-* Experience stabilizing or inheriting **underperforming data environments**
-
-
-**What Success Looks Like**
-
-
-* Data pipelines run **reliably with minimal disruption**
-* Database performance issues are **identified early and resolved quickly**
-* Data load processes are **owned, documented, and continuously improving**
-* Stakeholders gain **confidence in the platform and its stability**
-* The environment shifts from **reactive issue management to proactive control**
-* The individual becomes the **go\\-to resource for platform reliability and execution**
-
-
-\\#LI\\-NP1
-
-
-New Era Technology, LLC., and its subsidiaries (""New Era"" ""we"", ""us"", or ""our"") in its operating regions worldwide are committed to respecting your privacy and recognize the need for appropriate protection and management of any Personal Data that you may provide us. In this, we are also committed to providing you with a positive experience on our websites and while using our products, services and solutions (""Solutions"").
-
-
-
-View our Privacy Policy here https://www.neweratech.com/us/privacy\\-policy/
-
-
-
-We never ask candidates to pay any fees at any point in our hiring process. If you are ever asked to provide payment for training, certification, equipment, or any other purpose, it is not from our company. Only communications from our official company channels should be trusted. Please note our official email domain is **@neweratech.com**. If you suspect fraudulent activity, please contact us immediately at privacy@neweratech.com .","Consulting And Business Services","https://www.indeed.com/cmp/New-Era-Technology","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/cdd9f5f4057ba49fb87bb9064cb76e09","http://www.neweratechnology.com","New York, New York","1,001 to 5,000","$100M to $500M (USD)","Delivering technology solutions that securely connect people, places, and information in a rapidly changing digital world.","","","","","",""
-"in-6bd35fb9d308582e","indeed","https://www.indeed.com/viewjob?jk=6bd35fb9d308582e","https://grnh.se/eq48z3mq2us","Senior Azure Data Platform Engineer","New Era Technology","Houston, TX, US","2026-05-28","contract","","","","","",True,"","","","privacy@neweratech.com","Join New Era Technology, where People First is at the heart of everything we do. With a global team of over 3,000 professionals, we're committed to creating a workplace where everyone feels valued, empowered, and inspired to grow. Our mission is to securely connect people, places, and information with end\\-to\\-end technology solutions at scale.
-
-
-
-At New Era, you'll join a team\\-oriented culture that prioritizes your personal and professional development. Work alongside industry\\-certified experts, access continuous training, and enjoy competitive benefits. Guided by our core attributes — putting people first, embracing continuous learning, and thriving through collaboration and inclusion — we nurture our people to deliver exceptional customer service.
-
-
-
-If you want to make an impact in a supportive, growth\\-oriented environment, New Era is the place for you. Apply today and help us shape the future of work—together
-
- **Role Overview**
-
-
-
-We are seeking a senior\\-level Azure Data Platform Engineer with deep expertise in Azure SQL Managed Instance, Azure Data Factory (ADF), and enterprise database administration. This individual will play a hands\\-on leadership role in managing, troubleshooting, and driving data platform reliability and performance across a complex client environment.
-
-
-
-This is not a passive support role. The ideal candidate is someone who will step in, take ownership of data pipelines and database operations, and proactively identify and resolve issues—often in high\\-pressure or ambiguous situations with demanding stakeholders.
-
-
-
-This role is best suited for a practitioner who can balance deep technical execution with client engagement, operate across vendor ecosystems, and lead critical data loading and platform operations end\\-to\\-end.
-
-
-**Engagement Focus**
-
-
-* Long\\-term contract supporting a **mission\\-critical data platform**
-* Emphasis on **stability, performance improvement, and operational ownership**
-* Requires a resource who can **operate independently and lead through ambiguity**
-* Not advisory—this is a **hands\\-on execution and delivery role**
-
-
-**Key Responsibilities**
-
-
-**Azure SQL Platform Administration \\& Optimization**
-
-
-* Administer and manage **Azure SQL Managed Instance and Azure SQL databases** in production environments
-* Perform **database performance tuning**, including indexing strategies, query plan analysis, and workload optimization
-* Diagnose and resolve **locking, blocking, and concurrency issues**
-* Implement and manage **database security, user access, and role\\-based permissions**
-* Ensure robust **backup, recovery, and high availability practices**
-
-  
-
-
-**Data Factory (ADF) Engineering \\& Operations**
-
-
-* Design, build, and maintain **ADF pipelines for batch and incremental data loading**
-* Administer ADF environments, including **monitoring, scheduling, and failure handling**
-* Troubleshoot **pipeline failures, integration issues, and performance bottlenecks**
-* Analyze execution logs and metrics to identify **systemic issues in data processing workflows**
-* Ensure pipelines are **resilient, scalable, and operationally supportable**
-
-  
-
-
-**Data Load Process Ownership**
-
-
-* Take **end\\-to\\-end ownership of data loading processes**, from ingestion through validation
-* Lead efforts to **stabilize, standardize, and improve existing pipelines**
-* Identify root causes of failures and implement **durable, repeatable fixes**
-* Coordinate across teams to ensure **data availability and integrity**
-* Establish and enforce **monitoring, alerting, and operational discipline**
-
-
-**Automation \\& Scripting**
-
-
-* Develop and maintain **automation using Python and/or PowerShell**
-* Automate operational workflows such as **environment validation, monitoring, and remediation**
-* Reduce manual intervention through **repeatable scripting solutions**
-
-
-**Azure Infrastructure \\& DevOps Integration**
-
-
-* Work within Azure environments to support **infrastructure dependencies impacting data workloads**
-* Utilize Azure DevOps (ADO) for:
-* + Managing **database schema changes**
-	+ Versioning and promoting **ADF pipelines**
-* Contribute to **CI/CD practices** for data platform deployments
-
-
-**Delivery \\& Stakeholder Engagement**
-
-
-* Work directly with **client stakeholders, internal teams, and third\\-party vendors**
-* Operate effectively in environments with **unclear ownership, legacy systems, or process gaps**
-* Communicate clearly around **issues, risks, and remediation strategies**
-* Demonstrate a willingness to **take initiative, assume ownership, and drive outcomes**
-
-
-**Required Qualifications**
-
-
-* 7\\+ years of experience in **database administration, data engineering, or data platform operations**
-* Deep hands\\-on expertise with:
-* + **Azure SQL Managed Instance / Azure SQL Database**
-	+ **Azure Data Factory (pipeline development and administration)**
-* Strong experience in **SQL query optimization and performance tuning**
-* Proven ability to diagnose and resolve:
-* + Locking/blocking issues
-	+ Data pipeline failures
-	+ Performance bottlenecks
-* Experience managing **database user access and security administration**
-* Hands\\-on experience with **Python and/or PowerShell scripting**
-* Experience with **Azure DevOps (ADO)** for managing code and deployments
-* Strong analytical skills with the ability to **interpret logs and debug data processes**
-* Ability to work **independently in complex, high\\-pressure environments**
-
-
-**Preferred Qualifications**
-
-
-* Experience supporting **large\\-scale or high\\-volume data environments**
-* Exposure to **multi\\-vendor or hybrid data ecosystems**
-* Familiarity with broader Azure services supporting enterprise data platforms
-* Prior experience in **client\\-facing or consulting roles**
-* Experience stabilizing or inheriting **underperforming data environments**
-
-
-**What Success Looks Like**
-
-
-* Data pipelines run **reliably with minimal disruption**
-* Database performance issues are **identified early and resolved quickly**
-* Data load processes are **owned, documented, and continuously improving**
-* Stakeholders gain **confidence in the platform and its stability**
-* The environment shifts from **reactive issue management to proactive control**
-* The individual becomes the **go\\-to resource for platform reliability and execution**
-
-
-\\#LI\\-NP1
-
-
-New Era Technology, LLC., and its subsidiaries (""New Era"" ""we"", ""us"", or ""our"") in its operating regions worldwide are committed to respecting your privacy and recognize the need for appropriate protection and management of any Personal Data that you may provide us. In this, we are also committed to providing you with a positive experience on our websites and while using our products, services and solutions (""Solutions"").
-
-
-
-View our Privacy Policy here https://www.neweratech.com/us/privacy\\-policy/
-
-
-
-We never ask candidates to pay any fees at any point in our hiring process. If you are ever asked to provide payment for training, certification, equipment, or any other purpose, it is not from our company. Only communications from our official company channels should be trusted. Please note our official email domain is **@neweratech.com**. If you suspect fraudulent activity, please contact us immediately at privacy@neweratech.com .","Consulting And Business Services","https://www.indeed.com/cmp/New-Era-Technology","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/cdd9f5f4057ba49fb87bb9064cb76e09","http://www.neweratechnology.com","New York, New York","1,001 to 5,000","$100M to $500M (USD)","Delivering technology solutions that securely connect people, places, and information in a rapidly changing digital world.","","","","","",""
-"in-1669dcdcfddc25c0","indeed","https://www.indeed.com/viewjob?jk=1669dcdcfddc25c0","https://recruitingbypaycor.com/career/JobIntroduction.action?id=8a7883a89e6b0bf7019e6bd995cc1a1f&source=Indeed+Free","Analytics Engineeer, Automation & AI","Portico Property Management","Remote, US","2026-05-27","","direct_data","yearly",70000.0,80000.0,"USD",True,"","","","","Portico has an amazing opportunity to join our team as an **Analytics Engineer, Automation \\& AI!**
-**Job Summary**  
-
-The Analytics Engineer, Automation \\& AI partners closely with the VP of Analytics to build scalable data solutions, automate operational workflows, and develop AI\\-enabled tools that improve business performance and decision\\-making. This role combines analytics engineering, automation, and problem\\-solving to transform operational data into actionable insights and repeatable systems.  
-
-**Key Responsibilities**  
-
-**Automation \\& AI**
-* Design and build internal tools and automated workflows that improve operational efficiency and decision\\-making.
-* Identify opportunities to streamline manual processes using Python, APIs, scripting, and AI\\-enabled solutions.
-* Translate business processes and institutional knowledge into scalable, repeatable systems.
-* Prototype and test practical AI and automation solutions that drive measurable business impact.
-
-**Data Engineering \\& Analytics**
-* Develop and optimize SQL queries to organize, transform, and analyze operational data.
-* Build and maintain reusable datasets and reporting infrastructure for business intelligence and analytics.
-* Support and enhance Python\\-based data ingestion and automation pipelines.
-* Integrate and manage data from APIs, SFTP processes, and third\\-party platforms.
-* Improve the reliability, scalability, and performance of existing data models and workflows.
-
-**Business Partnership \\& Insights**
-* Translate business needs into practical analytical and technical solutions.
-* Collaborate cross\\-functionally with operations, marketing, HR, and leadership teams.
-* Support strategic initiatives with trusted reporting, dashboards, and data\\-driven insights.
-* Help standardize KPIs and improve organizational confidence in reporting and analytics.
-
-**Continuous Improvement**
-* Contribute to the ongoing development of Portico’s analytics and automation ecosystem.
-* Identify process inefficiencies and recommend scalable solutions.
-* Participate in rapid prototyping, experimentation, and implementation of new ideas and technologies.
-
-**Qualifications**  
-
-**Required Qualifications**
-* 1–3 years of experience in analytics, data engineering, automation, technical problem\\-solving, or related project work.
-* Strong SQL skills and experience working with relational databases.
-* Foundational Python experience for automation, APIs, or data workflows.
-* Strong analytical thinking and problem\\-solving abilities.
-* Ability to translate business challenges into technical solutions.
-* Strong communication skills and willingness to learn in a fast\\-paced environment.
-
-**Preferred Qualifications**
-* Experience with cloud platforms, preferably Microsoft Azure.
-* Familiarity with BI and visualization tools such as Metabase, Tableau, or Power BI.
-* Exposure to data modeling and data architecture concepts.
-* Experience working with APIs and workflow automation tools.
-* Interest in AI applications and business process automation.
-* Familiarity with CRM systems and attribution workflows.
-
-**Physical Requirements**
-* Reasonable accommodations may be made to enable individuals with disabilities to perform essential job functions.
-* Ability to communicate clearly and effectively in English.
-* Ability to sit and work at a computer for extended periods.
-* Ability to perform repetitive hand and wrist movements, including typing.
-* Ability to occasionally lift and transport materials up to 30 pounds.
-* Ability to read and analyze printed and digital information.
-
-**Work Environment**
-* Primarily office and computer\\-based work environment.
-* Occasional extended work hours may be required based on business needs.
-* Limited travel may be required for meetings, training, or company events.
-* Moderate noise level typical of an office environment.
-
-
-*Our Company is an equal Opportunity Employer. As a condition of employment, a satisfactory drug test and background check are required.*","Real Estate","https://www.indeed.com/cmp/Portico-Property-Management","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f43b87fcfc4cc1617122a8120dc3d412","https://www.porticopm.com","440 Cobia Dr., Ste 2003
-Katy, TX 77494","201 to 500","","","","","","","",""
-"in-80166a6fc407a322","indeed","https://www.indeed.com/viewjob?jk=80166a6fc407a322","https://jobs.ashbyhq.com/angi/b4a666ff-56c9-4c94-b3b7-38aff7271c91?utm_source=wmYkbBZnkb","Principal Analytics Engineer","Angi","Denver, CO, US","2026-05-27","fulltime","direct_data","yearly",165000.0,240000.0,"USD",True,"","","","","For over 30 years, Angi has powered the future of the home services industry, creating an environment where homeowners and pros benefit from more jobs done well.
-
-
-For homeowners, our platform is a reliable way to find skilled pros. For pros, we're a reliable business partner who helps them find the winnable work they want, when they want. For employees, we're an amazing place to call home. We can't wait to welcome you.
-
-**Angi at a glance:**
-
-* Founded in 1995 as Angie’s List and rebranded in 2021
-* Global company with 9 brands in 8 countries and employees worldwide
-* Homeowners have turned to us for 300 million home projects and counting
-
-**About the team**
-------------------
-
-
-The Principal Analytics Engineer for Product Analytics will shape how product data is transformed and consumed, ensuring that both human analysts and AI agents receive consistent metrics, faster iteration, and trustworthy answers. This role is central to designing and evolving an analytics architecture that radically shortens the distance from complex business questions to validated insights. As a Principal leader, you will be the connective tissue across data engineering, analytics, and product teams—architecting pipelines, semantic layers, and quality practices so they work as a singular, cohesive system.
-
-
-The ideal candidate is a visionary technical simplifier with deep expertise in modern data stacks, a passion for developer/analyst velocity, and a proven ability to enable partner teams. You will play a dual role: empowering human analysts to spend less time debugging and more time driving strategy, while simultaneously hardening our data layer into a load\\-bearing, semantic infrastructure that AI tools can query accurately and safely.
-
-**What you’ll do**
-------------------
-
-**Architecture \\& Semantic Layer Strategy**
-
-* **Data Product Ownership:** Design, build, and evolve high\\-scale dbt models that transform raw upstream inputs into clean, well\\-documented, analytics\\-ready data products with clear contracts and ownership.
-* **Agent\\-Safe Infrastructure:** Implement critical guardrails, clear grain definitions, meaningful metadata descriptions, and approved access paths so AI tools and agents can query data accurately without bypassing governance.
-* **Semantic Evolution:** Shape how metrics are defined and exposed so that analysts, dashboards, and AI tools all return the same answer to the same question, turning the semantic layer into production\\-grade infrastructure for AI\\-powered BI.
-
-**Operational Excellence \\& Velocity**
-
-* **Friction Elimination:** Translate recurring analyst pain points—such as ambiguous metrics, broken joins, or undocumented fields—into durable, reusable models, patterns, and shared interfaces.
-* **Quality \\& Governance Standards:** Set and hold the bar for what ""done"" means for a data product, embedding robust testing, freshness expectations, data catalogs, and metadata ownership into the development lifecycle.
-* **Cross\\-Functional Alignment:** Coordinate across data platforms and product teams to map use cases, eliminate duplicate work, surface technical tradeoffs early, and drastically reduce cycle times xffrom business question to trusted answer.
-
-**Leadership \\& Enablement**
-
-* **Shared Frameworks:** Collaborate with data and analytics engineering peers to establish and maintain global patterns, package management, and repository best practices.
-* **Mentorship \\& Review:** Raise the collective engineering bar across the organization by running technical reviews, hosting office hours, and leading pair\\-programming sessions with domain analysts and engineers.
-
-**Who you are**
----------------
-
-
-Minimum Qualifications
-
-* 12\\+ years of experience in analytics engineering, data engineering with heavy analytics partnership, or an equivalent technical data role.
-* Expert\\-level SQL and strong Python proficiency for advanced data work, with a proven track record of delivering on a modern data stack (transformation\\-as\\-code, orchestration, warehouses, and BI).
-* Experience with data governance tooling, including data catalogs, lineage systems, and policy\\-aware access patterns.
-* Exceptional cross\\-functional leadership skills with a history of influencing engineering and product teams without direct authority.
-* Strong technical communication skills, with the unique ability to explain complex modeling decisions to a product analyst without jargon, and to a platform engineer without oversimplifying.
-
-
-Preferred Qualifications
-
-* Hands\\-on experience working directly with dbt and Snowflake in a high\\-scale environment.
-* Practical experience implementing data mesh architectures or federated data ownership models.
-* Exposure to AI/LLM tooling as a data consumer, with a strong conceptual grasp of what clean, well\\-structured data requires to be successfully queried by AI agents and assistants.
-
-**We value diversity**
-
-
-We know that the best ideas come from teams where diverse points of view uncover new solutions to hard problems. We welcome and value individuals who bring diverse life experiences, educational backgrounds, cultures, and work experiences.
-
-**Compensation \\& Benefits**
-
-* The salary band for this position rangesfrom$165,000 \\- $240,000commensurate with experience and performance. Compensation may vary based on factors such as cost of living.
-* This position will be eligible for a competitive year end performance bonus \\& equity package.
-* Full medical, dental, vision package to fit your needs
-* Flexible vacation policy; work hard and take time when you need it
-* Pet discount plans \\& retirement plan with company match (401K)
-* The rare opportunity to work with sharp, motivated teammates solving some of the most unique challenges and changing the world
-
-
-\\#LI\\-Remote","","https://www.indeed.com/cmp/Angi-3","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/17f141113042317d998cb5812dce3d21","https://www.angi.com","Denver, CO","1,001 to 5,000","$1B to $5B (USD)","Angi – Jobs Done Well","","","","","",""
-"in-92e8c906f62bbf12","indeed","https://www.indeed.com/viewjob?jk=92e8c906f62bbf12","https://jobs.lever.co/vida/a4b3fd9c-a416-48ff-9227-7f08a90f478f?lever-source=Indeed","Senior Analytics Engineer","Vida Health","Remote, US","2026-05-27","fulltime","direct_data","yearly",115000.0,130000.0,"USD",True,"","","","","**ABOUT US**
-
-At Vida, we help people get better\\- and we're helping the healthcare system get better, too.
-
-Vida is a virtual, personalized obesity care provider that uses evidence\\-based treatment to help patients manage obesity and related conditions like diabetes, high blood pressure, anxiety and depression. Vida's team of Obesity Medicine\\-Certified Physicians, Registered Dietitians, Expert Coaches and Licensed Therapists takes a whole\\-person approach to care, helping people lose weight, reduce stress and improve their overall health.
-
-By combining advanced technology with top\\-notch healthcare providers, Vida is breaking down the barriers that have historically kept people from getting the best care. It's trusted by Fortune 100 companies, major national payers and large providers to enable their employees to live their healthiest lives.  
-
-Vida Health is seeking a Senior Analytics Engineer to serve as a high\\-impact, full\\-stack data partner. Positioned at the intersection of analytics engineering and data analysis, this role requires a practitioner who moves fluidly between technical development and strategic business partnership. You will own the entire lifecycle of data delivery\\- architecting pipelines from raw sources through dbt models and semantic layers into final Looker dashboards. You will embed directly with stakeholders to scope complex business questions, execute rigorous analyses, and independently translate ambiguous requirements into clear, decision\\-ready answers.
-### **Responsibilities:**
-
-
-* Architect and maintain analytics\\-ready datasets, LookML explores, and high\\-impact dashboards.
-* Confidently navigate dbt to trace lineage and debug models.
-* Make modeling decisions (grain, incremental strategies, data contracts) that bring order and stability to messy raw data sources.
-* Partner directly with Member Engagement teams to turn strategic questions into rigorous analyses.
-* Collaborate strategically with the core data engineering team to understand, shape, and optimize foundational data models.
-* Think critically about data limitations, challenge baseline assumptions, and articulate insights alongside their necessary caveats to both technical and non\\-technical audiences.
-* Other duties as assigned.
-### **Qualifications:**
-
-
-* Bachelor’s degree at a minimum.
-* 5\\-7 years of senior\\-level experience spanning both analytics engineering and data analysis. You are a true full\\-stack data practitioner capable of independently executing projects end\\-to\\-end without hand\\-offs.
-* Advanced SQL proficiency alongside production\\-level dbt experience, with specific expertise configuring metric and semantic layers.
-* Comfortable navigating, testing, and contributing to non\\-trivial codebases utilizing dbt macros, exposures, and lineage.
-* Version control and CI workflows experience within modern cloud data warehouses (e.g., Snowflake, BigQuery, Redshift).
-* Fluent in LookML with a proven ability to author and refactor models, structure intuitive explores for self\\-service, and seamlessly bridge the gap between dbt models and downstream business users.
-* Exceptional communication skills with a track record of managing stakeholders directly, scoping ambiguous requirements, and delivering high\\-impact solutions independently.
-### **Preferred:**
-
-
-* Proven track record of driving initiatives within the digital health and healthtech sectors.
-* Understanding of claims, clinical, and patient engagement data ecosystems, with a strict adherence to HIPAA guidelines and PHI data governance.
-* Experienced in launching data\\-driven experiments, building patient cohort analyses, and measuring outcomes to prove program efficacy.
-*Vida is proud to be an Equal Employment Opportunity and Affirmative Action employer.*
-
-*Diversity is more than a commitment at Vida—it is the foundation of what we do. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, religion, gender, gender identity or expression, sexual orientation, marital status, national origin, genetics, disability, age, or Veteran status. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law.*
-
-*We seek to recruit, develop and retain the most talented people from a diverse candidate pool. We don’t just accept differences — we celebrate them, we support them, and we thrive on them for the benefit of our employees, our platform and those we serve. Vida is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures.*
-
-We do not accept unsolicited assistance from any headhunters or recruitment firms for any of our job openings. All resumes or profiles submitted by search firms to any employee at Vida in any form without a valid, signed search agreement in place for the specific position will be deemed the sole property of Vida. No fee will be paid in the event the candidate is hired by Vida as a result of the unsolicited referral.
-
-***\\*\\*Vida is authorized to do business in many, but not all, states. If you are not located in or able to work from a state where Vida is registered, you will not be eligible for employment. Please speak with your recruiter to learn more about where Vida is registered.***
-
-**Please note:** **Applicants must be authorized to work in the U.S. as Vida is unable to sponsor work visas for any position.**
-**All Vida Employees must reside in/be able to work from the U.S.\\- international work is prohibited. Job postings at Vida are evergreen and will remain open through end of year, until filled.**
-
-\\#LI\\-remote
-
-We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.","","https://www.indeed.com/cmp/Vida-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8e3e986b78743b84d2f7dac7bb71b619","https://www.vida.com","100 Montgomery St., Suite 750
-San Francisco, CA 94104","51 to 200","","Vida pairs you with your own health coach and program. It’s like having your own personal trainer, nutritionist, and more all-in-one, always by your side.","","","","","",""
+With over three decades in business, Sabre Systems, LLC remains committed to our small business values and a people\\-first philosophy. We foster a welcoming, inclusive culture that values diverse perspectives and encourages open communication. Our collaborative environment supports continuous learning and professional growth at all levels. We prioritize the health, well\\-being, and success of our employees, offering comprehensive, evolving benefits designed to meet their diverse needs. Join us and be part of a thriving, people\\-driven culture. **We respect the unique perspectives that a diverse workforce of minorities, women, individuals with disabilities, and protected veterans brings not only to our company, but also to our customers. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex (including pregnancy, gender identity and sexual orientation), national origin, age, disability or genetic information.** **EEO Minorities/Females/Disability/Veterans; VEVRAA Federal Contractor** **Beware of employment scams**—Sabre Systems will never request payment, extend offers without an interview, or contact you from an email that doesn’t end in **@sabresystems.com**; always apply directly at https://careers.sabresystems.com/.","Internet And Software","https://www.indeed.com/cmp/Sabre-Systems-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f2fcc148800f241afdb60b566b9e6bcc","https://www.sabresystems.com/","46610 Expedition Dr #300
+Lexington Park, MD 20653","201 to 500","$25M to $100M (USD)","","","","","","",""

@@ -1,4 +1,94 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"in-0d0e54e0e9e5d117","indeed","https://www.indeed.com/viewjob?jk=0d0e54e0e9e5d117","https://job-boards.greenhouse.io/tvscientificpoweredbypinterest/jobs/7871313","Software Engineer II, Big Data","tvScientific","San Francisco, CA, US","2026-05-29","","direct_data","yearly",123696.0,254667.0,"USD",True,"","","","","**About tvScientific**
+
+
+
+tvScientific is the first and only CTV advertising platform purpose\\-built for performance marketers. We leverage massive data and cutting\\-edge science to automate and optimize TV advertising to drive business outcomes. Our solution combines media buying, optimization, measurement, and attribution in one, efficient platform. Our platform is built by industry leaders with a long history in programmatic advertising, digital media, and ad verification who have now purpose\\-built a CTV performance platform advertisers can trust to grow their business.
+
+  
+
+
+
+As a Data Engineer at tvScientific, you will be a key player in implementing the robust data infrastructure to power our data\\-heavy company. You will collaborate with our cross\\-functional teams to evolve our core data pipelines, design for efficiency as we scale, and store data in optimal engines and formats. This is an individual contributor role, where you will work to define and implement a strategic vision for data engineering within the organization.
+
+  
+
+**What you'll do:**
+
+
+* Design and implement robust data infrastructure in AWS, using Spark with Scala
+* Evolve our core data pipelines to efficiently scale for our massive growth
+* Store data in optimal engines and formats, matching your designs to our performance needs and cost factors
+* Collaborate with our cross\\-functional teams to design data solutions that meet business needs
+* Design and implement knowledge graphs, exposing their functionality both via Batch Processing and APIs
+* Leverage and optimize AWS resources while designing for scale
+* Collaborate closely with our Data Science and Product teams
+* **How we'll define success:**
+	+ Successful design and implementation of scalable and efficient data infrastructure
+	+ Timely delivery and optimization of data assets and APIs
+	+ High attention to detail in implementation of automated data quality checks
+	+ Effective collaboration with cross\\-functional teams
+
+  
+
+**What we're looking for:**
+
+
+* Production data engineering experience
+* Proficiency in Spark and Scala, with proven experience building data infrastructure in Spark using Scala is preferred
+* Experience in delivering significant technical initiatives and building reliable, large scale services
+* Experience in delivering APIs backed by relationship\\-heavy datasets
+* Familiarity with data lakes, cloud warehouses, and storage formats
+* Strong proficiency in AWS services
+* Expertise in SQL for data manipulation and extraction
+* Excellent written and verbal communication skills
+* Bachelor's degree in Computer Science or a related field
+* Demonstrated ability to use AI to improve speed and quality in your day\\-to\\-day workflow for relevant outputs
+* Strong track record of critical evaluation and verification of AI\\-assisted work (e.g., testing, source\\-checking, data validation, peer review)
+* High integrity and ownership: you protect sensitive data, avoid over\\-reliance on AI, and remain accountable for final decisions and deliverables
+* **Nice\\-to\\-haves:**
+	+ Experience in adtech
+	+ Experience implementing data governance practices, including data quality, metadata management, and access controls
+	+ Strong understanding of privacy\\-by\\-design principles and handling of sensitive or regulated data
+	+ Familiarity with data table formats like Apache Iceberg, Delta
+	+ Previous experience building out a Data Engineering function
+	+ Proven experience working closely with Data Science teams on machine learning pipelines
+  
+
+
+**In\\-Office Requirement Statement:**
+
+
+* We recognize that the ideal environment for work is situational and may differ across departments. What this looks like day\\-to\\-day can vary based on the needs of each organization or role.
+
+  
+
+  
+
+**Relocation Statement:**
+
+
+* This position is not eligible for relocation assistance.
+
+  
+
+
+
+\\#LI\\-SM4
+
+
+
+\\#LI\\-REMOTE
+
+
+At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.
+
+  
+
+US based applicants only
+
+
+$123,696 \\- $254,667 USD","","https://www.indeed.com/cmp/Tvscientific","","","","","","","","","","","",""
 "in-0d82486e04e8dd3c","indeed","https://www.indeed.com/viewjob?jk=0d82486e04e8dd3c","https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=02c88487-bfb7-4653-b0fc-4bfba36fc121&postingId=c6aeb3b7-29a1-48dd-bfb6-1de4b958ef78","Data Engineer","Medical Mutual of Ohio","Cleveland, OH, US","2026-05-29","","","","","","",True,"","","","","***\\*\\*Medical Mutual employees must submit their applications through MySource.***
 
 
@@ -203,6 +293,625 @@ Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
 
 This employer is required to notify all applicants of their rights pursuant to federal employment laws. For further information, please review the Know Your Rights (https://www.eeoc.gov/poster) notice from the Department of Labor.","Insurance","https://www.indeed.com/cmp/Medical-Mutual-of-Ohio","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b8db197c9009bdf8dc654a5dee262154","https://www.medmutual.com/","100 American Rd.
 Brooklyn, Ohio 44144","1,001 to 5,000","$1B to $5B (USD)","Medical Mutual has been selected as a Northeast Ohio Top Workplace for 13 consecutive years. We have exceptional career opportunities offering challenging work, growth and a great work-life balance.","","","","","",""
+"in-a33d1d13cecccfc7","indeed","https://www.indeed.com/viewjob?jk=a33d1d13cecccfc7","https://www.governmentjobs.com/careers/michigan/jobs/5355666/departmental-analyst-9-12-data-visualization-analyst-bureau-of-development","Departmental Analyst 9-12 (Data Visualization Analyst) - Bureau of Development","State of Michigan","Lansing, MI, US","2026-05-28","fulltime","direct_data","hourly",25.0,43.0,"USD",True,"","","","nautac@michigan.gov","**Job Description**
+-------------------
+
+  
+
+  
+
+Do you enjoy transforming complex information into meaningful insights that drive action? Are you passionate about finding new ways to tell a story through data and creating tools that help others make informed decisions? If so, this may be the opportunity for you.
+
+
+At the Michigan Department of Transportation (MDOT), you'll have the unique opportunity to help shape how performance information is visualized and communicated across the department. This is an opportunity to create something that will be seen and used by audiences ranging from MDOT leadership and transportation professionals to state leaders and the public. Your ability to turn data into compelling visual stories will help demonstrate the impact of transportation investments and support informed decision\\-making across Michigan.
+
+
+You'll be part of a collaborative team that values creativity, continuous improvement and strategic thinking. Whether you're designing new ways to present information, identifying opportunities to enhance decision\\-making or helping others see the story behind the data, your work will directly contribute to the future of transportation in Michigan.
+
+
+Success in this role comes from curiosity, creativity and a desire to continuously improve how information is shared and understood. If you enjoy bringing ideas to life, taking ownership of projects and leaving your mark on something that will be used across an entire organization, apply to begin your journey with MDOT today.
+
+
+As the next department analyst, you will be responsible for:
+
+* Designing and maintaining data visualizations such as dashboards, scorecards, reports, presentations, graphs, charts and maps, as well as the supporting tools, methods and processes that effectively communicate MDOT’s progress toward its mission and strategic objectives.
+* Collaborating with system and data owners to access, clean and integrate data from multiple sources, and automate data pipelines and workflows.
+* Assisting with performance analysis to identify trends, outliers and variances from targets or benchmarks, as well as highlighting areas of concern or opportunities for improvement.
+* Presenting findings and visualizations to internal and external stakeholders.
+* Assisting performance monitoring and management in support of MDOT programs, projects and related systems.
+* Contribute to the development of realistic and meaningful performance targets in collaboration with program areas.
+
+  
+
+The ""Salary"" listed above is a range that reflects the minimum rate at the entry *(9\\)* level through the maximum rate at the experienced *(P11\\)* level. Based on education and experience, candidates will be reviewed to determine what level they are qualified for.
+For additional information, please see the links below:
+
+* Departmental Analyst 9\\-P11 position description (Download PDF reader)
+* Departmental Analyst 12 position description (Download PDF reader)
+* All about MDOT
+
+  
+
+Based on operational needs and within established limits, remote work and alternate work schedule requests for this position may be considered.
+
+
+For information on benefits, visit www.mi.gov/employeebenefits or www.mi.gov/orsstatedc.
+
+
+The State of Michigan has been recognized as a leading U.S. employer by new graduates from 2021\\-2023 and a best large U.S. and state employer. Recognized on the international stage for fostering positive employee engagement, the State of Michigan is a past recipient of a North America Government Agency Employees Engagement Award.
+
+  
+
+
+**Required Education and Experience**
+-------------------------------------
+
+
+**Education for Departmental Analyst 9\\-12**  
+
+Possession of a bachelor's degree in any major.  
+
+Possession of a bachelor’s degree in statistics, computer science or data analytics, preferred.  
+
+  
+
+**Experience for Departmental Analyst 9\\-12**  
+
+  
+
+Departmental Analyst 9  
+
+No specific type or amount is required.  
+
+  
+
+Departmental Analyst 10  
+
+One year of professional experience.  
+
+  
+
+Departmental Analyst P11  
+
+Two years of professional experience, including one year of experience equivalent to the intermediate (10\\) level in state service.  
+
+  
+
+Departmental Analyst 12  
+
+Three years of professional experience, including one year of experience equivalent to the experienced (P11\\) level in state service.
+
+  
+
+**Alternate Education and Experience**
+--------------------------------------
+
+
+**Departmental Analyst (Departmental Trainee 9\\) 9 \\- 12**
+Educational level typically acquired through completion of high school and the equivalent of at least two years of full\\-time active\\-duty experience at or above the E\\-6 level in the uniformed services may be substituted for the education requirement.
+**Additional Requirements and Information**
+-------------------------------------------
+
+
+To be considered for this position you must:
+
+* If applicable, attach a copy of your official college transcripts and/or foreign degree evaluation with your application.Click here fortheState ofMichigan (SOM) definition ofanOfficial College Transcript.Applicants who possess foreign degrees must have their academic credentials evaluated or converted into U.S.educational equivalents.Civil Service accepts evaluations from organizations listed on the National Association of Credential Evaluation Services orthe Association of International Credential Evaluators, Inc.
+
+  
+
+View the job specification at: https://www.michigan.gov/mdcs/\\-/media/Project/Websites/mdcs/JOBSPECS/D/DepartmentalAnalyst.pdf (Download PDF reader)  
+
+MDOT does not participate in E\\-Verify and does not sponsor visa applications.
+
+
+All newly hired state employees are required to submit and pass a pre\\-employment drug test and physical (if applicable) prior to their actual appointment. Criminal and driving records will also be checked if applicable. Any position offer will be conditional until results of the drug test, physical, criminal background, and driving records indicate eligibility for employment.
+
+
+The department reserves the right to close this posting prior to its original end date once a sufficient number of applications have been received.
+
+
+Your application for any position does not guarantee that you will be contacted by the Department for further consideration. Only those applicants interviewed will be notified of the results.
+
+
+The use of artificial intelligence (AI) software of any kind is prohibited in all areas of the selection process including, but not limited to, responses to application questions and responses to interview questions or exercises.
+
+
+If you have questions related to this posting, please contact Camryn Nauta at nautac@michigan.gov.
+
+  
+
+
+**Accommodations**  
+
+If you require a reasonable accommodation to participate in the application or selection processes, please contact the ADA coordinator (Download PDF reader) for the agency that posted this position vacancy.","Government","https://www.indeed.com/cmp/State-of-Michigan","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/84955a0d89ae6716a286fba07e407e5a","https://www.michigan.gov/","Lansing, MI, United States, Michigan","10,000+","more than $10B (USD)","If you're looking for a fullfilling career that can make a real difference in the lives of others, you can find your place working for the State of Michigan!","","","","","",""
+"in-4f13747d3ba3f72e","indeed","https://www.indeed.com/viewjob?jk=4f13747d3ba3f72e","https://www.kaiserpermanentejobs.org/job/-/-/641/95690573008","IT Support & Operations Consultant V, Network/Telephony","Kaiser Permanente","Duluth, GA, US","2026-05-28","fulltime","direct_data","yearly",116200.0,150260.0,"USD",False,"","","","","**Job Summary:**
+This role is responsible for supporting, maintaining, and optimizing data, reporting, and analytics capabilities across enterprise contact center platforms, including NICE CXone and associated reporting, analytics, and data integration tools.
+
+
+The Data \\& Reporting Support Engineer serves as the primary technical resource for reporting issues, data quality concerns, and performance analytics, ensuring accurate, timely, and actionable insights for operations, leadership, and regulatory reporting.
+
+
+This role partners closely with operations, engineering, and business stakeholders to translate operational needs into reliable reporting solutions, while also supporting incident resolution, root cause analysis, and continuous improvement of data pipelines and reporting frameworks.
+
+
+In addition to the responsibilities listed below, this position is responsible for leading configuration, installation and support of network/telephony hardware, software, and VoIP systems . The position will also lead ACD reporting, ACD call flow, vendor management, projects, and consultation, including resolving complex problems while managing the Network and Telephony infrastructure and environment following established standards and procedures. This also includes leveraging a working knowledge of enterprise toolsets focused on LAN/WAN capacity reports and Telephony Metrics, and knowledge of features and components of Network and Telephony Hardware and software. Some of the unique challenges this position will face include identifying and leading resolution of network/telephony hardware and software for voice and data issues, oversight of activities and vendors, and facilitating and consulting on complex enterprise issues.
+
+ **Essential Responsibilities:*** Conducts or oversees business\\-specific projects by applying deep expertise in subject area; promoting adherence to all procedures and policies; developing work plans to meet business priorities and deadlines; determining and carrying out processes and methodologies; coordinating and delegating resources to accomplish organizational goals; partnering internally and externally to make effective business decisions; solving complex problems; escalating issues or risks, as appropriate; monitoring progress and results; recognizing and capitalizing on improvement opportunities; evaluating recommendations made; and influencing the completion of project tasks by others.
+* Practices self\\-leadership and promotes learning in others by building relationships with cross\\-functional stakeholders; communicating information and providing advice to drive projects forward; influencing team members within assigned unit; listening and responding to, seeking, and addressing performance feedback; adapting to competing demands and new responsibilities; providing feedback to others, including upward feedback to leadership and mentoring junior team members; creating and executing plans to capitalize on strengths and improve opportunity areas; and adapting to and learning from change, difficulties, and feedback.
+* Follows and develops standard operating procedures.
+* Analyzes and prioritizes incoming requests and alerts.
+* Provides first, second, and third level support to resolve difficult, complex, and sensitive problems with products and applications by meeting customer service standards (e.g., displaying a positive attitude, actively listening, taking ownership, leveraging knowledge, communicating clearly).
+* Serves as an escalation point and mentor for junior staff.
+* Provides guidance on how to track and develop documentation.
+* Applies deep technical expertise to resolve complex problems.
+* Contributes to and maintains the knowledge repository for highly complex technical support.
+* Facilitates troubleshooting efforts in conjunction with lower level support to identify problems.
+* Provides guidance to meet key performance indicators (e.g., performance, availability, capacity).
+* Compiles information (e.g., procedures, installation, configuration) related to new technology.
+
+ **Knowledge, Skills and Abilities: (Core)*** Ambiguity/Uncertainty Management
+* Attention to Detail
+* Business Knowledge
+* Communication
+* Critical Thinking
+* Cross\\-Group Collaboration
+* Decision Making
+* Dependability
+* Diversity, Equity, and Inclusion Support
+* Drives Results
+* Facilitation Skills
+* Health Care Industry
+* Influencing Others
+* Integrity
+* Learning Agility
+* Organizational Savvy
+* Problem Solving
+* Short\\- and Long\\-term Learning \\& Recall
+* Teamwork
+* Topic\\-Specific Communication
+
+ **Knowledge, Skills and Abilities: (Functional)*** Analytical Skills
+* Customer Support Operations
+* Help Desk
+* Information Security Management
+* Acts with Compassion
+* Crisis Incident Management
+* Demonstrating Personal Flexibility
+* Getting Work Done Through Others
+* Innovative Mindset
+* Managing Diverse Relationships
+* Mentoring and Coaching
+* Organizational Skills
+* Prioritization
+* Relationship Building
+* Technical Communication
+
+ **Minimum Qualifications:*** Minimum four (4\\) years experience in network/telephony system and user support.
+* Minimum two (2\\) years in a leadership role working with IT or operational teams.
+* Bachelors degree in Computer Science, Engineering, Social Science, Education, Business, Health Care or related field and Minimum eight (8\\) years IT experience in a support or operations environment. Additional equivalent work experience may be substituted for the degree requirement.
+
+**Preferred Qualifications:*** Four (4\\) years experience configuring, implementing, and supporting VOIP platforms or systems.
+* Four (4\\) years experience working with CISCO VOIP.
+* 5â€“8\\+ years of experience in data/reporting support, analytics, or BI roles
+* Experience supporting contact center platforms or analytics environments
+* Strong understanding of data structures, reporting logic, and KPI frameworks
+* Experience with ITSM processes (Incident, Problem, Change Management)
+* NICE CXone Reporting \\& Analytics (Interaction Analytics, Performance Management)
+* Business Intelligence tools (Power BI, Tableau, or equivalent)
+* Contact center reporting tools and dashboards
+* Experience with omnichannel reporting (voice, chat, digital)
+* SQL and data querying (intermediate to advanced)
+* Data pipeline troubleshooting and ETL concepts
+* API integrations and data exchange troubleshooting
+
+  
+
+
+PrimaryLocation : Georgia,Duluth,Duluth Contact Center  
+
+HoursPerWeek : 40  
+
+Shift : Day  
+
+Workdays : Mon, Tue, Wed, Thu, Fri  
+
+WorkingHoursStart : 08:00 AM  
+
+WorkingHoursEnd : 05:00 PM  
+
+Job Schedule : Full\\-time  
+
+Job Type : Standard  
+
+Employee Status : Regular  
+
+Employee Group/Union Affiliation : NUE\\-IT\\-01\\|NUE\\|Non Union Employee  
+
+Job Level : Individual Contributor  
+
+Job Category : Information Technology  
+
+Department : KPIT ADMIN \\- ITO WT EES STRATEGY \\- 9601  
+
+Travel : No  
+
+Kaiser Permanente is an equal opportunity employer committed to fair, respectful, and inclusive workplaces. Applicants will be considered for employment without regard to race, religion, sex, age, national origin, disability, veteran status, or any other protected characteristic or status.","","https://www.indeed.com/cmp/Kaiser-Permanente","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d303fcd409d6e3d6c4b57ac72f8232db","http://www.kaiserpermanentejobs.org","Oakland, CA","10,000+","more than $10B (USD)","As the nation’s leading not-for-profit health plan, we proudly serve 11+ million members from 600+ locations in 8 states and D.C.","","","","","",""
+"in-66a72f0f6ef53f55","indeed","https://www.indeed.com/viewjob?jk=66a72f0f6ef53f55","https://careers.principal.com/us/jobs/51065/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Data Engineer – Workforce Data Engineering (Hybrid in Des Moines, IA)","Principal Financial Group","Des Moines, IA, US","2026-05-28","fulltime","direct_data","yearly",62000.0,105000.0,"USD",False,"","","","","What You'll Do:
+**Data Engineer – Workforce Data Engineering Team**
+---------------------------------------------------
+
+
+What if your role in data engineering didn’t just move data… but shaped how a global workforce operates?
+As part of our Workforce Data Engineering team, you’ll work with data representing 20,000\\+ employees—connecting systems, uncovering insights, and enabling smarter decisions about hiring, development, and productivity.
+This is more than pipelines—it’s a puzzle. You’ll act as a **data detective**, uncovering relationships and turning fragmented data into something meaningful.**Why This Role Is Exciting**
+-----------------------------
+
+
+This isn’t a “learn by watching” role—it’s a **learn by doing, building, and experimenting** opportunity. You will:* Work hands\\-on with **cutting\\-edge data platforms and AI\\-enabled technologies**
+* Collaborate with **teams across the company** to solve real business problems
+* Curate and connect data for a **global workforce of 20,000\\+ employees**
+* Explore new and creative **use cases for workforce and employee data**
+* Develop **AI agents and tools** that help leaders and employees get answers faster
+
+
+Every dataset you touch has a real outcome—helping someone make a better decision, faster.**What We Do**
+--------------
+
+
+We transform fragmented workforce data into **trusted, enterprise\\-ready data products** by**:*** Creating a unified view of employees across systems
+* Enabling insights into hiring, productivity, and learning
+* Delivering datasets that power analytics, reporting, and AI
+
+**Career Growth \\& Mobility**
+-----------------------------
+
+
+This role is part of our broader **Enterprise Hub Data Engineering organization**. While your initial focus will be workforce data, our engineers frequently partner across other hub teams as business needs evolve —supporting domains such as **customer interactions, party/product data, reference data, and advanced analytics**.
+This gives you the opportunity to **expand your experience across multiple data domains over time**. **Ready to Build, Explore, and Make an Impact?**
+If you enjoy solving puzzles, learning modern technologies, and seeing your work directly influence people and outcomes—you’ll thrive here.  
+
+Operating at the intersection of financial services and technology, Principal builds financial tools that help our customers live better lives. We take pride in being a purpose\\-led firm, motivated by our mission to make financial security accessible to all. Our mission, integrity, and customer focus have made us a trusted leader for more than 140 years.
+Who You Are:
+* Bachelor's degree or a Master's degree in a related field
+* Proficiency in SQL, Python and version control tools like GitHub
+* Basic planning, organizational, problem\\-solving, analytical, decision\\-making and communication skills
+* Highly self\\-motivated with excellent time management skills
+* Ability to provide on\\-call support
+
+**Skills That Will Help You Stand Out**
+---------------------------------------
+
+* Experience with Snowflake and AWS services
+* Ability to work directly with data and datastores through programming languages such as SQL, Python, etc.
+* Experience working in an Agile environment, including familiarity with tools like Jira and Confluence
+* Experience integrating and managing datasets from multiple sources
+* Experience with a variety of data modeling techniques and data structures
+* Ability to optimize data for analytics and data science
+* Ability to effectively communicate strategies and designs to all levels of the company
+
+
+Salary Range Information: Salary ranges below reflect targeted base salaries. Non\\-sales positions have the opportunity to participate in a bonus program. Sales positions are eligible for sales incentives, and in some instances a bonus plan, whereby total compensation may far exceed base salary depending on individual performance. Actual compensation for all roles will be based upon geographic location, work experience, education, licensure requirements and/or skill level and will be finalized at the time of offer. Salary Range: $62000 \\- $105000 / year Salary Details:
+
+The following salary ranges reflect market\\-specific compensation for this position across multiple job levels. Candidates will be evaluated to determine the appropriate job level based on their skills and experience.
+
+* Data Engineer I: $62,000\\- $84,000 / year
+* Data Engineer II: $77,000\\- $105,000 / year
+
+
+Time Off Program: Flexible Time Off (FTO) is provided to salaried (exempt) employees and provides the opportunity to take time away from the office with pay for vacation, personal or short\\-term illness. Employees don’t accrue a bank of time off under FTO and there is no set number of days provided. Pension Eligible: Yes Additional Information:
+**Work Environment**
+--------------------
+
+
+This role offers in\\-office or hybrid (blending at least three office days in a typical workweek) work arrangements out of our Des Moines, Iowa World Headquarters.**Job Level**
+-------------
+
+
+We’ll consider talent at the next level, Data Engineer II, with the right experience and skills.**Hours**
+---------
+
+
+This role will partner with our global teams and has an expectation for flexibility in your work schedule. Hours may start at 7:00 a.m. CST.**Work Authorization/Sponsorship**
+----------------------------------
+
+At this time, we're not considering applicants that need any type of immigration sponsorship (additional work authorization or permanent work authorization) now or in the future to work in the United States. This includes, but IS NOT LIMITED TO: F1\\-OPT, F1\\-CPT, H\\-1B, TN, L\\-1, J\\-1, etc. For additional information around work authorization needs please use the following links.**Nonimmigrant Workers** **and** **Green Card for Employment\\-Based Immigrants**
+--------------------------------------------------------------------------------
+
+**Investment Code of Ethics**For Principal Asset Management positions, you’ll need to follow an Investment Code of Ethics related to personal and business conduct as well as personal trading activities for you and members of your household. These same requirements may also apply to other positions across the organization.**Experience Principal**
+------------------------
+
+At Principal, we value connecting on both a personal and professional level. Together, we’re imagining a more purpose\\-led future for financial services – and that starts with you. Our success depends on the unique experiences, backgrounds, and talents of our employees. And we support our employees the same way we support our customers: with comprehensive, competitive benefit offerings crafted to protect their physical, financial, and social well\\-being. Check out our careers site to learn more about our purpose, values and benefits.**Principal is an Equal Opportunity Employer**
+----------------------------------------------
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.
+Posting Window: We will accept applications for 3 full days following the Original Posting Date, after which the posting may remain open or be removed based upon applications received. If we choose to post the job again, we will accept additional applications for at least 1 full day following the Most Recently Posted Date. Please submit applications in a timely manner as there is no guarantee the posting will be available beyond the applicable deadline. Date First Posted (TTF): 5/27/2026 Latest Post Date: Careers \\- US: 5/28/2026","","https://www.indeed.com/cmp/Principal-Financial-Group","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/42ea9026b314ff55505926176a46ea68","http://www.principal.com","Des Moines, IA","Decline to state","more than $10B (USD)","Principal Financial Group® is dedicated to improving the wealth and well-being of people and business around the world—helping more than 62 million customers plan, protect, invest, and retire.","","","","","",""
+"in-bbf5f4521fba5508","indeed","https://www.indeed.com/viewjob?jk=bbf5f4521fba5508","https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2613056&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F17792132-senior-enterprise-architect%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D7bc540a9-5ad3-11f1-985e-2342a13e274f%26rx_job%3D2613056%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20260529T140402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2613056","Senior Enterprise Architect","SAIC","Washington, DC, US","2026-05-28","fulltime","direct_data","yearly",160001.0,200000.0,"USD",True,"","","","","Job ID: 2613056
+
+**Location:** Washington, DC, US
+
+**Date Posted:** 2026\\-05\\-28
+
+**Category:** Information Technology
+
+**Subcategory:** Enterprise Architect
+
+**Schedule:** Full\\-Time
+
+**Shift:** Day Job
+
+**Travel:** No
+
+**Minimum Clearance Required:** None
+
+**Clearance Level Must Be Able to Obtain:** Public Trust
+
+**Potential for Remote Work:** ORA\\_REMOTE
+
+ **Description**
+
+
+SAIC is currently seeking creative, dedicated, motivated, career and customer\\-oriented professionals for the role of a Senior Enterprise Architect, to fulfill their career goals and objectives while delivering mission excellence on programs of national importance with our large Enterprise Application Support Program. The selected candidate will provide overall support for architecting and building solutions for Mainframe Modernization including Migration and Transformation of Legacy Applications to modern Infrastructure/Architecture including the Cloud. The selected candidate will be a Trusted Technical Advisor to the SAIC Program Manager (PM) and the supported team to be a thought leader with expertise in technical areas, specializing in Enterprise Architecture with specialization in Open Database technologies, Cloud and associated platforms and tools.
+
+**Job Responsibilities:**
+
+* Overall Support:
+	+ Serves as a trusted technical advisor to the Program Manager and the supported team
+	+ Provide technical guidance and advice regarding IT systems in general
+	+ Implement governance and control as well as standards across the portfolio
+	+ Tracking, monitoring, and updating status on technology (e.g., cloud, AI/ML) services and architecture
+* Modernization \\& Migration Support:
+	+ Provide Technical guidance and Expert advice in areas of Mainframe Modernization, including Migration to Cloud, etc.
+	+ Provide Advisory support on IT applications architecture with the latest technologies (e.g., Cloud, AI/ML, GenAI, LLM, etc.), validity, applicability, and relevance
+	+ Engage in defining, developing, and keeping current Agile/SDLC engineering and architecture artifacts and standards
+	+ Provide oversight of Agile/SDLC reviews, including change management to ensure compliance with standards and required guidance
+	+ Recommend solutions for unusually complex technical problems and provides solutions, which are highly innovative and ingenious relating to both IT Infrastructure and Applications Architecture
+	+ Maintain a library of PMO documents and build a repository of project templates for both technical and management to support the project managers
+	+ Supporting portfolio, program, project\\-level business process analysis, mapping, improvements, reporting, market research, and internal outreach and communications
+	+ Translate business processes into workflows and dashboards, where needed
+* Enterprise Database Support:
+	+ Design and implement effective database structures and models to store, retrieve, and analyze data
+	+ Develop, construct, test, and maintain scalable data pipelines to collect, process, and integrate data from various sources
+	+ Implement ETL (Extract, Transform, Load) processes to ensure data consistency and quality
+	+ Integrate data from different sources, ensuring consistency, reliability, and accuracy
+	+ Develop data APIs and automation scripts to streamline data integration and workflows
+	+ Monitor and optimize database and data processing system performance
+	+ Conduct performance tuning and troubleshoot data issues
+* General Team Support:
+	+ Provide Mentoring and Training Support to Junior or Mid\\-level Application Developers and Database Engineers, as needed
+
+
+**Qualifications**
+
+
+**Required:**
+
+* Bachelor's degree in computer science, Information Technology, or related field
+* 14 years or more experience with a Bachelor's degree (4 years experience in lieu of degree)
+* Ability to obtain and maintain a public trust requiring U.S. Citizenship or Green Card
+* 5\\+ years technical and/or management experience supported industry and/or Government Sector for Mainframe Modernization and Cloud Migration initiatives at an enterprise level
+* Expert level understanding of overall Mainframe Systems Migration \\& Transformation
+* Expert level understanding of Enterprise Database Management Systems in general and Open Databases in particular
+* Knowledge and understanding of IBM Mainframe and Open Systems and applications and database architecture
+* Experience with IT governance in general
+* Broad experience and understanding to be able to provide sound technical advice to the Program Manager on a range of topics
+* Expert in enterprise architecture, strategy development and enterprise solutions
+* Expert\\-level understanding of core systems engineering and analysis disciplines and processes
+* Expert\\-level proficiency with use of architecting to support senior level enterprise decision making
+* Expert\\-level understanding of Data Management and Migration
+* Hands\\-on experience with Agile Development
+* Knowledge Discovery and Migration tools
+* Experience working closely with key customer US Federal Agencies or large Commercial Enterprise, including strong knowledge of their domain and strong professional networks
+
+**Desired:**
+
+* Demonstrated knowledge of implementing an Enterprise Architecture framework in a federal Agency/Department is preferred
+* Prior work experience with Treasury/Internal Revenue Service (IRS) Agency applications architecture and development is preferred
+
+
+Target salary range: $160,001 \\- $200,000\\. The estimate displayed represents the typical salary range for this position based on experience and other factors.","","https://www.indeed.com/cmp/SAIC","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b8dd7df9105af77bbaff6c3c6624e9f8","http://www.saic.com","Reston, VA","10,000+","$5B to $10B (USD)","SAIC® is a mission integrator focused on advancing the power of technology and innovation. Headquartered in Reston, Virginia, the company has approximately 23,000 employees.","","","","","",""
+"in-5d1e9ca7df84fc9d","indeed","https://www.indeed.com/viewjob?jk=5d1e9ca7df84fc9d","https://careers.stellantis.com/job/23433878/senior-data-engineer-platform-foundation/","Senior Data Engineer – Platform Foundation","Stellantis","Auburn Hills, MI, US","2026-05-28","","","","","","",False,"","","","","Job ID: 2018651  
+
+Career Area: ICT, Digital and Data  
+
+Position Type: Salaried
+Location: Headquarters \\& Technology Center – Auburn Hills  
+
+48326, US  
+
+Date Posted: May 28, 2026  
+
+Brand: FCA Group
+  
+The Senior Data Engineer – Platform Foundation is a hands\\-on, senior\\-level contributor embedded in the Foundations squad. You will design, build, and evolve the shared ingestion platform that underpins data delivery across the company. The platform is the product — your job is to make it reliable, extensible, and easy for other teams to adopt.
+
+  
+
+
+
+The Foundations squad operates across three pillars: simplifying the overall data platform landscape by reducing complexity and consolidating redundant patterns; enabling structured and unstructured data ingestion at scale; and supporting the exposure of data products to consumers across the organization. You contribute to all three — making architectural decisions, writing production code, and enabling other teams through documentation and hands\\-on support.
+
+
+**Key Responsibilities:**
+
+  
+
+
+**Platform Foundation Development**
+
+
+* Design and implement reusable ingestion components using dlt and dbt\\-core, covering both structured and unstructured data sources, handling high\\-volume, append\\-heavy, and schema\\-drifting patterns
+* Own the Airflow platform end\\-to\\-end: extend and maintain DAGs and shared operators, handle deployments and version upgrades, and provide hands\\-on support to consuming teams
+* Ensure incremental loading strategies, data quality checks, and lineage metadata are first\\-class outputs of every pipeline
+
+  
+
+
+**Platform Simplification \\& Architecture**
+
+
+* Identify and eliminate redundant ingestion patterns across consuming teams, drive standardization onto shared Platform Foundation components
+* Collaborate with Solution Architects to evolve the platform architecture in response to new data sources and shifting business requirements
+* Support data product exposure: define and implement governed interfaces that make data reliably accessible to internal consumers
+* Contribute to Terraform\\-managed infrastructure; participate in multi\\-cloud (AWS / Azure) deployment patterns
+
+  
+
+
+**AI Tooling \\& Developer Productivity**
+
+
+* Actively use and evaluate AI\\-assisted development tools (GitHub Copilot, Claude Code, etc.) to accelerate platform Foundation delivery
+* Champion AI tooling adoption within the squad; share best practices and guardrails around AI\\-generated code review
+* Explore AI\\-powered capabilities (RAG pipelines, LLM\\-assisted data cataloguing) for internal platform documentation and self\\-service enablement
+
+  
+
+
+**DevOps \\& Reliability**
+
+
+* Maintain and improve CI/CD pipelines (TeamCity, GitHub Actions) for platform Foundation components
+* Define and enforce observability standards: DAG/Task\\-level alerting, SLA tracking
+* Participate in on\\-call rotation for critical ingestion pipelines; drive post\\-incident improvements
+
+  
+
+
+**Team Enablement \\& Stakeholder Management**
+
+
+* Produce platform Foundation documentation, runbooks, and enablement materials for consuming squads
+* Translate ambiguous or moving business requirements into concrete technical designs — comfortable challenging scope when needed
+* Mentor mid\\-level engineers; participate in hiring and technical assessments
+
+  
+**EOE/Disability/Veteran**
+
+
+At Stellantis, we assess candidates based on qualifications, merit, and business needs. We welcome applications from all people without regard to sex, age, ethnicity, nationality, religion, sexual orientation, disability, or any characteristic protected by law. We believe that diverse teams reflect our identity as a global company, enabling us to better address the evolving needs of our customers and care for our future.
+
+
+Our benefits reflects the STELLANTIS commitment to helping you reach your personal and professional goals. In addition to an environment that promotes career development, we offer benefits for a healthy lifestyle and a rewarding future, designed to take care of you and your family, in various stages of life.
+
+
+
+As a global company, our employee packages will vary by country, customary norms and the legal entity into which you are hired.
+
+
+
+We care about your privacy. For more information on how your personal data is processed, please read the specific Privacy Statement provided by the respective entities whose job offer you have selected.","","https://www.indeed.com/cmp/Stellantis","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/cdce24c52a8955b06ab88ef14efdeaff","http://www.stellantis.com","Amsterdam","10,000+","more than $10B (USD)","Our People Make the Difference Behind every brand, behind every product there is a team of talented people who make it possible. We are coming together with 14 iconic automotive brands. Join Us!","","","","","",""
+"in-5e5d33bd00f9f4eb","indeed","https://www.indeed.com/viewjob?jk=5e5d33bd00f9f4eb","https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/New-York---New-York/Data-Engineer-II_R-01323","Data Engineer II","Magnite","New York, NY, US","2026-05-28","fulltime","direct_data","yearly",120000.0,135000.0,"USD",True,"","","","","**Data Engineer II**
+
+**US \\- East Coast (Remote)**
+
+
+At Magnite, we cultivate an environment of continuous growth and collaboration. Our work impacts what millions of people read, watch, and buy, and we’re looking for people to help us tackle that responsibility with creativity and focus. Magnite (NASDAQ: MGNI) is the world’s largest independent sell\\-side advertising platform. Publishers use our technology to monetize their content across all screens and formats including CTV / streaming, online video, display, and audio. Our tech fuels billions of transactions per day!
+
+**About this team:**
+
+
+You will join the Innovative Services Group (part of the wider Audience team). Innovative services build solutions across the Audience group (and beyond) that are leveraged by other teams. Examples include probabilistic services able to handle over 500k requests a second, and optimising how compute is deployed in our data pipelines yielding very high cost savings across the teams.
+
+
+The wider Audience team is responsible for managing and delivering the first and third\\-party data that powers all of the platforms that Magnite operates. We’re a globally distributed team of software and data engineers who build and operate huge scale data pipelines and real\\-time scaled services to enable Magnite and Magnite’s customers to reach their goals.
+
+**In this role, you will:**
+
+*Note: given the seniority of this position, we don't expect you to be here on day one, but this is what you can expect to grow into.*
+
+
+This role is focused on the data engineering side of the team’s responsibilities, and this job listing reflects that, but there is an opportunity to get involved more broadly.
+
+* Build and optimize data pipelines using Apache Spark and Python, processing billions of events in both streaming and batch modes. We work at TB scale.
+* Collaborate with senior data engineers to improve Magnite’s Audience data pipelines by identifying and implementing innovative solutions.
+* Own the operational performance of your builds, ensuring uptime and implementing recovery strategies.
+* Collaborate with SRE teams to provision infrastructure using Terraform and AWS (future Kubernetes on\\-premise).
+* Proactively identify and help solve impactful problems.
+
+**We’re looking for someone with:**
+
+
+ More than anything we expect you to love learning and see problems as things to overcome rather than blockers. You are part of a team that moves fast, makes incremental improvements towards a vision and solves problems other teams are struggling with.
+
+
+You should look at this list and our tech stack and think “wow i want to learn that”, rather than being an expert. We expect you to have expertise with 1\\-2 items and familiarity with a couple more. Most candidates will have 2\\+ years of experience.
+
+* Hands\\-on experience with Apache Spark (mainly PySpark). Ideally, you will have written a variety of pipelines that you have deployed in production.
+* Strong Python skills, particularly in the context of Databricks and Spark.
+* Data pipeline design knowledge, from sourcing event data to creating queryable data layers.
+* Familiarity with event\\-based data architecture (e.g., Kafka).
+* SQL experience for data analysis and transformations.
+* Hands\\-on experience with AWS and Terraform for IaaS solutions.
+* Experience writing Jenkins or Github actions pipelines to run build and integration actions.
+* GoLang for distributed service development
+* Kubernetes experience
+
+**Our current tech stack**:
+
+* Python, Golang, Rust, Java / Spring Boot
+* ECS, Fargate, Kubernetes
+* Spark, Databricks
+* Luigi, Airflow
+* Docker
+* ALB, HAProxy
+* RDS, MariaDB, Postgres
+* Redis, Memcache
+* Kafka, SNS, SQS
+* Terraform, Github Actions, Jenkins
+* JavaScript / TypeScript / React
+* Linux (both on\\-premise and AWS)
+
+**In the US East Coast (including NYC and Boston), the base salary range for this role is $120,000 – $135,000\\. Actual compensation will be determined based on location, experience, skills, and internal equity.**
+
+**This role is also eligible for:**
+
+* **Annual performance\\-based bonus**
+* **Equity (NASDAQ: MGNI)**
+* **Comprehensive benefits package**
+
+**During the interview process, candidates will receive more specific information about the salary range applicable to their experience and location.**
+
+**Perks and Benefits**:
+
+* Comprehensive Healthcare Coverage from Day One
+* Generous Time Off
+* Holiday Breaks and Quarterly Wellness Days
+* Equity and Employee Stock Purchase Plan
+* Family\\-Focused Benefits and Parental Leave
+* 401k Retirement Savings Plan with Employer Match
+* Disability and Life Insurance
+* Cell Phone Subsidy
+* Monthly Fitness and Reimbursement
+
+**Career Growth:**
+
+
+We support internal mobility, skill development, and leadership pathways through structured career frameworks and learning programs.
+
+**Company Culture:**
+
+
+Magnite’s culture is rooted in collaboration and connection, recognizing that both are essential to success. Our hybrid schedule includes two remote workdays (Monday and Friday) and three in\\-office days (Tuesday through Thursday), where employees can take advantage of catered lunches, beverages, snacks, training opportunities, and engaging office events that enhance the work experience. In addition, we support our team through meaningful benefits and programs, including community service and volunteer opportunities, company\\-matched charitable contributions, access to mental health resources, structured career development initiatives and growth frameworks, culture and inclusion programs, and our Bonusly peer\\-to\\-peer recognition platform.
+
+**About Us**
+
+The world's leading agencies and brands trust our platform to access brand\\-safe, high\\-quality ad inventory and execute billions of advertising transactions each month. Anchored in bustling New York City, sunny Los Angeles, mile\\-high Denver, historic London, and down under in Sydney, Magnite has offices across North America, EMEA, LATAM, and APAC.
+
+*Magnite is an Equal Opportunity Employer and does not discriminate against applicants due to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, sexual orientation or any other federal, state or local protected class.*
+
+*Our Commitment: We aim to incorporate a wide range of voices into our Magnite culture, cultivating an environment where employees feel welcomed, cared for, and encouraged to freely share ideas. We are committed to employee growth, collaboration, inclusion, and innovation. We invest in Magnite’s local communities. We seek talent from all backgrounds to champion corporate values of seeing the big picture and being catalysts of change.*
+
+**Want to learn more about us?**
+
+
+**Check out our** **blog** **for Magnite announcements and Ad Tech industry news!**
+
+**Recruiting Agency Notice**
+
+
+Magnite does not accept agency resumes and is not responsible for any fees related to unsolicited resumes.","","https://www.indeed.com/cmp/Magnite","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0075dc64cfe7d39bbd1fea34b125a390","https://www.magnite.com/","12181 Bluff Creek Drive
+4th Floor
+Playa Vista, CA 90094","501 to 1,000","$100M to $500M (USD)","Magnite is the world's largest independent sell-side platform helping publishers sell advertising on a global scale using propriety technology that's processing 150 Billion+ transactions a day.","","","","","",""
 "in-11f9012523766723","indeed","https://www.indeed.com/viewjob?jk=11f9012523766723","https://careers.google.com/jobs/results/134236728889090758-data-engineer-ii/","Data Engineer II","Google","Boulder, CO, US","2026-05-28","fulltime","direct_data","yearly",106000.0,151000.0,"USD",False,"","","","","The application window will be open until at least June 11, 2026\\. This opportunity will remain online based on business needs which may be before or after the specified date.  
 
 Note: By applying to this position you will have an opportunity to share your preferred working location from the following: **Boulder, CO, USA; Atlanta, GA, USA**.### **Minimum qualifications:**
@@ -647,619 +1356,551 @@ Incumbents may engage in all or some combination of the activities and accountab
  **PRIVACY NOTICE TO CALIFORNIA JOB APPLICANTS**
 
  *At DTE Energy, we are committed to providing an inclusive workplace where everyone feels welcome and a sense of belonging. We seek individuals with a heart for service, a passion to help our communities prosper, and ideas to help shape the future of energy. We are proud to be an equal opportunity, employer that considers all qualified applicants without regard to race, color, sex, sexual orientation, gender identity, age, religion, disability, national origin, citizenship, height, weight, genetic information, marital status, pregnancy, protected veteran status or any other status protected by applicable federal and/or state laws.*","","https://www.indeed.com/cmp/Dte-Energy","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/56c0e1c02fde41117e2129ebebd1d665","http://www.dteenergy.com","Detroit, MI","10,000+","more than $10B (USD)","DTE Energy’s (NYSE: DTE) is innovating the energy grid of the future, continuously improving service to our customer and communities, and acting as a force for good in the places we live and work.","","","","","",""
-"in-2aa986e4ca4e1aec","indeed","https://www.indeed.com/viewjob?jk=2aa986e4ca4e1aec","http://www.indeed.com/job/junior-partner-onboarding-integration-support-analyst-2aa986e4ca4e1aec","Junior Partner Onboarding & Integration Support Analyst","TransportGistics","Mount Sinai, NY, US","2026-05-28","fulltime","direct_data","yearly",55226.0,67692.0,"USD",False,"","","","","**Overview**  
-We are seeking a dynamic and detail\\-oriented Junior Partner Onboarding \\& Integration Support Analyst to join our team. In this role, you will be instrumental in facilitating the seamless onboarding of new partners and ensuring their successful integration into our systems. Your energetic approach and analytical mindset will drive efficient processes, support data\\-driven decision\\-making, and enhance overall partner experience. This position offers an exciting opportunity to develop your skills in data analysis, project management, and business integration within a fast\\-paced environment committed to innovation and excellence.
+"in-5c584f61b31ffef2","indeed","https://www.indeed.com/viewjob?jk=5c584f61b31ffef2","https://careers.equifax.com/en/jobs/j00177442/senior-data-engineer/","Senior Data Engineer","Equifax","Alpharetta, GA, US","2026-05-28","fulltime","","","","","",False,"","","","","**Alpharetta** **/ Atlanta****United States of America****Data \\& Analytics****Full time****5/28/2026****J00177442**
 
-**Duties**
+  
+To play this video, please accept Functional \\& Personalisation cookies in your cookie preferences.
+**Manage Preferences**
 
-**Partner Onboarding Support**
 
-* Assist in onboarding new trading partners (suppliers, carriers, customers) into TransportGistics’ XML/SFTP ecosystem.
-* Validate inbound XML files against XSD schemas and business rules.
-* Support SFTP connectivity setup, folder structures, and credential management.
-* Run partner test cycles, track defects, and document results.
-* Troubleshoot malformed XML, schema violations, and mapping discrepancies.
-* Monitor daily message flows and identify errors or anomalies.
-* Reprocess failed transactions following established runbooks.
-* Maintain partner configuration notes and onboarding documentation.
-* Communicate clearly with partners regarding testing, issues, and status updates.
+Equifax is where you can power your possible. If you want to achieve your true potential, chart new paths, develop new skills, collaborate with bright minds, and make a meaningful impact, we want to hear from you.
 
-**Data Accuracy, Compliance \\& Transaction Support**
 
-* Play a role in ensuring **customer transaction accuracy**, supporting internal teams by validating data consistency across systems.
-* Conduct **basic account reconciliation** to ensure customer‑related financial records are accurate and up‑to‑date.
-* Maintain **organized, audit‑ready documentation** related to partner onboarding, transaction flows, and integration activities.
-* Support compliance efforts by ensuring documentation and data handling follow internal standards and controls.
+Equifax is seeking a driven Senior Data Engineer to contribute to the creation of high\\-quality datasets that power our analytical capabilities. If you are a data enthusiast with a knack for databases and a talent for extracting meaningful insights from complex data, we encourage you to apply.
 
-**Quality \\& Documentation**
 
-* Follow established data standards and validation steps.
-* Update onboarding guides, checklists, and partner documentation as processes evolve.
-* Support regression testing when schemas or mappings change.
-* Contribute to continuous improvement of onboarding and support workflows.
+You will partner with internal stakeholders to design and deliver analytical solutions in an automated and mature fashion.
 
-**Requirements**
 
-* Strong analytical skills and attention to detail.
-* Ability to work collaboratively in a fast‑paced environment.
-* 1–2 years of experience in data operations, integration support, financial operations, or similar analytical roles.
-* Understanding of XML structure, XSD validation, and basic troubleshooting.
-* Familiarity with SFTP, secure file exchange, and structured data workflows.
-* Experience with reconciliation or data validation processes.
-* Proficiency in Microsoft Excel for analysis and reporting.
-* Excellent organizational skills with the ability to manage multiple tasks effectively.
-* Strong written and verbal communication skills.
+Strong communication skills are required, and financial industry experience is preferred. This position provides an opportunity to work with best\\-in\\-class technology and a rich big data ecosystem.
 
-**Preferred Qualifications**
 
-* Exposure to XSD validation, XPath, or mapping tools.
-* Experience with logistics documents (PO, ASN, Invoice).
-* Understanding of supply‑chain, transportation, or ERP/WMS systems.
-* Basic troubleshooting experience with integrations or data pipelines.
+**This position is based out of our Alpharetta, Georgia office or our Midtown Atlanta office** **.**
 
-**Success Indicators**
+**We are required to be in the office 3 days/week \\- Tues/Wed/Thurs.**
 
-* Smooth partner testing cycles with minimal rework.
-* Accurate, timely documentation and ticket handling.
-* Growing independence in troubleshooting XML and connectivity issues.
-* Positive feedback from partners and internal teams.
-* Demonstrated progression toward mid‑level onboarding/support responsibilities.
+**This position does not offer immigration sponsorship (current or future) including F\\-1 STEM OPT extension support.**
 
-Join us to be at the forefront of our partner success journey. Bring your enthusiasm for data\\-driven solutions, your project management expertise, and your passion for continuous learning. Together, we’ll build innovative systems that empower our partners and drive organizational growth!
+**This position is** **not** **open to third\\-party vendors or C2C.**  
 
-Pay: $55,226\\.76 \\- $67,692\\.44 per year
 
+
+**What you will do**
+
+* Integrate, consolidate, cleanse and structure data for use by our analysts.
+* Analyze, understand and prepare complex and new data sources and incorporate them into project design.
+* Use analytical insights to develop solutions, improve processes and work with counterparts in the business to implement proposed solutions.
+* Create SQL and Python Pipelines that are optimized, efficient, repeatable and scalable.
+* Perform design, creation, and interpretation of large and highly complex datasets.
+* Utilize AI to accelerate development, optimize code, and create processing documentation for data pipelines.
+* Understand best practices for data management, maintenance, and reporting and use that knowledge to implement improvements in our solutions.
+* Develop and implement data quality checks and troubleshoot data anomalies.
+* Stay up\\-to\\-date with the latest trends and advancements in GCP and related technologies, actively proposing and evaluating new solutions.
+
+**What experience you will need**
+
+* BS degree in a STEM major or equivalent discipline.
+* 5 \\- 7 years of experience in data related profession, with a minimum of 2 years as a data engineer.
+* Extensive experience in SQL is a must, as well as strong knowledge of Python.
+* Experience authoring, scheduling, and monitoring robust data pipelines using Apache Airflow (DAGs) to automate data ingestion, transformation, and loading (ETL/ELT) processes.
+* Experience building and maintaining moderately\\-complex data pipelines, troubleshooting issues, transforming and entering data into a data pipeline in order for the content to be digested and usable for future projects.
+
+**What could set you apart**
+
+* A master's degree in a related field is a strong plus.
+* Experience developing code using AI tools such as Gemini, Chat GPT, Claude, Co \\- Pilot, etc.
+* Background in credit risk or finance.
+* Experience working with large datasets on a big data platform (e.g., Google Cloud, AWS, Snowflake, Hadoop).
+* Intermediate level understanding and experience with Google Cloud Platforms and overall cloud computing concepts, as well as basic knowledge of other cloud environments.
+* Advanced Git or equivalent usage and CI/CD integration skills.
+
+\\#LI\\-Hybrid
+
+
+\\#LI\\-KD1
+
+
+We offer comprehensive compensation and healthcare packages, 401k matching, paid time off, and organizational growth potential through our online learning platform with guided career tracks.
+
+
+Are you ready to power your possible? Apply today, and get started on a path toward an exciting new career at Equifax, where you can make a difference!
+
+
+**Who is Equifax?**
+
+
+
+At Equifax, we believe knowledge drives progress. As a global data, analytics and technology company, we play an essential role in the global economy by helping employers, employees, financial institutions and government agencies make critical decisions with greater confidence.
+
+
+We work to help create seamless and positive experiences during life’s pivotal moments: applying for jobs or a mortgage, financing an education or buying a car. Our impact is real and to accomplish our goals we focus on nurturing our people for career advancement and their learning and development, supporting our next generation of leaders, maintaining an inclusive and diverse work environment, and regularly engaging and recognizing our employees. Regardless of location or role, the individual and collective work of our employees makes a difference and we are looking for talented team players to join us as we help people live their financial best.
+
+
+
+Equifax is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, and other legally protected characteristics.","","https://www.indeed.com/cmp/Equifax","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/efbb17d048a8f4cdb03c50fa792982ce","https://careers.equifax.com/","Atlanta, GA","10,000+","$1B to $5B (USD)","Our dedicated team of 14,000 people around the world is united by a singular purpose: helping people live their financial best.","","","","","",""
+"in-b8e114601c5247cd","indeed","https://www.indeed.com/viewjob?jk=b8e114601c5247cd","https://careers.sca.health/jobs/47009/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Lead Data Developer","SCA Health","US","2026-05-27","fulltime","direct_data","yearly",120000.0,140000.0,"USD",True,"","","","","Overview:
+
+At SCA Health, we believe **health care is about people** – the patients we serve, the physicians we support and the teammates who push us forward. Behind every successful facility, procedure or innovation is a team of 15,000\\+ professionals working together, learning from each other and living out the **mission, vision and values** that define our organization.  
+
+As part of Optum, SCA Health is redefining specialty care by developing more accessible, patient\\-centered practice solutions for a network of more than 370 ambulatory surgical centers, over 400 specialty physician practice clinics and numerous labs and surgical hospitals. Our work spans a broad spectrum of services, all designed to support physicians, health systems and employers in delivering efficient, value\\-based care to patients without compromising quality or autonomy.  
+
+**What sets SCA Health apart isn’t just what we do, it’s how we do it**. Each decision we make is rooted in **seven core values**:* **Clinical quality**
+* **Integrity**
+* **Service excellence**
+* **Teamwork**
+* **Accountability**
+* **Continuous improvement**
+* **Inclusion**
+
+  
+
+Our values aren’t empty words – they inform our attitudes, actions and culture. At SCA Health, your work directly impacts patients, physicians and communities. Here, you’ll find opportunities to build your career alongside a team that values your expertise, invests in your success, and shares a common mission to care for patients, serve physicians and improve health care in America.  
+
+At SCA Health, we offer a comprehensive benefits package to support your health, well\\-being, and financial future. Our offerings include medical, dental, and vision coverage, 401k plan with company match, paid time off, life and disability insurance, and more. Please visit, https://careers.sca.health/why\\-sca, to learn more about our benefits.  
+
+Your ideas should inspire change. If you join our team, **they will**.
+Accountabilities / Responsibilities:
+**Lead Data Developer****SCA Health – Information Technology (IT) –** **Enterprise Application Services** **–** **Data Services****Position Summary**
+The Lead Data Developer is a **senior individual contributor (IC) and technical leader** responsible for designing, delivering, and evolving enterprise data platforms and solutions that support clinical, operational, and financial outcomes across SCA Health.
+This role is **not a formal people management position**. The individual will act as a **technical owner and delivery lead**, working in partnership with resource managers to align and coordinate assigned technical resources. The role requires the ability to **direct technical work, influence priorities, and drive outcomes across distributed teams** (including offshore resources) without formal authority.
+The Lead Data Developer operates across a hybrid ecosystem of legacy and cloud\\-based technologies and plays a critical role in advancing SCA Health’s **cloud\\-first and AI\\-enabled data strategy**. **Key Responsibilities****Technical Ownership \\& Delivery Execution*** Serve as **technical owner** for assigned initiatives, accountable for architecture, design quality, delivery outcomes, and long\\-term maintainability
+* Lead and coordinate design, development, testing, deployment, and support of data solutions
+* Partner with resource managers to **align staffing, skillsets, and priorities to delivery needs**
+* Direct technical execution across assigned team members, ensuring alignment to standards and timelines
+* Drive delivery with limited information, clarifying requirements and resolving ambiguity proactively
+* Provide accurate estimates and deliver solutions with high reliability and accountability
+
+ **Data Architecture \\& Cloud Transformation*** Design and implement **scalable hybrid and cloud\\-first data architectures**
+* Lead or contribute to **phased transformation of on\\-premises data platforms to cloud\\-based solutions**
+* Partner with Enterprise Architecture to define solution strategies aligned to business and technology roadmaps
+* Promote reusable engineering patterns and framework\\-driven development practices
+* Balance legacy system support with modernization initiatives
+
+ **Data Engineering \\& Platform Development*** Architect and develop enterprise data pipelines and platforms
+* Build and maintain solutions using:
+* Microsoft Azure data ecosystem (ADF, Synapse, Azure SQL, Databricks)
+* Snowflake, Airflow, dbt
+* SQL Server (T\\-SQL, SSIS)
+* Ensure high standards for performance, scalability, reliability, and observability
+* Implement monitoring, logging, and operational readiness capabilities
+
+ **AI/ML Integration \\& Data Innovation*** Design and implement **AI/ML\\-enabled data capabilities** within pipelines and data products
+* Identify and deploy use cases involving automation, predictive analytics, or intelligent workflows
+* Collaborate with stakeholders to align AI/ML initiatives to measurable business value
+* Ensure AI\\-enabled solutions are production\\-ready, scalable, and maintainable
+
+ **Governance, Security \\& Compliance*** Ensure compliance with **HIPAA and enterprise data security and governance standards**
+* Implement appropriate **access** **controls, encryption, and auditability** for PHI/PII data
+* Participate in governance processes including code reviews, change management, and release management
+* Utilize ServiceNow for incident, request, and operational management
+
+ **Collaboration \\& Stakeholder Engagement*** Partner with business stakeholders to understand requirements and prioritize delivery
+* Collaborate with Enterprise Architects, Product Owners, and cross\\-functional teams
+* Facilitate technical design discussions and solution alignment sessions
+* Communicate technical concepts clearly across both technical and non\\-technical audiences
+
+ **Mentorship \\& Team Enablement*** Mentor and guide junior and mid\\-level data developers
+* Promote best practices in coding, architecture, and documentation
+* Support a culture of accountability, collaboration, and continuous improvement
+
+ **Full Product Lifecycle Participation*** Participate across the full lifecycle:
+* Ideation
+* Design and development
+* Deployment and release
+* Production support and optimization
+* Decommissioning
+* Maintain clear, current technical and operational documentation
+* Ensure solutions are supportable and aligned with long\\-term platform strategy
+
+  
+
+
+Qualifications:
+**Required Qualifications*** Bachelor’s degree in Computer Science, Information Systems, Engineering, or related field (or equivalent experience)
+* 8\\+ years of experience in data engineering, data platform development, or related disciplines
+* Proven experience serving as a **technical lead or technical owner** for complex initiatives
+* Demonstrated ability to lead **cross\\-functional teams without formal authority**
+* Proven experience delivering **large\\-scale data integration and transformation solutions**
+* Demonstrated application of an **AI\\-first mindset**, incorporating AI/ML capabilities into data platform design, engineering practices, and solution delivery.
+
+ **Required Technical Experience*** Microsoft data and cloud technology stack (Azure, SQL Server ecosystem)
+* Snowflake, Airflow, and dbt
+* ETL/ELT design and development across complex data environments
+* Data modeling (relational and dimensional)
+* CI/CD and DevOps practices (Azure DevOps, GitHub Enterprise)
+
+ **Required Specialized Experience*** **Hands\\-on experience implementing AI/ML capabilities in data platforms or products**
+* **Proven experience supporting or leading cloud transformation initiatives (on\\-prem to cloud)**
+* Experience implementing **data security controls for PHI/PII in regulated environments (HIPAA or equivalent)**
+
+ **Preferred Qualifications*** Healthcare data domain experience (clinical, operational, or financial)
+* Experience with Azure Synapse, Databricks, or similar advanced platforms
+* Experience with Kubernetes or containerized environments
+* Experience with ServiceNow integrations
+* Relevant Microsoft or cloud/data certifications
+
+ **Required Competencies*** Strong analytical and problem\\-solving skills
+* Excellent verbal and written communication skills
+* Ability to operate effectively in a remote and distributed team environment
+* Proven ability to manage competing priorities and deliver outcomes
+* Strong collaboration and stakeholder engagement skills
+
+ **Behavioral Expectations*** Demonstrates accountability, professionalism, and integrity
+* Leads with a solution\\-oriented and optimistic mindset
+* Challenges constructively and supports organizational decisions once made
+* Communicates clearly and adapts to audience needs
+* Mentors others and contributes to team success
+* Works independently while maintaining alignment with broader team goals
+
+ **Work Environment*** Remote or hybrid work environment
+* Collaboration across onshore and offshore teams
+* Participation in an on\\-call or support rotation as needed
+
+ **Equal Opportunity Statement**
+SCA Health is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+Min: USD $120,000\\.00/Yr. Max: USD $140,000\\.00/Yr.","","https://www.indeed.com/cmp/Sca-Health-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/9ec7179ff62a2b04725d2a8b908bd183","http://sca.health","Deerfield, IL","10,000+","$1B to $5B (USD)","Our new brand represents our evolution as experts in specialty care, supporting physician specialists more holistically in many aspects of patient care.","","","","","",""
+"in-411988f38682ada9","indeed","https://www.indeed.com/viewjob?jk=411988f38682ada9","https://careers.principal.com/us/jobs/50839/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Senior Data Engineer II","Principal Financial Group","Des Moines, IA, US","2026-05-27","fulltime","direct_data","yearly",130000.0,170000.0,"USD",True,"","","","","What You'll Do:
+
+We’re looking for a Senior Data Engineer to join our Retirement Modernization Data Enablement team. In this role, you’ll sit at the center of our retirement modernization effort, leading how critical transaction data moves from source systems to enterprise analytics, ensuring it’s trusted, well‑governed, and ready to drive insight at scale.**You’ll have the opportunity to**
+----------------------------------
+
+* Design and influence data integration and movement patterns across multiple platforms, aligning teams to shared standards and best practices
+* Serve as a thought leader in data engineering and architecture, influencing decisions without direct authority in a highly collaborative, matrixed environment
+* Partner closely with upstream transaction teams and downstream analytics teams to ensure data is modeled, governed, and delivered in ways that support analytics, reporting, and AI use cases
+* Enable the end‑to‑end flow of retirement source and transactional data through to the Enterprise Data Platform
+* Establish and promote best practices for data pipelines, orchestration, and data governance in a modernized data ecosystem
+* Balance hands\\-on engineering with architectural design, stepping into pipeline development when needed while maintaining a broader solution\\-focused lens
+* Play a key role in transforming how data is enabled across the Retirement technology domain
+
+
+As Principal continues to modernize its systems, this role will offer you an exciting opportunity to build solutions that will directly impact our long\\-term strategy and tech stack, all while ensuring that our products are robust, scalable, and secure!  
+
+Operating at the intersection of financial services and technology, Principal builds financial tools that help our customers live better lives. We take pride in being a purpose\\-led firm, motivated by our mission to make financial security accessible to all. Our mission, integrity, and customer focus have made us a trusted leader for more than 140 years.
+Who You Are:
+* Bachelor's degree plus 8\\+ years related work experience or a Master's in related field plus 4\\+ years related work experience
+* Proven experience delivering large‑scale data engineering solutions, including data ingestion, transformation, modeling, and storage to support analytics, reporting, and advanced data use cases, with exposure to data mesh principles in modern data platform environments
+* Demonstrated ability to shape data architecture and influence technical strategy across teams, establishing patterns, standards, and best practices while engaging hands‑on when needed
+* Trusted technical leader with strong communication and collaboration skills who can influence across teams and business units, facilitate architectural discussions, and navigate ambiguity in modernizing data environments
+* Experience elevating the people around you – coaching, mentoring, and helping others grow through thoughtful feedback and knowledge sharing
+* Proven experience working across the full data lifecycle, from source‑aligned ingestion and foundational data preparation through to analytics‑ready datasets, with an understanding of how upstream design decisions enable downstream analytics and data products
+* Strong technical foundation working hands‑on with data and data stores, including advanced SQL, data pipeline development, including programming experience in languages such as Python and Java
+* Experience optimizing data pipelines and processing systems for high‑volume, complex datasets
+* Experience implementing data quality management across the data lifecycle, including validation, reconciliation, and mastering, with an emphasis on observability, monitoring, and operational readiness
+
+**Skills That Will Help You Stand Out**
+---------------------------------------
+
+* Hands\\-on experience with Snowflake
+* Hands\\-on experience with Ataccama Data Quality
+* Hands\\-on experience with Informatica Intelligent Data Management Cloud
+* Experience with source and/or transactional data modeling, including normalized schemas (e.g., 3NF) and strong data integrity practices
+
+
+Salary Range Information: Salary ranges below reflect targeted base salaries. Non\\-sales positions have the opportunity to participate in a bonus program. Sales positions are eligible for sales incentives, and in some instances a bonus plan, whereby total compensation may far exceed base salary depending on individual performance. Actual compensation for all roles will be based upon geographic location, work experience, education, licensure requirements and/or skill level and will be finalized at the time of offer. Salary Range: $130000 \\- $170000 / year Time Off Program: Flexible Time Off (FTO) is provided to salaried (exempt) employees and provides the opportunity to take time away from the office with pay for vacation, personal or short\\-term illness. Employees don’t accrue a bank of time off under FTO and there is no set number of days provided. Pension Eligible: Yes Additional Information:
+**Hours**
+---------
+
+
+This role operates within core Central Standard Time business hours, so flexibility to work within that time frame is required.**Work Environments**
+---------------------
+
+
+This role offers in\\-office, hybrid (blending at least three office days in a typical workweek), and remote work arrangements (only if residing more than 30 miles from Des Moines, IA, or Charlotte, NC). You’ll work with your leader to figure out which option may align best based on several factors.**Work Authorization/Sponsorship**
+----------------------------------
+
+At this time, we're not considering applicants that need any type of immigration sponsorship (additional work authorization or permanent work authorization) now or in the future to work in the United States. This includes, but IS NOT LIMITED TO: F1\\-OPT, F1\\-CPT, H\\-1B, TN, L\\-1, J\\-1, etc. For additional information around work authorization needs please use the following links.
+Nonimmigrant Workers and Green Card for Employment\\-Based Immigrants**Investment Code of Ethics**
+-----------------------------
+
+For Principal Asset Management positions, you’ll need to follow an Investment Code of Ethics related to personal and business conduct as well as personal trading activities for you and members of your household. These same requirements may also apply to other positions across the organization.**Experience Principal**
+------------------------
+
+At Principal, we value connecting on both a personal and professional level. Together, we’re imagining a more purpose\\-led future for financial services – and that starts with you. Our success depends on the unique experiences, backgrounds, and talents of our employees. And we support our employees the same way we support our customers: with comprehensive, competitive benefit offerings crafted to protect their physical, financial, and social well\\-being. Check out our careers site to learn more about our purpose, values and benefits.**Principal is an Equal Opportunity Employer**
+----------------------------------------------
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.
+Posting Window: We will accept applications for 3 full days following the Original Posting Date, after which the posting may remain open or be removed based upon applications received. If we choose to post the job again, we will accept additional applications for at least 1 full day following the Most Recently Posted Date. Please submit applications in a timely manner as there is no guarantee the posting will be available beyond the applicable deadline. Date First Posted (TTF): 5/1/2026 Latest Post Date: Careers \\- US: 5/27/2026
+LinkedIn Remote Hashtag
+
+
+: \\#LI\\-Remote
+LinkedIn Hashtag
+
+
+: \\#LI\\-EW1","","https://www.indeed.com/cmp/Principal-Financial-Group","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/42ea9026b314ff55505926176a46ea68","http://www.principal.com","Des Moines, IA","Decline to state","more than $10B (USD)","Principal Financial Group® is dedicated to improving the wealth and well-being of people and business around the world—helping more than 62 million customers plan, protect, invest, and retire.","","","","","",""
+"in-687fa76e1861ac10","indeed","https://www.indeed.com/viewjob?jk=687fa76e1861ac10","https://www.amazon.jobs/jobs/10421253/business-intel-engineer-ii--amz?cmpid=DA_INAD200785B","Business Intel Engineer II - AMZ27162.1","Amazon.com","Seattle, WA, US","2026-05-15","fulltime","direct_data","yearly",106400.0,160000.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+
+Employer: Amazon Data Services, Inc.  
+
+Position: Business Intel Engineer II \\- AMZ27162\\.1  
+
+Location: Seattle, WA  
+
+  
+
+Multiple Positions Available:  
+
+  
+
+Support senior management by managing metrics reporting and performing mathematical and statistical modeling to produce business forecasts. Research, design, and develop new forecasting technologies to help Amazon leverage its data to support business functions through complicated mathematical modeling. Utilize database technologies, including SQL, ETL, and Oracle to design, develop, and evaluate highly innovative business intelligence tools and automated reports for campaign targeting and optimization. Transform complicated business problems into mathematics modeling and provide data\\-driven solutions. Perform statistical analysis, including clustering, crosssession and panel data regression using R, SAS, STATA, and SPSS. Establish scalable, efficient, automated processes for large scale data analyses, model development, model validation, and model implementation.  
+
+  
+
+(40 hours / week, 8:00am\\-5:00pm, Salary Range $106400 \\- $160000\\)  
+
+  
+
+Amazon.com is an Equal Opportunity – Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+
+Master's degree or foreign equivalent in Computer Science, Engineering, Mathematics, Statistics, Economics, or a related field and one year of experience in the job offered, or as a Data Engineer, Data Miner, or a related occupation. Employer will accept a Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, Statistics, Economics, or a related field and five years of experience in the job offered or a related occupation as equivalent to the Master's degree and one year of experience. Must have one year of experience in the following skill(s): using SQL, ETL or Oracle; processing large, multi\\-dimensional datasets from multiple sources; performing statistical analysis; and developing automated reporting.  
+
+  
+
+The pay range for this position in Seattle, WA is $106400 \\- $160000 (yr); however, base pay offered may vary depending on job\\-related knowledge, skills, and experience A sign\\-on bonus and restricted stock units may be provided as part of the compensation package, in addition to a full range of medical, financial, and/or other benefits, dependent on the position offered. This information is provided by Washington Equal Pay Act. Base pay information is based on market location. Applicants should apply via Amazon's internal or external careers site.
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+
+All applicants must meet all the above listed requirements.  
+
+  
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.","Internet And Software","https://www.indeed.com/cmp/Amazon.com","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c","https://www.amazon.jobs","440 Terry Ave N, Seattle, WA, United States, Washington","10,000+","more than $10B (USD)","Our mission is to be Earth's most customer-centric company.","","","","","",""
+"in-814c4c81ce9af4f9","indeed","https://www.indeed.com/viewjob?jk=814c4c81ce9af4f9","https://www.amazon.jobs/jobs/10421410/data-engineer-ii-amz?cmpid=DA_INAD200785B","Data Engineer II- AMZ26497.1","Amazon.com","Seattle, WA, US","2026-05-15","fulltime","direct_data","yearly",144308.0,178800.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+
+Employer: Amazon Data Services, Inc.  
+
+Position: Data Engineer II  
+
+Location: Seattle, WA  
+
+  
+
+Multiple Positions Available:  
+
+  
+
+Design, develop, implement, test, document, and operate large\\-scale, high\\-volume, high\\-performance data structures for business intelligence analytics. Implement data structures using best practices in data modeling, ETL/ELT processes, SQL, Oracle, and OLAP technologies. Provide on\\-line reporting and analysis using OBIEE business intelligence tools and a logical abstraction layer against large, multi\\-dimensional datasets and multiple sources. Gather business and functional requirements and translate these requirements into robust, scalable, operable solutions that work well within the overall data architecture. Analyze source data systems and drive best practices in source teams. Participate in the full development life cycle, end\\-to\\-end, from design, implementation and testing, to documentation, delivery, support, and maintenance. Produce comprehensive, usable dataset documentation and metadata. Evaluate and make decisions around dataset implementations designed and proposed by peer data engineers. Evaluate and make decisions around the use of new or existing software products and tools. Mentor junior data engineers.  
+
+  
+
+(40 hours / week, 8:00am\\-5:00pm, Salary Range $144308 \\- $178800\\)  
+
+  
+
+Amazon.com is an Equal Opportunity – Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+
+Master's degree or foreign equivalent degree in Computer Science, Engineering, Information Systems, Mathematics, or a related field and one year of experience in the job offered, or as a Operations Research Analyst, Database Developer, or a related occupation. Employer will accept a Bachelor's degree or foreign equivalent degree in Computer Science, Engineering, Information Systems, Mathematics, or a related field and five years of progressive post\\-baccalaureate experience in the job offered or a related occupation as equivalent to the Master's degree and one year of experience. Must have one year of experience in the following skill(s): (1\\) developing and operating large\\-scale data structures for business intelligence analytics using each of the following: (i.) ETL/ELT processes; (ii.) OLAP technologies; (iii.) data modeling; (iv.) SQL; and (v.) Oracle.  
+
+  
+
+The pay range for this position in Seattle, WA is $144308 \\- $178800 (yr); however, base pay offered may vary depending on job\\-related knowledge, skills, and experience A sign\\-on bonus and restricted stock units may be provided as part of the compensation package, in addition to a full range of medical, financial, and/or other benefits, dependent on the position offered. This information is provided by Seattle, WA Equal Pay Act. Base pay information is based on market location. Applicants should apply via Amazon's internal or external careers site.
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+
+All applicants must meet all the above listed requirements.  
+
+  
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.","Internet And Software","https://www.indeed.com/cmp/Amazon.com","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c","https://www.amazon.jobs","440 Terry Ave N, Seattle, WA, United States, Washington","10,000+","more than $10B (USD)","Our mission is to be Earth's most customer-centric company.","","","","","",""
+"in-c08bcb3b4d3a3deb","indeed","https://www.indeed.com/viewjob?jk=c08bcb3b4d3a3deb","https://careers.astrion.us/jobs/23844/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Mid-level Machine Learning Engineer","Astrion","Huntsville, AL, US","2026-05-01","fulltime","","","","","",False,"","","","","Overview:
+**Machine Learning Engineer**
+
+**JOB LOCATION:** Huntsville, Al
+
+**JOB STATUS:** Full\\-time
+
+**CLEARANCE:** TS/SCI w CI/Poly
+
+**TRAVEL:** As needed
+
+  
+
+Astrion seeking a **Machine Learning Engineer** to join our analytics team working on an innovative MLOps workload leveraging cutting\\-edge technologies and supporting a government customer in **Huntsville, Alabama**.
+
+  
+
+ This role will be responsible for delivering automation to key national security missions interacting with petabyte\\-scale data on supercomputing resources.
+
+  
+
+The ideal candidate will have a background in AI/ML model development and deployment and have experience in Python programming, handling SQL databases, and working in command line interfaces.
+
+  
+
+The team will work with technologies including:
+
+* Open source, commercial, and government software packages such as Docker, Python, Jupiter Notebooks, PostgreSQL, and other tools.
+* Leverage GitOps patterns and CI/CD with tools like GitLab and GitHub.
+
+
+Work Environment
+
+* Working conditions are normal for an office environment.
+* Fast paced, deadline\\-oriented environment.
+* May require periods of non\\-traditional working hours including consecutive nights or weekends (if applicable).
+
+
+**REQUIRED QUALIFICATIONS / SKILLS**
+
+  
+
+* TS/SCI with CI Polygraph
+* Degree in Computer Science, Statistics, Mathematics, Physics or another quantitative field.
+* 1\\-3 years of experience working with ML frameworks
+* Programming proficiency in Python and extensive knowledge of ML frameworks, libraries data structures, and data modeling.
+* Solid understanding of the full ML development lifecycle.
+* Experience working with SQL and NoSQL databases.
+* Experience with both Linux and Windows operating systems.
+* Knowledge of CI/CD and Agile methodologies.
+* Understanding of software design and system integration.
+
+**PREFERRED QUALIFICATIONS / SKILLS**
+
+  
+
+* Experience with petabyte scale data sets
+* Experience with multi\\-INT analytics
+* Experience deploying, monitoring, and scaling models in production environments
+
+**RESPONSIBILITIES**
+
+  
+
+* Integrate ML systems with other software components, ensuring that machine learning pipelines work within the overall product architecture.
+* Manage the transition from prototype to production, including setting up model deployment pipelines and monitoring solutions.
+* Construct optimized data pipelines to feed ML models; run tests and experiments and document findings.
+* Monitor model performance post\\-deployment including managing model drift, rollback, and failure scenarios.
+* Write clean, testable, maintainable code in Python and other languages.
+
+  
+
+\\#CJ","","https://www.indeed.com/cmp/Astrion","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/bdafd7331c0250e9293bf76dac73e9bf","https://www.oasissystems.com/","Burlington, NC","1,001 to 5,000","$100M to $500M (USD)","Deliver results with impact.
+This is how we do it. We deliver concrete, measurable results that create real impact on our customers’ missions.","","","","","",""
+"in-60ea4a39e4f36be4","indeed","https://www.indeed.com/viewjob?jk=60ea4a39e4f36be4","https://careers.footlocker.com/jobs/68309/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Engineer - Integrations","Foot Locker","US","2026-04-17","fulltime","direct_data","yearly",90000.0,110000.0,"USD",True,"","","","","Overview:
+**This role is 100% REMOTE** **At this time, Foot Locker will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (i.e. H1B, F\\-1 OPT, F\\-1 STEM OPT, F\\-1 CPT, J\\-1, TN, or another type of work authorization**  
+
+The Integration Engineer will play a pivotal role and be a key enabler of Foot Locker’s FinTech strategy. This individual will be ensuring reliable, scalable, and well‑governed data movement across Finance, Sales Audit \\& History, FP\\&A, and core ERP platforms.
+Responsibilities:
+* Design and develop OIC integrations for enterprise applications and business systems
+* Contribute to ERP implementation projects (Oracle Fusion, PeopleSoft, NetSuite, etc.) in an integration or data conversion capacity
+* Build and support ETL and data migration pipelines for financial data
+* Write and maintain SQL/PLSQL for extraction, transformation, and validation
+* Troubleshoot and enhance existing integrations in OIC and Boomi
+* Develop reports and queries to support testing and business validation
+* Collaborate with functional and technical teams to translate requirements into solutions
+* Follow established integration standards and contribute to reusable components
+  
+
+
+Qualifications: **Technical Skills:****Required:*** 3\\+ years in integration, middleware, or ETL development
+* Hands\\-on experience with OIC Oracle Integration Cloud
+* Experience supporting at least one ERP implementation or data migration
+* Exposure to financial data (GL, AR/AP, or master data)
+* Solid SQL/PLSQL (comfortable writing and debugging queries)
+* OIC (primary) \\- builds and supports integrations independently; understands standard patterns, error handling, and monitoring
+
+* Experience with at least one reporting tool (SSRS, Power BI, OTBI, FDI etc.)
+* ETL \\& Data Conversion \\- supports financial data pipelines (GL, AR, AP); assists with data mapping and reconciliation
+* Database \\& Reporting \\- intermediate SQL/PLSQL; builds queries, supports validation; experience with SSRS, Power BI, OTBI, or similar
+**Nice\\-to\\-Have Functional / Technical Knowledge:*** Boomi (secondary) \\- able to read, troubleshoot, and make modifications; deep expertise not required, some ownership of integration components or modules
+* Oracle Fusion ERP exposure (Finance is a plus)
+* Some ownership of integration components or modules (not full workstream ownership)
+* Familiarity with FBDI or HDL
+* Basic scripting (Python or shell)
+* Retail or similar industry exposure (nice to have, not a differentiator requirement)
+
+ *At Foot Locker, we value innovation, authenticity, and integrity in all that we do. To uphold the security and fairness of our hiring process, we ask that candidates refrain from using AI tools, including ChatGPT, during interviews and assessments. To ensure a smooth and secure experience, please review the following guidelines:**Cameras must be on for all virtual interviews.* *AI tools are strictly prohibited during interviews or assessments.**We appreciate your understanding and cooperation as we work together to create a transparent and equitable hiring experience.**\\#LI\\-REMOTE* *\\#LI\\-RD1*
 Benefits:
 
-* Health insurance
-* Life insurance
-* Paid holidays
-* Paid sick time
-* Paid time off
-
-Work Location: In person","","https://www.indeed.com/cmp/Transportgistics","","","","","","","","","","","",""
-"in-5fb0c8b30119b723","indeed","https://www.indeed.com/viewjob?jk=5fb0c8b30119b723","https://intonenetworks.com/careers-at-intone","Mid Level Big Data Engineer","Intone Networks","Charlotte, NC, US","2026-05-27","contract","","","","","",False,"","","","","Big Data Engineer – Financial Crimes \\& AI Enablement Overview Wells Fargo is expanding its AI and data modernization initiatives and is seeking experienced Big Data Engineers to support critical data sourcing, platform engineering, and modernization efforts within the Financial Crimes organization. These roles are funded to accelerate delivery of new AI‑driven use cases that require strong, reliable data foundations. The work centers on large‑scale data ingestion, conformance, and modernization of legacy systems—including the Newton wires platform—onto the enterprise big data environment. Key Responsibilities Lead end‑to‑end development of batch‑oriented data pipelines, including raw data sourcing, domain‑level conformance, and support for downstream curation teams. Design, build, and optimize large‑scale data processing solutions using PySpark, Scala, Spark, and advanced SQL. Support modernization initiatives such as the Newton wires rebuild, including complex parsing, mapping, and transformation of high‑volume structured and semi‑structured data (CLOB, JSON, SWIFT formats). Apply enterprise‑scale performance engineering patterns (partitioning, sorting, join optimization) to ensure reliability and throughput across petabyte‑scale datasets. Collaborate with platform engineering, financial crimes teams, and AI integration groups to ensure data readiness for advanced analytics and AI use cases. Provide L3 production support for developed pipelines, particularly during go‑live and stabilization phases. Work within established tooling and frameworks, including Autosys, Unix shell scripting, GitHub/CI/CD, JIRA/Agile, FlowMaster (ingestion wrapper), and Dremio (SQL interface). Required Qualifications 5\\+ years of experience in Big Data engineering within large enterprise environments. Strong hands‑on expertise with PySpark, Scala, Spark, and SQL. Proven experience with data sourcing, ingestion, and conformance on distributed data platforms. Demonstrated ability to own deliverables end‑to‑end, including production support. Experience building and supporting batch pipelines and working with enterprise schedulers (Autosys). Proficiency with Unix shell scripting, GitHub, CI/CD pipelines, and Agile development practices. Preferred Qualifications Experience with financial crimes, risk, or transaction monitoring data domains. Familiarity with modernization of legacy systems (e.g., mainframe to big data migrations). Exposure to AI‑related data preparation or integration (AI experience is a plus, not a requirement). Knowledge of Power BI for reporting support (beneficial for select roles). Prior Wells Fargo experience or returning “boomerang” candidates with strong references.","","https://www.indeed.com/cmp/Intone-Networks","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/e49b869b922dbb240e92500077beef77","https://www.intonenetworks.com","10 Austin Ave, Iselin, New Jersey – 08830","201 to 500","$5M to $25M (USD)","","","","","","",""
-"in-8ac18804a73852c3","indeed","https://www.indeed.com/viewjob?jk=8ac18804a73852c3","https://verawholehealth.wd1.myworkdayjobs.com/en-US/Castlight/job/Ohio-USA/Analyst-II--Analytics_M103557","Analyst II, Analytics","Castlight","OH, US","2026-05-27","fulltime","direct_data","yearly",63982.0,111125.0,"USD",True,"","","","","**Job Description Summary**
-
-‎
-
-
-We are looking for a data\\-driven Analyst II, Analytics to join our team. In this role, you will bridge the gap between raw data and business strategy by developing automated dashboards, performing deep\\-dive analyses, and communicating actionable insights to stakeholders. This is a remote\\-friendly position suited for a mid\\-level professional with strong SQL skills and a passion for storytelling through data.
-‎
-
-
-**How will you make an impact \\& Requirements**
-
-‎
-
-
-**Role Overview:** The Analyst II, Analytics will support our data initiatives by ensuring data integrity and delivering high\\-impact visualizations. You will work within the **Google Cloud Platform** ecosystem to transform complex datasets into clear, executive\\-level insights.
-
-
-**Key Responsibilities:**
-
-* **Data Analysis \\& Modeling:** Write and optimize complex **SQL** queries in **BigQuery** to extract, clean, and model data for reporting.
-* **Visualization:** Design, build, and maintain high\\-performance automated dashboards in **Tableau** .
-* **Pipeline Monitoring:** Interface with **Airflow** to monitor data workflows and ensure reporting accuracy and freshness.
-* **Stakeholder Collaboration:** Partner with business leaders to define KPIs and present findings that drive departmental strategy.
-* **Continuous Improvement:** Assist in the potential migration or implementation of **Looker** for self\\-service analytics.
-
-**Required Qualifications:**
-
-* 2–4 years of experience in data analytics or business intelligence.
-* Advanced proficiency in **SQL** (ETL logic, window functions, and performance tuning).
-* Hands\\-on experience building production\\-level dashboards in **Tableau** .
-* Experience working within **GCP (BigQuery)** or a similar cloud data warehouse.
-
-**Preferred Qualifications:**
-
-* Familiarity with **Looker** (LookML) or other modern BI modeling layers.
-* Basic understanding of **Airflow** for scheduling and monitoring data pipelines.
-* Experience with Python for data manipulation or automation.
-
-‎
-
-
-**Compensation:**
-
-$63,982\\.00
-to
-
-
-$111,125\\.00","","https://www.indeed.com/cmp/Castlight-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/40f157544f768e86d7353b03c5303f3a","http://www.castlighthealth.com","San Francisco, CA","201 to 500","$100M to $500M (USD)","Our health navigation platform connects with hundreds of health vendors, benefits resources, and plan designs, giving rise to the world’s first comprehensive app for all health needs.","","","","","",""
-"in-8008cf0ba8460cc6","indeed","https://www.indeed.com/viewjob?jk=8008cf0ba8460cc6","https://jobs.lever.co/magnals/c9f92c98-ffa7-467f-9356-1c93ea780e11?lever-source=Indeed","Senior Manager - Data Engineering","Magna Legal Services","Remote, US","2026-05-27","fulltime","direct_data","yearly",140000.0,170000.0,"USD",True,"","","","","**About Us:**
-
-Magna Legal Services provides end\\-to\\-end legal support services to law firms, corporations, and governmental agencies throughout the nation. As an end\\-to\\-end service provider, we can provide strategic advantages to our clients by offering legal support services at every stage of their legal proceedings. **Job Description:**
-
-Job Title: Senior Manager \\- Data Engineering
-
-Position Summary:
-
-This role will continue building and maturing our data platform. We have made meaningful investments in our Snowflake\\-based architecture and dbt modeling layer, and we are looking for a leader who can accelerate that momentum — raising the quality bar on our data models, expanding coverage across new domains, and establishing the conventions and processes that will carry the platform forward as the business grows.
-  
-
-You will lead a team of data engineers, own the technical roadmap for our cloud data stack (Snowflake, Azure, dbt), and partner closely with analytics, product, and operations stakeholders to turn raw data into reliable, well\\-modeled assets that teams can trust and build on. This is a hands\\-on leadership role — the ideal candidate is equally comfortable reviewing a dbt PR, designing a new data model, and running a team planning session.
-### **Key Responsibilities:**
-
-Snowflake Platform
-
-
-* Serve as the internal authority on Snowflake architecture, performance tuning, cost governance, and security (RBAC, data masking, network policies).
-* Design and maintain a scalable, well\\-documented warehouse structure including database, schema, and object hierarchy standards.
-* Drive Snowflake feature adoption — dynamic tables, Snowpark, data sharing, and emerging capabilities.
-
-
-dbt \\& Transformation Layer
-
-
-* Own the dbt project end\\-to\\-end: modeling conventions, testing strategy, documentation standards, and CI/CD integration.
-
-Establish and enforce a layered modeling approach (staging intermediate* marts) that downstream teams can trust and self\\-serve.
-
-
-Azure Data Ecosystem
-
-
-* Lead the design and operation of data pipelines on Azure, including Azure Data Factory
-* Ensure reliable, monitored data movement from source systems into Snowflake with clear SLAs and alerting.
-
-
-Team Leadership
-
-
-* Manage, mentor, and grow a team of data engineers — running regular 1:1s, setting performance goals, and building a culture of engineering excellence.
-* Own hiring, onboarding, and career development for the data engineering function.
-* Translate business requirements from stakeholders into well\\-scoped, prioritized engineering work.
-
-
-Standards \\& Governance
-
-
-* Define and enforce organization\\-wide ETL/ELT best practices, naming conventions, and code review standards.
-* Champion data quality, observability (e.g., dbt tests), and lineage across the platform.
-* Proactively identify opportunities for data process improvements and lead initiatives to implement these changes.
-
-### **Qualifications:**
-
-
-Bachelor’s degree in computer science, Information Technology, Engineering, or a related field
-
-
-
-7\\+ years in data engineering, with at least 2 years in a team lead or management role
-
-
-
-Deep, production\\-grade Snowflake expertise — you have designed warehouse architectures, optimized query performance, managed costs, and implemented enterprise security controls
-
-
-
-Fluency with dbt: you have built and maintained dbt projects at scale and can articulate opinionated best practices
-
-
-
-Hands\\-on Azure Data Factory experience
-
-
-
-Strong SQL skills and proficiency in Python for data pipeline development and automation
-
-
-
-Proven ability to lead and grow a small team while remaining technically engaged
-
-
-
-Strong communicator who can translate complex data concepts to non\\-technical stakeholders and contribute to strategic planning conversations
-
-### **Nice to have:**
-
-
-Familiarity with data observability tooling (Elementary, Monte Carlo, or similar).
-
-
-
-Exposure to Snowflake Cortex, Snowpark ML, or other AI/ML capabilities on Snowflake
-
-
-
-Experience in a high\\-growth or scale\\-up environment where standards were built from the ground up
-
-
-Compensation: USD $140,000 \\- $170,000 per year.  
-
-An employee’s pay position within the salary range will be based on several factors including, but not limited to, relevant education, qualifications, certifications, experience, skills, seniority, geographic location, performance, travel requirements, revenue\\-based metrics, any contractual agreements, and business or organizational needs. The range listed is just one component of the total compensation package for employees.  
-
-Magna Legal Services provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
-
-This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
-
-We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.","","https://www.indeed.com/cmp/Magna-Legal-Services","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/c88b802a1f64f8ca63741080910fd33e","https://www.magnals.com","Philadelphia","11 to 50","$5M to $25M (USD)","Magna Legal Services provides end-to-end litigation support services to law firms, corporations, and governmental agencies throughout the nation.","","","","","",""
-"in-90e7cab16980a562","indeed","https://www.indeed.com/viewjob?jk=90e7cab16980a562","https://employment.utah.edu/BB7BDA57B9A045D59D5BFB3219CB5DA0/job/","Research Data Analyst","University of Utah","Salt Lake City, UT, US","2026-05-27","fulltime","direct_data","yearly",80000.0,90000.0,"USD",True,"","","","","Details
-
-
-**Open Date** 05/27/2026
-
-
-**Requisition Number** PRN45119B
-
-
-**Job Title** Research Data Analysts
-
-
-**Working Title** Research Data Analyst
-
-
-**Career Progression Track** P00
-
-
-**Track Level** P3 \\- Career, P2 \\- Developing
-
-
-**FLSA Code** Administrative
-
-
-**Patient Sensitive Job Code?** No
-
-
-**Standard Hours per Week** 40
-
-
-**Full Time or Part Time?** Full Time
-
-
-**Shift** Day
-
-
-**Work Schedule Summary**
-
-Work schedule: Monday–Friday, 8:00 AM–5:00 PM. Travel, evenings, and weekends may occasionally be required.
-
-
-**VP Area** Academic Affairs
-
-
-**Department** 00162 \\- Educational Leadership\\&Policy
-
-
-**Location** Campus
-
-
-**City** Salt Lake City, UT
-
-
-**Type of Recruitment** External Posting
-
-
-**Pay Rate Range** $80,000\\-$90,000
-
-
-**Close Date** 07/23/2026
-
-
-**Priority Review Date (Note \\- Posting may close at any time)** 07/01/2026
-
-
-**Job Summary**
-
-**Lab Overview**
-
-The Prison Education Action Research Lab ( PEARL ) at the College of Education at the University of Utah is the nation’s first center dedicated to advancing research, data, and leadership in postsecondary education in prison. Funded by an $8 million award from Ascendium Education Group, PEARL leverages evidence\\-based research to change systems and reduce barriers to postsecondary education for people directly impacted by the criminal legal system. PEARL’s anchor project, the Prison Education Research Initiative ( PERI ), is a first\\-of\\-its\\-kind multi\\-institutional longitudinal study spanning 22\\+ partner colleges and universities nationwide.
-
-
-**Mission**
-
-PEARL does research that advances educational justice for people and communities impacted by incarceration.
-
-
-**Position Summary**
-
-The Research Data Analyst will lead the secure acquisition, organization, documentation, preparation, integration, and analysis of complex multi\\-site administrative and research datasets for PEARL’s national longitudinal study, with particular responsibility for multi\\-institution data management, relational database development, and related data infrastructure.
-
-
-This position is ideal for a highly skilled quantitative data professional who thrives in a collaborative research environment and enjoys transforming raw data into accurate, well\\-documented, analysis\\-ready files and reproducible outputs.
-
-
-Working closely with Principal Investigators, institutional partners, and research staff, the Research Data Analyst will oversee data workflows that include raw and inconsistently structured administrative corrections, education, employment, and survey data from multiple institutions, agencies, external organizations, and time periods. The successful candidate will build efficient, secure systems for data cleaning, merging, quality assurance, database development, reporting, and documentation while ensuring compliance with data security, IRB , and data\\-use agreement requirements. The Research Data Analyst will lead the development and ownership of data infrastructure and data products, including relational database management, pipeline development, and reporting tools that support partner\\-facing communication and research use.
-
-
-The Research Data Analyst will work under the supervision of project PIs Dr. Erin L Castro and Dr. Jason Taylor at the University of Utah. We strongly encourage applications from individuals directly impacted by incarceration and punishment systems.
-
-
-**Research Data Analysts**
-
-Assist with organizing and analyzing research data, ensuring accuracy and integrity. Perform data entry and prepare basic visualizations and reports using software such as Excel or Tableau. Support team efforts by maintaining datasets, performing quality checks, and documenting processes. Collaborate with senior analysts to learn and implement statistical methods for research projects.
-
-
-**Why This Role Matters**
-
-This position will help build one of the most important national datasets on prison higher education and student outcomes. The successful candidate will play a central role in producing credible evidence that informs policy, expands opportunity, and improves lives.
-
-
-**Compensation and Terms**
-
-This is a grant\\-funded position within PEARL . The position is full\\-time and benefitted. Work schedule: Monday–Friday, 8:00 AM–5:00 PM. Travel, evenings, and weekends may occasionally be required. The Research Data Analyst may work remotely or on\\-site at the University of Utah with some travel required.
-
-
-**Learn more about the great benefits of working for University of Utah: benefits.utah.edu**
-
-**The department may choose to hire at any of the below job levels and associated pay rates based on their business need and budget.**
-
-**Responsibilities**
-
-**Research Data Analyst II**
-
-Perform routine statistical analyses on research datasets and begin to provide insights for research studies. Use software such as Excel or Tableau to manipulate data, create visualizations, and generate summaries. Assist with writing sections of research reports and manuscripts, contributing to the interpretation of results. Work independently on smaller analysis tasks and support more complex projects under supervision.
-
-
-Requires a bachelor’s (or equivalency) \\+ 4 years or a master’s (or equivalency) \\+ 2 years of directly related work experience.
-
-
-This is a Developing\\-Level position in the General Professional track.
-
-
-**Research Data Analyst III**
-
-Execute intermediate\\-level data analyses, including regression and multivariate methods, to inform research objectives. Use software such as R, Python, SAS , or SPSS to manipulate data, create visualizations, and generate summaries. Write significant portions of research reports and contribute to study designs by advising on data collection and analysis methodologies. Collaborate with cross\\-functional teams to ensure data aligns with project goals.
-
-
-Requires a bachelor’s (or equivalency) \\+ 6 years or a master’s (or equivalency) \\+ 4 years of directly related work experience.
-
-
-This is a Career\\-Level position in the General Professional track.
-
-
-**Department Specific Responsibilities**
-
-* Support development of data collection, data management, and analysis plans.
-* Develop data collection instruments, tools, and templates for state and institutional administrative data and student and institutional surveys, adjusting tools and instruments for local and state contexts where relevant.
-* Support development of processes, protocols, and timelines for data collection and data validation.
-* Coordinate secure receipt of data files from partner institutions and agencies.
-* Maintain organized folder structures, file naming conventions, and version control practices.
-* Ensure data storage, access, and handling procedures comply with IRB approvals, University policy, and data\\-use agreements.
-* Design, build, document, own, and maintain the project relational database and related data infrastructure.
-* Develop and manage data pipelines for ingesting, transforming, and integrating multi\\-institution administrative and research data.
-* Clean, validate, standardize, recode, integrate, and document raw and inconsistently structured incoming datasets from multiple institutions and external organizations.
-* Create and maintain data dictionaries, codebooks, variable crosswalks, and workflow documentation.
-* Use Stata to conduct exploratory analyses, descriptive statistics, and statistical analyses.
-* Produce reproducible, report\\-ready tables, figures, descriptive summaries, and statistical outputs.
-* Create targeted dashboards, data visualizations, and reporting tools as supporting products for partner communication.
-* Lead scalable data infrastructure planning and implementation in collaboration with project leadership and technical partners.
-* Communicate data limitations, assumptions, anomalies, and recommendations clearly.
-* Help strengthen best practices in data governance, reproducibility, and research workflow management.
-* Support internal reporting, grant deliverables, manuscripts, conference presentations, and ad hoc analytic requests.
-
-**Minimum Qualifications**
-
-**EQUIVALENCY STATEMENT :** 1 year of higher education can be substituted for 1 year of directly related work experience (Example: bachelor’s degree \\= 4 years of directly related work experience).
-
-
-**Department may hire employee at one of the following job levels:**
-
-**Research Data Analyst III :** Requires a bachelor’s (or equivalency) \\+ 6 years or a master’s (or equivalency) \\+ 4 years of directly related work experience.
-
-
-**Research Data Analyst II:** Requires a bachelor’s (or equivalency) \\+ 4 years or a master’s (or equivalency) \\+ 2 years of directly related work experience.
-
-
-**Preferences**
-
-* Bachelor’s degree in data science, statistics, economics, mathematics, education or a related quantitative field, or equivalent professional experience.
-* Two years of professional experience in research data management, statistical programming, or quantitative analysis.
-* Demonstrated commitment to and knowledge about educational equity and justice.
-* Proficiency in at least one statistical or data programming environment (e.g., Stata, R, or Python) for data cleaning, validation, transformation, and analysis, with the ability to learn new tools as needed.
-* Experience with SQL , relational database design, and database setup or maintenance in cloud\\-based or secure data environments.
-* Demonstrated experience managing raw or inconsistently structured datasets from multiple institutions, agencies, or external organizations.
-* Strong understanding of data confidentiality, secure data handling, and quality assurance practices.
-* Excellent organizational skills with strong attention to detail.
-* Strong written and verbal communication skills.
-* Experience supporting social science, education, criminal justice, public policy, or longitudinal research.
-* Experience working with multi\\-site administrative datasets.
-* Knowledge of postsecondary education research and data infrastructure.
-* Experience with Stata for reproducible workflows and report\\-ready outputs.
-* Experience with Python or R for data processing and automation.
-* Experience creating targeted dashboards or data visualizations that support research workflows, quality assurance, or partner reporting.
-
-**Type** Benefited Staff
-
-
-**Special Instructions Summary**
-
-Required Application Materials:
-
-
-* Cover Letter that describes interest in and qualifications for the position. Candidates should include their experience developing and managing databases, data infrastructure, and/or producing quantitative analyses
-* Resume or Curriculum Vitae
-* Names and contact information for three references, one of whom can specifically speak to research skills and experience
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801\\) 581\\-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post\\-retirement rules and restrictions. Please contact Utah Retirement Systems at (801\\) 366\\-7770 or (800\\) 695\\-4877 or University Human Resource Management at (801\\) 581\\-7447 if you have questions regarding the post\\-retirement rules.
-
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy\\-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106\\. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the: **University of Utah Non‑Discrimination page** .
-
-
-Online reports may be submitted at **https://oeo.utah.edu**
-
-**https://publicsafety.utah.edu/safetyreport/** This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security\\-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
-
-
-As per **University of Utah policy 5\\-108: Transfer of Benefits Eligible Staff Members** , a new hire to the University of Utah who is still serving a 12 month probationary period will not be hired into another University of Utah job (a transfer) until the successful completion of the probationary period.","Education And Schools","https://www.indeed.com/cmp/University-of-Utah","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/bf6d9a00bb90121089a76c5eda7f1623","http://www.employment.utah.edu/","201 PRESIDENTS CIRCLE
-SALT LAKE CITY, UT 84112","10,000+","$1B to $5B (USD)","","","","","","",""
-"in-7b50e9b712541ac9","indeed","https://www.indeed.com/viewjob?jk=7b50e9b712541ac9","https://imaginexdigital.applytojob.com/apply/WNU8qudFMM/Senior-GoLang-Developer?source=INDE&~","Senior GoLang Developer","ImagineX Consulting","Remote, US","2026-05-27","fulltime","","","","","",True,"","","","","ImagineX is a tech company that deploys AI\\-assisted teams to build and secure mission\\-critical enterprise solutions with our clients – spanning software, data, and AI. Structured like a software company, not a traditional consultancy, we blend deep technical expertise with authentic values, achieving world\\-class satisfaction (NPS 91\\). Our dedicated teams specialize in software, data, and AI across the U.S. and LATAM, bridging the gap between boutique agility and enterprise scale.
-
-
-We are seeking a **Senior GoLang Developer** to lead the development of scalable, resilient backend services. You will architect and implement core platform components, optimize system performance, and collaborate closely with product, DevOps, and engineering leadership. This role requires deep expertise in Go, strong systems‑level thinking, and the ability to influence engineering direction. You'll enjoy working 100% remote in this full\\-time opportunity.
-
-### **Key Responsibilities**
-
-* **Design, develop, and maintain** high‑performance backend services using Go.
-* **Architect distributed systems** and microservices with a focus on scalability, reliability, and observability.
-* **Optimize performance** across APIs, data pipelines, and service‑to‑service communication.
-* **Implement best practices** for code quality, testing, CI/CD, and cloud‑native deployment.
-* **Collaborate cross‑functionally** with product managers, DevOps, and frontend teams to deliver end‑to‑end solutions.
-* **Lead technical decisions** around system design, data modeling, and infrastructure.
-* **Mentor junior and mid‑level engineers**, providing code reviews and architectural guidance.
-* **Troubleshoot complex production issues**, including performance bottlenecks and distributed system failures.
-* **Contribute to technical roadmaps** and long‑term engineering strategy.
-
-### **Required Qualifications**
-
-* 5–8\\+ years of backend engineering experience, with 3\\+ years of hands‑on Go development.
-* Strong understanding of concurrency patterns, goroutines, channels, and Go memory management.
-* Experience building microservices and distributed systems at scale.
-* Proficiency with REST, gRPC, GraphQL, or event‑driven architectures.
-* Deep experience with cloud platforms (AWS, GCP, or Azure) and containerization (Docker, Kubernetes).
-* Strong knowledge of SQL and NoSQL databases, caching layers, and message queues.
-* Familiarity with CI/CD pipelines, automated testing, and observability tools (Prometheus, Grafana, OpenTelemetry).
-* Ability to write clean, maintainable, idiomatic Go code.
-* Excellent communication skills and the ability to lead technical discussions.
-
-### **Preferred Qualifications**
-
-* Experience with high‑throughput, low‑latency systems.
-* Background in DevOps, infrastructure‑as‑code, or SRE practices.
-* Experience with Kafka, NATS, RabbitMQ, or similar messaging systems.
-* Knowledge of domain‑driven design (DDD) or clean architecture.
-* Contributions to open‑source Go projects.
-
-
-
-
-WNU8qudFMM","","https://www.indeed.com/cmp/Imaginex-Consulting","","https://www.imaginexconsulting.com","Washington","11 to 50","less than $1M (USD)","","","","","","",""
-"in-b729d9d038ba909e","indeed","https://www.indeed.com/viewjob?jk=b729d9d038ba909e","https://forpeople.applytojob.com/apply/zMOIqSf5RD/Technical-Delivery-Manager?source=INDE&~","Technical Delivery Manager","for people","Remote, US","2026-05-27","fulltime","direct_data","yearly",100000.0,130000.0,"USD",True,"","","","","For People is a team of skilled technologists improving government digital services for disadvantaged and vulnerable populations. We embed directly in government agencies to modernize software, systems, and platforms so that they better serve people.
-
-**Your Impact**
----------------
-
-
-As a Delivery Manager, you bring clarity where it is missing. The project you will be working on advances work through real ambiguity, and this role is about listening across policy, technical, and government\\-partner contexts, making sense of what is actually being asked, and turning that into clear decisions, shared expectations, and workable next steps.
-
-
-You build trust by naming tradeoffs early, holding decision rights clear, and following through. You make sure the team has the clarity, coordination, and documentation to build it well. You will also get to know the work other For People teams are doing to look for opportunities for collaboration and learning.
-
-
-The team you will be working on is a data program for the Centers for Medicare \\& Medicaid Services (CMS). The team builds monthly datasets and reports for state and CMS audiences, produced through a data pipeline that draws on state\\-submitted Medicaid data. The data science team builds and runs that pipeline in Python and SQL. You will not write code, but you will work close enough to the data and the build process to shape clear requirements, ask the right questions, and explain the work to varied audiences.
-
-**Our Culture**
----------------
-
-
-For People is a team of humans. We place a significant amount of emphasis on positive work\\-life balance, setting healthy expectations, and making sure our loved ones are taken care of first. That means picking a child up from school during the day or going for a mid\\-day walk is okay! This position is **100% remote**. Our entire team is remote across the United States, from the West Coast to the East Coast. There will never be a return\\-to\\-office, as we have none!
-
-
-This position's published base salary range is between **$100,000 and $130,000** annually, plus generous benefits (e.g., For People pays 100% of Gold\\-tier employee health insurance premiums) and annual company profit sharing. This range encompasses both mid\\-level and senior titles. Seniority will be determined based on relevant experience.
-
-**Your Opportunities**
-----------------------
-
-* Facilitate problem framing exercises, gather assumptions, and explore options for ad\\-hoc requests, such as valid value changes, data quality enhancements, and one\\-off analyses
-* Document the discovery process itself, including different pathways for lower\\-complexity and higher\\-complexity asks
-* Co\\-lead roadmap updates with the Product Manager, supporting the requirements clarity and partner alignment that feed into them
-* Translate jargon\\-heavy policy or technical inputs into clear requirements, acceptance criteria, and decision memos, then hand off well\\-shaped requirements to the Product Manager
-* Build enough working fluency in the team's data to understand their work and effectively communicate about its progress.
-* Maintain a shared understanding of delivery expectations across partner teams, reducing communication and handoff gaps without micromanaging
-* Own the risk register in consultation with the Product Manager and the team's policy SME, documenting decision points and tradeoffs around complexity, level of effort, and feasibility
-* Make sure the clearance process for the monthly reports exists and runs predictably, supporting reporting readiness for these external\\-facing deliverables
-* Prepare and deliver leadership\\-ready summaries that translate complex work into understandable narratives
-
-**Is This You?**
-----------------
-
-* You lead with a humble and caring attitude, aligning with For People’s values of how we work with passion, fun, curiosity, sustainability, humility, and respect.
-* 4 to 5 years of experience in delivery, program coordination, or discovery roles on technical or data\\-heavy programs
-* Government experience, whether with state or federal health agency experience is preferred
-* Comfort switching between the big picture and the details
-* Strong synthesis and written communication, for example requirements, decision memos, risk summaries, and leadership briefings
-* The ability to operate in ambiguous situations without creating chaos, acting on the question of where the team needs clarity and how to get there
-* The ability to communicate, anticipate and proactively address roadblocks, document, and follow through
-* Comfort working in partnership with a strong leadership team, navigating overlaps and gaps in responsibilities
-
-**It would be great if you also have**
---------------------------------------
-
-* Experience with CMS or other federal health agency programs and systems
-* Familiarity with Medicaid data or other large\\-scale health data
-* Comfort working with high\\-profile government partners and high\\-stakes, high\\-visibility programs
-* Comfort reading and reasoning about data pipeline work in Python and SQL, enough to translate it into requirements and plain\\-language summaries
-* Familiarity with agile delivery practices and the ability to support planning ceremonies
-* Experience navigating stakeholder approval and formal clearance pathways
-
-**Additional Details**
-----------------------
-
-
-You will be working on United States government platforms, and they have a few basic requirements for contractors like ourselves. You must perform all work physically within the United States at all times. In addition, you must be a United States citizen and be able to pass a government\\-performed public trust background check.  
-
-  
-
-For People is an Equal Employment Opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability, genetics, and/or veteran status.
-
-
-
-
-zMOIqSf5RD","","https://www.indeed.com/cmp/For-People","","","","","","","","","","","",""
-"in-6e08679aeeef4513","indeed","https://www.indeed.com/viewjob?jk=6e08679aeeef4513","https://searchcareers.caci.com/careers/job/1443150965037","Sr. Data Scientist / Machine Learning Engineer","CACI International","Reston, VA, US","2026-01-21","fulltime","direct_data","yearly",105100.0,231100.0,"USD",False,"","","","","Job ID
-326581
-Job Title: Sr. Data Scientist / Machine Learning Engineer
+The annual base salary range is $90000 \\- $110000 / year. This range represents the anticipated low and high end of the salary for this position. Salary will be determined by the education, experience, knowledge, skills, and abilities of the applicant, internal equity, and alignment with market data. Salary is one component of the Foot Locker, Inc. total compensation package, which includes the below.
+
+ **Foot Locker Benefits**:
+
+* Employee Discount
+* Paid Time Off
+* Medical \\| Dental \\| Vision Coverage
+* 401(k) \\| Roth 401(k)
+* Life Insurance
+* Flexible Spending Account
+* Opportunities for Advancement
+* Tuition Reimbursement for Qualified Courses
+* Strong Company Culture
+* Employee Resource Groups
+
+
+\\#LI\\-KS1","Retail","https://www.indeed.com/cmp/Foot-Locker","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ac190ab0b72cbe77b8cebdbfff5b12de","https://www.footlocker.com/","1 Pennsylvania Plaza
+New York, NY 10119","10,000+","$5B to $10B (USD)","Headquartered in New York, New York, Foot Locker is a leading retailer of athletic shoes and apparel, serving customers around the world.","","","","","",""
+"in-909b8b48da60c0e9","indeed","https://www.indeed.com/viewjob?jk=909b8b48da60c0e9","https://searchcareers.caci.com/careers/job/1443151117813","Data Engineer (Power BI)","CACI International","Remote, US","2026-01-21","fulltime","direct_data","yearly",75200.0,158100.0,"USD",True,"","","","","Job ID
+327071
+Job Title: Data Engineer (Power BI)
 Job Category: Information Technology
 Time Type: Full time
-Minimum Clearance Required to Start: TS/SCI with Polygraph
+Minimum Clearance Required to Start: TS/SCI
 Employee Type: Regular
-Percentage of Travel Required: Up to 10%
-Type of Travel: Outside Continental US
-\\* \\* \\***The Opportunity:**
+Percentage of Travel Required: None
+Type of Travel: None
+\\* \\* \\* **The Opportunity:**
 
 
-Join CACI as a Data Scientist and Engineer. We are seeking a highly experienced subject matter expert to drive technical innovation, architect advanced data engineering solutions, and implement machine learning models that support our clients’ LAN, WAN, and UC services. In this role, you will lead the most complex, high\\-impact initiatives, solving unique and undefined problems in cybersecurity, compliance, and network modernization. You will establish operational plans with mid\\-term strategic impact, mentor technical staff across the organization, and present your findings directly to senior and executive leadership. Become a part of our great team and make a strategic difference within the Intelligence Community!
+The Office of the Deputy Assistant Secretary of War – Science \\& Technology Foundations (STF) Team is seeking a skilled Mid\\-Level Data Engineer to support the creation and sustainment of business intelligence tool. The tools you create will provide critical information on S\\&T program health to the War Research Enterprise leadership.
 
-**Responsibilities:**
+**Note: This role allows you to work remotely; however, the client requires that you live in the Washington, D.C. Metro Area.**
 
-* Employ advanced statistical methods and machine learning techniques to analyze complex datasets, uncovering deep patterns and root causes
-* Architect, build, and maintain robust, end\\-to\\-end data pipelines to ensure seamless data collection, integration, and storage
-* Design, develop, and deploy predictive algorithms and automated machine learning models into production environments to optimize network operations
-* Analyze large, unstructured, and undefined data sets to solve unique technical challenges where information is difficult to obtain
-* Lead complex, cross\\-functional project initiatives to address strategic business needs in cybersecurity, compliance, and network modernization
-* Present highly technical findings and strategic recommendations to senior and executive leadership in a clear and actionable manner
-* Provide expert guidance, coaching, and mentorship to technical staff across the organization to drive the adoption of data\\-driven practices
-* Conceptualize and implement innovative data products, processes, and standards that establish mid\\-term operational plans for the broader organization
-* Stay updated on the latest advancements in data engineering architecture, machine learning MLOps, and data science best practices
+ **Responsibilities:**
 
-**Qualifications:**
+* Research, recommend, and implement the optimal combination of technologies for the infrastructure dashboard data platform (e.g., databases, processing frameworks, orchestration tools).
+* Set up necessary data storage solutions with a focus on long\\-term scalability.
+* Connect live data via API or other appropriate mechanisms from multi\\-domain sources.
+* Collaborate with domain experts to understand Research, Development, Test \\& Evaluation (RDT\\&E) data being ingested. Ensure modeling controls for data abnormalities and structural differences.
+* Build a robust data pipeline for loading and transforming data into a model appropriate for STF use, considering both short\\- and long\\-term data goals.
+* Create and enforce data governance policies, including data quality standards, data lineage tracking, and metadata management. Communicate these policies to data analysts and stakeholders.
+* Monitor and optimize database and/or data model performance and security. Conduct periodic testing of pipeline health and data validity.
+* Work with data stakeholders and the data analyst team to ensure the background data and architecture meet the needs of requested visualizations and analyses.
+* Create and maintain detailed documentation for data architecture, data models, pipeline jobs, and all related processes .
+
+ **Qualifications:**  
+
+  
 
 *Required:*
 
-* Must possess an active TS/SCI security clearance with the ability to obtain a polygraph
-* Bachelor’s degree in data science, computer science, statistics, mathematics, engineering, or a related field
-* 10\\+ years of relevant work experience
-* Must hold a current DoD 8570 IAT Level II certification (e.g., Security\\+ CE)
-* Proficient understanding of data governance and security best practices
-* Proven proficiency in Python, R, and SQL for advanced data manipulation, pipeline creation, and model development
-* Extensive hands\\-on experience designing and deploying scalable data architecture, databases, and automated data engineering workflows
-* Deep expertise in machine learning, predictive modeling, data mining techniques, and deploying models into production environments
-* Proven ability to conduct extensive investigations to understand the root cause of undefined problems
-* Experience conceptualizing and communicating with executive leadership regarding matters of significant strategic importance
+**Note: This role allows you to work remotely; however, the client requires that you live in the Washington, D.C. Metro Area.**
 
-*Desired:*
+* Bachelor’s degree in Computer Science, Data Science, Engineering, or a related field.
+* Minimum of five (5\\) years of experience in database and dashboard development.
+* Strong experience with databases, data processing frameworks, and orchestration tools.
+* Proficiency in API integration and data ingestion from various sources.
+* Experience with data modeling, ETL processes, and data pipeline development.
+* Expert proficiency in PowerBI
+* Excellent problem\\-solving skills and attention to detail.
+* Strong communication skills and ability to work collaboratively with cross\\-functional teams.
 
-* Active TS/SCI clearance with polygraph
-* Advanced degree (Master’s or Ph.D.) in a highly quantitative or technical field
-* Experience mentoring and directing junior/mid\\-level data analysts and engineers
-* Familiarity working alongside Business Intelligence SMEs, preparing and formatting optimal data structures for visualization tools like Tableau
-* Exceptional ability to work with high latitude and independence, successfully managing multiple high\\-stakes projects simultaneously
+
+\\#LI\\-TF1
 
 * 
 
@@ -1292,4 +1933,4 @@ Since this position can be worked in more than one location, the range shown is 
 The proposed salary range for this position is:
 
 
-$105,100\\-$231,100*CACI is* *an Equal Opportunity Employer.* *All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, age, national origin, disability, status as a protected veteran, or any* *other protected characteristic.*","","https://www.indeed.com/cmp/CACI-International-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/1f2e0188bca33d5172379e765ba16720","http://www.caci.com","Reston, VA","10,000+","$5B to $10B (USD)","CACI is ever vigilant in helping our customers meet their greatest challenges in national security and government transformation.  ","","","","","",""
+$75,200\\-$158,100*CACI is* *an Equal Opportunity Employer.* *All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, age, national origin, disability, status as a protected veteran, or any* *other protected characteristic.*","","https://www.indeed.com/cmp/CACI-International-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/1f2e0188bca33d5172379e765ba16720","http://www.caci.com","Reston, VA","10,000+","$5B to $10B (USD)","CACI is ever vigilant in helping our customers meet their greatest challenges in national security and government transformation.  ","","","","","",""

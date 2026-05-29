@@ -1,135 +1,218 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
-"in-9abfd826caa4e096","indeed","https://www.indeed.com/viewjob?jk=9abfd826caa4e096","http://www.indeed.com/job/tmsis-experience-required-data-analyst-9abfd826caa4e096","TMSIS experience required -Data Analyst","Trillian Technologies Inc.","Remote, US","2026-05-28","temporary","","","","","",True,"","","","","End date – 12/31/2026
+"in-8b6f854498e5f6ba","indeed","https://www.indeed.com/viewjob?jk=8b6f854498e5f6ba","https://careers-logixbanking.icims.com/jobs/1670/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Manager, Data & Analytics-Hybrid","Ohio State University Physicians","Valencia, CA, US","2026-05-20","fulltime","direct_data","yearly",126498.0,196071.0,"USD",True,"","","","","Overview:
 
-**T\\-MSIS experience REQUIRED**
+If you love connecting with people and are ready to grow your career in a company that invests in your success, we’d love to meet you. Come be part of something amazing where your contributions truly matter. Where a hybrid schedule offers the perfect balance of in\\-person collaboration and remote flexibility, supporting a great work\\-life harmony.  
 
-Responsible for performing research and requirement analysis, creation and design of mapping documents, and presenting findings to appropriate team members, clients and vendors. Determines best practices and provides suggestions on how to improve current practices.
-
-**Required Skills:**
-
-* Healthcare/business knowledge in one or more of the following areas: member, eligibility, TPL, claims processing, provider, pharmacy claims. TMSIS knowledge is highly preferred and will be given first preference.
-* Must analyze and figure out data issues independently by comparing with existing data and ETL models.
-* Good/Excellent SQL skills mandatory.
-* Good Oral/Written communication skills.
-* Must be eager and ambitious. Ability to quickly grasp new concepts, procedures, and technologies. To be successful, candidate will be required to quickly learn the Preferred Skills below and then work independently to fulfill job requirements.
-
-**Preferred Skills:**
-
-* TMSIS working knowledge
-* Data Mapping experience
-* Data Analysis experience
-
-The candidate is expected to be able to understand data and decode errors. Should be able to understand specifications and mapping documents, perform analysis on data to transformation requirements, work with ETL/Reporting/Conversion staff to ensure code has been developed that meets the business requirements documented, test the interface/report to ensure requirements are met, and work with other team members.
-
-**Duties and Responsibilities (essential duties and responsibilities in order of importance):**
-
-* Creates accurate mapping documents according to the mapping process.
-* Works toward delivering a first draft solution to ETL/Reporting/Conversion for coding, by rapidly understanding which details about the mapping can be deferred.
-* Presents analysis and design recommendations to lead MITA teams, customer and/or vendors into the acceptance of the design.
-* Supports the ETL developers based on the mappings created.
-* Works closely with configuration team and DBAs to ensure synchronicity of configuration to interfaces and mappings.
-* Refines mapping documents, adding more detail and filling out deferred material as questions are resolved.
-* Uses SQL, data models, data element dictionary and schema to perform data and business analysis.
-* Creates unit test cases for area of responsibility.
-* Validates test plan results that satisfy the detailed design goals.
-* Updates technical specifications and mappings.
-* Supports Unit Testing, System Integration Testing, System Testing, and User Acceptance Testing.
-
-**Knowledge, Skills, and Abilities:**
-
-* Analytical and data analysis skills within a technical environment preferably SQL.
-* Healthcare knowledge within a claims processing environment preferably in Medicaid.
-
-Work Location: Remote","","https://www.indeed.com/cmp/Trillian-Technologies-Inc.","","","","","","","","","","","",""
-"in-483b2ccdbabe0374","indeed","https://www.indeed.com/viewjob?jk=483b2ccdbabe0374","https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Remote/Data-Pipeline-Engineer---School-of-Computer-Science---MLD_2024592","Data Pipeline Engineer - School of Computer Science - MLD","Carnegie Mellon University","Remote, US","2026-05-27","parttime","","","","","",True,"","","","","Carnegie Mellon University is a private, global research university that stands among the world’s most renowned education institutions. With ground\\-breaking brain science, path\\-breaking performances, creative start\\-ups, big data, big ambitions, hands\\-on learning, and a whole lot of robots, CMU doesn’t imagine the future, we invent it. If you’re passionate about joining a community that challenges the curious to deliver work that matters, your journey starts here!
+In collaboration with the VP of Business Technology Integration \\& Intelligence Implementation, the **Manager of Data \\& Analytics** develops and delivers a strategy\\-aligned analytics and business intelligence (BI) roadmap that enables actionable, timely, and scalable decision\\-making across the organization supporting Logix’s goals to deepen member relationships, improve operational efficiency, mitigate risk, and identify opportunities to monetize data where appropriate. This role leads a multidisciplinary team of data analysts, visualization specialists, a data governance program manager, and ETL engineers, balancing speed\\-to value with sustainable quality standards. The role partners closely with stakeholders at all levels of the organization, including executive leadership, to prioritize initiatives based on business value and measurable outcomes.
+Responsibilities:
+* Manage capacity, priorities, and performance for a high performing team of Database Engineers, Data Analysts, Data Scientists and Data Governance Program Manager, ensuring delivery commitments balance speed, quality, and business value.
+* Oversee the delivery of data related projects including planning, resource allocation, requirements gathering, solution development, documentation, testing, and delivery. Manage an intake process, prioritizing requests, delivering quick turn\\-time insights while supporting larger roadmap initiatives. Communicate objectives, roadmaps, options/trade\\-offs, progress, risks, and realized outcomes to stakeholders.
+* Drive cross\\-functional collaboration by partnering with various business units, department management, and executive leadership to translate strategy into measurable analytics use cases and embed data\\-driven decision\\-making across the organization, including executive\\-ready storytelling, change adoption, and user enablement.
+* Manage data quality and reliability of member and operational data within the Enterprise Data Warehouse, aligning standards to critical business uses (regulatory, financial, member experience, and operational reporting). Remediate errors and work with business users to determine root cause, requirements, resolution, and validation, with a focus on preventing recurrence and improved cycle times.
+* Oversee the build, optimization, and automation of data models, data warehouses, and ETL processes to enhance speed, reliability, and scalability of management reporting tools, budgeting and forecasting models, and KPI dashboards, enabling actionable insights that support member growth, retention, and operational efficiency.
+* Collaborate with the Data Governance Program Manager to execute the Data Governance roadmap, including data ownership/stewardship, business definitions, metadata, and controls that improve trust and usability of enterprise data.
+* Manage key system performance, security, and availability of platforms used within the department. Partners with IT/Security to ensure appropriate controls, monitoring, and incident response practices are in place.
+* Oversee the development and maintenance of scalable and reliable business intelligence systems (e.g. customer data platform, cloud database, etc.) aligned with evolving business needs, enabling governed self\\-service and reusable data products (datasets, metrics, dashboards) for business teams.
+* Lead high\\-impact analytics initiatives for Logix's business strategy by translating complex business questions into structured analytical solutions and fostering advanced analytics best practices, with clear success metrics tied to member growth/retention, operational efficiency, risk reduction, and revenue/ROI (including data monetization opportunities where applicable).
+* Monitors and adopts emerging technologies and industry trends, including advancements in artificial intelligence, to evolve department capabilities and ensure it remains innovative, effective, and aligned with future business needs.
 
 
-The Machine Learning Department (MLD) at Carnegie Mellon University is a leading hub for research and education in artificial intelligence and machine learning. It focuses on developing innovative algorithms and models to address complex problems in diverse fields such as robotics, healthcare, and finance. The department offers a range of undergraduate and graduate programs, fostering a collaborative environment that bridges theoretical research and practical applications. Faculty and students frequently collaborate with industry and other academic disciplines to push the boundaries of what is possible with machine learning.
+Qualifications:
+**Education*** BA/BS degree in Math \\& Statistics, Information Systems, Computer Science, Data Analytics, Engineering, or Data Science.
+
+  
+
+**Experience*** 5\\-7
+* Minimum of 5 years in data analysis, profiling, data manipulation, data mining, data extraction, data enrichment
 
 
-We are seeking a **Data Pipeline Engineer** to join the team! As a Data Pipeline Engineer, your role is vital in ensuring the integrity and reliability of our data pipelines. This position is responsible for monitoring, troubleshooting, and conducting root cause analysis of data quality issues within our pipelines, but as a part time team member, you will consult and assist rather than lead in these areas. Your contributions are crucial to maintaining the high standard of our epidemiological tracking and forecasting tools. This role will report directly to the Delphi Engineering Manager.
+**Knowledge, Skills \\& Ability*** + Demonstrated ability to translate business strategy into an analytics/BI roadmap, prioritize work based on value, and deliver actionable insights with appropriate speed and quality.
+	+ Strong ability to communicate insights to executive and non\\-technical audiences using clear narratives, visuals, and recommendations that drive decisions and measurable outcomes.
+	+ Must have a demonstrated knowledge of Credit Union products, regulatory requirements, laws and practices.
+	+ Strong understanding of credit union performance and member metrics, including loan and deposit growth, member acquisition and retention, product penetration, credit quality, and key financial performance \\& profitability ratios.  
 
 
-**Core Responsibilities**
+	+ Familiar with Agile Development Methodology. Experience using Agile methods such as Scrum or Lean Development.
+	+ Strong project management skills ability to manage delivery through iterative releases, communicate timelines and milestones, and drive quick wins while maintaining sustainable solutions.
+	+ Experience with statistical modelling and understanding of Machine Learning.
+	+ Working knowledge of credit union core systems and adjacent platforms (e.g., Symitar or similar), digital channels, and consumer/residential/commercial loan origination systems preferred.
+	+ Excellent understanding of analytical methods and regression models, and advanced analytics software (SAS, R, Python, Azure Machine Learning and others).
+	+ Must commit to building and fostering internal and external relationships.
+	+ Demonstrated rigor in data management practices (definitions, controls, documentation, and validation) to ensure decision\\-quality data.
+	+ Strong written and verbal communication skills.
+	+ Creative and analytical thinker with strong problem\\-solving capabilities.
+	+ Ability to clearly communicate with leaders and associates at all levels.
+	+ Proficient with Tableau, PowerBI, MicroStrategy or similar tools, including the ability to establish standards and enable governed\\-self\\-service reporting.
+	+ Experience with cloud technologies such as AWS, Azure, and Databricks preferred.
 
-* Monitor and maintain the health and efficiency of data pipelines.
-* Troubleshoot and perform root cause analysis for data discrepancies and pipeline issues.
-* Communicate with data providers to understand data discrepancies and manage changes in data delivery.
-* Implement fixes and enhancements to improve data quality and pipeline performance.
-* Collaborate with data scientists and analysts to understand data needs and implement effective data solutions.
-* Develop strategies for data validation and quality assurance.
-* Optimize data flow and collection to improve system efficiency.
-* Document and manage data pipeline architectures, including maintenance and update protocols.
-* Use tools such as SQL, version control and CI/CD, containerization, task schedulers, python frameworks, and cloud services for data pipeline management.
-* Ensure compliance with data governance and security standards.
+ *Logix Federal Credit Union is an equal opportunity employer that does not discriminate in employment opportunities or practices on the basis of race, religion, color, sex, sexual orientation, gender identity, national origin, protected veteran or disability status, or any other status protected by law.*
+Pay Range: USD $126,498\\.04 \\- USD $196,071\\.96 /Yr.","Health Care","https://www.indeed.com/cmp/Ohio-State-University-Physicians-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/c822153c69132d699ccce22c633e7810","http://www.osuphysicians.com","Columbus, Ohio","1,001 to 5,000","$5M to $25M (USD)","Advancing access to quality care and improving patient experiences as part of The Ohio State Wexner Medical Center.","","","","","",""
+"in-9efb798278ef305d","indeed","https://www.indeed.com/viewjob?jk=9efb798278ef305d","https://careers.fairview.org/jobs/165860/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Patient Flow Analytics Program Manager","Fairview Health Services","Minneapolis, MN, US","2026-05-05","fulltime","direct_data","yearly",112632.0,158995.0,"USD",False,"","","","","Responsibilities/Job Description:
 
-Adaptability, excellence, and passion are vital qualities within Carnegie Mellon University. We are in search of a team member who can effectively interact with a varied population of internal and external partners at a high level of integrity. We are looking for someone who shares our values and who will support the mission of the university through their work.
+The Program Manager for Flow Analytics (PMFA) is accountable for the strategic direction, governance, and ongoing evolution of enterprise analytics supporting patient flow and throughput across the health system. This role ensures that system\\-level analytics enable executive, clinical, and operational leaders to understand performance, make informed decisions, and drive improvements in patient access, capacity, and throughput. The PMFA owns the analytic vision for patient flow across the system and provides oversight for system\\-facing reporting assets and datasets, primarily—but not exclusively—delivered through Power BI. Analytics may also be delivered through Epic or other platforms when those tools best meet clinical, operational, or workflow needs. While the role maintains accountability for these assets, it does not function as the primary report developer. Instead, the PMFA guides analytic design, defines requirements, validates logic, and ensures high\\-quality delivery through collaboration with analytics teams and technical partners. Working closely with executive leadership, strategic partners, and internal subject matter experts, the PMFA translates operational and clinical questions into clearly defined, governed metrics aligned with organizational priorities. This is a high\\-visibility, individual contributor role with direct accountability to executive leadership. The PMFA serves as a trusted analytics advisor, engaging in front\\-facing, consultative work to shape performance questions, ensure analytic accuracy and trust through validation against Epic and other source systems, interpret results, and deliver outputs that are consistent, actionable, and aligned around a shared understanding of flow performance.  
 
+  
 
-**Qualifications:**
+**Responsibilities*** Leads discussions with care teams and leadership to design analytic reports using electronic medical record data, claims, and other data sources.
+* Acts as an expert in defining requirements, data validation, and supervision of report development to support enterprise analytics, statistics, predictive modeling and external data submissions.
+* Work directly and independently with the Analysts, Data Modelers and/or ETL Developers to create meaningful and actionable content for the enterprise.
+* Analyzes, visualizes, and models data to provide insight and actionable recommendations independently.
+* Partner with data scientists, operational teams, and researchers to develop and implement algorithms for performing predictive and prescriptive analytics.
+* Applies appropriate tests to analytical results to provide high quality and accurate results.
+* Leads the review process of data sent to external vendors by Fairview. Includes working directly with the external vendors to understand the business rules applicable to the data extracts.
+* Utilizes expertise when researching and reviewing benchmarking data for comparison, validation, and utilization. Identifies areas for greatest opportunity for intervention.
+* Creates concise, board\\-level written narrative summaries that outline project purpose, methodology, summary of findings, trends of interest, and opportunities for consideration.
+* Develop and manage business relationships with key business leaders, project team members and senior leaders across the enterprise.
+* Manage the identification and standardization of key measurement that drive enhanced patient flow.
 
-* Bachelor’s Degree required.
-* Minimum one year of research computing experience required.
-* Basic Linux use and administration: system layout, file permissions, shell, utilities (syslog, cron), diagnostic tools (ps, htop, grep, lsof)
-* Experience in Apache Airflow, preferably version 3\\.0
-* Basic database use, especially in Postgres
-* Rough script programming (Python, bash)
-* Team software development (git/GitHub, Jira, code reviews, agile methodologies)
-* Data analysis: diagnosing and fixing runtime errors and logic bugs; performing basic growth projections to predict future problems; communicating results
-* Required technologies: Python, MySQL/Postgres, Linux, git \\& GitHub, Apache Airflow
-* A combination of education and proven experience from which comparable knowledge is demonstrated may be considered.
+ **Required Qualifications*** B.S./B.A. Business, Industrial Engineering, Information Technology, or related field
+* 4 years experience in healthcare analytics
+* Reporting and data analytic experience with clinical data including EHR clinical data expertise
+* Experience participating in the peer review processes and can foster technical learning across the teams through mentoring and coaching
+* Extensive experience in leading teams or complex projects
+* Excellent communication skills (verbal and written)
+* Experience with SQL, EHR, ERP systems and applications along with Microsoft products (SharePoint, Teams, Excel, etc.)
+* Ability to build partnerships and collaborate with all levels of the organization
 
-**Preferred Technologies and Languages:**
+**Preferred Qualifications*** Experience with project flow management, business analysis, as well as specific skills directly aligned with patient flow
+* Other welcomed qualifications include strong advanced analytics skills, biostatistics background, computing expertise, data analytics methodological expertise, and a demonstrable history of inter\\-professional collaboration
+* Power BI experience.
+* Preferred MBA.
 
-* Linux, Ubuntu, Bash, Make
-* Apache Airflow
-* Python, pandas, Flask, PyPI publishing
-* SQL, Postgres
-* git, GitHub, GitHub Actions, GitHub Issues
-* Docker, Docker Compose
-* Elastic, Kibana, FileBeat
-* G Suite (Calendar, Mail, Docs, Sheets, Slides, Forms, AppsScript, Groups)
-* Jira Software
-
-**Requirements** :
+  
 
 
-* Successful completion of a pre\\-employment background check
+Qualifications:
 
-**Joining the CMU team opens the door to an array of exceptional benefits.**
+$112,632\\.00\\- $158,995\\.20 Annual","","https://www.indeed.com/cmp/Fairview-Health-Services-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/c4e7eabfaa81347c87770353ca0fd1f1","http://www.fairview.org","Minneapolis, MN","10,000+","$1B to $5B (USD)","Fairview Health Services is Minnesota’s choice for healthcare. We’re an industry-leading, award-winning, nonprofit offering a full network of healthcare services.","","","","","",""
+"in-0b4b8d16f875e583","indeed","https://www.indeed.com/viewjob?jk=0b4b8d16f875e583","https://careers.vtgdefense.com/jobs/9102/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Application Developer - Expert","VTG Defense","Herndon, VA, US","2026-04-24","fulltime","","","","","",False,"","","","","Overview:
 
-**Benefits eligible** **employees enjoy a wide array of benefits including** **comprehensive medical, prescription, dental, and vision insurance** **as well as a generous** **retirement savings program** **with employer contributions. Unlock your potential with** **tuition benefits** **, take well\\-deserved breaks with ample** **paid time off** **and observed** **holidays** **, and rest easy with life and accidental death and disability insurance.**
+VTG is currently seeking a Full Stack Web Application Developer (Expert) in Herndon VA to work on a suite of services that will supply users with tools to automate a wide range of enterprise\\-wide applications and data centric mission management applications. The ideal candidate will be willing to apply their talents across the entire Technical Team to meet the customer needs. The candidate will be part of a team of Software Developers, ETL Developers, and Data Scientists to enhance existing production applications and build out new web services on a routinized production cadence to meet the evolving needs of users. This is an exciting opportunity for Software Developers wanting to broaden their credentials in the realm of artificial intelligence and machine learning (AI/ML). This is also an exciting opportunity for the Software Developers to develop hands\\-on experience with new technical tools/applications. Development will take place in an iterative fashion using Agile development methodology with input from all levels of stakeholders.
+Responsibilities:
+* Integrating AI/ML technology into a production web application.
+* Participation with iterative software development teams with adherence to all reporting requirements.
+* Designing, developing and unit testing code for a production system and demonstration capabilities.
+* Developing rapid prototypes to drive out requirements and design.
+* Providing demonstrations and detailed walk through of features to a variety of technical and non\\-technical audiences.
+* Meeting with stakeholders, analyzing requirements, developing user stories, and translating these into software development tasks.
+* Development of technical documentation and briefing materials to support program status reviews, control gates, and other presentations as directed.
 
-**Additional perks include a free Pittsburgh Regional Transit bus pass, access to our** **Family Concierge Team** **to help navigate childcare needs,** **fitness center access** **,** **and much more!**
 
-**For a comprehensive overview of the benefits available, explore our** **Benefits page** **.**
+Qualifications:
 
-**At Carnegie Mellon, we value the whole package when extending offers of employment. Beyond credentials, we evaluate the role and responsibilities, your valuable work experience, and the knowledge gained through education and training. We appreciate your unique skills and the perspective you bring. Your journey with us is about more than just a job; it’s about finding the perfect fit for your professional growth and personal aspirations.**
+Active TS/SCI With Polygraph Required.
+The ability to work individually as well as the ability to work in project teams. Proven ability in decomposing concepts to discrete development tasks and managing your work to a deadline.  
 
-**Are you interested in an exciting opportunity with an exceptional organization?! Apply today!**
+* Minimum 4\\-6 years of demonstrated ability to design, develop, test and implement new applications based on project requirements.
+* Minimum 5\\-7 years building web applications and UI/UX frameworks using Angular, React or JavaScript with specific examples. Java Spring framework is a plus.
+* Minimum 5\\-7 years’ experience working with Linux Operating systems
+* Minimum 4\\-6 years of demonstrated experience with development and deployment of applications in the Commercial Cloud Services (C2S) environment or an Amazon Web Services (AWS) cloud environment.
+* Minimum 4\\-6 year of demonstrated experience with search \\& analytic tools. Examples to include ElasticSearch, Solr, OpenSearch.
+* Minimum 4\\-6 years of microservices up to and including docker, podman, and or containerization services.
+* Strong development experience is required. Minimum 4\\-6 years of Object Orientated software development experience is required. Python is preferred but would consider Java, CSharp, HTML, or SQL.
+* Fundamental understanding of Extract, Transform, Load (ETL) processing with large structured and unstructured raw data sets. This can be demonstrated through education or OJT experience.","","https://www.indeed.com/cmp/Vtg-Defense","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/beb1e99705a34f16a239c864121c592d","http://www.vtgdefense.com","14291 Park Meadow Drive
+Suite 425
+Chantilly, VA 20151","1,001 to 5,000","$100M to $500M (USD)","Check us out at www.VTGdefense.com!","","","","","",""
+"in-110c2b4db319844f","indeed","https://www.indeed.com/viewjob?jk=110c2b4db319844f","https://careers.vtgdefense.com/jobs/9104/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Jr. Application Developer","VTG Defense","Herndon, VA, US","2026-04-20","fulltime","","","","","",False,"","","","","Overview:
 
-**Location**
+VTG is currently seeking a JR. Full Stack Web Application Developer in Herndon VA to work on a suite of services that will supply users with tools to automate a wide range of enterprise\\-wide applications and data centric mission management applications. The candidate will be part of a team of Software Developers, ETL Developers, and Data Scientists to enhance existing production applications and build out new web services on a routinized production cadence to meet the evolving needs of users. This is an exciting opportunity for Software Developers wanting to broaden their credentials in the realm of artificial intelligence and machine learning (AI/ML). This is also an exciting opportunity for the Software Developers to develop hands\\-on experience with new technical tools/applications.
+Responsibilities:
 
-Remote
-**Job Function**
+Fundamental understanding of analytic tools and capabilities.  
 
-Software/Applications Development/Engineering
-**Position Type**
+* Integrating AI/ML technology into a production web application.
+* Participation with iterative software development teams with adherence to all reporting requirements.
+* Designing, developing and unit testing code for a production system and demonstration capabilities.
+* Developing rapid prototypes to drive out requirements and design.
+* Providing demonstrations and detailed walk through of features to a variety of technical and non\\-technical audiences.
+* Meeting with stakeholders, analyzing requirements, developing user stories, and translating these into software development tasks.
+* Development of technical documentation and briefing materials to support program status reviews, control gates, and other presentations as directed.
 
-Staff – Fixed Term (Fixed Term)
-**Full Time/Part time**
+Qualifications:
 
-Part time
-**Pay Basis**
+Must possess an active TS/SCI clearance with Poly on day one of employment* Experience in Agile team and software development methodologies.
+* Minimum 4\\-6 years building web applications using Angular, React or JavaScript with specific examples. Java Spring framework is a plus.
+* Solid understanding around UI/UX fundamentals.
+* Minimum 2\\-4 years of work experience using a Linux Operating system.
+* Minimum 2\\-4 years of demonstrated experience with development and deployment of applications in cloud services; such as: AWS, C2S, Azure, Oracle Cloud.
+* Minimum 2\\-3 years of demonstrated ability to design, develop, test and implement new applications based on project requirements.
+* The ability to work individually as well as the ability to work in project teams. Proven ability in decomposing concepts to discrete development tasks and managing your work to a deadline.
+* Familiarity of microservices up to include: docker, podman, and or containerization services.
+* Minimum 3\\-4 years of demonstrated experience using coding language: Java, Python, JavaScript, CSharp. Python preferred. Other areas of object orientated programming will be considered.","","https://www.indeed.com/cmp/Vtg-Defense","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/beb1e99705a34f16a239c864121c592d","http://www.vtgdefense.com","14291 Park Meadow Drive
+Suite 425
+Chantilly, VA 20151","1,001 to 5,000","$100M to $500M (USD)","Check us out at www.VTGdefense.com!","","","","","",""
+"in-bc61e41544a6952a","indeed","https://www.indeed.com/viewjob?jk=bc61e41544a6952a","https://careers.noblis.org/jobs/26977/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Cleared ETL Data Engineer (Multi-Level)","Noblis","Chantilly, VA, US","2026-04-20","fulltime","direct_data","yearly",90700.0,188725.0,"USD",True,"","","","","Responsibilities:
 
-Hourly
-**More Information:**
+Noblis is seeking **Data Engineers** at multiple levels to join our team in support of national security missions.  
 
-* Please visit **“** **Why Carnegie Mellon** **”** to learn more about becoming part of an institution inspiring innovations that change the world.
-* 
-* **Carnegie Mellon University is an Equal Opportunity** **Employer/Disability/Veteran** .
-* **Statement of Assurance**","Education And Schools","https://www.indeed.com/cmp/Carnegie-Mellon-University","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a138b217c3951728f7f01f661586e856","http://www.cmu.edu/","5000 Forbes Avenue, 
-Pittsburgh, PA 15213","5,001 to 10,000","$1B to $5B (USD)","","","","","","",""
+As the ETL Developer, you analyze our clients’ challenges and provide solutions by identifying and applying new tools and technologies to help design new data repositories. You will be responsible for maintaining and expanding the data pipeline that fuels critical national security missions and manipulating data and data flows for both existing and new systems. You will provide support in the areas of data extraction, transformation and load (ETL), data mapping, data extraction, analytical support, operational support, database support, and maintenance support of data and associated systems. Additionally, you will work alongside our team and cyber analysts performing data engineering to identify data sets.  
+
+The ideal candidate will have a deep background in Python\\-based data workflows and experience working in classified IC environments. **Job Responsibilities:*** Developing, maintaining, and executing data extraction pipelines to transport data in and out of multiple environments.
+* ETL Development and Data Cleansing: Engineering Python\\-based ETL pipelines to ingest, clean, and optimize large datasets from various sources, refining data quality and processing efficiency.
+* Data Preparation: Applying Python and SQL for data cleaning, integration, and exploratory analysis to uncover valuable insights extracted from large volumes of data.
+* Data Visualization: Designing and deploying interactive dashboards and reporting in visualization tools (e.g., Tableau, Power BI)
+* Improving application performance by optimizing and executing SQL queries to support data handling.
+* Loading data into storage systems like databases or data warehouses.
+* Building and maintaining data infrastructure (e.g., NiFi, Pentaho, Hevo).
+* Maintaining and documenting ETL workflows and recording data movement/changes.
+* Working in an Agile environment to rapidly iterate with our clients.Cross\\-functional collaboration: Partner closely with data scientists, data engineers, and application developers to translate complex business requirements into robust technical implementations.
+
+
+Required Qualifications:
+* US Citizenship is required
+* **Clearance:** Active Top\\-Secret SCI (TS/SCI) with Polygraph
+* Experience performing extract, transformation, load (ETL) development for data pipelines (specifically cyber data); to include integrating, cleansing, and preparing data from sources for analytics and reporting.
+* Proficient in data warehousing, data management, programming (e.g., Python), and ETL tools (e.g., Apache NiFi, Pentaho, Kafka).
+* Familiarity with the cyber domain.
+* Experience designing and maintaining SQL\\-based data systems and crafting complex queries.
+* Experience designing and deploying interactive dashboards and integrating data systems with visualization and analytics platforms using Tableau and/or Power BI.
+* Experience with a cloud environment (e.g., GCP, AWS), including its security containerization technologies (e.g., Docker, Kubernetes).
+* Language experience with Python.
+* Experience with Git\\-based workflows and code repository platforms such as GitHub.
+* Ability to perform API service development.
+
+* + **Level II:** Bachelor’s degree with 3 years of related experience; OR associate’s degree with 6 years of related experience; OR High School diploma/GED with 9 years of related experience.
+	+ Compensation: $90,700 \\- $141,775
+	+ **Level III:** Bachelor’s degree with 5 years of related experience; OR Master's degree with 3 years of related experience; OR associate’s degree with 8 years of related experience; OR High School diploma/GED with 11 years of related experience.
+	+ Compensation: $120,700 \\- $188,725
+
+  
+
+\\#HighlyCleared
+Desired Qualifications:
+* Experience with Hadoop and Spark
+* Experience with Elasticsearch
+* Experience with open\\-source cyber data sets such as Shodan and Censys.IO
+* Experience with creating and implementing Artificial Intelligence (AI) models and tools
+
+
+Overview:
+**Overview**
+Noblis and our wholly owned subsidiaries, Noblis ESI and Noblis MSD, take on some of the nation’s toughest challenges, delivering advanced solutions to our customers’ most critical missions. We bring together leading scientific, engineering, and management expertise in a culture grounded in objectivity and collaboration, ensuring our work creates lasting impact across federal missions.  
+
+We work with a broad range of government agencies in the defense, intelligence, and federal civilian sectors. Learn more and find opportunities at careers.noblis.org **Why Work at Noblis**  
+
+At Noblis, we share a passion for excellence and innovation, and we create an environment where people can do meaningful work while maintaining the balance that keeps them energized and fulfilled. We seek out individuals with a natural curiosity and desire to collaborate and learn. We believe our people are our greatest strength, and we consistently seek exceptionally skilled, mission‑driven professionals who care deeply about doing work that enriches lives and makes our nation safer.  
+
+Noblis has earned numerous workplace awards for our culture, our commitment to employee well‑being, and our dedication to meaningful, impactful work. We also maintain a drug‑free workplace. *Remote/hybrid status is subject to change based on Noblis and/or government requirements.*
+Commitment to Non\\-Discrimination:
+
+All qualified applicants will receive consideration for employment without regard to race, color, ethnicity, sex, age, national origin, religion, physical or mental disability, pregnancy/childbirth and related medical conditions, veteran or military status, or any other characteristics protected by applicable federal, state, or local law.  
+
+If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact us.
+EEO is the Law \\| E\\-Verify \\| Right to Work  
+
+  
+
+Total Rewards:
+
+At Noblis we recognize and reward your contributions, provide you with growth opportunities, and support your total well\\-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, and work\\-life programs. Our award programs acknowledge employees for exceptional performance and superior demonstration of our service standards. Full\\-time and part\\-time employees working at least 20 hours a week on a regular basis are eligible to participate in our benefit programs. Other offerings may be provided for employees not within this category. We encourage you to learn more about our total benefits by visiting the Benefits page on our Careers site.  
+
+Compensation at Noblis is determined by various factors, including but not limited to, the combination of education, certifications, knowledge, skills, competencies, and experience, internal and external equity, location, clearance level, as well as contract\\-specific affordability, organizational requirements and applicable employment laws. The projected compensation range for this position is based on full time status. For part time or on\\-call staff, compensation is proportionately adjusted based on hours worked. While monetary compensation is important, it's just one component of Noblis’ total compensation package.  
+
+  
+
+Posted Salary Range: USD $90,700\\.00 \\- USD $188,725\\.00 /Yr.","","https://www.indeed.com/cmp/Noblis","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/749ac379d9bb78bf9536ec1f3107094f","http://www.noblis.org","Reston, VA","1,001 to 5,000","$100M to $500M (USD)","For 3 decades, Noblis has been an innovator within the federal government, committed to enriching lives and making our nation safer while investing in the missions of tomorrow.","","","","","",""
 "in-d5cdfdcc7f2368f7","indeed","https://www.indeed.com/viewjob?jk=d5cdfdcc7f2368f7","https://recruiting.adp.com/srccsh/public/RTI.home?r=5001155987506&c=2204839&d=AstronauticsCareerSite&rb=INDEED&idUnique=5001155987506","Data Modeler","Astronautics Corporation of America","Oak Creek, WI, US","2025-10-24","","","","","","",False,"","","","","**What You Will Do:**  
 
   
