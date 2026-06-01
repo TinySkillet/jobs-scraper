@@ -35,7 +35,8 @@ uv run python main.py
 
 The script searches Indeed for every configured role, saves raw results under
 `temp/`, filters and deduplicates the rows, then writes final CSVs under
-`final/`.
+`final/`. It excludes leadership and management titles such as lead, manager,
+director, head, VP, vice president, and chief.
 
 Final outputs:
 

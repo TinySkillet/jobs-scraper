@@ -240,7 +240,10 @@ FINAL_SOURCE_COLUMNS = [source_column for source_column, _ in FINAL_COLUMNS]
 FINAL_OUTPUT_COLUMNS = [output_column for _, output_column in FINAL_COLUMNS]
 
 ALLOWED_JOB_TYPES = {"fulltime", "contract", ""}
-EXCLUDED_TITLE_RE = re.compile(r"\b(staff|lead)\b", re.I)
+EXCLUDED_TITLE_RE = re.compile(
+    r"\b(lead|manager|director|head|vp|vice president|chief)\b",
+    re.I,
+)
 CLEARANCE_REQUIREMENT_RE = re.compile(
     r"\bactive\b.{0,80}\b(?:security\s+)?clearance\b|"
     r"\b(?:security\s+)?clearance\b.{0,80}\bactive\b|"
@@ -372,7 +375,7 @@ def exclusion_reason(row):
     description = row.get("description") or ""
 
     if EXCLUDED_TITLE_RE.search(title):
-        return "excluded_title_seniority"
+        return "excluded_title_leadership"
 
     if CLEARANCE_REQUIREMENT_RE.search(f"{title}\n{description}"):
         return "requires_clearance"
