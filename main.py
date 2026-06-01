@@ -55,6 +55,26 @@ ROLE_SEARCHES = {
                 "mid_level_java",
                 '(java OR spring OR "spring boot") ("mid level" OR "mid-level" OR intermediate OR "software engineer II" OR "developer II" OR "java developer II") -intern -internship -android -mobile -qa -tester -salesforce',
             ),
+            (
+                "java_rest_api",
+                '("java developer" OR "java software engineer" OR "backend engineer") ("REST API" OR "RESTful API" OR "web services" OR "microservices") -intern -internship -android -mobile -qa -tester -salesforce',
+            ),
+            (
+                "java_cloud",
+                '("java developer" OR "java software engineer" OR "backend java developer") (AWS OR Azure OR GCP OR cloud OR Kubernetes OR Docker) -intern -internship -android -mobile -qa -tester -salesforce',
+            ),
+            (
+                "enterprise_java",
+                '("java developer" OR "software developer") (J2EE OR Jakarta OR Hibernate OR Maven OR Gradle OR Tomcat) -intern -internship -android -mobile -qa -tester -salesforce',
+            ),
+            (
+                "jvm_backend",
+                '("backend engineer" OR "backend developer" OR "software engineer") (JVM OR Java OR Kotlin) (Spring OR "Spring Boot" OR microservices OR API) -intern -internship -android -mobile -qa -tester -salesforce',
+            ),
+            (
+                "java_fintech_enterprise",
+                '(java OR "spring boot") (fintech OR banking OR payments OR enterprise OR "distributed systems") -intern -internship -android -mobile -qa -tester -salesforce',
+            ),
         ],
     },
     "fullstack": {
@@ -108,6 +128,30 @@ ROLE_SEARCHES = {
                 "mid_level_fullstack",
                 '("full stack" OR fullstack OR react OR angular OR node OR typescript) ("mid level" OR "mid-level" OR intermediate OR "software engineer II" OR "developer II" OR "full stack developer II") -intern -internship -android -mobile -qa -tester -salesforce',
             ),
+            (
+                "nextjs_fullstack",
+                '("full stack" OR fullstack OR "software engineer") (Next.js OR NextJS OR React) (Node OR "node.js" OR API OR backend) -intern -internship -android -mobile -qa -tester -salesforce',
+            ),
+            (
+                "vue_node",
+                '(Vue OR Vue.js OR Nuxt OR Nuxt.js) (Node OR "node.js" OR backend OR API OR "full stack" OR fullstack) -intern -internship -android -mobile -qa -tester -salesforce',
+            ),
+            (
+                "java_fullstack",
+                '("full stack" OR fullstack OR "software engineer") (Java OR "Spring Boot") (React OR Angular OR Vue OR JavaScript OR TypeScript) -intern -internship -android -mobile -qa -tester -salesforce',
+            ),
+            (
+                "dotnet_fullstack",
+                '("full stack" OR fullstack OR "software engineer") (.NET OR "C#" OR ASP.NET) (React OR Angular OR Vue OR JavaScript OR TypeScript) -intern -internship -android -mobile -qa -tester -salesforce',
+            ),
+            (
+                "python_fullstack",
+                '("full stack" OR fullstack OR "software engineer") (Python OR Django OR Flask OR FastAPI) (React OR Angular OR Vue OR JavaScript OR TypeScript) -intern -internship -android -mobile -qa -tester -salesforce',
+            ),
+            (
+                "frontend_api_engineer",
+                '("software engineer" OR developer) (React OR Angular OR Vue OR TypeScript OR JavaScript) (REST OR GraphQL OR API OR backend) -intern -internship -android -mobile -qa -tester -salesforce',
+            ),
         ],
     },
     "data_engineer": {
@@ -153,6 +197,30 @@ ROLE_SEARCHES = {
                 "mid_level_data_engineer",
                 '("data engineer" OR "etl developer" OR "etl engineer" OR "analytics engineer" OR "data pipeline") ("mid level" OR "mid-level" OR intermediate OR "engineer II" OR "developer II" OR "data engineer II") -intern -internship -qa -tester -salesforce',
             ),
+            (
+                "cloud_data_engineer",
+                '("data engineer" OR "data platform engineer" OR "etl engineer") (AWS OR Azure OR GCP OR Glue OR "Data Factory" OR "Cloud Composer") -intern -internship -qa -tester -salesforce',
+            ),
+            (
+                "lakehouse_engineer",
+                '("data engineer" OR "data platform engineer") (lakehouse OR "data lake" OR Delta OR Iceberg OR Hive OR "Apache Hudi") -intern -internship -qa -tester -salesforce',
+            ),
+            (
+                "streaming_data_engineer",
+                '("data engineer" OR "streaming data engineer" OR "data platform engineer") (Kafka OR Flink OR streaming OR Kinesis OR Pub/Sub) -intern -internship -qa -tester -salesforce',
+            ),
+            (
+                "data_infrastructure_engineer",
+                '("data infrastructure engineer" OR "data platform engineer" OR "platform data engineer") (Python OR SQL OR Spark OR Airflow OR Kubernetes) -intern -internship -qa -tester -salesforce',
+            ),
+            (
+                "warehouse_bi_data_engineer",
+                '("data engineer" OR "analytics engineer" OR "BI engineer") (Snowflake OR BigQuery OR Redshift OR dbt OR Looker OR Tableau) -intern -internship -qa -tester -salesforce',
+            ),
+            (
+                "azure_data_engineer",
+                '("data engineer" OR "etl developer" OR "analytics engineer") (Azure OR "Azure Data Factory" OR Synapse OR Databricks OR Fabric) -intern -internship -qa -tester -salesforce',
+            ),
         ],
     },
 }
@@ -195,20 +263,23 @@ FULLSTACK_BODY_RELEVANCE_RE = re.compile(
     re.I,
 )
 DATA_ENGINEER_TITLE_RELEVANCE_RE = re.compile(
-    r"\bdata engineer(?:ing)?\b|\bbig data engineer\b|\betl (?:developer|engineer)\b|\banalytics engineer\b|\bdata (?:pipeline|platform|warehouse) engineer\b",
+    r"\bdata engineer(?:ing)?\b|\bbig data engineer\b|\betl (?:developer|engineer)\b|\banalytics engineer\b|\bBI engineer\b|\bdata (?:pipeline|platform|warehouse|infrastructure) engineer\b|\bplatform data engineer\b|\bstreaming data engineer\b",
     re.I,
 )
 DATA_ENGINEER_BODY_RELEVANCE_RE = re.compile(
-    r"\bdata pipeline\b|\betl\b|\bspark\b|\bairflow\b|\bdatabricks\b|\bsnowflake\b|\bdbt\b|\bbigquery\b|\bredshift\b|\bdata warehouse\b|\bdata lake\b",
+    r"\bdata pipeline\b|\betl\b|\bspark\b|\bairflow\b|\bdatabricks\b|\bsnowflake\b|\bdbt\b|\bbigquery\b|\bredshift\b|\bdata warehouse\b|\bdata lake\b|\blakehouse\b|\bdelta\b|\biceberg\b|\bhudi\b|\bkafka\b|\bflink\b|\bkinesis\b|\bdata factory\b|\bsynapse\b|\bfabric\b",
     re.I,
 )
-FRONTEND_RE = re.compile(r"\breact\b|\bangular\b|\bjavascript\b|\btypescript\b", re.I)
+FRONTEND_RE = re.compile(
+    r"\breact\b|\bangular\b|\bvue\b|\bnext\.?js\b|\bnuxt\.?js\b|\bjavascript\b|\btypescript\b",
+    re.I,
+)
 BACKEND_RE = re.compile(
-    r"\bnode\b|\bexpress\b|\bapi\b|\bbackend\b|\bback-end\b|\bjava\b|\bspring\b|\.net\b|\bc#\b|\bpython\b|\bdjango\b|\bflask\b",
+    r"\bnode\b|\bexpress\b|\bapi\b|\bbackend\b|\bback-end\b|\bjava\b|\bspring\b|\.net\b|\bc#\b|\bpython\b|\bdjango\b|\bflask\b|\bfastapi\b|\bgraphql\b",
     re.I,
 )
 DATA_ENGINEER_SKILL_RE = re.compile(
-    r"\bsql\b|\bpython\b|\bspark\b|\bpyspark\b|\bairflow\b|\bdbt\b|\bdatabricks\b|\bsnowflake\b|\bbigquery\b|\bredshift\b|\baws\b|\bazure\b|\bgcp\b",
+    r"\bsql\b|\bpython\b|\bspark\b|\bpyspark\b|\bairflow\b|\bdbt\b|\bdatabricks\b|\bsnowflake\b|\bbigquery\b|\bredshift\b|\baws\b|\bazure\b|\bgcp\b|\bglue\b|\bdata factory\b|\bsynapse\b|\bfabric\b|\bkafka\b|\bflink\b|\bkinesis\b",
     re.I,
 )
 GENERIC_ENGINEER_TITLE_RE = re.compile(
