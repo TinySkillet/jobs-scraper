@@ -1,9 +1,27 @@
 [project]
 name = "job-scraper"
 version = "0.1.0"
-description = "Add your description here"
+description = "Provider-based job scraping pipeline for software job searches"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "alembic>=1.18.4",
+    "asyncpg>=0.31.0",
     "python-jobspy>=1.1.82",
+    "sqlalchemy>=2.0.50",
 ]
+
+[project.scripts]
+job-scraper = "jobscraper.cli:main"
+
+[project.optional-dependencies]
+linkedin = [
+    "linkedin-scraper>=3.1.2",
+]
+
+[tool.uv]
+package = true
+
+[tool.setuptools.packages.find]
+include = ["jobscraper*"]
+exclude = ["migrations*", "tests*", "temp*", "final*"]
