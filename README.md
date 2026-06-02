@@ -123,6 +123,10 @@ HOURS_OLD=48 RESULTS_WANTED=500 uv run python main.py
 - `DATABASE_URL`: SQLAlchemy async database URL. Default:
   `postgresql+asyncpg://jobscraper:jobscraper@localhost:5432/jobscraper`.
 - `DATABASE_ENABLED`: set to `0`, `false`, or `no` to skip DB persistence.
+- `PROVIDER_FETCH_RETRIES`: retries after a transient provider fetch failure.
+  Default: `2`.
+- `PROVIDER_RETRY_BACKOFF_SECONDS`: linear retry backoff base in seconds.
+  Default: `2`.
 - `LINKEDIN_SESSION_PATH`: required only when enabling the LinkedIn provider.
 - `LINKEDIN_HEADLESS`: set to `0`, `false`, or `no` to show the browser.
 

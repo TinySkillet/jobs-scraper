@@ -10,7 +10,7 @@ from jobscraper.settings import ScraperSettings
 def build_scraper(settings: ScraperSettings | None = None) -> JobScraper:
     settings = settings or ScraperSettings.from_env()
     providers = {
-        "indeed": JobSpyProvider(),
+        "indeed": JobSpyProvider(settings),
         "linkedin": LinkedInScraperProvider(settings),
     }
     return JobScraper(settings=settings, providers=providers)

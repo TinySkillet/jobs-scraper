@@ -8,7 +8,12 @@ from jobscraper.database import (
     create_session_factory,
 )
 from jobscraper.lifecycle import JobRowLifecycle
-from jobscraper.models import JobProvider, JobSearchRequest, RoleSearchConfig
+from jobscraper.models import (
+    JobProvider,
+    JobSearchRequest,
+    ProviderFetchError,
+    RoleSearchConfig,
+)
 from jobscraper.roles import ROLE_CATALOG
 from jobscraper.settings import ScraperSettings
 from jobscraper.storage import FINAL_SOURCE_COLUMNS, CsvJobStore
@@ -74,7 +79,14 @@ class JobScraper:
 
             print(f"\n=== Running {role_config.role}: {search.name} ({search.provider}) ===")
             print(search.term)
-            rows = [dict(row) for row in await provider.fetch(request)]
+            try:
+                rows = [dict(row) for row in await provider.fetch(request)]
+            except ProviderFetchError as exc:
+                self.store.write_raw(output, [])
+                print(f"Fetch failed; skipping search: {exc}")
+                print(f"\n{output.name}")
+                print("fetch_error=1")
+                continue
             print(f"Found {len(rows)} jobs for {role_config.role}: {search.name}")
 
             lifecycle_result = self.lifecycle.process(

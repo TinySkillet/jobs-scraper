@@ -16,6 +16,17 @@ def _env_int(name: str, default: int) -> int:
         raise ValueError(f"{name} must be an integer, got {raw_value!r}") from exc
 
 
+def _env_float(name: str, default: float) -> float:
+    raw_value = os.getenv(name)
+    if raw_value is None:
+        return default
+
+    try:
+        return float(raw_value)
+    except ValueError as exc:
+        raise ValueError(f"{name} must be a number, got {raw_value!r}") from exc
+
+
 def _env_csv(name: str, default: tuple[str, ...]) -> tuple[str, ...]:
     raw_value = os.getenv(name)
     if not raw_value:
@@ -45,6 +56,8 @@ class ScraperSettings:
     temp_dir: Path = Path("temp")
     database_url: str = "postgresql+asyncpg://jobscraper:jobscraper@localhost:5432/jobscraper"
     database_enabled: bool = True
+    provider_fetch_retries: int = 2
+    provider_retry_backoff_seconds: float = 2.0
     linkedin_session_path: Path | None = None
     linkedin_headless: bool = True
 
@@ -65,6 +78,11 @@ class ScraperSettings:
                 "postgresql+asyncpg://jobscraper:jobscraper@localhost:5432/jobscraper",
             ),
             database_enabled=_env_bool("DATABASE_ENABLED", True),
+            provider_fetch_retries=_env_int("PROVIDER_FETCH_RETRIES", 2),
+            provider_retry_backoff_seconds=_env_float(
+                "PROVIDER_RETRY_BACKOFF_SECONDS",
+                2.0,
+            ),
             linkedin_session_path=Path(session_path) if session_path else None,
             linkedin_headless=os.getenv("LINKEDIN_HEADLESS", "1").lower()
             not in {"0", "false", "no"},

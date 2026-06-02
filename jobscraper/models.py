@@ -44,6 +44,25 @@ class JobProvider(Protocol):
         """Fetch job rows for one search request."""
 
 
+class ProviderFetchError(RuntimeError):
+    def __init__(
+        self,
+        *,
+        provider: str,
+        search_name: str,
+        attempts: int,
+        cause: Exception,
+    ) -> None:
+        self.provider = provider
+        self.search_name = search_name
+        self.attempts = attempts
+        self.cause = cause
+        super().__init__(
+            f"{provider} fetch failed for {search_name!r} after {attempts} attempts: "
+            f"{cause}"
+        )
+
+
 @dataclass(frozen=True)
 class SearchRunRecord:
     id: int
@@ -51,4 +70,3 @@ class SearchRunRecord:
     role: str
     search_name: str
     search_term: str
-
