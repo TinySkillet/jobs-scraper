@@ -15,6 +15,7 @@ from jobscraper.filters import (
     exclusion_reason,
     is_relevant,
     parse_posted_at,
+    posted_within_hours,
 )
 from jobscraper.models import JobProvider, JobSearchRequest, RoleSearchConfig
 from jobscraper.roles import ROLE_CATALOG
@@ -169,6 +170,10 @@ class JobScraper:
             posted_at = parse_posted_at(row.get("date_posted"), now=now)
             if not posted_at:
                 reasons["missing_or_invalid_date_posted"] += 1
+                continue
+
+            if not posted_within_hours(row, hours_old=self.settings.hours_old):
+                reasons["outside_hours_old_window"] += 1
                 continue
 
             direct_url = str(row.get("job_url_direct") or "").strip()
