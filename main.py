@@ -241,7 +241,7 @@ FINAL_OUTPUT_COLUMNS = [output_column for _, output_column in FINAL_COLUMNS]
 
 ALLOWED_JOB_TYPES = {"fulltime", "contract", ""}
 EXCLUDED_TITLE_RE = re.compile(
-    r"\b(lead|manager|director|head|vp|vice president|chief)\b",
+    r"\b(lead|leader|manager|director|head|vp|vice president|chief)\b",
     re.I,
 )
 CLEARANCE_REQUIREMENT_RE = re.compile(
