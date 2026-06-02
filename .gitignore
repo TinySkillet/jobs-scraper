@@ -12,3 +12,6 @@ wheels/
 # Scraper output
 temp/
 final/
+
+# Dev logs
+devlog/
