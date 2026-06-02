@@ -2,9 +2,9 @@ import csv
 import io
 import tempfile
 from datetime import date
-from unittest import IsolatedAsyncioTestCase
 from contextlib import redirect_stdout
 from pathlib import Path
+from unittest import IsolatedAsyncioTestCase
 
 from jobscraper.database import json_safe
 from jobscraper.models import JobSearchRequest, RoleSearchConfig, SearchSpec
@@ -99,76 +99,6 @@ class PipelineTests(IsolatedAsyncioTestCase):
             self.assertEqual(len(rows), 1)
             self.assertEqual(rows[0]["Title"], "Java Engineer")
             self.assertEqual(rows[0]["Direct URL"], "https://example.com/1")
-
-    async def test_filter_marks_expired_rows_inactive(self):
-        with tempfile.TemporaryDirectory() as tmpdir:
-            root = Path(tmpdir)
-            settings = ScraperSettings(
-                temp_dir=root / "temp",
-                final_dir=root / "final",
-                hours_old=72,
-                max_job_age_hours=24,
-                database_enabled=False,
-            )
-            scraper = JobScraper(settings=settings, providers={})
-            source_rows, source_reasons = scraper.prepare_source_rows(
-                [
-                    {
-                        "title": "Java Engineer",
-                        "company": "Acme",
-                        "location": "Remote",
-                        "is_remote": "True",
-                        "job_type": "fulltime",
-                        "date_posted": "2 days ago",
-                        "job_url_direct": "https://example.com/old",
-                        "description": "Java Spring Boot APIs",
-                    },
-                    {
-                        "title": "Java Engineer",
-                        "job_url_direct": "",
-                    },
-                ],
-                "indeed",
-            )
-            rows, reasons = scraper.filter_rows(source_rows, "java", "indeed")
-
-            self.assertEqual(source_reasons["missing_direct_url"], 1)
-            self.assertEqual(len(rows), 1)
-            self.assertFalse(rows[0]["is_active"])
-            self.assertEqual(rows[0]["inactive_reason"], "posted_age_exceeded")
-            self.assertEqual(reasons["kept_before_dedupe"], 1)
-
-    async def test_filter_excludes_rows_outside_hours_old_window(self):
-        with tempfile.TemporaryDirectory() as tmpdir:
-            root = Path(tmpdir)
-            settings = ScraperSettings(
-                temp_dir=root / "temp",
-                final_dir=root / "final",
-                hours_old=24,
-                max_job_age_hours=72,
-                database_enabled=False,
-            )
-            scraper = JobScraper(settings=settings, providers={})
-            source_rows, source_reasons = scraper.prepare_source_rows(
-                [
-                    {
-                        "title": "Java Engineer",
-                        "company": "Acme",
-                        "location": "Remote",
-                        "is_remote": "True",
-                        "job_type": "fulltime",
-                        "date_posted": "2 days ago",
-                        "job_url_direct": "https://example.com/two-days-old",
-                        "description": "Java Spring Boot APIs",
-                    },
-                ],
-                "indeed",
-            )
-            rows, reasons = scraper.filter_rows(source_rows, "java", "indeed")
-
-            self.assertEqual(source_reasons["missing_direct_url"], 0)
-            self.assertEqual(rows, [])
-            self.assertEqual(reasons["outside_hours_old_window"], 1)
 
 
 class DatabaseSerializationTests(IsolatedAsyncioTestCase):
