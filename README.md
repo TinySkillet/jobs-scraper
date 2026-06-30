@@ -1,10 +1,11 @@
 # Job Scraper
 
-This project scrapes recent software jobs for Java, full-stack, and data
-engineering searches, then writes cleaned CSV files for each role. The current
-production provider is JobSpy over Indeed. The codebase is now structured so
-additional providers, such as `joeyism/linkedin_scraper`, can be added behind
-the same pipeline.
+This project scrapes recent software and security jobs for Java, full-stack,
+data engineering, application security, penetration testing, and cybersecurity
+searches, then writes cleaned CSV files for each role. The current production
+provider is JobSpy over Indeed. The codebase is now structured so additional
+providers, such as `joeyism/linkedin_scraper`, can be added behind the same
+pipeline.
 
 ## Requirements
 
@@ -52,13 +53,19 @@ uv run job-scraper
 The pipeline searches Indeed for every configured role, saves raw results under
 `temp/`, filters and deduplicates the rows, then writes final CSVs under
 `final/`. It excludes leadership and management titles such as lead, leader,
-manager, director, head, VP, vice president, and chief.
+manager, director, head, VP, vice president, and chief. It also excludes jobs
+that require U.S. citizenship, U.S.-person/export-control status, active or
+obtainable security clearance, Public Trust eligibility, or veteran-only
+eligibility.
 
 Final outputs:
 
 - `final/jobs_final_java.csv`
 - `final/jobs_final_fullstack.csv`
 - `final/jobs_final_data_engineer.csv`
+- `final/jobs_final_application_security.csv`
+- `final/jobs_final_penetration_tester.csv`
+- `final/jobs_final_cybersecurity.csv`
 
 ## Local Postgres
 

@@ -230,4 +230,83 @@ ROLE_CATALOG = {
             _linkedin_search("data_platform_engineer", "Data Platform Engineer"),
         ),
     ),
+    "application_security": RoleSearchConfig(
+        role="application_security",
+        final_output_name="jobs_final_application_security.csv",
+        searches=(
+            SearchSpec(
+                "application_security_engineer",
+                '("application security engineer" OR "appsec engineer" OR "application security analyst" OR "application security") (secure OR vulnerability OR OWASP OR SAST OR DAST OR "code review") -staff -principal -lead -manager -director -intern -internship -soc -physical',
+            ),
+            SearchSpec(
+                "product_security_engineer",
+                '("product security engineer" OR "software security engineer" OR "secure coding engineer" OR "software security") (application OR software OR API OR cloud) -staff -principal -lead -manager -director -intern -internship -soc -physical',
+            ),
+            SearchSpec(
+                "secure_code_review",
+                '("secure code review" OR "security code review" OR "threat modeling" OR "secure coding") (engineer OR analyst OR consultant OR developer) -staff -principal -lead -manager -director -intern -internship -soc -physical',
+            ),
+            SearchSpec(
+                "web_application_security",
+                '("web application security" OR "api security" OR "application security" OR OWASP OR SAST OR DAST) (engineer OR analyst OR consultant OR developer) -staff -principal -lead -manager -director -intern -internship -soc -physical',
+            ),
+            SearchSpec(
+                "security_engineer_appsec",
+                '("security engineer" OR "software engineer" OR developer) ("application security" OR appsec OR OWASP OR SAST OR DAST OR "secure code" OR "API security") -staff -principal -lead -manager -director -intern -internship -soc -physical',
+            ),
+            _linkedin_search("application_security_engineer", "Application Security Engineer"),
+            _linkedin_search("product_security_engineer", "Product Security Engineer"),
+            _linkedin_search("appsec_engineer", "AppSec Engineer"),
+        ),
+    ),
+    "penetration_tester": RoleSearchConfig(
+        role="penetration_tester",
+        final_output_name="jobs_final_penetration_tester.csv",
+        searches=(
+            SearchSpec(
+                "penetration_tester",
+                '("penetration tester" OR "penetration testing" OR "pen tester" OR pentester) (web OR network OR application OR cloud) -staff -senior -principal -lead -manager -director -intern -internship -physical',
+            ),
+            SearchSpec(
+                "offensive_security",
+                '("offensive security engineer" OR "offensive security consultant" OR "ethical hacker") (penetration OR exploit OR vulnerability OR redteam OR "red team") -staff -senior -principal -lead -manager -director -intern -internship -physical',
+            ),
+            SearchSpec(
+                "web_app_pentest",
+                '("web application penetration testing" OR "application penetration tester" OR "web app pentest") (Burp OR OWASP OR API OR cloud) -staff -senior -principal -lead -manager -director -intern -internship -physical',
+            ),
+            SearchSpec(
+                "vulnerability_assessment",
+                '("vulnerability assessment" OR "security assessment") ("penetration testing" OR pentest OR "ethical hacking") -staff -senior -principal -lead -manager -director -intern -internship -physical',
+            ),
+            _linkedin_search("penetration_tester", "Penetration Tester"),
+            _linkedin_search("penetration_testing_consultant", "Penetration Testing Consultant"),
+            _linkedin_search("offensive_security_engineer", "Offensive Security Engineer"),
+        ),
+    ),
+    "cybersecurity": RoleSearchConfig(
+        role="cybersecurity",
+        final_output_name="jobs_final_cybersecurity.csv",
+        searches=(
+            SearchSpec(
+                "cybersecurity_engineer",
+                '("cybersecurity engineer" OR "cyber security engineer" OR "information security engineer") (cloud OR SIEM OR vulnerability OR incident OR IAM) -staff -senior -principal -lead -manager -director -intern -internship -physical',
+            ),
+            SearchSpec(
+                "security_analyst",
+                '("security analyst" OR "cybersecurity analyst" OR "information security analyst") (SIEM OR SOC OR incident OR threat OR vulnerability) -staff -senior -principal -lead -manager -director -intern -internship -physical',
+            ),
+            SearchSpec(
+                "cloud_security",
+                '("cloud security engineer" OR "security engineer") (AWS OR Azure OR GCP OR IAM OR Kubernetes OR cloud) -staff -senior -principal -lead -manager -director -intern -internship -physical',
+            ),
+            SearchSpec(
+                "security_operations",
+                '("security operations" OR SOC OR "incident response" OR "threat detection") (analyst OR engineer OR specialist) -staff -senior -principal -lead -manager -director -intern -internship -physical',
+            ),
+            _linkedin_search("cybersecurity_engineer", "Cybersecurity Engineer"),
+            _linkedin_search("security_analyst", "Security Analyst"),
+            _linkedin_search("cloud_security_engineer", "Cloud Security Engineer"),
+        ),
+    ),
 }
